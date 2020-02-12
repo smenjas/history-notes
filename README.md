@@ -1,72 +1,71 @@
 # History Notes
 
-This document looks at "Big History", a.k.a. the big picture.
+This document looks at ["Big History"](https://en.wikipedia.org/wiki/Big_History), a.k.a. the big picture.
 
 Ga: 1 billion years, Ma: 1 million years, ka: 1 thousand years
 
-Atmospheric oxygen (O2) tells the eucharyotes' story. Carbon dioxide (CO2)
+Atmospheric oxygen (O2) tells the [eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story. Carbon dioxide (CO2)
 tells temperature's story.
 
-I've shown each known branch along the path of human evolution.
+I've shown each known branch along the path of [human evolution](https://en.wikipedia.org/wiki/Human_evolution).
 The branch leading to humans is on the left.
 
-In the Holocene epoch, temperature has varied < ±2 C, CO2 has steadily
+In the [Holocene](https://en.wikipedia.org/wiki/Holocene) epoch, temperature has varied < ±2 C, CO2 has steadily
 increased from about 260ppm, and dust levels have stayed below 0.1ppm.
 
 Dust levels only exceed 0.4ppm when the global average temperature drops
-more than 6 C below the Holocene average, during major glaciations. The
+more than 6 C below the Holocene average, during major [glaciations](https://en.wikipedia.org/wiki/Glacial_period). The
 air becomes cold and dry.
 
 Once history begins, I've focused on reproducible publications, patents,
-and inventions.
+and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 
-- 13.8Ga BP: The Big Bang
+- 13.8Ga BP: [The Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
 - 13.5Ga BP: First stars exist
-- 13.51Ga BP: The Milky Way Galaxy forms
-- 4.603Ga BP: The Sun forms
-- 4.543Ga BP: Gaia forms
-- 4.51Ga BP: Theia collides with Gaia, then the Earth & Moon formed from the debris
+- 13.51Ga BP: [The Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy forms
+- 4.603Ga BP: [The Sun](https://en.wikipedia.org/wiki/Sun) forms
+- 4.543Ga BP: [Gaia](https://en.wikipedia.org/wiki/Early_Earth) forms
+- 4.51Ga BP: [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collides with Gaia, then the [Earth](https://en.wikipedia.org/wiki/Earth) & [Moon](https://en.wikipedia.org/wiki/Moon) formed from the debris
 - 4.4Ga BP: Liquid water and an atmosphere exist on Earth
-- ? BP: Pyrimidine (precursor to cytosine, thymine, and uracil) existed
-- ? BP: Purine (precursor to adenine, and guanine) existed
-- ? BP: RNA existed
-- ? BP: DNA existed
-- 4.28-3.48Ga BP: Last universal common ancestor (LUCA) lived
-- 3.8Ga BP: Archaeal lipids existed
+- ? BP: [Pyrimidine](https://en.wikipedia.org/wiki/Pyrimidine) (precursor to cytosine, thymine, and uracil) existed
+- ? BP: [Purine](https://en.wikipedia.org/wiki/Purine) (precursor to adenine, and guanine) existed
+- ? BP: [RNA](https://en.wikipedia.org/wiki/RNA) existed
+- ? BP: [DNA](https://en.wikipedia.org/wiki/DNA) existed
+- 4.28-3.48Ga BP: [Last universal common ancestor (LUCA)](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) lived
+- 3.8Ga BP: [Archaeal](https://en.wikipedia.org/wiki/Archaea) [lipids](https://en.wikipedia.org/wiki/Lipid) existed
 - 3.5Ga BP: Earliest oxygen production in shallow oceans, absorbed by the sea and sea bed
-- 3.5Ga BP: Single celled life existed
-- ? BP: Actin, a protein family necessary for phagocytosis among other things, existed
-- ? BP: The cell nucleus (present in archaea & eukaryotes, but not eubacteria) existed
-- 2.7-2.4Ga BP: Nickel deposits, necessary for chemosynthetic methane producers, decreased dramatically
+- 3.5Ga BP: [Single celled life](https://en.wikipedia.org/wiki/Unicellular_organism) existed
+- ? BP: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis) among other things, existed
+- ? BP: The [cell nucleus](https://en.wikipedia.org/wiki/Cell_nucleus) (present in archaea & eukaryotes, but not eubacteria) existed
+- 2.7-2.4Ga BP: Nickel deposits, necessary for chemosynthetic [methane producers](https://en.wikipedia.org/wiki/Methanogen), decreased dramatically
 - 2.45Ga BP: O2 production started, practically no atmospheric O2 prior to this, with the possible exception of shallow oceans
-- 2.45-2.22Ga BP: Huronian glaciation, caused by oxygen 
-- 2.4-2.05Ga BP: Great Oxidation Event, Earth's 3rd atmosphere began
-- 2.1-1.5Ga BP: The supercontinent Columbia existed
-- 2.0-1.7Ga BP: A prokaryote incorporated a Rickettsiales (the source of mitochondria), becoming the first eukaryote (phagocytosis)
-- ? BP: Lokiarchaeota ("ancient things") split from TACK
-- 2Ga BP: Eukaryota ("true kernels") split from Lokiarchaea ("ancient things"), this is when we split from prokaryotes ("before kernels")
+- 2.45-2.22Ga BP: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen 
+- 2.4-2.05Ga BP: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
+- 2.1-1.5Ga BP: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
+- 2.0-1.7Ga BP: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales) (the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion%29), becoming the first eukaryote (phagocytosis)
+- ? BP: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
+- 2Ga BP: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things"), this is when we split from prokaryotes ("before kernels")
 - 1.85Ga BP: O2 reached 0.03 atm, but most was aborbed into oceans and seabed rock
-- 1.4Ga BP: A eukaryote incorporated a cyanobacteria (Gloeomargarita lithophora), the source of choloroplasts (phagocytosis)
-- ? BP: Orthokaryotes split from Discicristata
-- ? BP: Neokaryotes (all unikonts & bikonts) split from Jakobids (which have bacteria-like mitochondria)
-- ? BP: Scotokaryotes (a.k.a. Opimoda) split from Corticata (one with a cortex, a.k.a. Diphoda or Bikonts, e.g. plants, algae, etc.)
-- ? BP: Podiata split from Malawimonas
-- ? BP: Amorphea (a.k.a. Unikonts, "one pole", i.e. flagella) split from CRuMs (heterotrophic protists)
-- ? BP: Obazoa split from Amoebozoa (amoeboid protists)
-- 1.3Ga BP: Opisthokonts ("rear poles", i.e. flagella) split from Apusomonadida (protozoan zooflagellates)
-- 1.23-0.825Ga BP: The supercontinent Rodinia existed
-- 1.1Ga BP: Holozoa split from Holomycota (fungi, slime molds, & amoebae)
-- ? BP: Filozoa ("thread animals") split from Pluriformea (choanoflagellates, "funnel whips")
-- 950Ma BP: Choanozoa ("collar animal", a.k.a. Apoikozoa, "colony animal") split from Filasterea (amoeboid protists)
-- 900Ma BP: Deuterostomes emerge
-- 896Ma BP: Chordates emerge
+- 1.4Ga BP: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria) ([Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora)), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) (phagocytosis)
+- ? BP: [Orthokaryotes](https://en.wikipedia.org/wiki/Orthokaryotes) split from [Discicristata](https://en.wikipedia.org/wiki/Discicristata)
+- ? BP: [Neokaryotes](https://en.wikipedia.org/wiki/Neokaryotes) (all unikonts & bikonts) split from [Jakobids](https://en.wikipedia.org/wiki/Jakobid) (which have bacteria-like mitochondria)
+- ? BP: [Scotokaryotes (a.k.a. Opimoda)](https://en.wikipedia.org/wiki/Scotokaryotes) split from [Corticata](https://en.wikipedia.org/wiki/Corticata) (one with a cortex, a.k.a. [Diphoda or Bikonts](https://en.wikipedia.org/wiki/Bikont), e.g. plants, algae, etc.)
+- ? BP: [Podiata](https://en.wikipedia.org/wiki/Podiata) split from [Malawimonas](https://en.wikipedia.org/wiki/Malawimonas)
+- ? BP: [Amorphea (a.k.a. Unikonts](https://en.wikipedia.org/wiki/Unikont), "one pole", i.e. a [flagellum](https://en.wikipedia.org/wiki/Flagellum)) split from [CRuMs](https://en.wikipedia.org/wiki/CRuMs) ([heterotrophic](https://en.wikipedia.org/wiki/Heterotroph) protists)
+- ? BP: [Obazoa](https://en.wikipedia.org/wiki/Obazoa) split from [Amoebozoa](https://en.wikipedia.org/wiki/Amoebozoa) (amoeboid protists)
+- 1.3Ga BP: [Opisthokonts](https://en.wikipedia.org/wiki/Opisthokont) ("rear poles", i.e. flagella) split from [Apusomonadida](https://en.wikipedia.org/wiki/Apusomonadida) (protozoan zooflagellates)
+- 1.23-0.825Ga BP: [The supercontinent Rodinia](https://en.wikipedia.org/wiki/Rodinia) existed
+- 1.1Ga BP: [Holozoa](https://en.wikipedia.org/wiki/Holozoa) split from [Holomycota](https://en.wikipedia.org/wiki/Holomycota) (fungi, slime molds, & amoebae)
+- ? BP: [Filozoa](https://en.wikipedia.org/wiki/Filozoa) ("thread animals") split from [Pluriformea](https://en.wikipedia.org/wiki/Pluriformea)
+- 950Ma BP: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
+- 900Ma BP: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) emerge
+- 896Ma BP: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerge
 - 850Ma BP: O2 was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
 - 800Ma BP: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
-- 760Ma BP: Animalia split from Choanoflagellate (single-celled eukaryotes with flagella)
-- 751Ma BP: Eumetazoa ("well after animal") split from Porifera (sponges)
-- 717Ma BP: Sturtian glaciation (snowball Earth) began
-- ? BP: The Protohox gene duplicates into Hox & ParaHox
-- ? BP: The Protohox gene duplicates into Hox & ParaHox
+- 760Ma BP: [Animalia](https://en.wikipedia.org/wiki/Animal) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
+- 751Ma BP: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
+- 717Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
+- ? BP: The Protohox gene duplicates into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
 - 680Ma BP: ParaHoxozoa split from Ctenophora (comb jellies)
 - 680Ma BP: Planulozoa split from Placozoa (flat animals)
 - 741Ma? BP: Bilateria (embryos have bilateral symmetry) split from Cnidaria (jellyfish & polyps)
@@ -134,7 +133,7 @@ and inventions.
 - 2.8Ma BP: Homo genus emerges
 - 1.25-0.7Ma BP: Mid-Pleistocene Transition, glacial cycles switch from 41ka to 100ka
 - 1.07Ma BP: An asteroid created Lake Bosumtwi in Ghana.
-- 
+
 - 990-950ka BP: Jaramillo reversal of Earth's magnetic field
 - 800ka BP: CO2 dipped below 190ppm, global temp -9 from present
 - 790ka BP: CO2 peaked around 260ppm, global temp -1 from present
