@@ -88,7 +88,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 760Ma BP: [Animalia](https://en.wikipedia.org/wiki/Animal) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
 - 751Ma BP: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
 - 717Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
-- ? BP: The Protohox gene duplicated into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
+- ? BP: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
 - 680Ma BP: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
 - 680Ma BP: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
 - 741Ma BP: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
@@ -160,10 +160,10 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1.07Ma BP: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana.
 
 ## < 1 Million Years Ago
-- 990-950ka BP: Jaramillo reversal of Earth's magnetic field
+- 990-950ka BP: [Jaramillo reversal](https://en.wikipedia.org/wiki/Jaramillo_reversal) of Earth's magnetic field
 - 800ka BP: CO2 dipped below 190ppm, global temp -9 from present
 - 790ka BP: CO2 peaked around 260ppm, global temp -1 from present
-- 781ka BP: Earth's magnetic field reversed
+- 781ka BP: [Brunhes-Matuyama reversal](https://en.wikipedia.org/wiki/Brunhes%E2%80%93Matuyama_reversal) of Earth's magnetic field
 - 750ka BP: CO2 dipped below 180ppm, global temp -9 from present
 - 740ka BP: CO2 peaked around 210ppm, global temp -4 from present
 - 720ka BP: CO2 dipped below 190ppm, global temp -9 from present
@@ -179,8 +179,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 530ka BP: CO2 dipped below 200ppm, global temp -8 from present
 - 490ka BP: CO2 peaked around 250ppm, global temp -1 from present
 - 440ka BP: CO2 dipped below 200ppm, global temp -9 from present
+- 415ka BP: Controlled use of fire in Suffolk, England
 - 400ka BP: CO2 peaked around 280ppm, global temp +3 from present
-- 400ka BP: Controlled use of fire is widespread (evidence in Britain)
 - 350ka BP: CO2 dipped below 200ppm, global temp -9 from present
 - 320ka BP: CO2 peaked around 300ppm, global temp +4 from present
 - 315ka BP: Homo sapiens emerged
@@ -192,20 +192,24 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 200ka BP: Homo sapiens sapiens emerged, 6 other homo species existed
 - 160ka BP: CO2 dipped below 200ppm, global temp -9 from present
 - 150ka BP: Mitochondrial Eve lived before this (mt-DNA haplogroup L)
+- 140-110ka BP: Anatomically modern humans evolved
+- 128ka BP: Homo cooked with fire regularly
 - 120ka BP: CO2 peaked around 280ppm, global temp +5 from present
-- 83ka BP: Humans wore clothing (clothing lice diverged from head lice)
-- 80-50ka BP: Homo sapiens migrated out of Africa
-- 75ka BP: Toba Volcano supereruption
+- 115ka BP: [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
+- 83ka BP: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
+- 75ka BP: [Toba volcano supereruption](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
+- 70-50ka BP: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
 - 70ka BP: Gene mutations that allow abstract thinking emerge
 - 50ka BP: Explosion of innovation: tools and cultures become more sophisticated
-- 40ka BP: Humans lived in the Maribyrnong River valley near modern Melbourne
-- 32ka BP: Dogs diverged from wolves
-- 26.5-20ka BP: Last Glacial Maximum, CO2 dipped to 180ppm, global temp -9 from present, dust exceeded 1.6ppm
+- 40ka BP: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
+- 32ka BP: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
+- 26.5-20ka BP: [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum), CO2 dipped to 180ppm, global temp -9 from present, dust exceeded 1.6ppm
 - 18ka BP: CO2 falls to local minimum around 200ppm, global temp -10 from present
-- 17-14ka BP: Oldest Dryas, global temperatures declined sharply
+- 17-15ka BP: [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas), global temperatures declined sharply
+- 15-13ka BP: [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial), first pronounced warming since LGM
 - 14.2ka BP: Dogs lived with humans in modern Germany
-- 14.2-14.1ka BP: Older Dryas, global temperatures declined sharply
-- 12.9-11.7ka BP: Younger Dryas, global temperatures declined sharply
+- 14.2-14.1ka BP: [Older Dryas](https://en.wikipedia.org/wiki/Older_Dryas), global temperatures declined sharply
+- 12.9-11.7ka BP: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
 
 ## Holocene Epoch
 - 11.7ka BP: Holocene epoch began, global temperatures increased, CO2 exceeded 250ppm
@@ -241,215 +245,215 @@ Once history begins, I've focused on reproducible publications, patents, and
 - ? BCE: Patañjali published the "Yoga Sūtras"
 
 ## Common Era
-- 108 CE: Arrian published "Discourses of Epictetus"
-- 125 CE: Arrian published "Enchiridion of Epictetus"
-- 263 CE: Liu Hui published commentary on "The Nine Chapters of Mathematical Art"
-- 820 CE: al-Khwarizmi wrote "Al-jabr" (reunion of broken parts), the basis of algebra
+- 108 CE: Arrian published *Discourses of Epictetus*
+- 125 CE: Arrian published *Enchiridion of Epictetus*
+- 263 CE: Liu Hui published commentary on *The Nine Chapters of Mathematical Art*
+- 820 CE: al-Khwarizmi wrote *Al-jabr* (reunion of broken parts), the basis of algebra
 - 1440 CE: Johannes Gutenberg invented the printing press
 - 1455 CE: Johannes Gutenberg published the Gutenburg Bible
-- 14?? CE: Johannes Gutenberg published "Das Werk der Bücher"
+- 14?? CE: Johannes Gutenberg published *Das Werk der Bücher* (The Work of Books)
 
 ## 1500s
-- 1532 CE: Niccolo Machiavelli's "The Prince" published
-- 1543 CE: Andreas Vesalius published "De humani corporis fabrica"
-- 1543 CE: Nicolaus Copernicus published "De revolutionibus orbium coelestium"
+- 1532 CE: Niccolo Machiavelli's *The Prince* published
+- 1543 CE: Andreas Vesalius published *De humani corporis fabrica* (The human body)
+- 1543 CE: Nicolaus Copernicus published *De revolutionibus orbium coelestium* (Revolutions of heavenly spheres)
 - 1593 CE: Galileo Galilei invented the modern thermometer
 - 1598 CE: Galileo Galilei improves the military compass
 
 ## 1600s
-- 1604 CE: Johannes Kepler published "Astronomiae Pars Optica", the foundation of modern optics
-- 1604 CE: Johannes Kepler published "Astronomia nova", the foundation of planetary motion
+- 1604 CE: Johannes Kepler published *Astronomiae Pars Optica* (Some Astronomical Optics), the foundation of modern optics
+- 1604 CE: Johannes Kepler published *Astronomia nova* (New Astronomy), the foundation of planetary motion
 - 1609 CE: Galileo Galilei improves the telescope to be useful
-- 1610 CE: Galileo Galilei published "Sidereus Nuncius" (Starry Messenger)
-- 1620 CE: Francis Bacon published "Novum Organum"
+- 1610 CE: Galileo Galilei published *Sidereus Nuncius* (Starry Messenger)
+- 1620 CE: Francis Bacon published *Novum Organum* (New Organ)
 - 1624 CE: Galileo Galilei invented the compound microscope
-- 1632 CE: Galileo Galilei published his "Dialogue Concerning the Two Chief World Systems"
-- 1637 CE: René Descartes published "Discourse on the Method"
-- 1641 CE: René Descartes published "Meditations on First Philosophy"
-- 1644 CE: René Descartes published "Principles of Philosophy"
-- 1638 CE: Galileo Galilei published "Two New Sciences"
-- 1656 CE: Huygens wrote "De motu corporum ex percussione"
-- 1665 CE: Robert Hooke published "Micrographia"
-- 1679 CE: Pierre de Fermat posthumously published "Introduction to Loci"
-- 1681 CE: Thomas Burnet published "Sacred Theory of the Earth"
-- 1684 CE: Gottfried Leibniz published "Nova Methodus pro Maximis et Minimis"
-- 1684 CE: Gottfried Leibniz published "Rules for the Direction of the Mind"
+- 1632 CE: Galileo Galilei published his *Dialogue Concerning the Two Chief World Systems*
+- 1637 CE: René Descartes published *Discourse on the Method*
+- 1641 CE: René Descartes published *Meditations on First Philosophy*
+- 1644 CE: René Descartes published *Principles of Philosophy*
+- 1638 CE: Galileo Galilei published *Two New Sciences*
+- 1656 CE: Huygens wrote *De motu corporum ex percussione*
+- 1665 CE: Robert Hooke published *Micrographia*
+- 1679 CE: Pierre de Fermat posthumously published *Introduction to Loci*
+- 1681 CE: Thomas Burnet published *Sacred Theory of the Earth*
+- 1684 CE: Gottfried Leibniz published *Nova Methodus pro Maximis et Minimis*
+- 1684 CE: Gottfried Leibniz published *Rules for the Direction of the Mind*
 - 1687 CE: Isaac Newton published the Principia 1E
-- 1689 CE: John Locke published "An Essay Concerning Human Understanding"
-- 1690 CE: Huygens published "Traité de la Lumière" (Treatise on Light)
+- 1689 CE: John Locke published *An Essay Concerning Human Understanding*
+- 1690 CE: Huygens published *Traité de la Lumière* (Treatise on Light)
 
 ## 1700s
 - 1713 CE: Isaac Newton published the Principia 2E
 - 1726 CE: Isaac Newton published the Principia 3E
 - 1735 CE: Carl Linnaeus published Systema Naturae 1E
-- 1736 CE: Leonhard Euler published "Mechanica"
-- 1736 CE: Leonhard Euler published "Solutio problematis ad geometriam situs pertinentis", founding graph theory
+- 1736 CE: Leonhard Euler published *Mechanica*
+- 1736 CE: Leonhard Euler published *Solutio problematis ad geometriam situs pertinentis*, founding graph theory
 - 1736 CE: John Harrison demonstrated H1, the first marine chronometer
-- 1744 CE: Leonhard Euler published "Methodus inveniendi lineas curvas"
+- 1744 CE: Leonhard Euler published *Methodus inveniendi lineas curvas*
 - 1745 CE: Jacques Vaucanson invented the automated loom
-- 1748 CE: Leonhard Euler published "Introductio in analysin infinitorum"
-- 1753 CE: Carl Linnaeus published "Species Plantarum"
-- 1754 CE: Jean-Jacques Rousseau published "Discourse on Inequality"
-- 1755 CE: Leonhard Euler published "Institutiones calculi differentialis"
-- 1757 CE: Leonhard Euler published "Principes généraux de l'état d'équilibre d'un fluide"
+- 1748 CE: Leonhard Euler published *Introductio in analysin infinitorum*
+- 1753 CE: Carl Linnaeus published *Species Plantarum*
+- 1754 CE: Jean-Jacques Rousseau published *Discourse on Inequality*
+- 1755 CE: Leonhard Euler published *Institutiones calculi differentialis*
+- 1757 CE: Leonhard Euler published *Principes généraux de l'état d'équilibre d'un fluide*
 - 1759 CE: John Harrison invented H3, demonstrating the bimetallic strip and caged roller bearing
 - 1759 CE: John Harrison invented H4, a handheld marine chronometer
 - 1760 CE: Jacques Vaucanson invented the industrial lathe
 - 1762 CE: John Harrison's son demonstrated the H4 on a transatlantic voyage
-- 1762 CE: Jean-Jacques Rousseau published "Du contrat social"
-- 1762 CE: Jean-Jacques Rousseau published "Émile, ou De l’éducation"
+- 1762 CE: Jean-Jacques Rousseau published *Du contrat social*
+- 1762 CE: Jean-Jacques Rousseau published *Émile, ou De l’éducation*
 - 1765 CE: James Watt increased the efficiency of the steam engine with a condenser and steam jacket
-- 1765 CE: Leonhard Euler published "Vollständige Anleitung zur Algebra"
-- 1768 CE: Leonhard Euler published "Letters to a German Princess"
-- 1770 CE: Leonhard Euler published "Institutionum calculi integralis"
-- 1776 CE: Adam Smith published "Wealth of Nations"
-- 1788 CE: James Hutton published "Theory of the Earth"
+- 1765 CE: Leonhard Euler published *Vollständige Anleitung zur Algebra*
+- 1768 CE: Leonhard Euler published *Letters to a German Princess*
+- 1770 CE: Leonhard Euler published *Institutionum calculi integralis*
+- 1776 CE: Adam Smith published *Wealth of Nations*
+- 1788 CE: James Hutton published *Theory of the Earth*
 
 ## 1800s
 - 1803 CE: Thomas Young demonstrated the double slit experiment
 - 1804 CE: Joseph Marie Jacquard invented the Jacquard Loom
-- 1811 CE: Fresnel deposited "Mémoire sur la diffraction de la lumière"
-- 1842 CE: Christian Doppler published "On the coloured light of the binary stars and some other stars of the heavens"
-- 1833 CE: Charles Lyell published "Principles of Geology"
-- 1840 CE: Louis Agassiz published "Études sur les glaciers"
-- 1850 CE: Rudolf Clausius published "On the Moving Force of Heat"
-- 1855 CE: A. W. Hofmann published "On Insolinic Acid", describing aromatic compounds
-- 1856 CE: David E. Hughes patented an "Improvement in telegraphs"
-- 1859 CE: Charles Darwin published "On the Origin of Species"
-- 1859 CE: David E. Hughes patented an "Improvement in telegraphfng-machlnes" (printing telegraph)
-- 1859 CE: David E. Hughes patented an "Improvement in electro-magnetic telegraphs" (duplex communication)
+- 1811 CE: Fresnel deposited *Mémoire sur la diffraction de la lumière*
+- 1842 CE: Christian Doppler published *On the coloured light of the binary stars and some other stars of the heavens*
+- 1833 CE: Charles Lyell published *Principles of Geology*
+- 1840 CE: Louis Agassiz published *Études sur les glaciers*
+- 1850 CE: Rudolf Clausius published *On the Moving Force of Heat*
+- 1855 CE: A. W. Hofmann published *On Insolinic Acid*, describing aromatic compounds
+- 1856 CE: David E. Hughes patented an *Improvement in telegraphs*
+- 1859 CE: Charles Darwin published *On the Origin of Species*
+- 1859 CE: David E. Hughes patented an *Improvement in telegraphfng-machlnes* (printing telegraph)
+- 1859 CE: David E. Hughes patented an *Improvement in electro-magnetic telegraphs* (duplex communication)
 - 1861 CE: Thomas Sutton invented the single lens reflex (SLR) camera
-- 1861 CE: James Clerk Maxwell published "On Physical Lines of Force"
-- 1863 CE: Charles Lyell published "Geological Evidences of the Antiquity of Man"
-- 1864 CE: James Clerk Maxwell published "A Dynamical Theory of the Electromagnetic Field"
-- 1850 CE: Rudolf Clausius published "The Mechanical Theory of Heat" and coined "entropy"
-- 1866 CE: Gregor Mendel published "Versuche über Pflanzenhybriden"
-- 1866 CE: E. Kaeckel published "Generelle Morphologie der Organismen"
-- 1867 CE: Joseph Lister published "On the Antiseptic Principle in the Practice of Surgery"
-- 1868 CE: James Clerk Maxwell published "On governors"
+- 1861 CE: James Clerk Maxwell published *On Physical Lines of Force*
+- 1863 CE: Charles Lyell published *Geological Evidences of the Antiquity of Man*
+- 1864 CE: James Clerk Maxwell published *A Dynamical Theory of the Electromagnetic Field*
+- 1850 CE: Rudolf Clausius published *The Mechanical Theory of Heat* and coined "entropy"
+- 1866 CE: Gregor Mendel published *Versuche über Pflanzenhybriden*
+- 1866 CE: E. Kaeckel published *Generelle Morphologie der Organismen*
+- 1867 CE: Joseph Lister published *On the Antiseptic Principle in the Practice of Surgery*
+- 1868 CE: James Clerk Maxwell published *On governors*
 - 1869 CE: Dmitri Mendeleev composed his periodic table of the elements
-- 1872 CE: Andrew Ramsay published "The River Courses of England and Wales"
+- 1872 CE: Andrew Ramsay published *The River Courses of England and Wales*
 - 1872 CE: James Clerk Maxwell published his thermodynamic relations
-- 1872 CE: James Clerk Maxwell published "On the Theory of Colour Vision"
-- 1873 CE: James Clerk Maxwell published "A Treatise on Electricity and Magnetism"
+- 1872 CE: James Clerk Maxwell published *On the Theory of Colour Vision*
+- 1873 CE: James Clerk Maxwell published *A Treatise on Electricity and Magnetism*
 - 1878 CE: Thomas Young coined the term "energy" in its modern usage
-- 1878 CE: Louis Pasteur published "Les Microbes organisés"
-- 1879 CE: Emile Berliner patented an "Improvement in electrical-contact telephones", the carbon microphone
-- 1883 CE: Georg Cantor published "Grundlagen einer allgemeinen Mannigfaltigkeitslehre"
-- 1883 CE: A. F. W. Schimper published "Über die Entwicklung der Chlorophyllkörner und Farbkörper"
-- 1886 CE: Louis Pasteur published "Traitement de la Rage"
-- 1887 CE: Alexander G. Bell patents "Transmitting and recording sounds by radiant energy"
-- 1887 CE: Alexander G. Bell patents "Reproducing sounds from phonograph records"
-- 1894 CE: Heinrich Hertz published "The Principles of Mechanics Presented in a New Form"
-- 1896 CE: Guglielmo Marconi patented "Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor"
-- 1897 CE: Georg Cantor published "Beiträge zur Begründung der transfiniten Mengenlehre"
-- 1898 CE: A. F. W. Schimper published "Pflanzengeographie auf physiologischer Grundlage"
+- 1878 CE: Louis Pasteur published *Les Microbes organisés*
+- 1879 CE: Emile Berliner patented an *Improvement in electrical-contact telephones*, the carbon microphone
+- 1883 CE: Georg Cantor published *Grundlagen einer allgemeinen Mannigfaltigkeitslehre*
+- 1883 CE: A. F. W. Schimper published *Über die Entwicklung der Chlorophyllkörner und Farbkörper*
+- 1886 CE: Louis Pasteur published *Traitement de la Rage*
+- 1887 CE: Alexander G. Bell patents *Transmitting and recording sounds by radiant energy*
+- 1887 CE: Alexander G. Bell patents *Reproducing sounds from phonograph records*
+- 1894 CE: Heinrich Hertz published *The Principles of Mechanics Presented in a New Form*
+- 1896 CE: Guglielmo Marconi patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*
+- 1897 CE: Georg Cantor published *Beiträge zur Begründung der transfiniten Mengenlehre*
+- 1898 CE: A. F. W. Schimper published *Pflanzengeographie auf physiologischer Grundlage*
 
 ## 1900s
-- 1900 CE: Albert Einstein published "Folgerungen aus den Capillaritätserscheinungen" (Conclusions Drawn from the Phenomena of Capillarity)
-- 1903 CE: K. Tsіolkovskіy published "Study of world space with jet devices"
+- 1900 CE: Albert Einstein published *Folgerungen aus den Capillaritätserscheinungen* (Conclusions Drawn from the Phenomena of Capillarity)
+- 1903 CE: K. Tsіolkovskіy published *Study of world space with jet devices*
 - 1905 CE: Albert Einstein published 5 papers:
-  - "On a Heuristic Viewpoint Concerning the Production and Transformation of Light" (suggested quanta)
-  - "On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat" (proved atomic theory)
-  - "On the Electrodynamics of Moving Bodies" (introduced special relativity)
-  - "Does the Inertia of a Body Depend Upon Its Energy Content?" (showed the equivalence of matter and energy, i.e. E=mc²)
-  - "A new determination of molecular dimensions"
-- 1905 CE: Konstantin Mereschkowski published "The nature and origins of chromatophores in the plant kingdom"
-- 1907 CE: Albert Einstein published "On the Relativity Principle and the Conclusions Drawn from It", introducing the equivalence principle
+  - *On a Heuristic Viewpoint Concerning the Production and Transformation of Light* (suggested quanta)
+  - *On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat* (proved atomic theory)
+  - *On the Electrodynamics of Moving Bodies* (introduced special relativity)
+  - *Does the Inertia of a Body Depend Upon Its Energy Content?* (showed the equivalence of matter and energy, i.e. E=mc²)
+  - *A new determination of molecular dimensions*
+- 1905 CE: Konstantin Mereschkowski published *The nature and origins of chromatophores in the plant kingdom*
+- 1907 CE: Albert Einstein published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the equivalence principle
 - 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumbered them
-- 1909 CE: E. M. Forster published "The Machine Stops"
-- 1910 CE: Konstantin Mereschkowski published "The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms."
-- 1911 CE: Albert Einstein published "On the Influence of Gravitation on the Propagation of Light", allowing general relativity to be tested
+- 1909 CE: E. M. Forster published *The Machine Stops*
+- 1910 CE: Konstantin Mereschkowski published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms.*
+- 1911 CE: Albert Einstein published *On the Influence of Gravitation on the Propagation of Light*, allowing general relativity to be tested
 - 1912 CE: Automobiles roughly equaled the number of horses on U.S. streets
-- 1915 CE: Albert Einstein published "Die Feldgleichungen der Gravitation" (The Field Equations of Gravitation)
-- 1915 CE: Alfred Wagner published "Die Entstehung der Kontinente und Ozeane"
-- 1916 CE: Albert Einstein published "Näherungsweise Integration der Feldgleichungen der Gravitation" (Approximate Integration of the Gravitational Field Equations)
-- 1916 CE: Albert Einstein published "Die Grundlage der allgemeinen Relativitätstheorie" (The basis of General Relativity)
-- 1917 CE: Albert Einstein published "Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie" (Cosmological considerations on General Relativity)
+- 1915 CE: Albert Einstein published *Die Feldgleichungen der Gravitation* (The Field Equations of Gravitation)
+- 1915 CE: Alfred Wagner published *Die Entstehung der Kontinente und Ozeane*
+- 1916 CE: Albert Einstein published *Näherungsweise Integration der Feldgleichungen der Gravitation* (Approximate Integration of the Gravitational Field Equations)
+- 1916 CE: Albert Einstein published *Die Grundlage der allgemeinen Relativitätstheorie* (The basis of General Relativity)
+- 1917 CE: Albert Einstein published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (Cosmological considerations on General Relativity)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
-- 1918 CE: Albert Einstein published "Gravitationswellen" (On Gravitational Waves)
-- 1923 CE: John von Neumann published "On the introduction of transfinite numbers"
-- 1925 CE: É. Chatton published "Pansporella perplexa"
-- 1925 CE: John von Neumann published "Eine Axiomatisierung der Mengenlehre" (An axiomatization of set theory)
-- 1931 CE: Kurt Gödel published "On Formally Undecidable Propositions of Principia Mathematica and Related Systems I"
-- 1932 CE: John von Neumann published "Mathematical Foundations of Quantum Mechanics"
-- 1936 CE: Alonzo Church published "An unsolvable problem of elementary number theory"
-- 1936 CE: Dale Carnegie published "How to Win Friends and Influence People"
-- 1936 CE: Alan Turing published "On Computable Numbers, with an Application to the Entscheidungsproblem"
-- 1936 CE: Rosser published "Extensions of some theorems of Gödel and Church"
-- 1937 CE: John von Neumann published "Continuous geometries with a transition probability"
-- 1938 CE: H. Copeland published "The kingdoms of organisms"
-- 1938 CE: Kurt Gödel published "Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory"
-- 1939 CE: Linus Pauling published "The Nature of the Chemical Bond"
-- 1942 CE: Richard Feynman published "The Principle of Least Action in Quantum Mechanics"
+- 1918 CE: Albert Einstein published *Gravitationswellen* (On Gravitational Waves)
+- 1923 CE: John von Neumann published *On the introduction of transfinite numbers*
+- 1925 CE: É. Chatton published *Pansporella perplexa*
+- 1925 CE: John von Neumann published *Eine Axiomatisierung der Mengenlehre* (An axiomatization of set theory)
+- 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
+- 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
+- 1936 CE: Alonzo Church published *An unsolvable problem of elementary number theory*
+- 1936 CE: Dale Carnegie published *How to Win Friends and Influence People*
+- 1936 CE: Alan Turing published *On Computable Numbers, with an Application to the Entscheidungsproblem*
+- 1936 CE: Rosser published *Extensions of some theorems of Gödel and Church*
+- 1937 CE: John von Neumann published *Continuous geometries with a transition probability*
+- 1938 CE: H. Copeland published *The kingdoms of organisms*
+- 1938 CE: Kurt Gödel published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
+- 1939 CE: Linus Pauling published *The Nature of the Chemical Bond*
+- 1942 CE: Richard Feynman published *The Principle of Least Action in Quantum Mechanics*
 - 1943 CE: British codebreakers invent the Colossus: the first programmable electronic digital computer
-- 1944 CE: John von Neumann published "First Draft of a Report on the EDVAC"
-- 1945 CE: Vannevar Bush published "As We May Think"
-- 1947 CE: Kathleen Booth published "General considerations in the design of an all purpose electronic digital computer (Coding for the ARC, 2nd ed)", introducing assembly language
-- 1948 CE: Claude Shannon published "A Mathematical Theory of Communication"
-- 1948 CE: John von Neumann published "The general and logical theory of automata"
-- 1959 CE: Karl Popper published "The Logic of Scientific Discovery"
-- 1959 CE: Richard Feynman presented "There's Plenty of Room at the Bottom"
-- 1960 CE: John McCarthy published "Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I"
-- 1960 CE: John von Neumann published "Continuous geometry"
-- 1961 CE: Richard Feynman presented "Theory of Fundamental Processes"
-- 1961 CE: Richard Feynman presented "Quantum Electrodynamics"
-- 1962 CE: Émile Zuckerkandl & Linus Pauling published "Molecular disease, evolution, and genic heterogeneity"
-- 1962 CE: Thomas S. Kuhn published "The Structure of Scientific Revolutions"
-- 1964 CE: Richard Feynman published "The Feynman Lectures on Physics"
-- 1965 CE: Richard Feynman & Albert Hibbs published "Quantum Mechanics and Path Integrals"
-- 1965 CE: Richard Feynman published "The Character of Physical Law"
+- 1944 CE: John von Neumann published *First Draft of a Report on the EDVAC*
+- 1945 CE: Vannevar Bush published *As We May Think*
+- 1947 CE: Kathleen Booth published *General considerations in the design of an all purpose electronic digital computer (Coding for the ARC, 2nd ed)*, introducing assembly language
+- 1948 CE: Claude Shannon published *A Mathematical Theory of Communication*
+- 1948 CE: John von Neumann published *The general and logical theory of automata*
+- 1959 CE: Karl Popper published *The Logic of Scientific Discovery*
+- 1959 CE: Richard Feynman presented *There's Plenty of Room at the Bottom*
+- 1960 CE: John McCarthy published *Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I*
+- 1960 CE: John von Neumann published *Continuous geometry*
+- 1961 CE: Richard Feynman presented *Theory of Fundamental Processes*
+- 1961 CE: Richard Feynman presented *Quantum Electrodynamics*
+- 1962 CE: Émile Zuckerkandl & Linus Pauling published *Molecular disease, evolution, and genic heterogeneity*
+- 1962 CE: Thomas S. Kuhn published *The Structure of Scientific Revolutions*
+- 1964 CE: Richard Feynman published *The Feynman Lectures on Physics*
+- 1965 CE: Richard Feynman & Albert Hibbs published *Quantum Mechanics and Path Integrals*
+- 1965 CE: Richard Feynman published *The Character of Physical Law*
 - 1965 CE: Norman Borlaug planted dwarf spring wheat in South Asia
-- 1965 CE: Donald Knuth published "On the translation of languages from left to right"
-- 1966 CE: John von Neumann published "Theory of Self-Reproducing Automata"
-- 1967 CE: Lynn Sagan published "On the origin of mitosing cells"
-- 1968 CE: Motoo Kimura published "Evolutionary rate at the molecular level"
-- 1968 CE: Donald Knuth published "The Art of Computer Programming, volume 1"
-- 1969 CE: Donald Knuth published "The Art of Computer Programming, volume 2"
+- 1965 CE: Donald Knuth published *On the translation of languages from left to right*
+- 1966 CE: John von Neumann published *Theory of Self-Reproducing Automata*
+- 1967 CE: Lynn Sagan published *On the origin of mitosing cells*
+- 1968 CE: Motoo Kimura published *Evolutionary rate at the molecular level*
+- 1968 CE: Donald Knuth published *The Art of Computer Programming, volume 1*
+- 1969 CE: Donald Knuth published *The Art of Computer Programming, volume 2*
 - 1969 CE: Neil Armstrong & Buzz Aldrin walked on the Moon
-- 1969 CE: R. H. Whittaker published "New concepts of kingdoms of organisms"
+- 1969 CE: R. H. Whittaker published *New concepts of kingdoms of organisms*
 - 1969 CE: Ken Thompson, Dennis Ritchie, & Rudd Canaday implemented Unix in assembly for the PDP-7 computer.
 - 1969 CE: Ken Thompson & Dennis Ritchie developed the B programming language.
 - 1970 CE: Ken Thompson & Dennis Ritchie ported Unix to the PHP-11/20 in assembly.
-- 1971 CE: Ken Thompson & Dennis Ritchie published the "UNIX Programmer's Manual"
-- 1972 CE: Richard Feynman published "Statistical Mechanics"
+- 1971 CE: Ken Thompson & Dennis Ritchie published the *UNIX Programmer's Manual*
+- 1972 CE: Richard Feynman published *Statistical Mechanics*
 - 1973 CE: Ken Thompson & Dennis Ritchie ported Unix to the PHP-11/20 in C.
-- 1973 CE: Donald Knuth published "The Art of Computer Programming, volume 3"
-- 1974 CE: Ken Thompson & Dennis Ritchie published "The UNIX time-sharing system"
-- 1976 CE: Robert M. May published "Simple mathematical models with very complicated dynamics"
-- 1977 CE: Carl Woese published "Phylogenetic structure of the prokaryotic domain: the primary kingdoms"
-- 1978 CE: Brian Kernighan & Dennis Ritchie published "The C Programming Language"
-- 1984 CE: Donald Knuth published "The TeXbook"
-- 1985 CE: Richard Feynman published "QED: The Strange Theory of Light and Matter"
-- 1986 CE: Donald Knuth published "The METAFONTbook"
-- 1986 CE: Leslie Lamport published "The Definitive, Non-Technical Introduction to LaTeX, Professional Typesetting and Scientific Publishing"
-- 1987 CE: Richard Feynman published "Elementary Particles and the Laws of Physics"
-- 1987 CE: Richard Stallman published the "GNU C Compiler"
+- 1973 CE: Donald Knuth published *The Art of Computer Programming, volume 3*
+- 1974 CE: Ken Thompson & Dennis Ritchie published *The UNIX time-sharing system*
+- 1976 CE: Robert M. May published *Simple mathematical models with very complicated dynamics*
+- 1977 CE: Carl Woese published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*
+- 1978 CE: Brian Kernighan & Dennis Ritchie published *The C Programming Language*
+- 1984 CE: Donald Knuth published *The TeXbook*
+- 1985 CE: Richard Feynman published *QED: The Strange Theory of Light and Matter*
+- 1986 CE: Donald Knuth published *The METAFONTbook*
+- 1986 CE: Leslie Lamport published *The Definitive, Non-Technical Introduction to LaTeX, Professional Typesetting and Scientific Publishing*
+- 1987 CE: Richard Feynman published *Elementary Particles and the Laws of Physics*
+- 1987 CE: Richard Stallman published the *GNU C Compiler*
 - 1988 CE: CO2 exceeded 350ppm
-- 1989 CE: Richard Stallman published the "GNU General Public License, version 1" (GPLv1)
+- 1989 CE: Richard Stallman published the *GNU General Public License, version 1* (GPLv1)
 - 1990 CE: CO2 exceeded 360ppm
-- 1990 CE: Woese et al published "Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya"
+- 1990 CE: Woese et al published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
 - 1991 CE: Tim Berners-Lee makes the World Wide Web available
-- 1991 CE: Richard Stallman published the "GNU General Public License, version 2" (GPLv2)
+- 1991 CE: Richard Stallman published the *GNU General Public License, version 2* (GPLv2)
 - 1992 CE: Linus Torvalds published the Linux kernel under the GNU GPLv2
-- 1995 CE: Richard Feynman published "Lectures on Gravitation"
-- 1997 CE: Richard Feynman published "Feynman's Lost Lecture: The Motion of Planets Around the Sun"
+- 1995 CE: Richard Feynman posthumously published *Lectures on Gravitation*
+- 1997 CE: Richard Feynman posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
 - 1997 CE: Google Search became available
-- 1998 CE: T. Cavalier-Smith published "A revised six-kingdom system of life"
+- 1998 CE: T. Cavalier-Smith published *A revised six-kingdom system of life*
 
 ## 2000s
 - 2000 CE: CO2 exceeded 370ppm
-- 2000 CE: Richard Feynman published "Feynman Lectures on Computation"
+- 2000 CE: Richard Feynman posthumously published *Feynman Lectures on Computation*
 - 2000 CE: CO2 exceeded 380ppm
 - 2005 CE: Google Maps became available
 - 2006 CE: Sun Microsystems released the Java Virtual Machine (JVM) under the GPLv2.
-- 2007 CE: Richard Stallman published the "GNU General Public License, version 3" (GPLv3)
+- 2007 CE: Richard Stallman published the *GNU General Public License, version 3* (GPLv3)
 - 2007 CE: Google Street View became available
 - 2007 CE: Apple iPhone became available
 - 2000 CE: CO2 exceeded 390ppm
 - 2010 CE: Apple iPad became available
-- 2011 CE: Donald Knuth published "The Art of Computer Programming, volume 4A"
+- 2011 CE: Donald Knuth published *The Art of Computer Programming, volume 4A*
 - 2013 CE: Daily average CO2 exceeded 400ppm
-- 2015 CE: T. Cavalier-Smith et al published "A higher level classification of all living organisms"
-- 2015 CE: Anja Spang et al published "Complex archaea that bridge the gap between prokaryotes and eukaryotes"
+- 2015 CE: T. Cavalier-Smith et al published *A higher level classification of all living organisms*
+- 2015 CE: Anja Spang et al published *Complex archaea that bridge the gap between prokaryotes and eukaryotes*
 - 2018 CE: Daily average CO2 exceeded 410ppm
