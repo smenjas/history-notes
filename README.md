@@ -20,6 +20,22 @@ air becomes cold and dry.
 Once history begins, I've focused on reproducible publications, patents,
 and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 
+---
+
+- [< 1 Billion Years Ago](#1-billion-years-ago)
+- [< 100 Million Years Ago](#100-million-years-ago)
+- [< 1 Million Years Ago](#1-million-years-ago)
+- [Holocene](#holocene)
+- [The Common Era](#the-common-era)
+- [1500s](#1500s)
+- [1600s](#1600s)
+- [1700s](#1700s)
+- [1800s](#1800s)
+- [1900s](#1900s)
+- [2000s](#2000s)
+
+---
+
 - 13.8Ga BP: [The Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
 - 13.5Ga BP: First stars exist
 - 13.51Ga BP: [The Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy forms
@@ -57,6 +73,8 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 1.23-0.825Ga BP: [The supercontinent Rodinia](https://en.wikipedia.org/wiki/Rodinia) existed
 - 1.1Ga BP: [Holozoa](https://en.wikipedia.org/wiki/Holozoa) split from [Holomycota](https://en.wikipedia.org/wiki/Holomycota) (fungi, slime molds, & amoebae)
 - ? BP: [Filozoa](https://en.wikipedia.org/wiki/Filozoa) ("thread animals") split from [Pluriformea](https://en.wikipedia.org/wiki/Pluriformea)
+
+## < 1 Billion Years Ago
 - 950Ma BP: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
 - 900Ma BP: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) emerge
 - 896Ma BP: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerge
@@ -110,6 +128,8 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 183Ma BP: Pliensbachian-Toarcian extinction
 - 150Ma BP: O2 exceeded 0.26 atm
 - 116Ma BP: The Aptian extinction event
+
+## < 100 Million Years Ago
 - 95M-85Ma BP: Euarchontoglires (Supraprimates) split from Laurasiatheria (dogs, cats, giraffes, whales, etc.)
 - 94Ma BP: Cenomanian-Turonian boundary event
 - 88Ma BP: Euarchonta ("true ancestors") split from Glires (dormice), maybe
@@ -134,6 +154,7 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 1.25-0.7Ma BP: Mid-Pleistocene Transition, glacial cycles switch from 41ka to 100ka
 - 1.07Ma BP: An asteroid created Lake Bosumtwi in Ghana.
 
+## < 1 Million Years Ago
 - 990-950ka BP: Jaramillo reversal of Earth's magnetic field
 - 800ka BP: CO2 dipped below 190ppm, global temp -9 from present
 - 790ka BP: CO2 peaked around 260ppm, global temp -1 from present
@@ -180,6 +201,8 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 14.2ka BP: Dogs lived with humans in modern Germany
 - 14.2-14.1ka BP: Older Dryas, global temperatures declined sharply
 - 12.9-11.7ka BP: Younger Dryas, global temperatures declined sharply
+
+# Holocene
 - 11.7ka BP: Holocene epoch began, global temperatures increased, CO2 exceeded 250ppm
 - 12.5k BCE: Bread made at Shubayqa in modern Jordan
 - 12k BCE: Other homo species have died, agriculture becomes common
@@ -211,6 +234,8 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 180 BCE: Marcus Aurelius completes his "Meditations"
 - 40 BCE: Andronicus of Rhodes published Aristotle's "Organon" (Instrument)
 - ? BCE: Patañjali published the "Yoga Sūtras"
+
+## The Common Era
 - 108 CE: Arrian published "Discourses of Epictetus"
 - 125 CE: Arrian published "Enchiridion of Epictetus"
 - 263 CE: Liu Hui published commentary on "The Nine Chapters of Mathematical Art"
@@ -218,11 +243,15 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 1440 CE: Johannes Gutenberg invented the printing press
 - 1455 CE: Johannes Gutenberg published the Gutenburg Bible
 - 14?? CE: Johannes Gutenberg published "Das Werk der Bücher"
+
+## 1500s
 - 1532 CE: Niccolo Machiavelli's "The Prince" published
 - 1543 CE: Andreas Vesalius published "De humani corporis fabrica"
 - 1543 CE: Nicolaus Copernicus published "De revolutionibus orbium coelestium"
 - 1593 CE: Galileo Galilei invented the modern thermometer
 - 1598 CE: Galileo Galilei improves the military compass
+
+## 1600s
 - 1604 CE: Johannes Kepler published "Astronomiae Pars Optica", the foundation of modern optics
 - 1604 CE: Johannes Kepler published "Astronomia nova", the foundation of planetary motion
 - 1609 CE: Galileo Galilei improves the telescope to be useful
@@ -243,6 +272,8 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 1687 CE: Isaac Newton published the Principia 1E
 - 1689 CE: John Locke published "An Essay Concerning Human Understanding"
 - 1690 CE: Huygens published "Traité de la Lumière" (Treatise on Light)
+
+## 1700s
 - 1713 CE: Isaac Newton published the Principia 2E
 - 1726 CE: Isaac Newton published the Principia 3E
 - 1735 CE: Carl Linnaeus published Systema Naturae 1E
@@ -268,6 +299,8 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 1770 CE: Leonhard Euler published "Institutionum calculi integralis"
 - 1776 CE: Adam Smith published "Wealth of Nations"
 - 1788 CE: James Hutton published "Theory of the Earth"
+
+## 1800s
 - 1803 CE: Thomas Young demonstrated the double slit experiment
 - 1804 CE: Joseph Marie Jacquard invented the Jacquard Loom
 - 1811 CE: Fresnel deposited "Mémoire sur la diffraction de la lumière"
@@ -306,6 +339,8 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 1896 CE: Guglielmo Marconi patented "Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor"
 - 1897 CE: Georg Cantor published "Beiträge zur Begründung der transfiniten Mengenlehre"
 - 1898 CE: A. F. W. Schimper published "Pflanzengeographie auf physiologischer Grundlage"
+
+## 1900s
 - 1903 CE: K. Tsіolkovskіy published "Study of world space with jet devices"
 - 1905 CE: Albert Einstein published 4 papers, including special relativity & E=mc²
 - 1905 CE: Albert Einstein published "On the Relativity Principle and the Conclusions Drawn from It"
@@ -328,7 +363,6 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 1932 CE: John von Neumann published "Mathematical Foundations of Quantum Mechanics"
 - 1936 CE: Alonzo Church published "An unsolvable problem of elementary number theory"
 - 1936 CE: Dale Carnegie published "How to Win Friends and Influence People"
-- 1936 CE: Alonzo Church "An Unsolvable Problem of Elementary Number Theory"
 - 1936 CE: Alan Turing published "On Computable Numbers, with an Application to the Entscheidungsproblem"
 - 1936 CE: Rosser published "Extensions of some theorems of Gödel and Church"
 - 1937 CE: John von Neumann published "Continuous geometries with a transition probability"
@@ -390,6 +424,8 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 1997 CE: Richard Feynman published "Feynman's Lost Lecture: The Motion of Planets Around the Sun"
 - 1997 CE: Google Search became available
 - 1998 CE: T. Cavalier-Smith published "A revised six-kingdom system of life"
+
+## 2000s
 - 2000 CE: CO2 exceeded 370ppm
 - 2000 CE: Richard Feynman published "Feynman Lectures on Computation"
 - 2000 CE: CO2 exceeded 380ppm
