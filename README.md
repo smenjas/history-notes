@@ -346,21 +346,28 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1898 CE: A. F. W. Schimper published "Pflanzengeographie auf physiologischer Grundlage"
 
 ## 1900s
+- 1900 CE: Albert Einstein published "Folgerungen aus den Capillaritätserscheinungen" (Conclusions Drawn from the Phenomena of Capillarity)
 - 1903 CE: K. Tsіolkovskіy published "Study of world space with jet devices"
-- 1905 CE: Albert Einstein published 4 papers, including special relativity & E=mc²
-- 1905 CE: Albert Einstein published "On the Relativity Principle and the Conclusions Drawn from It"
+- 1905 CE: Albert Einstein published 5 papers:
+  - "On a Heuristic Viewpoint Concerning the Production and Transformation of Light" (suggested quanta)
+  - "On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat" (proved atomic theory)
+  - "On the Electrodynamics of Moving Bodies" (introduced special relativity)
+  - "Does the Inertia of a Body Depend Upon Its Energy Content?" (showed the equivalence of matter and energy, i.e. E=mc²)
+  - "A new determination of molecular dimensions"
 - 1905 CE: Konstantin Mereschkowski published "The nature and origins of chromatophores in the plant kingdom"
-- 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumber them
+- 1907 CE: Albert Einstein published "On the Relativity Principle and the Conclusions Drawn from It", introducing the equivalence principle
+- 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumbered them
 - 1909 CE: E. M. Forster published "The Machine Stops"
 - 1910 CE: Konstantin Mereschkowski published "The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms."
-- 1911 CE: Albert Einstein published "On the Influence of Gravitation on the Propagation of Light"
-- 1912 CE: Automobiles roughly equal the number of horses on U.S. streets
-- 1915 CE: Albert Einstein published "Die Feldgleichungen der Gravitation"
+- 1911 CE: Albert Einstein published "On the Influence of Gravitation on the Propagation of Light", allowing general relativity to be tested
+- 1912 CE: Automobiles roughly equaled the number of horses on U.S. streets
+- 1915 CE: Albert Einstein published "Die Feldgleichungen der Gravitation" (The Field Equations of Gravitation)
 - 1915 CE: Alfred Wagner published "Die Entstehung der Kontinente und Ozeane"
-- 1916 CE: Albert Einstein published "Die Grundlage der allgemeinen Relativitätstheorie"
-- 1917 CE: Albert Einstein published "Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie"
-- 1917 CE: Automobiles have practically eliminated horses on U.S. streets
-- 1915 CE: Albert Einstein published "Die Feldgleichungen der Gravitation"
+- 1916 CE: Albert Einstein published "Näherungsweise Integration der Feldgleichungen der Gravitation" (Approximate Integration of the Gravitational Field Equations)
+- 1916 CE: Albert Einstein published "Die Grundlage der allgemeinen Relativitätstheorie" (The basis of General Relativity)
+- 1917 CE: Albert Einstein published "Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie" (Cosmological considerations on General Relativity)
+- 1917 CE: Automobiles had practically eliminated horses on U.S. streets
+- 1918 CE: Albert Einstein published "Gravitationswellen" (On Gravitational Waves)
 - 1923 CE: John von Neumann published "On the introduction of transfinite numbers"
 - 1925 CE: É. Chatton published "Pansporella perplexa"
 - 1925 CE: John von Neumann published "Eine Axiomatisierung der Mengenlehre" (An axiomatization of set theory)
