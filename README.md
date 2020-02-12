@@ -226,46 +226,46 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1200 BCE: Bronze Age Collapse began
 - 1150 BCE: Bronze Age Collapse ended
 - 530 BCE: Pythagoras founded a school at Croton
-- 500 BCE: Sun Tzu published "The Art of War"
-- 440 BCE: Herodotus wrote "The Histories", beginning historiography
-- 400 BCE: Lao Tzu published the "Tao Te Ching"
+- 500 BCE: Sun Tzu published *The Art of War*
+- 440 BCE: Herodotus wrote *The Histories*, beginning historiography
+- 400 BCE: Lao Tzu published the *Tao Te Ching*
 - 387 BCE: Plato founded his Academy
-- 375 BCE: Plato wrote "The Republic"
-- 360 BCE: Aristotle wrote "Timaeus"
+- 375 BCE: Plato wrote *The Republic*
+- 360 BCE: Aristotle wrote *Timaeus*
 - 334 BCE: Aristotle founded the Lyceum
-- 325 BCE: Dakṣiputra Pāṇini published "Aṣṭādhyāyī" on Sanskrit grammar.
-- 300 BCE: Euclid wrote "Elements", beginning formal mathematics
+- 325 BCE: Dakṣiputra Pāṇini published *Aṣṭādhyāyī* on Sanskrit grammar.
+- 300 BCE: Euclid wrote *Elements*, beginning formal mathematics
 - 300 BCE: Zeno of Citium founded the Stoic school of Philosophy.
-- 280 BCE: Aristarchus published "On the Sizes and Distances (of the Sun and Moon)"
+- 280 BCE: Aristarchus published *On the Sizes and Distances (of the Sun and Moon)*
 - 250 BCE: Archimedes designed the block and tackle pulley system
-- 150 BCE: Patañjali published "Mahābhāṣya" on Sanskrit grammar.
+- 150 BCE: Patañjali published *Mahābhāṣya* on Sanskrit grammar.
 - 240 BCE: Eratosthenes measured the Earth's circumference
-- 180 BCE: Marcus Aurelius completed his "Meditations"
-- 40 BCE: Andronicus of Rhodes published Aristotle's "Organon" (Instrument)
-- ? BCE: Patañjali published the "Yoga Sūtras"
+- 180 BCE: Marcus Aurelius completed his *Meditations*
+- 40 BCE: Andronicus of Rhodes published Aristotle's *Organon* (*Instrument*)
+- ? BCE: Patañjali published the *Yoga Sūtras*
 
 ## Common Era
 - 108 CE: Arrian published *Discourses of Epictetus*
 - 125 CE: Arrian published *Enchiridion of Epictetus*
 - 263 CE: Liu Hui published commentary on *The Nine Chapters of Mathematical Art*
-- 820 CE: al-Khwarizmi wrote *Al-jabr* (reunion of broken parts), the basis of algebra
+- 820 CE: al-Khwarizmi wrote *Al-jabr* ("reunion of broken parts"), the basis of algebra
 - 1440 CE: Johannes Gutenberg invented the printing press
 - 1455 CE: Johannes Gutenberg published the Gutenburg Bible
-- 14?? CE: Johannes Gutenberg published *Das Werk der Bücher* (The Work of Books)
+- 14?? CE: Johannes Gutenberg published *Das Werk der Bücher* (*The Work of Books*)
 
 ## 1500s
 - 1532 CE: Niccolo Machiavelli's *The Prince* published
-- 1543 CE: Andreas Vesalius published *De humani corporis fabrica* (The human body)
-- 1543 CE: Nicolaus Copernicus published *De revolutionibus orbium coelestium* (Revolutions of heavenly spheres)
+- 1543 CE: Andreas Vesalius published *De humani corporis fabrica* (*The human body*)
+- 1543 CE: Nicolaus Copernicus published *De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)
 - 1593 CE: Galileo Galilei invented the modern thermometer
 - 1598 CE: Galileo Galilei improves the military compass
 
 ## 1600s
-- 1604 CE: Johannes Kepler published *Astronomiae Pars Optica* (Some Astronomical Optics), the foundation of modern optics
-- 1604 CE: Johannes Kepler published *Astronomia nova* (New Astronomy), the foundation of planetary motion
+- 1604 CE: Johannes Kepler published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
+- 1604 CE: Johannes Kepler published *Astronomia nova* (*New Astronomy*), the foundation of planetary motion
 - 1609 CE: Galileo Galilei improves the telescope to be useful
-- 1610 CE: Galileo Galilei published *Sidereus Nuncius* (Starry Messenger)
-- 1620 CE: Francis Bacon published *Novum Organum* (New Organ)
+- 1610 CE: Galileo Galilei published *Sidereus Nuncius* (*Starry Messenger*)
+- 1620 CE: Francis Bacon published *Novum Organum* (*New Organ*)
 - 1624 CE: Galileo Galilei invented the compound microscope
 - 1632 CE: Galileo Galilei published his *Dialogue Concerning the Two Chief World Systems*
 - 1637 CE: René Descartes published *Discourse on the Method*
@@ -280,7 +280,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1684 CE: Gottfried Leibniz published *Rules for the Direction of the Mind*
 - 1687 CE: Isaac Newton published the Principia 1E
 - 1689 CE: John Locke published *An Essay Concerning Human Understanding*
-- 1690 CE: Huygens published *Traité de la Lumière* (Treatise on Light)
+- 1690 CE: Huygens published *Traité de la Lumière* (*Treatise on Light*)
 
 ## 1700s
 - 1713 CE: Isaac Newton published the Principia 2E
@@ -350,7 +350,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1898 CE: A. F. W. Schimper published *Pflanzengeographie auf physiologischer Grundlage*
 
 ## 1900s
-- 1900 CE: Albert Einstein published *Folgerungen aus den Capillaritätserscheinungen* (Conclusions Drawn from the Phenomena of Capillarity)
+- 1900 CE: Albert Einstein published *Folgerungen aus den Capillaritätserscheinungen* (*Conclusions Drawn from the Phenomena of Capillarity*)
 - 1903 CE: K. Tsіolkovskіy published *Study of world space with jet devices*
 - 1905 CE: Albert Einstein published 5 papers:
   - *On a Heuristic Viewpoint Concerning the Production and Transformation of Light* (suggested quanta)
@@ -365,16 +365,16 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1910 CE: Konstantin Mereschkowski published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms.*
 - 1911 CE: Albert Einstein published *On the Influence of Gravitation on the Propagation of Light*, allowing general relativity to be tested
 - 1912 CE: Automobiles roughly equaled the number of horses on U.S. streets
-- 1915 CE: Albert Einstein published *Die Feldgleichungen der Gravitation* (The Field Equations of Gravitation)
+- 1915 CE: Albert Einstein published *Die Feldgleichungen der Gravitation* (*The Field Equations of Gravitation*)
 - 1915 CE: Alfred Wagner published *Die Entstehung der Kontinente und Ozeane*
-- 1916 CE: Albert Einstein published *Näherungsweise Integration der Feldgleichungen der Gravitation* (Approximate Integration of the Gravitational Field Equations)
-- 1916 CE: Albert Einstein published *Die Grundlage der allgemeinen Relativitätstheorie* (The basis of General Relativity)
-- 1917 CE: Albert Einstein published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (Cosmological considerations on General Relativity)
+- 1916 CE: Albert Einstein published *Näherungsweise Integration der Feldgleichungen der Gravitation* (*Approximate Integration of the Gravitational Field Equations*)
+- 1916 CE: Albert Einstein published *Die Grundlage der allgemeinen Relativitätstheorie* (*The basis of General Relativity*)
+- 1917 CE: Albert Einstein published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
-- 1918 CE: Albert Einstein published *Gravitationswellen* (On Gravitational Waves)
+- 1918 CE: Albert Einstein published *Gravitationswellen* (*On Gravitational Waves*)
 - 1923 CE: John von Neumann published *On the introduction of transfinite numbers*
 - 1925 CE: É. Chatton published *Pansporella perplexa*
-- 1925 CE: John von Neumann published *Eine Axiomatisierung der Mengenlehre* (An axiomatization of set theory)
+- 1925 CE: John von Neumann published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
 - 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
 - 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
 - 1936 CE: Alonzo Church published *An unsolvable problem of elementary number theory*
