@@ -1,0 +1,408 @@
+# History Notes
+
+This document looks at "Big History", a.k.a. the big picture.
+
+Ga: 1 billion years, Ma: 1 million years, ka: 1 thousand years
+
+Atmospheric oxygen (O2) tells the eucharyotes' story. Carbon dioxide (CO2)
+tells temperature's story.
+
+I've shown each known branch along the path of human evolution.
+The branch leading to humans is on the left.
+
+In the Holocene epoch, temperature has varied < ±2 C, CO2 has steadily
+increased from about 260ppm, and dust levels have stayed below 0.1ppm.
+
+Dust levels only exceed 0.4ppm when the global average temperature drops
+more than 6 C below the Holocene average, during major glaciations. The
+air becomes cold and dry.
+
+Once history begins, I've focused on reproducible publications, patents,
+and inventions.
+
+- 13.8Ga BP: The Big Bang
+- 13.5Ga BP: First stars exist
+- 13.51Ga BP: The Milky Way Galaxy forms
+- 4.603Ga BP: The Sun forms
+- 4.543Ga BP: Gaia forms
+- 4.51Ga BP: Theia collides with Gaia, then the Earth & Moon formed from the debris
+- 4.4Ga BP: Liquid water and an atmosphere exist on Earth
+- ? BP: Pyrimidine (precursor to cytosine, thymine, and uracil) existed
+- ? BP: Purine (precursor to adenine, and guanine) existed
+- ? BP: RNA existed
+- ? BP: DNA existed
+- 4.28-3.48Ga BP: Last universal common ancestor (LUCA) lived
+- 3.8Ga BP: Archaeal lipids existed
+- 3.5Ga BP: Earliest oxygen production in shallow oceans, absorbed by the sea and sea bed
+- 3.5Ga BP: Single celled life existed
+- ? BP: Actin, a protein family necessary for phagocytosis among other things, existed
+- ? BP: The cell nucleus (present in archaea & eukaryotes, but not eubacteria) existed
+- 2.7-2.4Ga BP: Nickel deposits, necessary for chemosynthetic methane producers, decreased dramatically
+- 2.45Ga BP: O2 production started, practically no atmospheric O2 prior to this, with the possible exception of shallow oceans
+- 2.45-2.22Ga BP: Huronian glaciation, caused by oxygen 
+- 2.4-2.05Ga BP: Great Oxidation Event, Earth's 3rd atmosphere began
+- 2.1-1.5Ga BP: The supercontinent Columbia existed
+- 2.0-1.7Ga BP: A prokaryote incorporated a Rickettsiales (the source of mitochondria), becoming the first eukaryote (phagocytosis)
+- ? BP: Lokiarchaeota ("ancient things") split from TACK
+- 2Ga BP: Eukaryota ("true kernels") split from Lokiarchaea ("ancient things"), this is when we split from prokaryotes ("before kernels")
+- 1.85Ga BP: O2 reached 0.03 atm, but most was aborbed into oceans and seabed rock
+- 1.4Ga BP: A eukaryote incorporated a cyanobacteria (Gloeomargarita lithophora), the source of choloroplasts (phagocytosis)
+- ? BP: Orthokaryotes split from Discicristata
+- ? BP: Neokaryotes (all unikonts & bikonts) split from Jakobids (which have bacteria-like mitochondria)
+- ? BP: Scotokaryotes (a.k.a. Opimoda) split from Corticata (one with a cortex, a.k.a. Diphoda or Bikonts, e.g. plants, algae, etc.)
+- ? BP: Podiata split from Malawimonas
+- ? BP: Amorphea (a.k.a. Unikonts, "one pole", i.e. flagella) split from CRuMs (heterotrophic protists)
+- ? BP: Obazoa split from Amoebozoa (amoeboid protists)
+- 1.3Ga BP: Opisthokonts ("rear poles", i.e. flagella) split from Apusomonadida (protozoan zooflagellates)
+- 1.23-0.825Ga BP: The supercontinent Rodinia existed
+- 1.1Ga BP: Holozoa split from Holomycota (fungi, slime molds, & amoebae)
+- ? BP: Filozoa ("thread animals") split from Pluriformea (choanoflagellates, "funnel whips")
+- 950Ma BP: Choanozoa ("collar animal", a.k.a. Apoikozoa, "colony animal") split from Filasterea (amoeboid protists)
+- 900Ma BP: Deuterostomes emerge
+- 896Ma BP: Chordates emerge
+- 850Ma BP: O2 was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
+- 800Ma BP: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
+- 760Ma BP: Animalia split from Choanoflagellate (single-celled eukaryotes with flagella)
+- 751Ma BP: Eumetazoa ("well after animal") split from Porifera (sponges)
+- 717Ma BP: Sturtian glaciation (snowball Earth) began
+- ? BP: The Protohox gene duplicates into Hox & ParaHox
+- ? BP: The Protohox gene duplicates into Hox & ParaHox
+- 680Ma BP: ParaHoxozoa split from Ctenophora (comb jellies)
+- 680Ma BP: Planulozoa split from Placozoa (flat animals)
+- 741Ma? BP: Bilateria (embryos have bilateral symmetry) split from Cnidaria (jellyfish & polyps)
+- 662Ma BP: Sturtian glaciation (snowball Earth) ended
+- 650Ma BP: Nephrozoa split from Xenacoelomorpha (small, soft bodied, aquatic, worm-like animals without a gut)
+- 650Ma BP: Marinoan glaciation (snowball Earth) began
+- 635Ma BP: Marinoan glaciation (snowball Earth) ended
+- 633-573Ma BP: The supercontinent Pannotia existed at the South Pole
+- 610Ma BP: Deuterostomes (second mouth) split from Protostomia (first mouth)
+- 600Ma BP: O2 exceeded 0.1 atm
+- 579Ma BP: Gaskiers glaciation (snowball Earth) occurred for ~340Ka
+- 575Ma BP: Avalon explosion of evolution, producing the Ediacaran biota
+- 558Ma BP: Chordata (vertebrates) split from Ambulacraria (invertebrates)
+- 891M? BP: Olfactores (smellers) split from Cephalochordata (lancelets)
+- 555Ma BP: Vertebrata (chordates with backbones) split from Tunicata (e.g. sea squirts)
+- ? BP: Euteleostomi (bony vertebrates, a.k.a. Osteichthyes) split from Chondrichthyes (cartilaginous fish)
+- 542Ma BP: End-Ediacaran extinction
+- 541Ma BP: Cambrian explosion of evolution, CO2 is 4000ppm, O2 is 0.12 atm
+- 517Ma BP: End-Botomian extinction event
+- 502Ma BP: Dresbachian extinction event
+- 485.4Ma BP: Cambrian–Ordovician extinction event
+- 440Ma BP: Ordovician–Silurian extinction events, 86% of species lost
+- 424Ma BP: Lau extinction event
+- 400Ma BP: O2 exceeded 0.15 atm
+- 400Ma BP: Sarcopterygii ("lobe-finned fish") split from Actinopterygii ("ray-finned fish")
+- 400Ma BP: Rhipidistia split from the Coelacanth ("hollow spine")
+- 375Ma BP: Late Devonian extinction event, 75% of species lost
+- 350Ma BP: O2 exceeded 0.2 atm
+- 318Ma BP: Tetrapoda ("four legs") split from Dipnoi (lungfish)
+- 312Ma BP: Amniota (membrane surrounding the fetus) split from Amphibia ("both kinds of life")
+- 305Ma BP: Carboniferous rainforest collapse
+- 300Ma BP: O2 peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
+- 273Ma BP: Olson's Extinction
+- 252Ma BP: Permian–Triassic extinction event, 96% of species lost to volcanoes, O2 fell to 0.15 atm
+- 227Ma BP: Mammalia (from Latin mamma for breast) split from Sauropsida ("lizard faces", e.g. reptiles & birds)
+- 210Ma BP: Theriiformes ("beastlike") split from Prototheria ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
+- 201.3Ma BP: Permian–Jurassic extinction event, 80% of species lost
+- 200Ma BP: O2 exceeded 0.2 atm
+- 200-150Ma BP: CO2 > 3000ppm
+- ? BP: Eutheria ("true beasts", placental mammals) split from Metatheria ("changed beasts", e.g. marsupials)
+- ? BP: Boreoeutheria ("northern true beasts") split from Atlantogenata (elephants, sloths, etc.)
+- 183Ma BP: Pliensbachian-Toarcian extinction
+- 150Ma BP: O2 exceeded 0.26 atm
+- 116Ma BP: The Aptian extinction event
+- 95M-85Ma BP: Euarchontoglires (Supraprimates) split from Laurasiatheria (dogs, cats, giraffes, whales, etc.)
+- 94Ma BP: Cenomanian-Turonian boundary event
+- 88Ma BP: Euarchonta ("true ancestors") split from Glires (dormice), maybe
+- 86.2Ma BP: Primatomorpha split from Scandentia (tree shrews)
+- 79.6Ma BP: Primates split from Dermoptera (gliding mammals)
+- 80Ma BP: Haplorhini ("dry nosed" primates) split from Strepsirrhini ("moist nosed" primates)
+- 66Ma BP: Cretaceous–Paleogene extinction event, 76% of species lost
+- 63Ma BP: Simians ("flat nosed primates") split from tarsiers
+- 40Ma BP: O2 dropped to 0.23 atm
+- 40Ma BP: Catarrhini ("narrow nosed", old world monkeys) split from Platyrrhini ("flat nosed", new world monkeys)
+- 25Ma BP: O2 dropped to 0.21 atm
+- 25Ma BP: Hominoidea (apes) split from old world monkeys
+- 15.7Ma BP: Hominidae (great apes) split from gibbons (lesser apes)
+- 14Ma BP: Middle Miocene disruption, extinctions related to cooling
+- 8.8Ma BP: Homininae split from orangutans
+- 6.3Ma BP: Hominini split from gorillas
+- 5.96-5.33Ma BP: Messinian salinity crisis desiccated the Mediterranean Sea, ending with the Zanclean flood
+- 4.2M-3.8Ma BP: Australopithecus anamensis emerges in Ethiopia & Kenya
+- 3.4Ma BP: Stone Age began (tools made in Ethiopia, near Gona)
+- 3.3Ma BP: Large stone tools made in Kenya (Lomekwi 3)
+- 2.8Ma BP: Homo genus emerges
+- 1.25-0.7Ma BP: Mid-Pleistocene Transition, glacial cycles switch from 41ka to 100ka
+- 1.07Ma BP: An asteroid created Lake Bosumtwi in Ghana.
+- 
+- 990-950ka BP: Jaramillo reversal of Earth's magnetic field
+- 800ka BP: CO2 dipped below 190ppm, global temp -9 from present
+- 790ka BP: CO2 peaked around 260ppm, global temp -1 from present
+- 781ka BP: Earth's magnetic field reversed
+- 750ka BP: CO2 dipped below 180ppm, global temp -9 from present
+- 740ka BP: CO2 peaked around 210ppm, global temp -4 from present
+- 720ka BP: CO2 dipped below 190ppm, global temp -9 from present
+- 700ka BP: CO2 peaked around 240ppm, global temp -2 from present
+- 670ka BP: CO2 dipped below 170ppm, global temp -11 from present
+- 660ka BP: CO2 peaked around 200ppm, global temp -7 from present
+- 640ka BP: CO2 dipped below 190ppm, global temp -9 from present
+- 610ka BP: CO2 peaked around 260ppm, global temp -1 from present
+- 600ka BP: CO2 dipped below 220ppm, global temp -7 from present
+- 590ka BP: CO2 peaked around 250ppm, global temp -2 from present
+- 580ka BP: CO2 dipped below 200ppm, global temp -7 from present
+- 540ka BP: CO2 peaked around 250ppm, global temp -1 from present
+- 530ka BP: CO2 dipped below 200ppm, global temp -8 from present
+- 490ka BP: CO2 peaked around 250ppm, global temp -1 from present
+- 440ka BP: CO2 dipped below 200ppm, global temp -9 from present
+- 400ka BP: CO2 peaked around 280ppm, global temp +3 from present
+- 400ka BP: Controlled use of fire is widespread (evidence in Britain)
+- 350ka BP: CO2 dipped below 200ppm, global temp -9 from present
+- 320ka BP: CO2 peaked around 300ppm, global temp +4 from present
+- 315ka BP: Homo sapiens emerges
+- 300ka BP: Most homo species live in hunter-gatherer societies, with tools, culture, and speech
+- 270ka BP: Y-chromosomal Adam lived (Y-DNA haplogroup A00)
+- 260ka BP: CO2 dipped below 200ppm, global temp -9 from present
+- 250ka BP: Homo neanderthalensis emerges
+- 240ka BP: CO2 peaked around 280ppm, global temp +3 from present
+- 200ka BP: Homo sapiens sapiens emerges, 6 other homo species exist
+- 160ka BP: CO2 dipped below 200ppm, global temp -9 from present
+- 150ka BP: Mitochondrial Eve lived before this (mt-DNA haplogroup L)
+- 120ka BP: CO2 peaked around 280ppm, global temp +5 from present
+- 83ka BP: Humans wore clothing (clothing lice diverged from head lice)
+- 80-50ka BP: Homo sapiens migrated out of Africa
+- 75ka BP: Toba Volcano supereruption
+- 70ka BP: Gene mutations that allow abstract thinking emerge
+- 50ka BP: Explosion of innovation: tools and cultures become more sophisticated
+- 40ka BP: Humans lived in the Maribyrnong River valley near modern Melbourne
+- 32ka BP: Dogs diverged from wolves
+- 26.5-20ka BP: Last Glacial Maximum, CO2 dipped to 180ppm, global temp -9 from present, dust exceeded 1.6ppm
+- 18ka BP: CO2 falls to local minimum around 200ppm, global temp -10 from present
+- 17-14ka BP: Oldest Dryas, global temperatures declined sharply
+- 14.2ka BP: Dogs lived with humans in modern Germany
+- 14.2-14.1ka BP: Older Dryas, global temperatures declined sharply
+- 12.9-11.7ka BP: Younger Dryas, global temperatures declined sharply
+- 11.7ka BP: Holocene epoch began, global temperatures increased, CO2 exceeded 250ppm
+- 12.5k BCE: Bread made at Shubayqa in modern Jordan
+- 12k BCE: Other homo species have died, agriculture becomes common
+- 10.2k BCE: Neolithic age began, agriculture existed in the Levant, CO2 is 270ppm
+- 7.5k BCE: A human lived with a cat in Cyprus
+- 6.4k BCE: Humans in the Fertile Crescent made pottery
+- 5k BCE: Humans smelted copper on Rudnik Mountain in modern Serbia
+- 5k BCE: Humans domesticated guinea pigs in the Andes
+- 3300 BCE: Bronze Age began in Southern Asia
+- 3000 BCE: Many modern artifacts exist in Indus Valley (sanitation, distillation, levee, scales, etc.)
+- 1900 BCE: Iron smelted and smithed in Anatolia or Caucasus
+- 1200 BCE: Bronze Age Collapse began
+- 1150 BCE: Bronze Age Collapse ended
+- 530 BCE: Pythagoras founded a school at Croton
+- 500 BCE: Sun Tzu published "The Art of War"
+- 440 BCE: Herodotus wrote "The Histories", beginning historiography
+- 400 BCE: Lao Tzu published the "Tao Te Ching"
+- 387 BCE: Plato founded his Academy
+- 375 BCE: Plato wrote "The Republic"
+- 360 BCE: Aristotle wrote "Timaeus"
+- 334 BCE: Aristotle founded the Lyceum
+- 325 BCE: Dakṣiputra Pāṇini published "Aṣṭādhyāyī" on Sanskrit grammar.
+- 300 BCE: Euclid wrote "Elements", beginning formal mathematics
+- 300 BCE: Zeno of Citium founded the Stoic school of Philosophy.
+- 280 BCE: Aristarchus published "On the Sizes and Distances (of the Sun and Moon)"
+- 250 BCE: Archimedes designs the block and tackle pulley system
+- 150 BCE: Patañjali published "Mahābhāṣya" on Sanskrit grammar.
+- 240 BCE: Eratosthenes measured the Earth's circumference
+- 180 BCE: Marcus Aurelius completes his "Meditations"
+- 40 BCE: Andronicus of Rhodes published Aristotle's "Organon" (Instrument)
+- ? BCE: Patañjali published the "Yoga Sūtras"
+- 108 CE: Arrian published "Discourses of Epictetus"
+- 125 CE: Arrian published "Enchiridion of Epictetus"
+- 263 CE: Liu Hui published commentary on "The Nine Chapters of Mathematical Art"
+- 820 CE: al-Khwarizmi wrote "Al-jabr" (reunion of broken parts), the basis of algebra
+- 1440 CE: Johannes Gutenberg invented the printing press
+- 1455 CE: Johannes Gutenberg published the Gutenburg Bible
+- 14?? CE: Johannes Gutenberg published "Das Werk der Bücher"
+- 1532 CE: Niccolo Machiavelli's "The Prince" published
+- 1543 CE: Andreas Vesalius published "De humani corporis fabrica"
+- 1543 CE: Nicolaus Copernicus published "De revolutionibus orbium coelestium"
+- 1593 CE: Galileo Galilei invented the modern thermometer
+- 1598 CE: Galileo Galilei improves the military compass
+- 1604 CE: Johannes Kepler published "Astronomiae Pars Optica", the foundation of modern optics
+- 1604 CE: Johannes Kepler published "Astronomia nova", the foundation of planetary motion
+- 1609 CE: Galileo Galilei improves the telescope to be useful
+- 1610 CE: Galileo Galilei published "Sidereus Nuncius" (Starry Messenger)
+- 1620 CE: Francis Bacon published "Novum Organum"
+- 1624 CE: Galileo Galilei invented the compound microscope
+- 1632 CE: Galileo Galilei published his "Dialogue Concerning the Two Chief World Systems"
+- 1637 CE: René Descartes published "Discourse on the Method"
+- 1641 CE: René Descartes published "Meditations on First Philosophy"
+- 1644 CE: René Descartes published "Principles of Philosophy"
+- 1638 CE: Galileo Galilei published "Two New Sciences"
+- 1656 CE: Huygens wrote "De motu corporum ex percussione"
+- 1665 CE: Robert Hooke published "Micrographia"
+- 1679 CE: Pierre de Fermat posthumously published "Introduction to Loci"
+- 1681 CE: Thomas Burnet published "Sacred Theory of the Earth"
+- 1684 CE: Gottfried Leibniz published "Nova Methodus pro Maximis et Minimis"
+- 1684 CE: Gottfried Leibniz published "Rules for the Direction of the Mind"
+- 1687 CE: Isaac Newton published the Principia 1E
+- 1689 CE: John Locke published "An Essay Concerning Human Understanding"
+- 1690 CE: Huygens published "Traité de la Lumière" (Treatise on Light)
+- 1713 CE: Isaac Newton published the Principia 2E
+- 1726 CE: Isaac Newton published the Principia 3E
+- 1735 CE: Carl Linnaeus published Systema Naturae 1E
+- 1736 CE: Leonhard Euler published "Mechanica"
+- 1736 CE: Leonhard Euler published "Solutio problematis ad geometriam situs pertinentis", founding graph theory
+- 1736 CE: John Harrison demonstrated H1, the first marine chronometer
+- 1744 CE: Leonhard Euler published "Methodus inveniendi lineas curvas"
+- 1745 CE: Jacques Vaucanson invented the automated loom
+- 1748 CE: Leonhard Euler published "Introductio in analysin infinitorum"
+- 1753 CE: Carl Linnaeus published "Species Plantarum"
+- 1754 CE: Jean-Jacques Rousseau published "Discourse on Inequality"
+- 1755 CE: Leonhard Euler published "Institutiones calculi differentialis"
+- 1757 CE: Leonhard Euler published "Principes généraux de l'état d'équilibre d'un fluide"
+- 1759 CE: John Harrison invented H3, demonstrating the bimetallic strip and caged roller bearing
+- 1759 CE: John Harrison invented H4, a handheld marine chronometer
+- 1760 CE: Jacques Vaucanson invented the industrial lathe
+- 1762 CE: John Harrison's son demonstrated the H4 on a transatlantic voyage
+- 1762 CE: Jean-Jacques Rousseau published "Du contrat social"
+- 1762 CE: Jean-Jacques Rousseau published "Émile, ou De l’éducation"
+- 1765 CE: James Watt increased the efficiency of the steam engine with a condenser and steam jacket
+- 1765 CE: Leonhard Euler published "Vollständige Anleitung zur Algebra"
+- 1768 CE: Leonhard Euler published "Letters to a German Princess"
+- 1770 CE: Leonhard Euler published "Institutionum calculi integralis"
+- 1776 CE: Adam Smith published "Wealth of Nations"
+- 1788 CE: James Hutton published "Theory of the Earth"
+- 1803 CE: Thomas Young demonstrated the double slit experiment
+- 1804 CE: Joseph Marie Jacquard invented the Jacquard Loom
+- 1811 CE: Fresnel deposited "Mémoire sur la diffraction de la lumière"
+- 1842 CE: Christian Doppler published "On the coloured light of the binary stars and some other stars of the heavens"
+- 1833 CE: Charles Lyell published "Principles of Geology"
+- 1840 CE: Louis Agassiz published "Études sur les glaciers"
+- 1850 CE: Rudolf Clausius published "On the Moving Force of Heat"
+- 1855 CE: A. W. Hofmann published "On Insolinic Acid", describing aromatic compounds
+- 1856 CE: David E. Hughes patented an "Improvement in telegraphs"
+- 1859 CE: Charles Darwin published "On the Origin of Species"
+- 1859 CE: David E. Hughes patented an "Improvement in telegraphfng-machlnes" (printing telegraph)
+- 1859 CE: David E. Hughes patented an "Improvement in electro-magnetic telegraphs" (duplex communication)
+- 1861 CE: Thomas Sutton invented the single lens reflex (SLR) camera
+- 1861 CE: James Clerk Maxwell published "On Physical Lines of Force"
+- 1863 CE: Charles Lyell published "Geological Evidences of the Antiquity of Man"
+- 1864 CE: James Clerk Maxwell published "A Dynamical Theory of the Electromagnetic Field"
+- 1850 CE: Rudolf Clausius published "The Mechanical Theory of Heat" and coined "entropy"
+- 1866 CE: Gregor Mendel published "Versuche über Pflanzenhybriden"
+- 1866 CE: E. Kaeckel published "Generelle Morphologie der Organismen"
+- 1867 CE: Joseph Lister published "On the Antiseptic Principle in the Practice of Surgery"
+- 1868 CE: James Clerk Maxwell published "On governors"
+- 1869 CE: Dmitri Mendeleev composed his periodic table of the elements
+- 1872 CE: Andrew Ramsay published "The River Courses of England and Wales"
+- 1872 CE: James Clerk Maxwell published his thermodynamic relations
+- 1872 CE: James Clerk Maxwell published "On the Theory of Colour Vision"
+- 1873 CE: James Clerk Maxwell published "A Treatise on Electricity and Magnetism"
+- 1878 CE: Thomas Young coined the term "energy" in its modern usage
+- 1878 CE: Louis Pasteur published "Les Microbes organisés"
+- 1879 CE: Emile Berliner patented an "Improvement in electrical-contact telephones", the carbon microphone
+- 1883 CE: Georg Cantor published "Grundlagen einer allgemeinen Mannigfaltigkeitslehre"
+- 1883 CE: A. F. W. Schimper published "Über die Entwicklung der Chlorophyllkörner und Farbkörper"
+- 1886 CE: Louis Pasteur published "Traitement de la Rage"
+- 1887 CE: Alexander G. Bell patents "Transmitting and recording sounds by radiant energy"
+- 1887 CE: Alexander G. Bell patents "Reproducing sounds from phonograph records"
+- 1894 CE: Heinrich Hertz published "The Principles of Mechanics Presented in a New Form"
+- 1896 CE: Guglielmo Marconi patented "Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor"
+- 1897 CE: Georg Cantor published "Beiträge zur Begründung der transfiniten Mengenlehre"
+- 1898 CE: A. F. W. Schimper published "Pflanzengeographie auf physiologischer Grundlage"
+- 1903 CE: K. Tsіolkovskіy published "Study of world space with jet devices"
+- 1905 CE: Albert Einstein published 4 papers, including special relativity & E=mc²
+- 1905 CE: Albert Einstein published "On the Relativity Principle and the Conclusions Drawn from It"
+- 1905 CE: Konstantin Mereschkowski published "The nature and origins of chromatophores in the plant kingdom"
+- 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumber them
+- 1909 CE: E. M. Forster published "The Machine Stops"
+- 1910 CE: Konstantin Mereschkowski published "The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms."
+- 1911 CE: Albert Einstein published "On the Influence of Gravitation on the Propagation of Light"
+- 1912 CE: Automobiles roughly equal the number of horses on U.S. streets
+- 1915 CE: Albert Einstein published "Die Feldgleichungen der Gravitation"
+- 1915 CE: Alfred Wagner published "Die Entstehung der Kontinente und Ozeane"
+- 1916 CE: Albert Einstein published "Die Grundlage der allgemeinen Relativitätstheorie"
+- 1917 CE: Albert Einstein published "Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie"
+- 1917 CE: Automobiles have practically eliminated horses on U.S. streets
+- 1915 CE: Albert Einstein published "Die Feldgleichungen der Gravitation"
+- 1923 CE: John von Neumann published "On the introduction of transfinite numbers"
+- 1925 CE: É. Chatton published "Pansporella perplexa"
+- 1925 CE: John von Neumann published "Eine Axiomatisierung der Mengenlehre" (An axiomatization of set theory)
+- 1931 CE: Kurt Gödel published "On Formally Undecidable Propositions of Principia Mathematica and Related Systems I"
+- 1932 CE: John von Neumann published "Mathematical Foundations of Quantum Mechanics"
+- 1936 CE: Alonzo Church published "An unsolvable problem of elementary number theory"
+- 1936 CE: Dale Carnegie published "How to Win Friends and Influence People"
+- 1936 CE: Alonzo Church "An Unsolvable Problem of Elementary Number Theory"
+- 1936 CE: Alan Turing published "On Computable Numbers, with an Application to the Entscheidungsproblem"
+- 1936 CE: Rosser published "Extensions of some theorems of Gödel and Church"
+- 1937 CE: John von Neumann published "Continuous geometries with a transition probability"
+- 1938 CE: H. Copeland published "The kingdoms of organisms"
+- 1938 CE: Kurt Gödel published "Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory"
+- 1939 CE: Linus Pauling published "The Nature of the Chemical Bond"
+- 1942 CE: Richard Feynman published "The Principle of Least Action in Quantum Mechanics"
+- 1943 CE: British codebreakers invent the Colossus: the first programmable electronic digital computer
+- 1944 CE: John von Neumann published "First Draft of a Report on the EDVAC"
+- 1945 CE: Vannevar Bush published "As We May Think"
+- 1947 CE: Kathleen Booth published "General considerations in the design of an all purpose electronic digital computer (Coding for the ARC, 2nd ed)", introducing assembly language
+- 1948 CE: Claude Shannon published "A Mathematical Theory of Communication"
+- 1948 CE: John von Neumann published "The general and logical theory of automata"
+- 1959 CE: Karl Popper published "The Logic of Scientific Discovery"
+- 1959 CE: Richard Feynman presented "There's Plenty of Room at the Bottom"
+- 1960 CE: John McCarthy published "Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I"
+- 1960 CE: John von Neumann published "Continuous geometry"
+- 1961 CE: Richard Feynman presented "Theory of Fundamental Processes"
+- 1961 CE: Richard Feynman presented "Quantum Electrodynamics"
+- 1962 CE: Émile Zuckerkandl & Linus Pauling published "Molecular disease, evolution, and genic heterogeneity"
+- 1962 CE: Thomas S. Kuhn published "The Structure of Scientific Revolutions"
+- 1964 CE: Richard Feynman published "The Feynman Lectures on Physics"
+- 1965 CE: Richard Feynman & Albert Hibbs published "Quantum Mechanics and Path Integrals"
+- 1965 CE: Richard Feynman published "The Character of Physical Law"
+- 1965 CE: Norman Borlaug planted dwarf spring wheat in South Asia
+- 1965 CE: Donald Knuth published "On the translation of languages from left to right"
+- 1966 CE: John von Neumann published "Theory of Self-Reproducing Automata"
+- 1967 CE: Lynn Sagan published "On the origin of mitosing cells"
+- 1968 CE: Motoo Kimura published "Evolutionary rate at the molecular level"
+- 1968 CE: Donald Knuth published "The Art of Computer Programming, volume 1"
+- 1969 CE: Donald Knuth published "The Art of Computer Programming, volume 2"
+- 1969 CE: Neil Armstrong & Buzz Aldrin walked on the Moon
+- 1969 CE: R. H. Whittaker published "New concepts of kingdoms of organisms"
+- 1969 CE: Ken Thompson, Dennis Ritchie, & Rudd Canaday implemented Unix in assembly for the PDP-7 computer.
+- 1969 CE: Ken Thompson & Dennis Ritchie developed the B programming language.
+- 1970 CE: Ken Thompson & Dennis Ritchie ported Unix to the PHP-11/20 in assembly.
+- 1971 CE: Ken Thompson & Dennis Ritchie published the "UNIX Programmer's Manual"
+- 1972 CE: Richard Feynman published "Statistical Mechanics"
+- 1973 CE: Ken Thompson & Dennis Ritchie ported Unix to the PHP-11/20 in C.
+- 1973 CE: Donald Knuth published "The Art of Computer Programming, volume 3"
+- 1974 CE: Ken Thompson & Dennis Ritchie published "The UNIX time-sharing system"
+- 1976 CE: Robert M. May published "Simple mathematical models with very complicated dynamics"
+- 1977 CE: Carl Woese published "Phylogenetic structure of the prokaryotic domain: the primary kingdoms"
+- 1978 CE: Brian Kernighan & Dennis Ritchie published "The C Programming Language"
+- 1984 CE: Donald Knuth published "The TeXbook"
+- 1985 CE: Richard Feynman published "QED: The Strange Theory of Light and Matter"
+- 1986 CE: Donald Knuth published "The METAFONTbook"
+- 1986 CE: Leslie Lamport published "The Definitive, Non-Technical Introduction to LaTeX, Professional Typesetting and Scientific Publishing"
+- 1987 CE: Richard Feynman published "Elementary Particles and the Laws of Physics"
+- 1987 CE: Richard Stallman published the "GNU C Compiler"
+- 1988 CE: CO2 exceeded 350ppm
+- 1989 CE: Richard Stallman published the "GNU General Public License, version 1" (GPLv1)
+- 1990 CE: CO2 exceeded 360ppm
+- 1990 CE: Woese et al published "Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya"
+- 1991 CE: Tim Berners-Lee makes the World Wide Web available
+- 1991 CE: Richard Stallman published the "GNU General Public License, version 2" (GPLv2)
+- 1992 CE: Linus Torvalds published the Linux kernel under the GNU GPLv2
+- 1995 CE: Richard Feynman published "Lectures on Gravitation"
+- 1997 CE: Richard Feynman published "Feynman's Lost Lecture: The Motion of Planets Around the Sun"
+- 1997 CE: Google Search became available
+- 1998 CE: T. Cavalier-Smith published "A revised six-kingdom system of life"
+- 2000 CE: CO2 exceeded 370ppm
+- 2000 CE: Richard Feynman published "Feynman Lectures on Computation"
+- 2000 CE: CO2 exceeded 380ppm
+- 2005 CE: Google Maps became available
+- 2006 CE: Sun Microsystems released the Java Virtual Machine (JVM) under the GPLv2.
+- 2007 CE: Richard Stallman published the "GNU General Public License, version 3" (GPLv3)
+- 2007 CE: Google Street View became available
+- 2007 CE: Apple iPhone became available
+- 2000 CE: CO2 exceeded 390ppm
+- 2010 CE: Apple iPad became available
+- 2011 CE: Donald Knuth published "The Art of Computer Programming, volume 4A"
+- 2013 CE: Daily average CO2 exceeded 400ppm
+- 2015 CE: T. Cavalier-Smith et al published "A higher level classification of all living organisms"
+- 2015 CE: Anja Spang et al published "Complex archaea that bridge the gap between prokaryotes and eukaryotes"
+- 2018 CE: Daily average CO2 exceeded 410ppm
