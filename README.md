@@ -22,9 +22,9 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 
 ---
 
-- [< 1 Billion Years Ago](#1-billion-years-ago)
-- [< 100 Million Years Ago](#100-million-years-ago)
-- [< 1 Million Years Ago](#1-million-years-ago)
+- [< 1 Billion Years Ago](#-1-billion-years-ago)
+- [< 100 Million Years Ago](#-100-million-years-ago)
+- [< 1 Million Years Ago](#-1-million-years-ago)
 - [Holocene](#holocene)
 - [The Common Era](#the-common-era)
 - [1500s](#1500s)
@@ -55,7 +55,7 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - ? BP: The [cell nucleus](https://en.wikipedia.org/wiki/Cell_nucleus) (present in archaea & eukaryotes, but not eubacteria) existed
 - 2.7-2.4Ga BP: Nickel deposits, necessary for chemosynthetic [methane producers](https://en.wikipedia.org/wiki/Methanogen), decreased dramatically
 - 2.45Ga BP: O2 production started, practically no atmospheric O2 prior to this, with the possible exception of shallow oceans
-- 2.45-2.22Ga BP: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen 
+- 2.45-2.22Ga BP: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen
 - 2.4-2.05Ga BP: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
 - 2.1-1.5Ga BP: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
 - 2.0-1.7Ga BP: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales) (the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion%29), becoming the first eukaryote (phagocytosis)
@@ -202,7 +202,7 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 14.2-14.1ka BP: Older Dryas, global temperatures declined sharply
 - 12.9-11.7ka BP: Younger Dryas, global temperatures declined sharply
 
-# Holocene
+## Holocene
 - 11.7ka BP: Holocene epoch began, global temperatures increased, CO2 exceeded 250ppm
 - 12.5k BCE: Bread made at Shubayqa in modern Jordan
 - 12k BCE: Other homo species have died, agriculture becomes common
@@ -228,10 +228,10 @@ and [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 - 300 BCE: Euclid wrote "Elements", beginning formal mathematics
 - 300 BCE: Zeno of Citium founded the Stoic school of Philosophy.
 - 280 BCE: Aristarchus published "On the Sizes and Distances (of the Sun and Moon)"
-- 250 BCE: Archimedes designs the block and tackle pulley system
+- 250 BCE: Archimedes designed the block and tackle pulley system
 - 150 BCE: Patañjali published "Mahābhāṣya" on Sanskrit grammar.
 - 240 BCE: Eratosthenes measured the Earth's circumference
-- 180 BCE: Marcus Aurelius completes his "Meditations"
+- 180 BCE: Marcus Aurelius completed his "Meditations"
 - 40 BCE: Andronicus of Rhodes published Aristotle's "Organon" (Instrument)
 - ? BCE: Patañjali published the "Yoga Sūtras"
 
