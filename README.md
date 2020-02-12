@@ -30,8 +30,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [< 1 Billion Years Ago](#-1-billion-years-ago)
 - [< 100 Million Years Ago](#-100-million-years-ago)
 - [< 1 Million Years Ago](#-1-million-years-ago)
-- [Holocene](#holocene)
-- [The Common Era](#the-common-era)
+- [Holocene Epoch](#holocene-epoch)
+- [Common Era](#common-era)
 - [1500s](#1500s)
 - [1600s](#1600s)
 - [1700s](#1700s)
@@ -64,7 +64,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2.4-2.05Ga BP: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
 - 2.1-1.5Ga BP: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
 - 2.0-1.7Ga BP: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
-- ? BP: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
+- ? BP: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
 - 2Ga BP: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things"), this is when we split from prokaryotes ("before kernels")
 - 1.85Ga BP: O2 reached 0.03 atm, but most was aborbed into oceans and seabed rock
 - 1.4Ga BP: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
@@ -88,7 +88,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 760Ma BP: [Animalia](https://en.wikipedia.org/wiki/Animal) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
 - 751Ma BP: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
 - 717Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
-- ? BP: The Protohox gene duplicates into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
+- ? BP: The Protohox gene duplicated into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
 - 680Ma BP: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
 - 680Ma BP: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
 - 741Ma BP: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
@@ -184,7 +184,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 350ka BP: CO2 dipped below 200ppm, global temp -9 from present
 - 320ka BP: CO2 peaked around 300ppm, global temp +4 from present
 - 315ka BP: Homo sapiens emerged
-- 300ka BP: Most homo species live in hunter-gatherer societies, with tools, culture, and speech
+- 300ka BP: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
 - 270ka BP: Y-chromosomal Adam lived (Y-DNA haplogroup A00)
 - 260ka BP: CO2 dipped below 200ppm, global temp -9 from present
 - 250ka BP: Homo neanderthalensis emerged
@@ -207,7 +207,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 14.2-14.1ka BP: Older Dryas, global temperatures declined sharply
 - 12.9-11.7ka BP: Younger Dryas, global temperatures declined sharply
 
-## Holocene
+## Holocene Epoch
 - 11.7ka BP: Holocene epoch began, global temperatures increased, CO2 exceeded 250ppm
 - 12.5k BCE: Bread made at Shubayqa in modern Jordan
 - 12k BCE: Other homo species have died, agriculture becomes common
@@ -240,7 +240,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 40 BCE: Andronicus of Rhodes published Aristotle's "Organon" (Instrument)
 - ? BCE: Patañjali published the "Yoga Sūtras"
 
-## The Common Era
+## Common Era
 - 108 CE: Arrian published "Discourses of Epictetus"
 - 125 CE: Arrian published "Enchiridion of Epictetus"
 - 263 CE: Liu Hui published commentary on "The Nine Chapters of Mathematical Art"
