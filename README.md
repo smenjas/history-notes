@@ -257,33 +257,33 @@ Once history begins, I've focused on reproducible publications, patents, and
 - ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) published the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
 
 ## Common Era
-- 108 CE: Arrian published *Discourses of Epictetus*
-- 125 CE: Arrian published *Enchiridion of Epictetus*
-- 263 CE: Liu Hui published commentary on *The Nine Chapters of Mathematical Art*
-- 820 CE: al-Khwarizmi wrote *Al-jabr* ("reunion of broken parts"), the basis of algebra
-- 1440 CE: Johannes Gutenberg invented the printing press
-- 1455 CE: Johannes Gutenberg published the Gutenburg Bible
-- 14?? CE: Johannes Gutenberg published *Das Werk der Bücher* (*The Work of Books*)
+- 108 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) published [*Discourses of Epictetus*](https://en.wikipedia.org/wiki/Discourses_of_Epictetus)
+- 125 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) published [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
+- 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) published commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art)
+- 820 CE: [al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of algebra
+- 1440 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) invented the [printing press](https://en.wikipedia.org/wiki/Printing_press)
+- 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
+- 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of the Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
 
 ## 1500s
 - 1532 CE: Niccolo Machiavelli's *The Prince* published
 - 1543 CE: Andreas Vesalius published *De humani corporis fabrica* (*The human body*)
 - 1543 CE: Nicolaus Copernicus published *De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)
 - 1593 CE: Galileo Galilei invented the modern thermometer
-- 1598 CE: Galileo Galilei improves the military compass
+- 1598 CE: Galileo Galilei improved the military compass
 
 ## 1600s
 - 1604 CE: Johannes Kepler published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
 - 1604 CE: Johannes Kepler published *Astronomia nova* (*New Astronomy*), the foundation of planetary motion
-- 1609 CE: Galileo Galilei improves the telescope to be useful
+- 1609 CE: Galileo Galilei improved the telescope to be useful
 - 1610 CE: Galileo Galilei published *Sidereus Nuncius* (*Starry Messenger*)
 - 1620 CE: Francis Bacon published *Novum Organum* (*New Organ*)
 - 1624 CE: Galileo Galilei invented the compound microscope
 - 1632 CE: Galileo Galilei published his *Dialogue Concerning the Two Chief World Systems*
 - 1637 CE: René Descartes published *Discourse on the Method*
+- 1638 CE: Galileo Galilei published *Two New Sciences*
 - 1641 CE: René Descartes published *Meditations on First Philosophy*
 - 1644 CE: René Descartes published *Principles of Philosophy*
-- 1638 CE: Galileo Galilei published *Two New Sciences*
 - 1656 CE: Huygens wrote *De motu corporum ex percussione*
 - 1665 CE: Robert Hooke published *Micrographia*
 - 1679 CE: Pierre de Fermat posthumously published *Introduction to Loci*
@@ -325,9 +325,9 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1803 CE: Thomas Young demonstrated the double slit experiment
 - 1804 CE: Joseph Marie Jacquard invented the Jacquard Loom
 - 1811 CE: Fresnel deposited *Mémoire sur la diffraction de la lumière*
-- 1842 CE: Christian Doppler published *On the coloured light of the binary stars and some other stars of the heavens*
 - 1833 CE: Charles Lyell published *Principles of Geology*
 - 1840 CE: Louis Agassiz published *Études sur les glaciers*
+- 1842 CE: Christian Doppler published *On the coloured light of the binary stars and some other stars of the heavens*
 - 1850 CE: Rudolf Clausius published *On the Moving Force of Heat*
 - 1855 CE: A. W. Hofmann published *On Insolinic Acid*, describing aromatic compounds
 - 1856 CE: David E. Hughes patented an *Improvement in telegraphs*
@@ -338,9 +338,9 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1861 CE: James Clerk Maxwell published *On Physical Lines of Force*
 - 1863 CE: Charles Lyell published *Geological Evidences of the Antiquity of Man*
 - 1864 CE: James Clerk Maxwell published *A Dynamical Theory of the Electromagnetic Field*
-- 1850 CE: Rudolf Clausius published *The Mechanical Theory of Heat* and coined "entropy"
 - 1866 CE: Gregor Mendel published *Versuche über Pflanzenhybriden*
 - 1866 CE: E. Kaeckel published *Generelle Morphologie der Organismen*
+- 1867 CE: Rudolf Clausius published *The Mechanical Theory of Heat* and coined "entropy"
 - 1867 CE: Joseph Lister published *On the Antiseptic Principle in the Practice of Surgery*
 - 1868 CE: James Clerk Maxwell published *On governors*
 - 1869 CE: Dmitri Mendeleev composed his periodic table of the elements
@@ -395,6 +395,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 ### 1930s
 - 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
 - 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
+- 1936 CE: Theodore P. Wright published *Factors affecting the costs of airplanes*
 - 1936 CE: Alonzo Church published *An unsolvable problem of elementary number theory*
 - 1936 CE: Dale Carnegie published *How to Win Friends and Influence People*
 - 1936 CE: Alan Turing published *On Computable Numbers, with an Application to the Entscheidungsproblem*
@@ -432,6 +433,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1966 CE: John von Neumann published *Theory of Self-Reproducing Automata*
 - 1967 CE: Lynn Sagan published *On the origin of mitosing cells*
 - 1968 CE: Motoo Kimura published *Evolutionary rate at the molecular level*
+- 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
 - 1968 CE: Donald Knuth published *The Art of Computer Programming, volume 1*
 - 1969 CE: Donald Knuth published *The Art of Computer Programming, volume 2*
 - 1969 CE: Neil Armstrong & Buzz Aldrin walked on the Moon
@@ -449,6 +451,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1976 CE: Robert M. May published *Simple mathematical models with very complicated dynamics*
 - 1977 CE: Carl Woese published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*
 - 1978 CE: Brian Kernighan & Dennis Ritchie published *The C Programming Language*
+- 1978 CE: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) released [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), including [ex](https://en.wikipedia.org/wiki/Ex_%28text_editor%29) and thus [vi](https://en.wikipedia.org/wiki/Vi)
 
 ### 1980s
 - 1984 CE: Donald Knuth published *The TeXbook*
@@ -465,7 +468,9 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1990 CE: Woese et al published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
 - 1991 CE: Tim Berners-Lee makes the World Wide Web available
 - 1991 CE: Richard Stallman published the *GNU General Public License, version 2* (GPLv2)
+- 1992 CE: William & Lynne Jolitz released 386BSD
 - 1992 CE: Linus Torvalds published the Linux kernel under the GNU GPLv2
+- 1993 CE: FreeBSD released
 - 1995 CE: Richard Feynman posthumously published *Lectures on Gravitation*
 - 1997 CE: Richard Feynman posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
 - 1997 CE: Google Search became available
