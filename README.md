@@ -329,8 +329,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1833 CE: Charles Lyell published *Principles of Geology*
 - 1840 CE: Louis Agassiz published *Études sur les glaciers*
 - 1842 CE: Christian Doppler published *On the coloured light of the binary stars and some other stars of the heavens*
-- 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought)
 - 1850 CE: Rudolf Clausius published *On the Moving Force of Heat*
+- 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought)
 - 1855 CE: A. W. Hofmann published *On Insolinic Acid*, describing aromatic compounds
 - 1856 CE: David E. Hughes patented an *Improvement in telegraphs*
 - 1859 CE: Charles Darwin published *On the Origin of Species*
@@ -426,9 +426,11 @@ Once history begins, I've focused on reproducible publications, patents, and
 ### 1960s
 - 1960 CE: John McCarthy published *Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I*
 - 1960 CE: John von Neumann published *Continuous geometry*
+- 1960 CE: [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) and [Alfréd Rényi](https://en.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi) published *On the evolution of random graphs*
 - 1961 CE: Richard Feynman presented *Theory of Fundamental Processes*
 - 1961 CE: Richard Feynman presented *Quantum Electrodynamics*
 - 1962 CE: Émile Zuckerkandl & Linus Pauling published *Molecular disease, evolution, and genic heterogeneity*
+- 1962 CE: [L. R. Ford, Jr.](https://en.wikipedia.org/wiki/L._R._Ford_Jr.) & [D. R. Fulkerson](https://en.wikipedia.org/wiki/D._R._Fulkerson) published *Network Flows and General Matchings*
 - 1962 CE: Thomas S. Kuhn published *The Structure of Scientific Revolutions*
 - 1964 CE: Richard Feynman published *The Feynman Lectures on Physics*
 - 1965 CE: Richard Feynman & Albert Hibbs published *Quantum Mechanics and Path Integrals*
@@ -453,6 +455,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1973 CE: Ken Thompson & Dennis Ritchie ported Unix to the PHP-11/20 in C.
 - 1973 CE: Donald Knuth published *The Art of Computer Programming, volume 3*
 - 1974 CE: Ken Thompson & Dennis Ritchie published *The UNIX time-sharing system*
+- 1975 CE: [Endre Szemerédi](https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di) published *On sets of integers containing no k elements in arithmetic progression*
 - 1976 CE: Robert M. May published *Simple mathematical models with very complicated dynamics*
 - 1977 CE: Carl Woese published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*
 - 1978 CE: Brian Kernighan & Dennis Ritchie published *The C Programming Language*
@@ -488,7 +491,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2000 CE: Richard Feynman posthumously published *Feynman Lectures on Computation*
 - 2000 CE: CO2 exceeded 380ppm
 - 2005 CE: Google released Google Maps
-- 2006 CE: [Apple switched from PowerPV chips to Intel](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
+- 2006 CE: [Apple switched from PowerPC chips to Intel x86](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
 - 2006 CE: Sun Microsystems released the Java Virtual Machine (JVM) under the GPLv2.
 - 2007 CE: Richard Stallman published the *GNU General Public License, version 3* (GPLv3)
 - 2007 CE: Google released Street View
