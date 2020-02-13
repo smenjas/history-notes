@@ -63,9 +63,9 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2.45-2.22Ga BP: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen
 - 2.4-2.05Ga BP: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
 - 2.1-1.5Ga BP: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
-- 2.0-1.7Ga BP: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
+- 2.0-1.7Ga BP: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
 - ? BP: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
-- 2Ga BP: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things"), this is when we split from prokaryotes ("before kernels")
+- 2Ga BP: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
 - 1.85Ga BP: O2 reached 0.03 atm, but most was aborbed into oceans and seabed rock
 - 1.4Ga BP: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
 - ? BP: [Orthokaryotes](https://en.wikipedia.org/wiki/Orthokaryotes) split from [Discicristata](https://en.wikipedia.org/wiki/Discicristata)
@@ -105,7 +105,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 555Ma BP: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
 - ? BP: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
 - 542Ma BP: [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction)
-- 541Ma BP: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO2 is 4000ppm, O2 is 0.12 atm
+- 541Ma BP: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO2 was 4000ppm, O2 was 0.12 atm
 - 517Ma BP: [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction)
 - 502Ma BP: [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian)
 - 485.4Ma BP: [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event)
@@ -190,9 +190,11 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 250ka BP: Homo neanderthalensis emerged
 - 240ka BP: CO2 peaked around 280ppm, global temp +3 from present
 - 200ka BP: Homo sapiens sapiens emerged, 6 other homo species existed
+- 173ka BP: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
 - 160ka BP: CO2 dipped below 200ppm, global temp -9 from present
 - 150ka BP: Mitochondrial Eve lived before this (mt-DNA haplogroup L)
 - 140-110ka BP: Anatomically modern humans evolved
+- 131ka BP: North African/Near Eastern wildcats split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
 - 128ka BP: Homo cooked with fire regularly
 - 120ka BP: CO2 peaked around 280ppm, global temp +5 from present
 - 115ka BP: [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
@@ -212,37 +214,37 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 12.9-11.7ka BP: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
 
 ## Holocene Epoch
-- 11.7ka BP: Holocene epoch began, global temperatures increased, CO2 exceeded 250ppm
-- 12.5k BCE: Bread made at Shubayqa in modern Jordan
-- 12k BCE: Other homo species have died, agriculture becomes common
-- 10.2k BCE: Neolithic age began, agriculture existed in the Levant, CO2 is 270ppm
-- 7.5k BCE: A human lived with a cat in Cyprus
-- 6.4k BCE: Humans in the Fertile Crescent made pottery
-- 5k BCE: Humans smelted copper on Rudnik Mountain in modern Serbia
-- 5k BCE: Humans domesticated guinea pigs in the Andes
-- 3300 BCE: Bronze Age began in Southern Asia
+- 11.7ka BP: [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO2 exceeded 250ppm
+- 12.5k BCE: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
+- 12k BCE: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
+- 10.2k BCE: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO2 was 270ppm
+- 7.5k BCE: [A human lived with a cat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
+- 6.4k BCE: Humans in the Fertile Crescent made [pottery](https://en.wikipedia.org/wiki/Pottery)
+- 5k BCE: Humans smelted copper on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
+- 5k BCE: Humans domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig) in the Andes
+- 3300 BCE: [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
 - 3000 BCE: Many modern artifacts existed in Indus Valley (sanitation, distillation, levee, scales, etc.)
 - 1900 BCE: Iron smelted and smithed in Anatolia or Caucasus
-- 1200 BCE: Bronze Age Collapse began
-- 1150 BCE: Bronze Age Collapse ended
-- 530 BCE: Pythagoras founded a school at Croton
-- 500 BCE: Sun Tzu published *The Art of War*
-- 440 BCE: Herodotus wrote *The Histories*, beginning historiography
-- 400 BCE: Lao Tzu published the *Tao Te Ching*
-- 387 BCE: Plato founded his Academy
-- 375 BCE: Plato wrote *The Republic*
-- 360 BCE: Aristotle wrote *Timaeus*
-- 334 BCE: Aristotle founded the Lyceum
-- 325 BCE: Dakṣiputra Pāṇini published *Aṣṭādhyāyī* on Sanskrit grammar.
-- 300 BCE: Euclid wrote *Elements*, beginning formal mathematics
-- 300 BCE: Zeno of Citium founded the Stoic school of Philosophy.
-- 280 BCE: Aristarchus published *On the Sizes and Distances (of the Sun and Moon)*
-- 250 BCE: Archimedes designed the block and tackle pulley system
-- 150 BCE: Patañjali published *Mahābhāṣya* on Sanskrit grammar.
-- 240 BCE: Eratosthenes measured the Earth's circumference
-- 180 BCE: Marcus Aurelius completed his *Meditations*
-- 40 BCE: Andronicus of Rhodes published Aristotle's *Organon* (*Instrument*)
-- ? BCE: Patañjali published the *Yoga Sūtras*
+- 1200-1150 BCE: [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse)
+- 530 BCE: [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) founded a school at [Croton](https://en.wikipedia.org/wiki/Crotone)
+- 500 BCE: [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) published [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War)
+- 440 BCE: [Herodotus](https://en.wikipedia.org/wiki/Herodotus) wrote [*The Histories*](https://en.wikipedia.org/wiki/Histories_%28Herodotus%29), beginning [historiography](https://en.wikipedia.org/wiki/Historiography)
+- 400 BCE: [Laozi](https://en.wikipedia.org/wiki/Laozi) published the [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching)
+- 387 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) founded his [Academy](https://en.wikipedia.org/wiki/Platonic_Academy)
+- 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29)
+- 360 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Timaeus*](https://en.wikipedia.org/wiki/Timaeus_%28dialogue%29)
+- 334 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_%28Classical%29)
+- 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) published *Aṣṭādhyāyī* on Sanskrit grammar.
+- 300 BCE: [Euclid](https://en.wikipedia.org/wiki/Euclid) wrote [*Elements*](https://en.wikipedia.org/wiki/Euclid%27s_Elements), beginning formal mathematics
+- 300 BCE: [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) founded [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
+- 280 BCE: [Aristarchus of Samos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) published [*On the Sizes and Distances (of the Sun and Moon)*](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_%28Aristarchus%29)
+- 250 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
+- 234 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
+- 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) published [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar.
+- 240 BCE: [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) measured the [Earth's circumference](https://en.wikipedia.org/wiki/Earth's_circumference)
+- 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
+- 40 BCE: [Andronicus of Rhodes](https://en.wikipedia.org/wiki/Andronicus_of_Rhodes) published Aristotle's [*Organon*](https://en.wikipedia.org/wiki/Organon) (*Instrument*)
+- ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) published the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
 
 ## Common Era
 - 108 CE: Arrian published *Discourses of Epictetus*
