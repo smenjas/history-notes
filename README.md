@@ -243,6 +243,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 387 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) founded his [Academy](https://en.wikipedia.org/wiki/Platonic_Academy)
 - 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29)
 - 360 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Timaeus*](https://en.wikipedia.org/wiki/Timaeus_%28dialogue%29)
+- 350 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*On the Heavens*](https://en.wikipedia.org/wiki/On_the_Heavens)
 - 334 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_%28Classical%29)
 - 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) published *Aṣṭādhyāyī* on Sanskrit grammar.
 - 300 BCE: [Euclid](https://en.wikipedia.org/wiki/Euclid) wrote [*Elements*](https://en.wikipedia.org/wiki/Euclid%27s_Elements), beginning formal mathematics
@@ -266,22 +267,22 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of the Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
 
 ## 1500s
-- 1532 CE: Niccolo Machiavelli's *The Prince* published
-- 1543 CE: Andreas Vesalius published *De humani corporis fabrica* (*The human body*)
-- 1543 CE: Nicolaus Copernicus published *De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)
-- 1593 CE: Galileo Galilei invented the modern thermometer
-- 1598 CE: Galileo Galilei improved the military compass
+- 1532 CE: [Niccolò Machiavelli's](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) published
+- 1543 CE: [Andreas Vesalius](https://en.wikipedia.org/wiki/Andreas_Vesalius) published [*De humani corporis fabrica* (*On the fabric of the human body*)](https://en.wikipedia.org/wiki/De_humani_corporis_fabrica)
+- 1543 CE: [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) published [*De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)
+- 1593 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the modern [thermometer](https://en.wikipedia.org/wiki/Thermometer)
+- 1598 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [military compass](https://en.wikipedia.org/wiki/Sector_%28instrument%29)
 
 ## 1600s
-- 1604 CE: Johannes Kepler published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
-- 1604 CE: Johannes Kepler published *Astronomia nova* (*New Astronomy*), the foundation of planetary motion
-- 1609 CE: Galileo Galilei improved the telescope to be useful
-- 1610 CE: Galileo Galilei published *Sidereus Nuncius* (*Starry Messenger*)
-- 1620 CE: Francis Bacon published *Novum Organum* (*New Organ*)
-- 1624 CE: Galileo Galilei invented the compound microscope
-- 1632 CE: Galileo Galilei published his *Dialogue Concerning the Two Chief World Systems*
+- 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
+- 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomia nova* (*New Astronomy*), the foundation of planetary motion
+- 1609 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [telescope](https://en.wikipedia.org/wiki/Telescope) to be useful
+- 1610 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Sidereus Nuncius* (*Starry Messenger*)](https://en.wikipedia.org/wiki/Sidereus_Nuncius)
+- 1620 CE: [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) published [*Novum Organum* (*New Organ*)](https://en.wikipedia.org/wiki/Novum_Organum)
+- 1624 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the [compound microscope](https://en.wikipedia.org/wiki/Optical_microscope#Compound_microscope)
+- 1632 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published his [*Dialogue Concerning the Two Chief World Systems*](https://en.wikipedia.org/wiki/Dialogue_Concerning_the_Two_Chief_World_Systems)
 - 1637 CE: René Descartes published *Discourse on the Method*
-- 1638 CE: Galileo Galilei published *Two New Sciences*
+- 1638 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Two New Sciences*](https://en.wikipedia.org/wiki/Two_New_Sciences)
 - 1641 CE: René Descartes published *Meditations on First Philosophy*
 - 1644 CE: René Descartes published *Principles of Philosophy*
 - 1656 CE: Huygens wrote *De motu corporum ex percussione*
@@ -454,6 +455,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1978 CE: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) released [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), including [ex](https://en.wikipedia.org/wiki/Ex_%28text_editor%29) and thus [vi](https://en.wikipedia.org/wiki/Vi)
 
 ### 1980s
+- 1984 CE: Apple released the Macintosh
 - 1984 CE: Donald Knuth published *The TeXbook*
 - 1985 CE: Richard Feynman published *QED: The Strange Theory of Light and Matter*
 - 1986 CE: Donald Knuth published *The METAFONTbook*
@@ -470,27 +472,31 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1991 CE: Richard Stallman published the *GNU General Public License, version 2* (GPLv2)
 - 1992 CE: William & Lynne Jolitz released 386BSD
 - 1992 CE: Linus Torvalds published the Linux kernel under the GNU GPLv2
-- 1993 CE: FreeBSD released
+- 1993 CE: Some hackers released FreeBSD
+- 1984 CE: [Apple switched from Motorola 68k chips to PowerPC](https://en.wikipedia.org/wiki/Power_Macintosh)
 - 1995 CE: Richard Feynman posthumously published *Lectures on Gravitation*
 - 1997 CE: Richard Feynman posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
-- 1997 CE: Google Search became available
+- 1997 CE: Google released Google Search
 - 1998 CE: T. Cavalier-Smith published *A revised six-kingdom system of life*
 
 ## 2000s
 - 2000 CE: CO2 exceeded 370ppm
 - 2000 CE: Richard Feynman posthumously published *Feynman Lectures on Computation*
 - 2000 CE: CO2 exceeded 380ppm
-- 2005 CE: Google Maps became available
+- 2005 CE: Google released Google Maps
+- 2006 CE: [Apple switched from PowerPV chips to Intel](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
 - 2006 CE: Sun Microsystems released the Java Virtual Machine (JVM) under the GPLv2.
 - 2007 CE: Richard Stallman published the *GNU General Public License, version 3* (GPLv3)
-- 2007 CE: Google Street View became available
-- 2007 CE: Apple iPhone became available
+- 2007 CE: Google released Street View
+- 2007 CE: Apple released the iPhone, popularizing multitouch displays
 - 2000 CE: CO2 exceeded 390ppm
 
 ### 2010s
-- 2010 CE: Apple iPad became available
+- 2010 CE: Apple released the iPad
 - 2011 CE: Donald Knuth published *The Art of Computer Programming, volume 4A*
+- 2012 CE: Tesla released the Model S, a somewhat expensive, practical electric car
 - 2013 CE: Daily average CO2 exceeded 400ppm
 - 2015 CE: T. Cavalier-Smith et al published *A higher level classification of all living organisms*
 - 2015 CE: Anja Spang et al published *Complex archaea that bridge the gap between prokaryotes and eukaryotes*
+- 2017 CE: Tesla released the Model 3, a somewhat affordable, practical electric car
 - 2018 CE: Daily average CO2 exceeded 410ppm
