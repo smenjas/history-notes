@@ -329,6 +329,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1833 CE: Charles Lyell published *Principles of Geology*
 - 1840 CE: Louis Agassiz published *Études sur les glaciers*
 - 1842 CE: Christian Doppler published *On the coloured light of the binary stars and some other stars of the heavens*
+- 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought)
 - 1850 CE: Rudolf Clausius published *On the Moving Force of Heat*
 - 1855 CE: A. W. Hofmann published *On Insolinic Acid*, describing aromatic compounds
 - 1856 CE: David E. Hughes patented an *Improvement in telegraphs*
@@ -352,8 +353,11 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1878 CE: Thomas Young coined the term "energy" in its modern usage
 - 1878 CE: Louis Pasteur published *Les Microbes organisés*
 - 1879 CE: Emile Berliner patented an *Improvement in electrical-contact telephones*, the carbon microphone
+- 1879 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (*concept-script*)
 - 1883 CE: Georg Cantor published *Grundlagen einer allgemeinen Mannigfaltigkeitslehre*
 - 1883 CE: A. F. W. Schimper published *Über die Entwicklung der Chlorophyllkörner und Farbkörper*
+- 1884 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*The Foundations of Arithmetic*](https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic)
+- 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Algebra of Logic: A Contribution to the Philosophy of Notation*
 - 1886 CE: Louis Pasteur published *Traitement de la Rage*
 - 1887 CE: Alexander G. Bell patents *Transmitting and recording sounds by radiant energy*
 - 1887 CE: Alexander G. Bell patents *Reproducing sounds from phonograph records*
