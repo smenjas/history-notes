@@ -37,7 +37,17 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [1700s](#1700s)
 - [1800s](#1800s)
 - [1900s](#1900s)
+  - [1910s](#1910s)
+  - [1920s](#1920s)
+  - [1930s](#1930s)
+  - [1940s](#1940s)
+  - [1950s](#1950s)
+  - [1960s](#1960s)
+  - [1970s](#1970s)
+  - [1980s](#1980s)
+  - [1990s](#1990s)
 - [2000s](#2000s)
+  - [2010s](#2010s)
 
 ---
 
@@ -364,6 +374,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1907 CE: Albert Einstein published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the equivalence principle
 - 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumbered them
 - 1909 CE: E. M. Forster published *The Machine Stops*
+
+### 1910s
 - 1910 CE: Konstantin Mereschkowski published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms.*
 - 1911 CE: Albert Einstein published *On the Influence of Gravitation on the Propagation of Light*, allowing general relativity to be tested
 - 1912 CE: Automobiles roughly equaled the number of horses on U.S. streets
@@ -374,9 +386,13 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1917 CE: Albert Einstein published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
 - 1918 CE: Albert Einstein published *Gravitationswellen* (*On Gravitational Waves*)
+
+### 1920s
 - 1923 CE: John von Neumann published *On the introduction of transfinite numbers*
 - 1925 CE: É. Chatton published *Pansporella perplexa*
 - 1925 CE: John von Neumann published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
+
+### 1930s
 - 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
 - 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
 - 1936 CE: Alonzo Church published *An unsolvable problem of elementary number theory*
@@ -387,6 +403,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1938 CE: H. Copeland published *The kingdoms of organisms*
 - 1938 CE: Kurt Gödel published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
 - 1939 CE: Linus Pauling published *The Nature of the Chemical Bond*
+
+### 1940s
 - 1942 CE: Richard Feynman published *The Principle of Least Action in Quantum Mechanics*
 - 1943 CE: British codebreakers invent the Colossus: the first programmable electronic digital computer
 - 1944 CE: John von Neumann published *First Draft of a Report on the EDVAC*
@@ -394,8 +412,12 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1947 CE: Kathleen Booth published *General considerations in the design of an all purpose electronic digital computer (Coding for the ARC, 2nd ed)*, introducing assembly language
 - 1948 CE: Claude Shannon published *A Mathematical Theory of Communication*
 - 1948 CE: John von Neumann published *The general and logical theory of automata*
+
+### 1950s
 - 1959 CE: Karl Popper published *The Logic of Scientific Discovery*
 - 1959 CE: Richard Feynman presented *There's Plenty of Room at the Bottom*
+
+### 1960s
 - 1960 CE: John McCarthy published *Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I*
 - 1960 CE: John von Neumann published *Continuous geometry*
 - 1961 CE: Richard Feynman presented *Theory of Fundamental Processes*
@@ -416,6 +438,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1969 CE: R. H. Whittaker published *New concepts of kingdoms of organisms*
 - 1969 CE: Ken Thompson, Dennis Ritchie, & Rudd Canaday implemented Unix in assembly for the PDP-7 computer.
 - 1969 CE: Ken Thompson & Dennis Ritchie developed the B programming language.
+
+### 1970s
 - 1970 CE: Ken Thompson & Dennis Ritchie ported Unix to the PHP-11/20 in assembly.
 - 1971 CE: Ken Thompson & Dennis Ritchie published the *UNIX Programmer's Manual*
 - 1972 CE: Richard Feynman published *Statistical Mechanics*
@@ -425,6 +449,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1976 CE: Robert M. May published *Simple mathematical models with very complicated dynamics*
 - 1977 CE: Carl Woese published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*
 - 1978 CE: Brian Kernighan & Dennis Ritchie published *The C Programming Language*
+
+### 1980s
 - 1984 CE: Donald Knuth published *The TeXbook*
 - 1985 CE: Richard Feynman published *QED: The Strange Theory of Light and Matter*
 - 1986 CE: Donald Knuth published *The METAFONTbook*
@@ -433,6 +459,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1987 CE: Richard Stallman published the *GNU C Compiler*
 - 1988 CE: CO2 exceeded 350ppm
 - 1989 CE: Richard Stallman published the *GNU General Public License, version 1* (GPLv1)
+
+### 1990s
 - 1990 CE: CO2 exceeded 360ppm
 - 1990 CE: Woese et al published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
 - 1991 CE: Tim Berners-Lee makes the World Wide Web available
@@ -453,6 +481,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2007 CE: Google Street View became available
 - 2007 CE: Apple iPhone became available
 - 2000 CE: CO2 exceeded 390ppm
+
+### 2010s
 - 2010 CE: Apple iPad became available
 - 2011 CE: Donald Knuth published *The Art of Computer Programming, volume 4A*
 - 2013 CE: Daily average CO2 exceeded 400ppm
