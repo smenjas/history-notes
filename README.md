@@ -539,5 +539,6 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2013 CE: Daily average CO2 exceeded 400ppm
 - 2015 CE: T. Cavalier-Smith et al published *A higher level classification of all living organisms*
 - 2015 CE: Anja Spang et al published *Complex archaea that bridge the gap between prokaryotes and eukaryotes*
+- 2015 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [landed an orbital rocket vertically](https://en.wikipedia.org/wiki/Falcon_9_flight_20)
 - 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
 - 2018 CE: Daily average CO2 exceeded 410ppm
