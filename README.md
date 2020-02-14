@@ -6,8 +6,9 @@ History"](https://en.wikipedia.org/wiki/Big_History), a.k.a. the big picture.
 Ga: 1 billion years, Ma: 1 million years, ka: 1 thousand years
 
 Atmospheric oxygen (O2) tells the
-[eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story. Carbon dioxide
-(CO2) tells temperature's story.
+[eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story. [Carbon dioxide
+(CO2) tells temperature's
+story.](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
 
 I've shown each known branch along the path of [human
 evolution](https://en.wikipedia.org/wiki/Human_evolution). The branch leading
@@ -503,28 +504,30 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1997 CE: Richard Feynman posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
 - 1997 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Search](https://en.wikipedia.org/wiki/Google_Search)
 - 1998 CE: T. Cavalier-Smith published *A revised six-kingdom system of life*
-- 1998 CE: [Netscape](https://en.wikipedia.org/wiki/Netscape) released the source code to [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator)
+- 1998 CE: [Netscape](https://en.wikipedia.org/wiki/Netscape) published [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator) as open source software
 
 ## 2000s
+- 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released [Darwin](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29)
 - 2000 CE: CO2 exceeded 370ppm
 - 2000 CE: Richard Feynman posthumously published *Feynman Lectures on Computation*
-- 2000 CE: CO2 exceeded 380ppm
 - 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) released [KHTML](https://en.wikipedia.org/wiki/KHTML), the predecessor to WebKit
 - 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 - 2001 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Earth](https://en.wikipedia.org/wiki/Google_Earth)
-- 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) released [Markdown](https://en.wikipedia.org/wiki/Markdown) as open source software
+- 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) published [Markdown](https://en.wikipedia.org/wiki/Markdown) as open source software
 - 2005 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published [Git](https://en.wikipedia.org/wiki/Git) as open source software
 - 2005 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)
-- 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released [WebKit](https://en.wikipedia.org/wiki/WebKit) as open source software
+- 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) published [WebKit](https://en.wikipedia.org/wiki/WebKit) as open source software
 - 2006 CE: [Apple switched from PowerPC chips to Intel x86](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
-- 2006 CE: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) released the [Java Virtual Machine (JVM)](https://en.wikipedia.org/wiki/Java_virtual_machine) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+- 2006 CE: CO2 exceeded 380ppm
+- 2006 CE: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) published the [Java Virtual Machine (JVM)](https://en.wikipedia.org/wiki/Java_virtual_machine) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 3* (GPLv3)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Street View](https://en.wikipedia.org/wiki/Google_Street_View)
 - 2007 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPhone](https://en.wikipedia.org/wiki/IPhone), popularizing multitouch displays
-- 2000 CE: CO2 exceeded 390ppm
+- 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Android](https://en.wikipedia.org/wiki/Android_%28operating_system%29)
 
 ### 2010s
 - 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPad](https://en.wikipedia.org/wiki/IPad), a practical solid-state computer with a relatively large screen
+- 2011 CE: CO2 exceeded 390ppm
 - 2011 CE: Donald Knuth published *The Art of Computer Programming, volume 4A*
 - 2012 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model S](https://en.wikipedia.org/wiki/Tesla_Model_S), a somewhat expensive, practical electric car
 - 2013 CE: Daily average CO2 exceeded 400ppm
