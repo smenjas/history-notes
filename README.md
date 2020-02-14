@@ -376,7 +376,7 @@ Once history begins, I've focused on reproducible publications, patents, and
   - *Does the Inertia of a Body Depend Upon Its Energy Content?* (showed the equivalence of matter and energy, i.e. E=mc²)
   - *A new determination of molecular dimensions*
 - 1905 CE: Konstantin Mereschkowski published *The nature and origins of chromatophores in the plant kingdom*
-- 1905 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) posthumously published [*The Protestant Ethic and the Spirit of Capitalism*](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)
+- 1905 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) published [*The Protestant Ethic and the Spirit of Capitalism*](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)
 - 1907 CE: Albert Einstein published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the equivalence principle
 - 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumbered them
 - 1909 CE: E. M. Forster published *The Machine Stops*
