@@ -323,6 +323,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1788 CE: James Hutton published *Theory of the Earth*
 
 ## 1800s
+- 1800 CE: [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) published a description of an [electric battery](https://en.wikipedia.org/wiki/History_of_the_battery)
 - 1803 CE: Thomas Young demonstrated the double slit experiment
 - 1804 CE: Joseph Marie Jacquard invented the Jacquard Loom
 - 1811 CE: Fresnel deposited *Mémoire sur la diffraction de la lumière*
