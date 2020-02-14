@@ -168,6 +168,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2.8Ma BP: [Homo genus](https://en.wikipedia.org/wiki/Homo) emerged
 - 1.25-0.7Ma BP: [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition), glacial cycles switch from 41ka to 100ka
 - 1.07Ma BP: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana.
+- 1.0Ma BP: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) [controlled fire](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans) in [Wonderwerk Cave](https://en.wikipedia.org/wiki/Wonderwerk_Cave)
 
 ## < 1 Million Years Ago
 - 990-950ka BP: [Jaramillo reversal](https://en.wikipedia.org/wiki/Jaramillo_reversal) of Earth's magnetic field
@@ -189,23 +190,23 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 530ka BP: CO2 dipped below 200ppm, global temp -8 from present
 - 490ka BP: CO2 peaked around 250ppm, global temp -1 from present
 - 440ka BP: CO2 dipped below 200ppm, global temp -9 from present
-- 415ka BP: Controlled use of fire in Suffolk, England
+- 415ka BP: [Controlled use of fire in Suffolk, England](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 400ka BP: CO2 peaked around 280ppm, global temp +3 from present
 - 350ka BP: CO2 dipped below 200ppm, global temp -9 from present
 - 320ka BP: CO2 peaked around 300ppm, global temp +4 from present
-- 315ka BP: Homo sapiens emerged
+- 315ka BP: [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens) emerged
 - 300ka BP: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
-- 270ka BP: Y-chromosomal Adam lived (Y-DNA haplogroup A00)
+- 270ka BP: [Y-chromosomal Adam](https://en.wikipedia.org/wiki/Y-chromosomal_Adam) lived ([Y-DNA haplogroup A](https://en.wikipedia.org/wiki/Haplogroup_A_%28Y-DNA%29)00)
 - 260ka BP: CO2 dipped below 200ppm, global temp -9 from present
-- 250ka BP: Homo neanderthalensis emerged
+- 250ka BP: [Homo neanderthalensis](https://en.wikipedia.org/wiki/Neanderthal) emerged
 - 240ka BP: CO2 peaked around 280ppm, global temp +3 from present
-- 200ka BP: Homo sapiens sapiens emerged, 6 other homo species existed
+- 200ka BP: [Homo sapiens sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) emerged, 6 other homo species existed
 - 173ka BP: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
 - 160ka BP: CO2 dipped below 200ppm, global temp -9 from present
-- 150ka BP: Mitochondrial Eve lived before this (mt-DNA haplogroup L)
-- 140-110ka BP: Anatomically modern humans evolved
+- 150ka BP: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
+- 140-110ka BP: [Anatomically modern humans](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved
 - 131ka BP: North African/Near Eastern wildcats split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
-- 128ka BP: Homo cooked with fire regularly
+- 128ka BP: [Homo cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 120ka BP: CO2 peaked around 280ppm, global temp +5 from present
 - 115ka BP: [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
 - 83ka BP: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
@@ -431,6 +432,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1948 CE: John von Neumann published *The general and logical theory of automata*
 
 ### 1950s
+- 1956 CE: [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States)
 - 1959 CE: Karl Popper published *The Logic of Scientific Discovery*
 - 1959 CE: Richard Feynman presented *There's Plenty of Room at the Bottom*
 
@@ -450,26 +452,29 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1965 CE: Donald Knuth published *On the translation of languages from left to right*
 - 1966 CE: John von Neumann published *Theory of Self-Reproducing Automata*
 - 1967 CE: Lynn Sagan published *On the origin of mitosing cells*
+- 1968 CE: The FCC ruled that "any lawful device" can be connected to the AT&T network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
 - 1968 CE: Motoo Kimura published *Evolutionary rate at the molecular level*
 - 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
 - 1968 CE: Donald Knuth published *The Art of Computer Programming, volume 1*
 - 1969 CE: Donald Knuth published *The Art of Computer Programming, volume 2*
 - 1969 CE: Neil Armstrong & Buzz Aldrin walked on the Moon
 - 1969 CE: R. H. Whittaker published *New concepts of kingdoms of organisms*
-- 1969 CE: Ken Thompson, Dennis Ritchie, & Rudd Canaday implemented Unix in assembly for the PDP-7 computer.
-- 1969 CE: Ken Thompson & Dennis Ritchie developed the B programming language.
+- 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson), [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie), & Rudd Canaday [implemented Unix in assembly for the PDP-7 computer](https://en.wikipedia.org/wiki/History_of_Unix)
+- 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the B programming language](https://en.wikipedia.org/wiki/B_%28programming_language%29)
+- 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
 
 ### 1970s
-- 1970 CE: Ken Thompson & Dennis Ritchie ported Unix to the PHP-11/20 in assembly.
-- 1971 CE: Ken Thompson & Dennis Ritchie published the *UNIX Programmer's Manual*
+- 1970 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) ported Unix to the PHP-11/20 in assembly
+- 1971 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published the [*UNIX Programmer's Manual*](https://en.wikipedia.org/wiki/Man_page)
 - 1972 CE: Richard Feynman published *Statistical Mechanics*
-- 1973 CE: Ken Thompson & Dennis Ritchie ported Unix to the PHP-11/20 in C.
+- 1972 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the C programming language](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+- 1973 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) [ported Unix to the PHP-11/20 in C](https://en.wikipedia.org/wiki/History_of_Unix)
 - 1973 CE: Donald Knuth published *The Art of Computer Programming, volume 3*
-- 1974 CE: Ken Thompson & Dennis Ritchie published *The UNIX time-sharing system*
+- 1974 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published *The UNIX time-sharing system*
 - 1975 CE: [Endre Szemerédi](https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di) published *On sets of integers containing no k elements in arithmetic progression*
 - 1976 CE: Robert M. May published *Simple mathematical models with very complicated dynamics*
 - 1977 CE: Carl Woese published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*
-- 1978 CE: Brian Kernighan & Dennis Ritchie published *The C Programming Language*
+- 1978 CE: [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - 1978 CE: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) released [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), including [ex](https://en.wikipedia.org/wiki/Ex_%28text_editor%29) and thus [vi](https://en.wikipedia.org/wiki/Vi)
 
 ### 1980s
@@ -486,7 +491,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 ### 1990s
 - 1990 CE: CO2 exceeded 360ppm
 - 1990 CE: Woese et al published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
-- 1991 CE: Tim Berners-Lee makes the World Wide Web available
+- 1991 CE: [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) invented the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
 - 1991 CE: Richard Stallman published the *GNU General Public License, version 2* (GPLv2)
 - 1992 CE: William & Lynne Jolitz released 386BSD
 - 1992 CE: Linus Torvalds published the Linux kernel under the GNU GPLv2
@@ -496,6 +501,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1997 CE: Richard Feynman posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
 - 1997 CE: Google released Google Search
 - 1998 CE: T. Cavalier-Smith published *A revised six-kingdom system of life*
+- 1998 CE: [Netscape](https://en.wikipedia.org/wiki/Netscape) released the source code to [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator)
 
 ## 2000s
 - 2000 CE: CO2 exceeded 370ppm
