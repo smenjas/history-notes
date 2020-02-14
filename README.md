@@ -304,34 +304,35 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1706 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) posthumously published [*Of the Conduct of the Understanding*](https://en.wikipedia.org/wiki/Of_the_Conduct_of_the_Understanding), a handbook for autodidacts
 - 1713 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [Principia 2nd Ed.](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
 - 1726 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [Principia 3rd Ed.](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
-- 1735 CE: Carl Linnaeus published Systema Naturae 1E
-- 1736 CE: Leonhard Euler published *Mechanica*
-- 1736 CE: Leonhard Euler published *Solutio problematis ad geometriam situs pertinentis*, founding graph theory
-- 1736 CE: John Harrison demonstrated H1, the first marine chronometer
-- 1744 CE: Leonhard Euler published *Methodus inveniendi lineas curvas*
-- 1745 CE: Jacques Vaucanson invented the automated loom
-- 1748 CE: Leonhard Euler published *Introductio in analysin infinitorum*
-- 1753 CE: Carl Linnaeus published *Species Plantarum*
-- 1754 CE: Jean-Jacques Rousseau published *Discourse on Inequality*
-- 1755 CE: Leonhard Euler published *Institutiones calculi differentialis*
-- 1757 CE: Leonhard Euler published *Principes généraux de l'état d'équilibre d'un fluide*
-- 1759 CE: John Harrison invented H3, demonstrating the bimetallic strip and caged roller bearing
-- 1759 CE: John Harrison invented H4, a handheld marine chronometer
-- 1760 CE: Jacques Vaucanson invented the industrial lathe
-- 1762 CE: John Harrison's son demonstrated the H4 on a transatlantic voyage
-- 1762 CE: Jean-Jacques Rousseau published *Du contrat social*
-- 1762 CE: Jean-Jacques Rousseau published *Émile, ou De l’éducation*
-- 1765 CE: James Watt increased the efficiency of the steam engine with a condenser and steam jacket
-- 1765 CE: Leonhard Euler published *Vollständige Anleitung zur Algebra*
-- 1768 CE: Leonhard Euler published *Letters to a German Princess*
-- 1770 CE: Leonhard Euler published *Institutionum calculi integralis*
-- 1776 CE: Adam Smith published *Wealth of Nations*
-- 1788 CE: James Hutton published *Theory of the Earth*
+- 1735 CE: [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) published [Systema Naturae](https://en.wikipedia.org/wiki/Systema_Naturae) 1st Ed.
+- 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Mechanica*](https://en.wikipedia.org/wiki/Mechanica)
+- 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Solutio problematis ad geometriam situs pertinentis*, founding [graph theory](https://en.wikipedia.org/wiki/Graph_theory)
+- 1736 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) demonstrated H1, the first marine chronometer
+- 1744 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Methodus inveniendi lineas curvas* (*A method for finding curved lines*)
+- 1745 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the automated loom
+- 1748 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Introductio in analysin infinitorum* (*Introduction to the analysis of the infinite*)](https://en.wikipedia.org/wiki/Introductio_in_analysin_infinitorum)
+- 1753 CE: [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) published [*Species Plantarum*](https://en.wikipedia.org/wiki/Species_Plantarum)
+- 1754 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Discourse on Inequality*](https://en.wikipedia.org/wiki/Discourse_on_Inequality)
+- 1755 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutiones calculi differentialis*](https://en.wikipedia.org/wiki/Institutiones_calculi_differentialis)
+- 1757 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Principes généraux de l'état d'équilibre d'un fluide*
+- 1759 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) invented H3, demonstrating the bimetallic strip and caged roller bearing
+- 1759 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) invented H4, a handheld marine chronometer
+- 1759 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*The Theory of Moral Sentiments*](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
+- 1760 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the [industrial lathe](https://en.wikipedia.org/wiki/Metal_lathe)
+- 1762 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison)'s son demonstrated the H4 on a transatlantic voyage
+- 1762 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Du contrat social* (*The Social Contract*)](https://en.wikipedia.org/wiki/The_Social_Contract)
+- 1762 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Émile, ou De l’éducation* (*Emile, or On Education*)](https://en.wikipedia.org/wiki/Emile,_or_On_Education)
+- 1765 CE: [James Watt](https://en.wikipedia.org/wiki/James_Watt) increased the efficiency of the [steam engine](https://en.wikipedia.org/wiki/Watt_steam_engine) with a condenser and steam jacket
+- 1765 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Vollständige Anleitung zur Algebra*
+- 1768 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Letters to a German Princess*](https://en.wikipedia.org/wiki/Letters_to_a_German_Princess)
+- 1770 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutionum calculi integralis*](https://en.wikipedia.org/wiki/Institutionum_calculi_integralis)
+- 1776 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*Wealth of Nations*](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
+- 1788 CE: [James Hutton](https://en.wikipedia.org/wiki/James_Hutton) published [*Theory of the Earth*](https://en.wikipedia.org/wiki/Theory_of_the_Earth)
 
 ## 1800s
 - 1800 CE: [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) published a description of an [electric battery](https://en.wikipedia.org/wiki/History_of_the_battery)
 - 1803 CE: Thomas Young demonstrated the double slit experiment
-- 1804 CE: Joseph Marie Jacquard invented the Jacquard Loom
+- 1804 CE: [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard) invented the [Jacquard Loom](https://en.wikipedia.org/wiki/Jacquard_machine)
 - 1811 CE: Fresnel deposited *Mémoire sur la diffraction de la lumière*
 - 1833 CE: Charles Lyell published *Principles of Geology*
 - 1840 CE: Louis Agassiz published *Études sur les glaciers*
@@ -366,8 +367,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1884 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*The Foundations of Arithmetic*](https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic)
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Algebra of Logic: A Contribution to the Philosophy of Notation*
 - 1886 CE: Louis Pasteur published *Traitement de la Rage*
-- 1887 CE: Alexander G. Bell patents *Transmitting and recording sounds by radiant energy*
-- 1887 CE: Alexander G. Bell patents *Reproducing sounds from phonograph records*
+- 1887 CE: Alexander G. Bell patented *Transmitting and recording sounds by radiant energy*
+- 1887 CE: Alexander G. Bell patented *Reproducing sounds from phonograph records*
 - 1894 CE: Heinrich Hertz published *The Principles of Mechanics Presented in a New Form*
 - 1896 CE: Guglielmo Marconi patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*
 - 1897 CE: Georg Cantor published *Beiträge zur Begründung der transfiniten Mengenlehre*
