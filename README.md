@@ -401,6 +401,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ### 1930s
 - 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
+- 1931 CE: [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski) published *A Non-Aristotelian System and its Necessity for Rigour in Mathematics and Physics* coining ["A map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
 - 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
 - 1936 CE: Theodore P. Wright published *Factors affecting the costs of airplanes*
 - 1936 CE: Alonzo Church published *An unsolvable problem of elementary number theory*
