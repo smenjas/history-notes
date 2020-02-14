@@ -281,23 +281,29 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1620 CE: [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) published [*Novum Organum* (*New Organ*)](https://en.wikipedia.org/wiki/Novum_Organum)
 - 1624 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the [compound microscope](https://en.wikipedia.org/wiki/Optical_microscope#Compound_microscope)
 - 1632 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published his [*Dialogue Concerning the Two Chief World Systems*](https://en.wikipedia.org/wiki/Dialogue_Concerning_the_Two_Chief_World_Systems)
-- 1637 CE: René Descartes published *Discourse on the Method*
+- 1636 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) published *Methodus ad disquirendam maximam et minimam et de tangentibus linearum curvarum*
+- 1637 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Discourse on the Method*](https://en.wikipedia.org/wiki/Discourse_on_the_Method)
+- 1637 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*La Géométrie*](https://en.wikipedia.org/wiki/La_G%C3%A9om%C3%A9trie)
 - 1638 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Two New Sciences*](https://en.wikipedia.org/wiki/Two_New_Sciences)
-- 1641 CE: René Descartes published *Meditations on First Philosophy*
-- 1644 CE: René Descartes published *Principles of Philosophy*
-- 1656 CE: Huygens wrote *De motu corporum ex percussione*
-- 1665 CE: Robert Hooke published *Micrographia*
-- 1679 CE: Pierre de Fermat posthumously published *Introduction to Loci*
-- 1681 CE: Thomas Burnet published *Sacred Theory of the Earth*
-- 1684 CE: Gottfried Leibniz published *Nova Methodus pro Maximis et Minimis*
-- 1684 CE: Gottfried Leibniz published *Rules for the Direction of the Mind*
-- 1687 CE: Isaac Newton published the Principia 1E
-- 1689 CE: John Locke published *An Essay Concerning Human Understanding*
-- 1690 CE: Huygens published *Traité de la Lumière* (*Treatise on Light*)
+- 1641 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Meditations on First Philosophy*](https://en.wikipedia.org/wiki/Meditations_on_First_Philosophy)
+- 1644 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Principia Philosophiæ* (*Principles of Philosophy*)](https://en.wikipedia.org/wiki/Principles_of_Philosophy)
+- 1659 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published *De vi centrifuga*, describing [centripetal force](https://en.wikipedia.org/wiki/Centripetal_force)
+- 1665 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) published [*Micrographia*](https://en.wikipedia.org/wiki/Micrographia)
+- 1673 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published [*Horologium Oscillatorium* (*The Pendulum Clock*)](https://en.wikipedia.org/wiki/Horologium_Oscillatorium)
+- 1679 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) posthumously published *Ad Locos Planos et Solidos Isagoge* (*Introduction to Plane and Solid Loci)*
+- 1681 CE: [Thomas Burnet](https://en.wikipedia.org/wiki/Thomas_Burnet) published *Sacred Theory of the Earth*
+- 1684 CE: [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) published [*Nova Methodus pro Maximis et Minimis*](https://en.wikipedia.org/wiki/Nova_Methodus_pro_Maximis_et_Minimis)
+- 1687 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [Principia 1st Ed.](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+- 1689 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Two Treatises of Government*](https://en.wikipedia.org/wiki/Two_Treatises_of_Government)
+- 1690 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*An Essay Concerning Human Understanding*](https://en.wikipedia.org/wiki/An_Essay_Concerning_Human_Understanding)
+- 1690 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published [*Traité de la Lumière* (*Treatise on Light*)](https://en.wikipedia.org/wiki/Treatise_on_Light)
+- 1693 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Some Thoughts Concerning Education*](https://en.wikipedia.org/wiki/Some_Thoughts_Concerning_Education)
 
 ## 1700s
-- 1713 CE: Isaac Newton published the Principia 2E
-- 1726 CE: Isaac Newton published the Principia 3E
+- 1703 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) posthumously published *De motu corporum ex percussione*, describing [elastic collision](https://en.wikipedia.org/wiki/Elastic_collision)
+- 1706 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) posthumously published [*Of the Conduct of the Understanding*](https://en.wikipedia.org/wiki/Of_the_Conduct_of_the_Understanding), a handbook for autodidacts
+- 1713 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [Principia 2nd Ed.](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+- 1726 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [Principia 3rd Ed.](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
 - 1735 CE: Carl Linnaeus published Systema Naturae 1E
 - 1736 CE: Leonhard Euler published *Mechanica*
 - 1736 CE: Leonhard Euler published *Solutio problematis ad geometriam situs pertinentis*, founding graph theory
