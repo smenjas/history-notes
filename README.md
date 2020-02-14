@@ -487,18 +487,20 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1986 CE: Leslie Lamport published *The Definitive, Non-Technical Introduction to LaTeX, Professional Typesetting and Scientific Publishing*
 - 1987 CE: Richard Feynman published *Elementary Particles and the Laws of Physics*
 - 1987 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU C Compiler*](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+- 1987 CE: [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) released the [Perl programming language](https://en.wikipedia.org/wiki/Perl)
 - 1988 CE: CO2 exceeded 350ppm
 - 1989 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 1* (GPLv1)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 
 ### 1990s
 - 1990 CE: CO2 exceeded 360ppm
 - 1990 CE: Woese et al published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
+- 1990 CE: [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) released the [Python programming language](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 - 1991 CE: [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) invented the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
 - 1991 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 2* (GPLv2)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1992 CE: [William](https://en.wikipedia.org/wiki/William_Jolitz) & [Lynne Jolitz](https://en.wikipedia.org/wiki/Lynne_Jolitz) released [386BSD](https://en.wikipedia.org/wiki/386BSD)
 - 1992 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1993 CE: Some hackers released [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD)
-- 1984 CE: [Apple switched from Motorola 68k chips to PowerPC](https://en.wikipedia.org/wiki/Power_Macintosh)
+- 1994 CE: [Apple switched from Motorola 68k chips to PowerPC](https://en.wikipedia.org/wiki/Power_Macintosh)
 - 1995 CE: [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) created [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - 1995 CE: Richard Feynman posthumously published *Lectures on Gravitation*
 - 1997 CE: Richard Feynman posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
@@ -510,7 +512,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released [Darwin](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29)
 - 2000 CE: CO2 exceeded 370ppm
 - 2000 CE: Richard Feynman posthumously published *Feynman Lectures on Computation*
-- 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) released [KHTML](https://en.wikipedia.org/wiki/KHTML), the predecessor to WebKit
+- 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published [KHTML](https://en.wikipedia.org/wiki/KHTML), the predecessor to WebKit
 - 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 - 2001 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Earth](https://en.wikipedia.org/wiki/Google_Earth)
 - 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) published [Markdown](https://en.wikipedia.org/wiki/Markdown) as open source software
