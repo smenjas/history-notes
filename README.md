@@ -370,6 +370,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1886 CE: Louis Pasteur published *Traitement de la Rage*
 - 1887 CE: Alexander G. Bell patented *Transmitting and recording sounds by radiant energy*
 - 1887 CE: Alexander G. Bell patented *Reproducing sounds from phonograph records*
+- 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
 - 1894 CE: Heinrich Hertz published *The Principles of Mechanics Presented in a New Form*
 - 1896 CE: Guglielmo Marconi patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*
 - 1897 CE: Georg Cantor published *Beiträge zur Begründung der transfiniten Mengenlehre*
@@ -478,7 +479,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1978 CE: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) released [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), including [ex](https://en.wikipedia.org/wiki/Ex_%28text_editor%29) and thus [vi](https://en.wikipedia.org/wiki/Vi)
 
 ### 1980s
-- 1984 CE: Apple released the Macintosh
+- 1984 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Macintosh](https://en.wikipedia.org/wiki/Macintosh)
 - 1984 CE: Donald Knuth published *The TeXbook*
 - 1985 CE: Richard Feynman published *QED: The Strange Theory of Light and Matter*
 - 1986 CE: Donald Knuth published *The METAFONTbook*
@@ -499,7 +500,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1984 CE: [Apple switched from Motorola 68k chips to PowerPC](https://en.wikipedia.org/wiki/Power_Macintosh)
 - 1995 CE: Richard Feynman posthumously published *Lectures on Gravitation*
 - 1997 CE: Richard Feynman posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
-- 1997 CE: Google released Google Search
+- 1997 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Search](https://en.wikipedia.org/wiki/Google_Search)
 - 1998 CE: T. Cavalier-Smith published *A revised six-kingdom system of life*
 - 1998 CE: [Netscape](https://en.wikipedia.org/wiki/Netscape) released the source code to [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator)
 
@@ -507,20 +508,25 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2000 CE: CO2 exceeded 370ppm
 - 2000 CE: Richard Feynman posthumously published *Feynman Lectures on Computation*
 - 2000 CE: CO2 exceeded 380ppm
-- 2005 CE: Google released Google Maps
+- 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) released [KHTML](https://en.wikipedia.org/wiki/KHTML), the predecessor to WebKit
+- 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
+- 2001 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Earth](https://en.wikipedia.org/wiki/Google_Earth)
+- 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) released [Markdown](https://en.wikipedia.org/wiki/Markdown) as open source software
+- 2005 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)
+- 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released [WebKit](https://en.wikipedia.org/wiki/WebKit) as open source software
 - 2006 CE: [Apple switched from PowerPC chips to Intel x86](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
 - 2006 CE: Sun Microsystems released the Java Virtual Machine (JVM) under the GPLv2.
 - 2007 CE: Richard Stallman published the *GNU General Public License, version 3* (GPLv3)
-- 2007 CE: Google released Street View
-- 2007 CE: Apple released the iPhone, popularizing multitouch displays
+- 2007 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Street View](https://en.wikipedia.org/wiki/Google_Street_View)
+- 2007 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPhone](https://en.wikipedia.org/wiki/IPhone), popularizing multitouch displays
 - 2000 CE: CO2 exceeded 390ppm
 
 ### 2010s
-- 2010 CE: Apple released the iPad
+- 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the iPad, a practical solid-state computer with a relatively large screen
 - 2011 CE: Donald Knuth published *The Art of Computer Programming, volume 4A*
-- 2012 CE: Tesla released the Model S, a somewhat expensive, practical electric car
+- 2012 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model S](https://en.wikipedia.org/wiki/Tesla_Model_S), a somewhat expensive, practical electric car
 - 2013 CE: Daily average CO2 exceeded 400ppm
 - 2015 CE: T. Cavalier-Smith et al published *A higher level classification of all living organisms*
 - 2015 CE: Anja Spang et al published *Complex archaea that bridge the gap between prokaryotes and eukaryotes*
-- 2017 CE: Tesla released the Model 3, a somewhat affordable, practical electric car
+- 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
 - 2018 CE: Daily average CO2 exceeded 410ppm
