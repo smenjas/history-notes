@@ -171,6 +171,3 @@ Philosophy (from Greek φιλοσοφία, philosophia, literally "love of wisdo
 - [Value](https://en.wikipedia.org/wiki/Value_%28ethics%29): the degree of importance of some thing or action
 - [Violence](https://en.wikipedia.org/wiki/Violence): using physical force to abuse, damage, destroy, or injure
 - [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty): having imperfect or unknown information
-
-## License
-Released as open source software under the terms of the [ISC License](https://en.wikipedia.org/wiki/ISC_license).
