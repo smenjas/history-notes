@@ -246,11 +246,11 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 5k BCE: Humans domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig) in the Andes
 - 3300 BCE: [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
 
-# Writing
+### Writing
 - 3350 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) wrote [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3300 BCE: People in the [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) wrote the [Indus script](https://en.wikipedia.org/wiki/Indus_script)
 - 3200 BCE: [The Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph)
-- 3000 BCE: Many modern artifacts existed in Indus Valley ([sanitation](https://en.wikipedia.org/wiki/Sanitation), [distillation](https://en.wikipedia.org/wiki/Distillation), [levee](https://en.wikipedia.org/wiki/Levee), [scales](https://en.wikipedia.org/wiki/Weighing_scale), etc.)
+- 3000 BCE: Many modern artifacts existed in the Indus Valley ([sanitation](https://en.wikipedia.org/wiki/Sanitation), [distillation](https://en.wikipedia.org/wiki/Distillation), [levee](https://en.wikipedia.org/wiki/Levee), [scales](https://en.wikipedia.org/wiki/Weighing_scale), etc.)
 - 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
 - 1900 BCE: [Iron smelted and smithed](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
 - 1850 BCE: People near Wadi El-Hol, Egypt wrote [Proto-Sinaitic script](https://en.wikipedia.org/wiki/Proto-Sinaitic_script)
