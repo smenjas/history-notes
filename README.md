@@ -30,8 +30,13 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 - [< 1 Billion Years Ago](#-1-billion-years-ago)
 - [< 100 Million Years Ago](#-100-million-years-ago)
+- [< 10 Million Years Ago](#-10-million-years-ago)
+  - [Tools](#tools)
 - [< 1 Million Years Ago](#-1-million-years-ago)
 - [Holocene Epoch](#holocene-epoch)
+  - [Writing](#writing)
+  - [History](#history)
+  - [Mathematics](#mathematics)
 - [Common Era](#common-era)
 - [1500s](#1500s)
 - [1600s](#1600s)
@@ -102,7 +107,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - ? BP: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
 - 680Ma BP: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
 - 680Ma BP: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
-- 741Ma BP: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
+- 741Ma? BP: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
 - 662Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
 - 650Ma BP: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
 - 650-635Ma BP: [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
@@ -112,7 +117,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 579Ma BP: [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340Ka
 - 575Ma BP: [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion), producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
 - 558Ma BP: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
-- 891M? BP: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
+- 891Ma? BP: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
 - 555Ma BP: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
 - ? BP: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
 - 542Ma BP: [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction)
@@ -160,10 +165,14 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 25Ma BP: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
 - 15.7Ma BP: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) split from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
 - 14Ma BP: [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption), extinctions related to cooling
+
+## < 10 Million Years Ago
 - 8.8Ma BP: [Homininae](https://en.wikipedia.org/wiki/Homininae) split from [orangutans](https://en.wikipedia.org/wiki/Orangutan)
 - 6.3Ma BP: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
 - 5.96-5.33Ma BP: [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
 - 4.2M-3.8Ma BP: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) emerged in Ethiopia & Kenya
+
+### Tools
 - 3.4Ma BP: [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in Ethiopia, near Gona)
 - 3.3Ma BP: [Large stone tools made in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
 - 2.8Ma BP: [Homo genus](https://en.wikipedia.org/wiki/Homo) emerged
@@ -232,16 +241,39 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 10.2k BCE: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO2 was 270ppm
 - 7.5k BCE: [A human lived with a cat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
 - 6.4k BCE: Humans in the Fertile Crescent made [pottery](https://en.wikipedia.org/wiki/Pottery)
+- 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
 - 5k BCE: Humans smelted copper on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
 - 5k BCE: Humans domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig) in the Andes
 - 3300 BCE: [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
-- 3000 BCE: Many modern artifacts existed in Indus Valley (sanitation, distillation, levee, scales, etc.)
-- 1900 BCE: Iron smelted and smithed in Anatolia or Caucasus
+
+# Writing
+- 3350 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) wrote [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
+- 3300 BCE: People in the [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) wrote the [Indus script](https://en.wikipedia.org/wiki/Indus_script)
+- 3200 BCE: [The Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph)
+- 3000 BCE: Many modern artifacts existed in Indus Valley ([sanitation](https://en.wikipedia.org/wiki/Sanitation), [distillation](https://en.wikipedia.org/wiki/Distillation), [levee](https://en.wikipedia.org/wiki/Levee), [scales](https://en.wikipedia.org/wiki/Weighing_scale), etc.)
+- 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
+- 1900 BCE: [Iron smelted and smithed](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
+- 1850 BCE: People near Wadi El-Hol, Egypt wrote [Proto-Sinaitic script](https://en.wikipedia.org/wiki/Proto-Sinaitic_script)
+- 1800-1450 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Linear A](https://en.wikipedia.org/wiki/Linear_A), descended from Cretan hieroglyphs
+- 1450-1200 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) wrote [Linear B](https://en.wikipedia.org/wiki/Linear_B), descended from Linear A
+- 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu), China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
 - 1200-1150 BCE: [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse)
+- 1050 BCE: [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) wrote using the [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet), descended from Linear B
+- 900 BCE: [Olmecs](https://en.wikipedia.org/wiki/Olmecs) carved characters into the [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block)
+- 800 BCE: [The Greek alphabet](https://en.wikipedia.org/wiki/Archaic_Greek_alphabets) descended from the Phoenician alphabet, introducing vowels
+- 800 BCE: [The Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet) descended from the Phoenician alphabet
+- 800 BCE: [The Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet) descended from the Aramaic alphabet
+- 700 BCE: [Etruscans](https://en.wikipedia.org/wiki/Etruscan_civilization) wrote using the [Etruscan alphabet](https://en.wikipedia.org/wiki/Etruscan_alphabet), descended from the Greek alphabet
+- 600 BCE: [Latin script](https://en.wikipedia.org/wiki/Latin_script) originated, descended from the Etruscan alphabet
+- 550 BCE: [Cyrus the Great](https://en.wikipedia.org/wiki/Cyrus_the_Great) founded the [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire), the first historical event as described by Herodotus
 - 530 BCE: [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) founded a school at [Croton](https://en.wikipedia.org/wiki/Crotone)
+- 500 BCE: [Darius I](https://en.wikipedia.org/wiki/Darius_the_Great) standardized the [Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet), descended from the Phoenician alphabet
 - 500 BCE: [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) published [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War)
-- 440 BCE: [Herodotus](https://en.wikipedia.org/wiki/Herodotus) wrote [*The Histories*](https://en.wikipedia.org/wiki/Histories_%28Herodotus%29), beginning [historiography](https://en.wikipedia.org/wiki/Historiography)
-- 431-411 BCE [Thucydides](https://en.wikipedia.org/wiki/Thucydides) wrote the [History of the Peloponnesian War](https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War), establishing [scientific history](https://en.wikipedia.org/wiki/Historical_method)
+
+### History
+- 440 BCE: [Herodotus](https://en.wikipedia.org/wiki/Herodotus) wrote [*The Histories*](https://en.wikipedia.org/wiki/Histories_%28Herodotus%29), establishing [historiography](https://en.wikipedia.org/wiki/Historiography)
+- 431-411 BCE [Thucydides](https://en.wikipedia.org/wiki/Thucydides) wrote the [*History of the Peloponnesian War*](https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War), establishing [scientific history](https://en.wikipedia.org/wiki/Historical_method)
+- 403 BCE: [Athens](https://en.wikipedia.org/wiki/Athens) officially adopted the modern 24-letter [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
 - 400 BCE: [Laozi](https://en.wikipedia.org/wiki/Laozi) published the [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 - 387 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) founded his [Academy](https://en.wikipedia.org/wiki/Platonic_Academy)
 - 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29)
@@ -249,6 +281,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 350 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*On the Heavens*](https://en.wikipedia.org/wiki/On_the_Heavens)
 - 334 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_%28Classical%29)
 - 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) published *Aṣṭādhyāyī* on Sanskrit grammar.
+
+### Mathematics
 - 300 BCE: [Euclid](https://en.wikipedia.org/wiki/Euclid) wrote [*Elements*](https://en.wikipedia.org/wiki/Euclid%27s_Elements), beginning formal mathematics
 - 300 BCE: [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) founded [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 - 280 BCE: [Aristarchus of Samos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) published [*On the Sizes and Distances (of the Sun and Moon)*](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_%28Aristarchus%29)
@@ -257,6 +291,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) published [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar.
 - 240 BCE: [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) measured the [Earth's circumference](https://en.wikipedia.org/wiki/Earth's_circumference)
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
+- 100 BCE: [The Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
+- 46 BCE: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) proposed the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
 - 40 BCE: [Andronicus of Rhodes](https://en.wikipedia.org/wiki/Andronicus_of_Rhodes) published Aristotle's [*Organon*](https://en.wikipedia.org/wiki/Organon) (*Instrument*)
 - ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) published the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
 
@@ -264,7 +300,12 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 108 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) published [*Discourses of Epictetus*](https://en.wikipedia.org/wiki/Discourses_of_Epictetus)
 - 125 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) published [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) published commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art)
+- 400 CE: [The Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
+- 525 CE: [Dionysius Exiguus](https://en.wikipedia.org/wiki/Dionysius_Exiguus) invented the [*Anno Domini*](https://en.wikipedia.org/wiki/Anno_Domini) [calendar era](https://en.wikipedia.org/wiki/Calendar_era), an alternative to the [Era of the Martyrs](https://en.wikipedia.org/wiki/Era_of_the_Martyrs)
+- 732 CE: [Bede](https://en.wikipedia.org/wiki/Bede) wrote the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People), popularizing the *Anno Domini* era
 - 820 CE: [al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of algebra
+- 863 CE: [Saints Cyril & Methodius](https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius) developed the [Glagolitic script](https://en.wikipedia.org/wiki/Glagolitic_script), derived from medieval cursive [Greek minuscule script](https://en.wikipedia.org/wiki/Greek_minuscule)
+- 893 CE: [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script) developed, based on Greek [uncial script](https://en.wikipedia.org/wiki/Uncial_script) & Glagolitic script
 - 1440 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) invented the [printing press](https://en.wikipedia.org/wiki/Printing_press)
 - 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
 - 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of the Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
@@ -273,6 +314,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1532 CE: [Niccolò Machiavelli's](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) published
 - 1543 CE: [Andreas Vesalius](https://en.wikipedia.org/wiki/Andreas_Vesalius) published [*De humani corporis fabrica* (*On the fabric of the human body*)](https://en.wikipedia.org/wiki/De_humani_corporis_fabrica)
 - 1543 CE: [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) published [*De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)
+- 1582 CE: [Pope Gregory XIII](https://en.wikipedia.org/wiki/Pope_Gregory_XIII) introduced the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
 - 1593 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the modern [thermometer](https://en.wikipedia.org/wiki/Thermometer)
 - 1598 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [military compass](https://en.wikipedia.org/wiki/Sector_%28instrument%29)
 
