@@ -163,19 +163,21 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 40Ma BP: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
 - 25Ma BP: O2 dropped to 0.21 atm
 - 25Ma BP: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
-- 15.7Ma BP: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) split from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
+- 15.7Ma BP: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
+- 14Ma BP: [Homininae](https://en.wikipedia.org/wiki/Homininae) [split](https://en.wikipedia.org/wiki/Orangutan%E2%80%93human_last_common_ancestor) from [orangutans](https://en.wikipedia.org/wiki/Orangutan)
 - 14Ma BP: [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption), extinctions related to cooling
 
 ## < 10 Million Years Ago
-- 8.8Ma BP: [Homininae](https://en.wikipedia.org/wiki/Homininae) split from [orangutans](https://en.wikipedia.org/wiki/Orangutan)
-- 6.3Ma BP: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
+- 8Ma BP: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
+- 7Ma BP: [Hominina](https://en.wikipedia.org/wiki/Human_taxonomy#Hominina) [split](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor) from [Panina](https://en.wikipedia.org/wiki/Pan_%28genus%29), i.e. [chimpanzees](https://en.wikipedia.org/wiki/Chimpanzee) and [bonobos](https://en.wikipedia.org/wiki/Bonobo)
 - 5.96-5.33Ma BP: [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
 - 4.2M-3.8Ma BP: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) emerged in Ethiopia & Kenya
 
 ### Tools
 - 3.4Ma BP: [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in Ethiopia, near Gona)
 - 3.3Ma BP: [Large stone tools made in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
-- 2.8Ma BP: [Homo genus](https://en.wikipedia.org/wiki/Homo) emerged
+- 2.8Ma BP: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) emerged
+- 1.9Ma BP: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) emerged
 - 1.25-0.7Ma BP: [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition), glacial cycles switched from 41ka to 100ka
 - 1.07Ma BP: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana.
 - 1.0Ma BP: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) [controlled fire](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans) in [Wonderwerk Cave](https://en.wikipedia.org/wiki/Wonderwerk_Cave), in the Asbestos Mountains of South Africa
@@ -244,9 +246,9 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
 - 5k BCE: Humans smelted copper on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
 - 5k BCE: Humans domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig) in the Andes
-- 3300 BCE: [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
 
 ### Writing
+- 3300 BCE: [The Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
 - 3300 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Uruk](https://en.wikipedia.org/wiki/Uruk) on the ancient channel of the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) wrote [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3300 BCE: People in the [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) wrote the [Indus script](https://en.wikipedia.org/wiki/Indus_script)
 - 3200 BCE: [The Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
@@ -259,6 +261,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1800-1450 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Linear A](https://en.wikipedia.org/wiki/Linear_A), descended from Cretan hieroglyphs
 - 1700 BCE: [King Anitta](https://en.wikipedia.org/wiki/Anitta) who wrote the oldest known [Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages) text in [Hittite](https://en.wikipedia.org/wiki/Hittite_language), burned [Hattusa](https://en.wikipedia.org/wiki/Hattusa)
 - 1450-1200 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) wrote [Linear B](https://en.wikipedia.org/wiki/Linear_B), descended from Linear A
+- 1300 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) made [concrete](https://en.wikipedia.org/wiki/Concrete) floors in the royal palace of [Tiryns](https://en.wikipedia.org/wiki/Tiryns) on the [Peloponnese peninsula](https://en.wikipedia.org/wiki/Peloponnese)
 - 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu), China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
 - 1200-1150 BCE: [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse)
 - 1050 BCE: [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) wrote using the [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet), descended from Linear B
@@ -267,6 +270,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 800 BCE: [The Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet) descended from the Phoenician alphabet
 - 800 BCE: [The Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet) descended from the Aramaic alphabet
 - 700 BCE: [Etruscans](https://en.wikipedia.org/wiki/Etruscan_civilization) wrote using the [Etruscan alphabet](https://en.wikipedia.org/wiki/Etruscan_alphabet), descended from the Greek alphabet
+- 700 BCE: [Nabatean](https://en.wikipedia.org/wiki/Nabataean_Kingdom) traders discovered [hydraulic lime](https://en.wikipedia.org/wiki/Hydraulic_lime) and pioneered [concrete](https://en.wikipedia.org/wiki/Concrete), using it to make waterproof underground [cisterns](https://en.wikipedia.org/wiki/Cistern) in the desert
+- 688 BCE: The [Assyrian](https://en.wikipedia.org/wiki/Assyria) Jerwan Aqueduct made use of waterproof [concrete](https://en.wikipedia.org/wiki/Concrete)
 - 668 BCE: [Ashurbanipal](https://en.wikipedia.org/wiki/Ashurbanipal) systematically collected the [first known library](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal) in [Nineveh](https://en.wikipedia.org/wiki/Nineveh) on the [Tigris River](https://en.wikipedia.org/wiki/Tigris), including the [*Epic of Gilgamesh*](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
 - 600 BCE: [Latin script](https://en.wikipedia.org/wiki/Latin_script) originated, descended from the Etruscan alphabet
 - 550 BCE: [Cyrus the Great](https://en.wikipedia.org/wiki/Cyrus_the_Great) founded the [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire), the first historical event as described by Herodotus
@@ -279,7 +284,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 ### History
 - 440 BCE: [Herodotus](https://en.wikipedia.org/wiki/Herodotus) wrote [*The Histories*](https://en.wikipedia.org/wiki/Histories_%28Herodotus%29), establishing [historiography](https://en.wikipedia.org/wiki/Historiography)
 - 431-411 BCE [Thucydides](https://en.wikipedia.org/wiki/Thucydides) wrote the [*History of the Peloponnesian War*](https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War), establishing [scientific history](https://en.wikipedia.org/wiki/Historical_method)
-- 403 BCE: [Athens](https://en.wikipedia.org/wiki/Athens) officially adopted the modern 24-letter [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
+- 403 BCE: [Athens](https://en.wikipedia.org/wiki/Athens) officially adopted the standard 24-letter [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
 - 400 BCE: [Laozi](https://en.wikipedia.org/wiki/Laozi) published the [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 - 387 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) founded his [Academy](https://en.wikipedia.org/wiki/Platonic_Academy)
 - 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29)
