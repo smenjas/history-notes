@@ -247,14 +247,17 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 3300 BCE: [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
 
 ### Writing
-- 3350 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) wrote [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
+- 3300 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Uruk](https://en.wikipedia.org/wiki/Uruk) on the ancient channel of the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) wrote [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3300 BCE: People in the [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) wrote the [Indus script](https://en.wikipedia.org/wiki/Indus_script)
-- 3200 BCE: [The Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph)
+- 3200 BCE: [The Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3000 BCE: Many modern artifacts existed in the Indus Valley ([sanitation](https://en.wikipedia.org/wiki/Sanitation), [distillation](https://en.wikipedia.org/wiki/Distillation), [levee](https://en.wikipedia.org/wiki/Levee), [scales](https://en.wikipedia.org/wiki/Weighing_scale), etc.)
 - 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
+- 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
 - 1900 BCE: [Iron smelted and smithed](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
 - 1850 BCE: People near Wadi El-Hol, Egypt wrote [Proto-Sinaitic script](https://en.wikipedia.org/wiki/Proto-Sinaitic_script)
+- 1800 BCE: Assyrians from [Assur](https://en.wikipedia.org/wiki/Assur) on the [Tigris River](https://en.wikipedia.org/wiki/Tigris) introduced [cuneiform](https://en.wikipedia.org/wiki/Cuneiform) to [Hattusa, Turkey](https://en.wikipedia.org/wiki/Hattusa), the capital of the [Hittite Empire](https://en.wikipedia.org/wiki/Hittites)
 - 1800-1450 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Linear A](https://en.wikipedia.org/wiki/Linear_A), descended from Cretan hieroglyphs
+- 1700 BCE: [King Anitta](https://en.wikipedia.org/wiki/Anitta) who wrote the oldest known [Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages) text in [Hittite](https://en.wikipedia.org/wiki/Hittite_language), burned [Hattusa](https://en.wikipedia.org/wiki/Hattusa)
 - 1450-1200 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) wrote [Linear B](https://en.wikipedia.org/wiki/Linear_B), descended from Linear A
 - 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu), China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
 - 1200-1150 BCE: [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse)
@@ -264,11 +267,14 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 800 BCE: [The Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet) descended from the Phoenician alphabet
 - 800 BCE: [The Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet) descended from the Aramaic alphabet
 - 700 BCE: [Etruscans](https://en.wikipedia.org/wiki/Etruscan_civilization) wrote using the [Etruscan alphabet](https://en.wikipedia.org/wiki/Etruscan_alphabet), descended from the Greek alphabet
+- 668 BCE: [Ashurbanipal](https://en.wikipedia.org/wiki/Ashurbanipal) systematically collected the [first known library](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal) in [Nineveh](https://en.wikipedia.org/wiki/Nineveh) on the [Tigris River](https://en.wikipedia.org/wiki/Tigris), including the [*Epic of Gilgamesh*](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
 - 600 BCE: [Latin script](https://en.wikipedia.org/wiki/Latin_script) originated, descended from the Etruscan alphabet
 - 550 BCE: [Cyrus the Great](https://en.wikipedia.org/wiki/Cyrus_the_Great) founded the [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire), the first historical event as described by Herodotus
 - 530 BCE: [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) founded a school at [Croton](https://en.wikipedia.org/wiki/Crotone)
 - 500 BCE: [Darius I](https://en.wikipedia.org/wiki/Darius_the_Great) standardized the [Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet), descended from the Phoenician alphabet
 - 500 BCE: [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) published [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War)
+- 472 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)' [tragedy](https://en.wikipedia.org/wiki/Greek_tragedy) [*The Persians*](https://en.wikipedia.org/wiki/The_Persians) won first prize in the Athens City [Dionysia festival](https://en.wikipedia.org/wiki/Dionysia)
+- 458 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)' [tragedy](https://en.wikipedia.org/wiki/Greek_tragedy) [*The Oresteia*](https://en.wikipedia.org/wiki/Oresteia) won first prize in the Athens City [Dionysia festival](https://en.wikipedia.org/wiki/Dionysia)
 
 ### History
 - 440 BCE: [Herodotus](https://en.wikipedia.org/wiki/Herodotus) wrote [*The Histories*](https://en.wikipedia.org/wiki/Histories_%28Herodotus%29), establishing [historiography](https://en.wikipedia.org/wiki/Historiography)
@@ -285,6 +291,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 ### Mathematics
 - 300 BCE: [Euclid](https://en.wikipedia.org/wiki/Euclid) wrote [*Elements*](https://en.wikipedia.org/wiki/Euclid%27s_Elements), beginning formal mathematics
 - 300 BCE: [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) founded [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
+- 295 BCE: [Demetrius of Phalerum](https://en.wikipedia.org/wiki/Demetrius_of_Phalerum) acquired writings of [Aristotle](https://en.wikipedia.org/wiki/Aristotle) and [Theophrastus](https://en.wikipedia.org/wiki/Theophrastus) for [Ptolemy I Soter](https://en.wikipedia.org/wiki/Ptolemy_I_Soter)
+- 283 BCE: [Ptolemy II Philadeplhus](https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus) created the [Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria), continuing work started by [Ptolemy I Soter](https://en.wikipedia.org/wiki/Ptolemy_I_Soter)
 - 280 BCE: [Aristarchus of Samos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) published [*On the Sizes and Distances (of the Sun and Moon)*](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_%28Aristarchus%29)
 - 250 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
 - 234 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
@@ -298,6 +306,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ## Common Era
 - 108 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) published [*Discourses of Epictetus*](https://en.wikipedia.org/wiki/Discourses_of_Epictetus)
+- 111 CE: [Ban Biao](https://en.wikipedia.org/wiki/Ban_Biao)'s children published [*The Book of Han*](https://en.wikipedia.org/wiki/Book_of_Han), a [history of China](https://en.wikipedia.org/wiki/History_of_China)
 - 125 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) published [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) published commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art)
 - 400 CE: [The Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
