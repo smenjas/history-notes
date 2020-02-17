@@ -40,6 +40,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [Common Era](#common-era)
 - [1500s](#1500s)
 - [1600s](#1600s)
+  - [Cell Biology](#cell-biology)
 - [1700s](#1700s)
 - [1800s](#1800s)
 - [1900s](#1900s)
@@ -97,8 +98,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ## < 1 Billion Years Ago
 - 950Ma BP: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
-- 900Ma BP: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) emerge
-- 896Ma BP: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerge
+- 900Ma BP: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) emerged
+- 896Ma BP: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerged
 - 850Ma BP: O2 was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
 - 800Ma BP: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
 - 760Ma BP: [Animalia](https://en.wikipedia.org/wiki/Animal) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
@@ -159,6 +160,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 66Ma BP: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
 - 63Ma BP: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
 - 55Ma BP: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO2, global temperatures increased by 5-8 °C.
+- 49-45Ma BP: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
 - 40Ma BP: O2 dropped to 0.23 atm
 - 40Ma BP: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
 - 25Ma BP: O2 dropped to 0.21 atm
@@ -223,8 +225,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 115ka BP: [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
 - 83ka BP: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
 - 75ka BP: [Toba volcano supereruption](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
+- 70ka BP: Gene mutations that allow abstract thinking emerged
 - 70-50ka BP: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
-- 70ka BP: Gene mutations that allow abstract thinking emerge
 - 50ka BP: Explosion of innovation: tools and cultures become more sophisticated
 - 40ka BP: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
 - 32ka BP: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
@@ -301,6 +303,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 280 BCE: [Aristarchus of Samos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) published [*On the Sizes and Distances (of the Sun and Moon)*](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_%28Aristarchus%29)
 - 250 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
 - 234 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
+- 220-150 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) invented the [astrolabe](https://en.wikipedia.org/wiki/Astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) published [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar.
 - 240 BCE: [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) measured the [Earth's circumference](https://en.wikipedia.org/wiki/Earth's_circumference)
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
@@ -320,6 +323,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 820 CE: [al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of algebra
 - 863 CE: [Saints Cyril & Methodius](https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius) developed the [Glagolitic script](https://en.wikipedia.org/wiki/Glagolitic_script), derived from medieval cursive [Greek minuscule script](https://en.wikipedia.org/wiki/Greek_minuscule)
 - 893 CE: [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script) developed, based on Greek [uncial script](https://en.wikipedia.org/wiki/Uncial_script) & Glagolitic script
+- 900 CE: [Arab navigators](https://en.wikipedia.org/wiki/Geography_and_cartography_in_medieval_Islam) originated the [kamal](https://en.wikipedia.org/wiki/Kamal_%28navigation%29), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
+- 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1440 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) invented the [printing press](https://en.wikipedia.org/wiki/Printing_press)
 - 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
 - 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of the Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
@@ -347,7 +352,11 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1641 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Meditations on First Philosophy*](https://en.wikipedia.org/wiki/Meditations_on_First_Philosophy)
 - 1644 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Principia Philosophiæ* (*Principles of Philosophy*)](https://en.wikipedia.org/wiki/Principles_of_Philosophy)
 - 1659 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published *De vi centrifuga*, describing [centripetal force](https://en.wikipedia.org/wiki/Centripetal_force)
-- 1665 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) published [*Micrographia*](https://en.wikipedia.org/wiki/Micrographia)
+- 1660 CE: Joost van Breen invented the spiegelboog ("mirror bow"), a [reflecting](https://en.wikipedia.org/wiki/Reflecting_instrument) [cross staff](https://en.wikipedia.org/wiki/Jacob%27s_staff), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
+
+### Cell Biology
+- 1665 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) published [*Micrographia*](https://en.wikipedia.org/wiki/Micrographia), coining the biological term [cell](https://en.wikipedia.org/wiki/Cell_%28biology%29)
+- 1666 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) described a [reflecting instrument](https://en.wikipedia.org/wiki/Reflecting_instrument), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
 - 1673 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published [*Horologium Oscillatorium* (*The Pendulum Clock*)](https://en.wikipedia.org/wiki/Horologium_Oscillatorium)
 - 1679 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) posthumously published *Ad Locos Planos et Solidos Isagoge* (*Introduction to Plane and Solid Loci)*
 - 1681 CE: [Thomas Burnet](https://en.wikipedia.org/wiki/Thomas_Burnet) published *Sacred Theory of the Earth*
@@ -357,16 +366,18 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1690 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*An Essay Concerning Human Understanding*](https://en.wikipedia.org/wiki/An_Essay_Concerning_Human_Understanding)
 - 1690 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published [*Traité de la Lumière* (*Treatise on Light*)](https://en.wikipedia.org/wiki/Treatise_on_Light)
 - 1693 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Some Thoughts Concerning Education*](https://en.wikipedia.org/wiki/Some_Thoughts_Concerning_Education)
+- 1699 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) invented the [octant](https://en.wikipedia.org/wiki/Octant_%28instrument%29), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
 
 ## 1700s
 - 1703 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) posthumously published *De motu corporum ex percussione*, describing [elastic collision](https://en.wikipedia.org/wiki/Elastic_collision)
 - 1706 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) posthumously published [*Of the Conduct of the Understanding*](https://en.wikipedia.org/wiki/Of_the_Conduct_of_the_Understanding), a handbook for autodidacts
 - 1713 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [Principia 2nd Ed.](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
 - 1726 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [Principia 3rd Ed.](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+- 1731 CE: [John Hadley](https://en.wikipedia.org/wiki/John_Hadley) & [Thomas Godfrey](https://en.wikipedia.org/wiki/Thomas_Godfrey_%28inventor%29) implemented the [sextant](https://en.wikipedia.org/wiki/Sextant), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
 - 1735 CE: [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) published [Systema Naturae](https://en.wikipedia.org/wiki/Systema_Naturae) 1st Ed.
 - 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Mechanica*](https://en.wikipedia.org/wiki/Mechanica)
 - 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Solutio problematis ad geometriam situs pertinentis*, founding [graph theory](https://en.wikipedia.org/wiki/Graph_theory)
-- 1736 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) demonstrated H1, the first marine chronometer
+- 1736 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) demonstrated H1, the first marine chronometer, helpful for finding [longitude](https://en.wikipedia.org/wiki/Longitude) and thus [navigation](https://en.wikipedia.org/wiki/Navigation)
 - 1744 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Methodus inveniendi lineas curvas* (*A method for finding curved lines*)
 - 1745 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the automated loom
 - 1748 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Introductio in analysin infinitorum* (*Introduction to the analysis of the infinite*)](https://en.wikipedia.org/wiki/Introductio_in_analysin_infinitorum)
@@ -463,6 +474,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ### 1920s
 - 1921 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) posthumously published [*Economy and Society*](https://en.wikipedia.org/wiki/Economy_and_Society)
+- 1922 CE: [Gago Coutinho](https://en.wikipedia.org/wiki/Carlos_Viegas_Gago_Coutinho) modified the [sextant](https://en.wikipedia.org/wiki/Sextant) for [aeronautical](https://en.wikipedia.org/wiki/Aeronautics) [navigation](https://en.wikipedia.org/wiki/Navigation)
 - 1923 CE: John von Neumann published *On the introduction of transfinite numbers*
 - 1925 CE: É. Chatton published *Pansporella perplexa*
 - 1925 CE: John von Neumann published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
