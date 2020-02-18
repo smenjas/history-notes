@@ -363,6 +363,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1638 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Two New Sciences*](https://en.wikipedia.org/wiki/Two_New_Sciences)
 - 1641 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Meditations on First Philosophy*](https://en.wikipedia.org/wiki/Meditations_on_First_Philosophy)
 - 1644 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Principia Philosophiæ* (*Principles of Philosophy*)](https://en.wikipedia.org/wiki/Principles_of_Philosophy)
+- 1648 CE: [Marcus Zuerius van Boxhorn](https://en.wikipedia.org/wiki/Marcus_Zuerius_van_Boxhorn) discovered the similarity among [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages), and supposed the existence of a primitive common language
 - 1658 CE: [Athanasius Kircher](https://en.wikipedia.org/wiki/Athanasius_Kircher) wrote *Scrutinium pestis physico-medicum*, inventing the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
 - 1659 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published *De vi centrifuga*, describing [centripetal force](https://en.wikipedia.org/wiki/Centripetal_force)
 - 1660 CE: Joost van Breen invented the spiegelboog ("mirror bow"), a [reflecting](https://en.wikipedia.org/wiki/Reflecting_instrument) [cross staff](https://en.wikipedia.org/wiki/Jacob%27s_staff), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
@@ -379,26 +380,34 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1682 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered the banded pattern of [muscular fibers](https://en.wikipedia.org/wiki/Muscle), in 1682
 - 1683 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [bacteria](https://en.wikipedia.org/wiki/Bacteria)
 - 1684 CE: [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) published [*Nova Methodus pro Maximis et Minimis*](https://en.wikipedia.org/wiki/Nova_Methodus_pro_Maximis_et_Minimis)
-- 1687 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [Principia 1st Ed.](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+- 1687 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [*Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy)*](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica) 1st edition
 - 1689 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Two Treatises of Government*](https://en.wikipedia.org/wiki/Two_Treatises_of_Government)
 - 1690 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*An Essay Concerning Human Understanding*](https://en.wikipedia.org/wiki/An_Essay_Concerning_Human_Understanding)
 - 1690 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published [*Traité de la Lumière* (*Treatise on Light*)](https://en.wikipedia.org/wiki/Treatise_on_Light)
 - 1693 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Some Thoughts Concerning Education*](https://en.wikipedia.org/wiki/Some_Thoughts_Concerning_Education)
+- 1698 CE: [Jean Bouguer](https://en.wikipedia.org/wiki/Jean_Bouguer) published *Traité complet de la navigation* (*Complete Treaty of Navigation*)
 - 1699 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) invented the [octant](https://en.wikipedia.org/wiki/Octant_%28instrument%29), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
 
 ## 1700s
 - 1703 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) posthumously published *De motu corporum ex percussione*, describing [elastic collision](https://en.wikipedia.org/wiki/Elastic_collision)
+- 1704 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published [*Opticks*](https://en.wikipedia.org/wiki/Opticks)
 - 1706 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) posthumously published [*Of the Conduct of the Understanding*](https://en.wikipedia.org/wiki/Of_the_Conduct_of_the_Understanding), a handbook for autodidacts
-- 1713 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [Principia 2nd Ed.](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
-- 1726 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [Principia 3rd Ed.](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+- 1713 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [*Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy)*](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica) 2nd edition
+- 1726 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [*Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy)*](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica) 3rd edition
+- 1726 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *De Sono* (*On Sound*)
+- 1727 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) published *On the masting of ships*, *On the best method of observing the altitude of stars at sea*, and *On the best method of observing the variation of the compass at sea*
+- 1729 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) published *Essai d'optique sur la gradation de la lumière* (*Optical test on the dimming of light*)
 - 1731 CE: [John Hadley](https://en.wikipedia.org/wiki/John_Hadley) & [Thomas Godfrey](https://en.wikipedia.org/wiki/Thomas_Godfrey_%28inventor%29) implemented the [sextant](https://en.wikipedia.org/wiki/Sextant), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
-- 1735 CE: [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) published [Systema Naturae](https://en.wikipedia.org/wiki/Systema_Naturae) 1st Ed.
+- 1735 CE: [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) published [Systema Naturae](https://en.wikipedia.org/wiki/Systema_Naturae) 1st edition
 - 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Mechanica*](https://en.wikipedia.org/wiki/Mechanica)
 - 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Solutio problematis ad geometriam situs pertinentis*, founding [graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 - 1736 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) demonstrated H1, the first marine chronometer, helpful for finding [longitude](https://en.wikipedia.org/wiki/Longitude) and thus [navigation](https://en.wikipedia.org/wiki/Navigation)
 - 1744 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Methodus inveniendi lineas curvas* (*A method for finding curved lines*)
 - 1745 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the automated loom
+- 1746 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) published *Traité du navire* (*Ship Treaty*), becoming the "father of [naval architecture](https://en.wikipedia.org/wiki/Naval_architecture)"
 - 1748 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Introductio in analysin infinitorum* (*Introduction to the analysis of the infinite*)](https://en.wikipedia.org/wiki/Introductio_in_analysin_infinitorum)
+- 1748 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) invented the [heliometer](https://en.wikipedia.org/wiki/Heliometer), which makes precise measurements between objects seen through a telescope
+- 1749 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) published *La figure de la terre* (*The figure of the Earth*)
 - 1753 CE: [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) published [*Species Plantarum*](https://en.wikipedia.org/wiki/Species_Plantarum)
 - 1754 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Discourse on Inequality*](https://en.wikipedia.org/wiki/Discourse_on_Inequality)
 - 1755 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutiones calculi differentialis*](https://en.wikipedia.org/wiki/Institutiones_calculi_differentialis)
@@ -413,40 +422,60 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1765 CE: [James Watt](https://en.wikipedia.org/wiki/James_Watt) increased the efficiency of the [steam engine](https://en.wikipedia.org/wiki/Watt_steam_engine) with a condenser and steam jacket
 - 1765 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Vollständige Anleitung zur Algebra*
 - 1768 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Letters to a German Princess*](https://en.wikipedia.org/wiki/Letters_to_a_German_Princess)
+- 1769 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) accurately calculated the distance from the Earth to the Sun to be 93 million miles, based on observing the [transit of Venus](https://en.wikipedia.org/wiki/Transit_of_Venus)
 - 1770 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutionum calculi integralis*](https://en.wikipedia.org/wiki/Institutionum_calculi_integralis)
 - 1776 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*Wealth of Nations*](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
+- 1785 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) invented the first man-made [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1788 CE: [James Hutton](https://en.wikipedia.org/wiki/James_Hutton) published [*Theory of the Earth*](https://en.wikipedia.org/wiki/Theory_of_the_Earth)
+- 1793 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) explained [how the human eye focuses on objects at different distances](https://en.wikipedia.org/wiki/Accommodation_%28eye%29)
 
 ## 1800s
 - 1800 CE: [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) published a description of an [electric battery](https://en.wikipedia.org/wiki/History_of_the_battery)
-- 1803 CE: Thomas Young demonstrated the double slit experiment
+- 1801 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *On the mechanics of the eye*, describing [astigmatism](https://en.wikipedia.org/wiki/Astigmatism) for the first time
+- 1802 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Bakerian Lecture: On the Theory of Light and Colours*, hypothesizing that colour perception depends on 3 kinds of nerve fibers in the [retina](https://en.wikipedia.org/wiki/Retina)
+- 1803 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) demonstrated the [double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
+- 1804 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Experiments and Calculations Relative to Physical Optics*
 - 1804 CE: [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard) invented the [Jacquard Loom](https://en.wikipedia.org/wiki/Jacquard_machine)
+- 1805 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *An Essay on the Cohesion of Fluids*
+- 1807 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Course of Lectures on Natural Philosophy and the Mechanical Arts*
 - 1811 CE: Fresnel deposited *Mémoire sur la diffraction de la lumière*
+- 1807 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) introduced the term [Indo-European language](https://en.wikipedia.org/wiki/Indo-European_languages)
+- 1808 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Functions of the Heart and Arteries*
+- 1813 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *System of Practical Nosology*
+- 1814 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) invented the modern [spectroscope](https://en.wikipedia.org/wiki/Spectroscope)
+- 1815 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Practical and Historical Treatise on Consumptive Diseases*
+- 1821 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) developed a [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1833 CE: Charles Lyell published *Principles of Geology*
 - 1840 CE: Louis Agassiz published *Études sur les glaciers*
 - 1842 CE: Christian Doppler published *On the coloured light of the binary stars and some other stars of the heavens*
+- 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
 - 1850 CE: Rudolf Clausius published *On the Moving Force of Heat*
+- 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) invented the [ophthalmoscope](https://en.wikipedia.org/wiki/Ophthalmoscope)
 - 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought)
 - 1855 CE: A. W. Hofmann published *On Insolinic Acid*, describing aromatic compounds
 - 1856 CE: David E. Hughes patented an *Improvement in telegraphs*
+- 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On integrals of the hydrodynamic equations, which correspond to the vortex movements*), introducing [Helmoholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
 - 1859 CE: Charles Darwin published *On the Origin of Species*
 - 1859 CE: David E. Hughes patented an *Improvement in telegraphfng-machlnes* (printing telegraph)
 - 1859 CE: David E. Hughes patented an *Improvement in electro-magnetic telegraphs* (duplex communication)
 - 1861 CE: Thomas Sutton invented the single lens reflex (SLR) camera
 - 1861 CE: James Clerk Maxwell published *On Physical Lines of Force*
 - 1863 CE: Charles Lyell published *Geological Evidences of the Antiquity of Man*
+- 1863 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published [*Sensations of Tone*](https://en.wikipedia.org/wiki/Sensations_of_Tone)
 - 1864 CE: James Clerk Maxwell published *A Dynamical Theory of the Electromagnetic Field*
 - 1866 CE: Gregor Mendel published *Versuche über Pflanzenhybriden*
 - 1866 CE: E. Kaeckel published *Generelle Morphologie der Organismen*
 - 1867 CE: Rudolf Clausius published *The Mechanical Theory of Heat* and coined "entropy"
 - 1867 CE: Joseph Lister published *On the Antiseptic Principle in the Practice of Surgery*
+- 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
 - 1868 CE: James Clerk Maxwell published *On governors*
 - 1869 CE: Dmitri Mendeleev composed his periodic table of the elements
 - 1872 CE: Andrew Ramsay published *The River Courses of England and Wales*
 - 1872 CE: James Clerk Maxwell published his thermodynamic relations
 - 1872 CE: James Clerk Maxwell published *On the Theory of Colour Vision*
 - 1873 CE: James Clerk Maxwell published *A Treatise on Electricity and Magnetism*
-- 1878 CE: Thomas Young coined the term "energy" in its modern usage
+- 1876 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *On the Limits of the Optical Capacity of the Microscope*
+- 1878 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) coined the term "energy" in its modern usage
 - 1878 CE: Louis Pasteur published *Les Microbes organisés*
 - 1879 CE: Emile Berliner patented an *Improvement in electrical-contact telephones*, the carbon microphone
 - 1879 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (*concept-script*)
