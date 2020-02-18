@@ -109,18 +109,18 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 680Ma? BP: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
 - 680Ma? BP: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
 - 824Ma BP: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
+- 797Ma BP: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
 - 717Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
 - 662Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
-- 650Ma? BP: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
 - 684Ma BP: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
 - 684Ma BP: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
+- 676Ma BP: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
 - 650-635Ma BP: [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
 - 633-573Ma BP: [The supercontinent Pannotia existed](https://en.wikipedia.org/wiki/Pannotia) at the South Pole
+- 615Ma BP: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
 - 600Ma BP: O2 exceeded 0.1 atm
 - 579Ma BP: [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340Ka
 - 575Ma BP: [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion), producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
-- 891Ma? BP: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
-- 615Ma BP: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
 - 542Ma BP: [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction)
 - 541Ma BP: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO2 was 4000ppm, O2 was 0.12 atm
 - 517Ma BP: [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction)
