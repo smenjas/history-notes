@@ -9,7 +9,7 @@ Source: [TimeTree](http://www.timetree.org/)
 | [Hominidae](https://en.wikipedia.org/wiki/Hominidae)                                       |               16 |
 | [Hominoidea](https://en.wikipedia.org/wiki/Ape)                                            |               20 |
 | [Catarrhini](https://en.wikipedia.org/wiki/Catarrhini)                                     |               29 |
-| [Simiiformes](https://en.wikipedia.org/wiki/Catarrhini)                                    |               43 |
+| [Simiiformes](https://en.wikipedia.org/wiki/Simian)                                        |               43 |
 | [Haplorrhini](https://en.wikipedia.org/wiki/Haplorhini)                                    |               67 |
 | [Primates](https://en.wikipedia.org/wiki/Primate)                                          |               74 |
 | [Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires)                         |               90 |

@@ -70,7 +70,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - ? BP: [Purine](https://en.wikipedia.org/wiki/Purine) (precursor to adenine and guanine) existed
 - ? BP: [RNA](https://en.wikipedia.org/wiki/RNA) existed
 - ? BP: [DNA](https://en.wikipedia.org/wiki/DNA) existed
-- 4.28-3.48Ga BP: [Last universal common ancestor (LUCA)](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) lived
+- 4.29-3.48Ga BP: [Last universal common ancestor (LUCA)](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) lived
 - 3.8Ga BP: [Archaeal](https://en.wikipedia.org/wiki/Archaea) [lipids](https://en.wikipedia.org/wiki/Lipid) existed
 - 3.5Ga BP: Earliest oxygen production in shallow oceans, absorbed by the sea and sea bed
 - 3.5Ga BP: [Single celled life](https://en.wikipedia.org/wiki/Unicellular_organism) existed
@@ -80,10 +80,10 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2.45Ga BP: O2 production started, practically no atmospheric O2 prior to this, with the possible exception of shallow oceans
 - 2.45-2.22Ga BP: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen
 - 2.4-2.05Ga BP: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
-- 2.1-1.5Ga BP: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
-- 2.0-1.7Ga BP: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
 - ? BP: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
-- 2Ga BP: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
+- 2.1-1.5Ga BP: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
+- 2.1-1.7Ga BP: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
+- 2.1Ga BP: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
 - 1.85Ga BP: O2 reached 0.03 atm, but most was aborbed into oceans and seabed rock
 - 1.4Ga BP: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
 - ? BP: [Orthokaryotes](https://en.wikipedia.org/wiki/Orthokaryotes) split from [Discicristata](https://en.wikipedia.org/wiki/Discicristata)
@@ -92,85 +92,86 @@ Once history begins, I've focused on reproducible publications, patents, and
 - ? BP: [Podiata](https://en.wikipedia.org/wiki/Podiata) split from [Malawimonas](https://en.wikipedia.org/wiki/Malawimonas)
 - ? BP: [Amorphea (a.k.a. Unikonts](https://en.wikipedia.org/wiki/Unikont), "one pole", i.e. a flagellum) split from [CRuMs](https://en.wikipedia.org/wiki/CRuMs) ([heterotrophic](https://en.wikipedia.org/wiki/Heterotroph) protists)
 - ? BP: [Obazoa](https://en.wikipedia.org/wiki/Obazoa) split from [Amoebozoa](https://en.wikipedia.org/wiki/Amoebozoa) (amoeboid protists)
-- 1.3Ga BP: [Opisthokonts](https://en.wikipedia.org/wiki/Opisthokont) ("rear pole", i.e. a flagellum) split from [Apusomonadida](https://en.wikipedia.org/wiki/Apusomonadida) (protozoan zooflagellates)
 - 1.23-0.825Ga BP: [The supercontinent Rodinia](https://en.wikipedia.org/wiki/Rodinia) existed
+- 1.1Ga BP: [Opisthokonts](https://en.wikipedia.org/wiki/Opisthokont) ("rear pole", i.e. a flagellum) split from [Apusomonadida](https://en.wikipedia.org/wiki/Apusomonadida) (protozoan zooflagellates)
 - 1.1Ga BP: [Holozoa](https://en.wikipedia.org/wiki/Holozoa) split from [Holomycota](https://en.wikipedia.org/wiki/Holomycota) (fungi, slime molds, & amoebae)
 - ? BP: [Filozoa](https://en.wikipedia.org/wiki/Filozoa) ("thread animals") split from [Pluriformea](https://en.wikipedia.org/wiki/Pluriformea) ("many shapes")
 
 ## < 1 Billion Years Ago
-- 950Ma BP: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
+- 950Ma? BP: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
+- 952Ma BP: [Animalia](https://en.wikipedia.org/wiki/Animal) (a.k.a. Metazoa) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
+- 948Ma BP: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
 - 900Ma BP: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) emerged
-- 896Ma BP: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerged
+- 896Ma? BP: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerged
 - 850Ma BP: O2 was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
 - 800Ma BP: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
-- 760Ma BP: [Animalia](https://en.wikipedia.org/wiki/Animal) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
-- 751Ma BP: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
-- 717Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
 - ? BP: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
-- 680Ma BP: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
-- 680Ma BP: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
-- 741Ma? BP: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
+- 680Ma? BP: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
+- 680Ma? BP: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
+- 824Ma BP: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
+- 717Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
 - 662Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
-- 650Ma BP: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
+- 650Ma? BP: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
+- 684Ma BP: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
+- 684Ma BP: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
 - 650-635Ma BP: [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
 - 633-573Ma BP: [The supercontinent Pannotia existed](https://en.wikipedia.org/wiki/Pannotia) at the South Pole
-- 610Ma BP: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
 - 600Ma BP: O2 exceeded 0.1 atm
 - 579Ma BP: [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340Ka
 - 575Ma BP: [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion), producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
-- 558Ma BP: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
 - 891Ma? BP: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
-- 555Ma BP: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
-- ? BP: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
+- 615Ma BP: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
 - 542Ma BP: [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction)
 - 541Ma BP: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO2 was 4000ppm, O2 was 0.12 atm
 - 517Ma BP: [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction)
 - 502Ma BP: [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian)
 - 485.4Ma BP: [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event)
+- 473Ma BP: [Gnathostomata](https://en.wikipedia.org/wiki/Gnathostomata) ("jaw mouth", a.k.a. jawed fish) split from [Osteostraci](https://en.wikipedia.org/wiki/Osteostraci) ("bony shields") & [Pituriaspida](https://en.wikipedia.org/wiki/Pituriaspida) ("pituri shield")
 - 440Ma BP: [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events), 86% of species lost
+- 435Ma BP: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
 - 424Ma BP: [Lau extinction event](https://en.wikipedia.org/wiki/Lau_event)
+- 413Ma BP: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
 - 400Ma BP: O2 exceeded 0.15 atm
-- 400Ma BP: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
 - 400Ma BP: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
 - 375Ma BP: [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction), 75% of species lost
+- 352Ma BP: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
 - 350Ma BP: O2 exceeded 0.2 atm
-- 318Ma BP: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
 - 312Ma BP: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
 - 305Ma BP: [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse)
 - 300Ma BP: O2 peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
 - 273Ma BP: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction)
 - 252Ma BP: [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 96% of species lost to volcanoes, O2 fell to 0.15 atm
-- 227Ma BP: [Mammaliaformes](https://en.wikipedia.org/wiki/Mammaliaformes) ("mammal shaped", from Latin mamma for breast) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
-- 210Ma BP: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
 - 201.3Ma BP: [Permian–Jurassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 80% of species lost
 - 200Ma BP: O2 exceeded 0.2 atm
 - 200-150Ma BP: CO2 > 3000ppm
-- ? BP: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
-- ? BP: [Boreoeutheria](https://en.wikipedia.org/wiki/Boreoeutheria) ("northern true beasts") split from [Atlantogenata](https://en.wikipedia.org/wiki/Atlantogenata) (elephants, sloths, etc.)
 - 183Ma BP: [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover)
+- 177Ma BP: [Mammaliaformes](https://en.wikipedia.org/wiki/Mammaliaformes) ("mammal shaped", from Latin mamma for breast) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
+- 159Ma BP: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
 - 150Ma BP: O2 exceeded 0.26 atm
 - 116Ma BP: [Aptian extinction event](https://en.wikipedia.org/wiki/Aptian_extinction)
+- 105Ma BP: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
 
 ## < 100 Million Years Ago
-- 95M-85Ma BP: [Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires) (Supraprimates) split from [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria) (dogs, cats, giraffes, whales, etc.)
+- 96Ma BP: [Boreoeutheria](https://en.wikipedia.org/wiki/Boreoeutheria) ("northern true beasts") split from [Atlantogenata](https://en.wikipedia.org/wiki/Atlantogenata) (elephants, sloths, etc.)
 - 94Ma BP: [Cenomanian-Turonian anoxic event](https://en.wikipedia.org/wiki/Cenomanian-Turonian_boundary_event)
+- 90Ma BP: [Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires) (Supraprimates) split from [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria) (dogs, cats, giraffes, whales, etc.)
 - 88Ma BP: [Euarchonta](https://en.wikipedia.org/wiki/Euarchonta) ("true ancestors") split from [Glires](https://en.wikipedia.org/wiki/Glires) (dormice), maybe
 - 86.2Ma BP: [Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha) split from [Scandentia (tree shrews)](https://en.wikipedia.org/wiki/Treeshrew)
 - 79.6Ma BP: [Primates](https://en.wikipedia.org/wiki/Primate) split from [Dermoptera (gliding mammals)](https://en.wikipedia.org/wiki/Colugo)
-- 80Ma BP: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
+- 67Ma BP: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
 - 66Ma BP: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
-- 63Ma BP: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
 - 55Ma BP: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO2, global temperatures increased by 5-8 °C.
 - 49-45Ma BP: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
+- 43Ma BP: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
 - 40Ma BP: O2 dropped to 0.23 atm
-- 40Ma BP: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
+- 29Ma BP: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
 - 25Ma BP: O2 dropped to 0.21 atm
-- 25Ma BP: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
+- 20Ma BP: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
 - 15.7Ma BP: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
-- 14Ma BP: [Homininae](https://en.wikipedia.org/wiki/Homininae) [split](https://en.wikipedia.org/wiki/Orangutan%E2%80%93human_last_common_ancestor) from [orangutans](https://en.wikipedia.org/wiki/Orangutan)
 - 14Ma BP: [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption), extinctions related to cooling
 
 ## < 10 Million Years Ago
+- 9Ma BP: [Homininae](https://en.wikipedia.org/wiki/Homininae) [split](https://en.wikipedia.org/wiki/Orangutan%E2%80%93human_last_common_ancestor) from [orangutans](https://en.wikipedia.org/wiki/Orangutan)
 - 8Ma BP: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
 - 7Ma BP: [Hominina](https://en.wikipedia.org/wiki/Human_taxonomy#Hominina) [split](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor) from [Panina](https://en.wikipedia.org/wiki/Pan_%28genus%29), i.e. [chimpanzees](https://en.wikipedia.org/wiki/Chimpanzee) and [bonobos](https://en.wikipedia.org/wiki/Bonobo)
 - 5.96-5.33Ma BP: [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
