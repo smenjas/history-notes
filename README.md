@@ -252,25 +252,41 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 18 kya: CO₂ falls to local minimum around 200 ppm, global temp -10 from present
 - 17-15 kya: [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas), global temperatures declined sharply
 - 15-13 kya: [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial), first pronounced warming since LGM
+- 14.5 kya: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
 
 ### Dogs
 - 14.2 kya: Dogs lived with humans in modern Germany
 - 14.2-14.1 kya: [Older Dryas](https://en.wikipedia.org/wiki/Older_Dryas), global temperatures declined sharply
 - 12.9-11.7 kya: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
-- 14.5 kya: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
+
 ### Agriculture
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ was 270 ppm
+- 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
+- 10.6 kya: People in [China](https://en.wikipedia.org/wiki/China) domesticated [cattle](https://en.wikipedia.org/wiki/Cattle)
+- 10 kya: People in [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
 
 ## < 10 Thousand Years Ago
 - 9650 BCE: [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ exceeded 250 ppm
+- 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
+- 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea) & [wheat](https://en.wikipedia.org/wiki/Wheat)
+- 8500 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [sheep](https://en.wikipedia.org/wiki/Domestic_sheep)
+- 8500 BCE: People in the [Tigris basin](https://en.wikipedia.org/wiki/Tigris) [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
+- 8000 BCE: People in [India](https://en.wikipedia.org/wiki/India) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu)
 
 ### Cats
 - 7500 BCE: [A human lived with a cat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
-- 6400 BCE: Humans in the Fertile Crescent made [pottery](https://en.wikipedia.org/wiki/Pottery)
+- 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
+- 6000 BCE: People in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) domesticated the [chicken](https://en.wikipedia.org/wiki/Chicken)
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
-- 5000 BCE: Humans smelted copper on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
-- 5000 BCE: Humans domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig) in the Andes
+- 5000 BCE: People smelted [copper](https://en.wikipedia.org/wiki/Copper) on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
+- 5000 BCE: People in [Peru](https://en.wikipedia.org/wiki/Peru) domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig)
+- 5000 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) domesticated the [donkey](https://en.wikipedia.org/wiki/Donkey)
+- 4000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated the [duck](https://en.wikipedia.org/wiki/Domestic_duck)
+- 4000 BCE: People in [India](https://en.wikipedia.org/wiki/India) & [China](https://en.wikipedia.org/wiki/China) domesticated the [water buffalo](https://en.wikipedia.org/wiki/Water_buffalo)
+- 4000 BCE: People in [Africa](https://en.wikipedia.org/wiki/Africa), [Asia](https://en.wikipedia.org/wiki/Asia), & [Europe](https://en.wikipedia.org/wiki/Europe) domesticated the [honey bee](https://en.wikipedia.org/wiki/Honey_bee)
+- 4000 BCE: People in [Arabia](https://en.wikipedia.org/wiki/Arabian_Peninsula) domesticated the [dromedary camel](https://en.wikipedia.org/wiki/Dromedary_camel)
+- 3500 BCE: People in [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) domesticated the [horse](https://en.wikipedia.org/wiki/Horse)
 
 ### Writing
 - 3300 BCE: [The Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
@@ -278,6 +294,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 3300 BCE: People in the [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) wrote the [Indus script](https://en.wikipedia.org/wiki/Indus_script)
 - 3200 BCE: [The Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3000 BCE: Many modern artifacts existed in the Indus Valley ([sanitation](https://en.wikipedia.org/wiki/Sanitation), [distillation](https://en.wikipedia.org/wiki/Distillation), [levee](https://en.wikipedia.org/wiki/Levee), [scales](https://en.wikipedia.org/wiki/Weighing_scale), etc.)
+- 3000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
+- 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
 - 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
 - 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
 - 1900 BCE: [Iron smelted and smithed](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
@@ -709,6 +727,9 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [Fred Smitha: Macrohistory, World History](http://www.fsmitha.com/)
 - [Gender history](https://en.wikipedia.org/wiki/Gender_history)
 - [Historical method](https://en.wikipedia.org/wiki/Historical_method)
+- [History of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture)
+  - [List of domesticated animals](https://en.wikipedia.org/wiki/List_of_domesticated_animals)
+  - [List of domesticated plants](https://en.wikipedia.org/wiki/List_of_domesticated_plants)
 - [History of Earth](https://en.wikipedia.org/wiki/History_of_Earth)
 - [History of books](https://en.wikipedia.org/wiki/History_of_books)
 - [History of chemistry](https://en.wikipedia.org/wiki/History_of_chemistry)
