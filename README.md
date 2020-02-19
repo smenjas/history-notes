@@ -737,6 +737,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [History of writing](https://en.wikipedia.org/wiki/History_of_writing)
 - [Intellectual history](https://en.wikipedia.org/wiki/Intellectual_history)
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
+  - [Timeline of historic inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
   - [Timelines of world history](https://en.wikipedia.org/wiki/Timelines_of_world_history)
     - [Timeline of epochs in cosmology](https://en.wikipedia.org/wiki/Timeline_of_epochs_in_cosmology)
     - [Timeline of natural history](https://en.wikipedia.org/wiki/Timeline_of_natural_history)
