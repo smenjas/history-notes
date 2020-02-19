@@ -3,9 +3,9 @@
 This document looks at ["Big
 History"](https://en.wikipedia.org/wiki/Big_History), a.k.a. the big picture.
 
-Atmospheric oxygen (O2) tells the
+Atmospheric oxygen (O₂) tells the
 [eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story. [Carbon dioxide
-(CO2) tells temperature's
+(CO₂) tells temperature's
 story.](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
 
 I've shown each known branch along the path of [human
@@ -13,10 +13,10 @@ evolution](https://en.wikipedia.org/wiki/Human_evolution). The branch leading
 to humans is on the left.
 
 In [the Holocene epoch](https://en.wikipedia.org/wiki/Holocene), temperature
-has varied < ±2 °C, CO2 has steadily increased from about 260ppm, and dust
-levels have stayed below 0.1ppm.
+has varied < ±2 °C, CO₂ has steadily increased from about 260 ppm, and dust
+levels have stayed below 0.1 ppm.
 
-Dust levels only exceed 0.4ppm when the global average temperature drops more
+Dust levels only exceed 0.4 ppm when the global average temperature drops more
 than 6 °C below the Holocene average, during major
 [glaciations](https://en.wikipedia.org/wiki/Glacial_period). The air becomes
 cold and dry.
@@ -24,9 +24,9 @@ cold and dry.
 Once history begins, I've focused on reproducible publications, patents, and
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 
-- bya: 1 billion years ago (10^9)
-- mya: 1 million years ago (10^6)
-- kya: 1 thousand years ago (10^3)
+- bya: 1 billion years ago (10⁹)
+- mya: 1 million years ago (10⁶)
+- kya: 1 thousand years ago (10³)
 - ka:  1 thousand years
 - ybp: years before present
 
@@ -87,14 +87,14 @@ Once history begins, I've focused on reproducible publications, patents, and
 - ? bya: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis) among other things, existed
 - ? bya: The [cell nucleus](https://en.wikipedia.org/wiki/Cell_nucleus) (present in archaea & eukaryotes, but not eubacteria) existed
 - 2.7-2.4 bya: Nickel deposits, necessary for chemosynthetic [methane producers](https://en.wikipedia.org/wiki/Methanogen), decreased dramatically
-- 2.45 bya: O2 production started, practically no atmospheric O2 prior to this, with the possible exception of shallow oceans
+- 2.45 bya: O₂ production started, practically no atmospheric O₂ prior to this, with the possible exception of shallow oceans
 - 2.45-2.22 bya: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen
 - 2.4-2.05 bya: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
 - ? bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
 - 2.1-1.5 bya: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
 - 2.1-1.7 bya: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
 - 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
-- 1.85 bya: O2 reached 0.03 atm, but most was aborbed into oceans and seabed rock
+- 1.85 bya: O₂ reached 0.03 atm, but most was aborbed into oceans and seabed rock
 - 1.4 bya: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
 - ? bya: [Orthokaryotes](https://en.wikipedia.org/wiki/Orthokaryotes) split from [Discicristata](https://en.wikipedia.org/wiki/Discicristata)
 - ? bya: [Neokaryotes](https://en.wikipedia.org/wiki/Neokaryotes) (all unikonts & bikonts) split from [Jakobids](https://en.wikipedia.org/wiki/Jakobid) (which have bacteria-like mitochondria)
@@ -113,7 +113,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 948 mya: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
 - 900 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) emerged
 - 896? mya: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerged
-- 850 mya: O2 was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
+- 850 mya: O₂ was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
 - 800 mya: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
 - ? mya: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
 - 680? mya: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
@@ -128,11 +128,11 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 650-635 mya: [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
 - 633-573 mya: [The supercontinent Pannotia existed](https://en.wikipedia.org/wiki/Pannotia) at the South Pole
 - 615 mya: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
-- 600 mya: O2 exceeded 0.1 atm
-- 579 mya: [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340Ka
+- 600 mya: O₂ exceeded 0.1 atm
+- 579 mya: [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340 ka
 - 575 mya: [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion), producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
 - 542 mya: [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction)
-- 541 mya: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO2 was 4000ppm, O2 was 0.12 atm
+- 541 mya: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO₂ was 4000 ppm, O₂ was 0.12 atm
 - 517 mya: [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction)
 - 502 mya: [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian)
 - 485.4 mya: [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event)
@@ -141,23 +141,23 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 435 mya: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
 - 424 mya: [Lau extinction event](https://en.wikipedia.org/wiki/Lau_event)
 - 413 mya: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
-- 400 mya: O2 exceeded 0.15 atm
+- 400 mya: O₂ exceeded 0.15 atm
 - 400 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
 - 375 mya: [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction), 75% of species lost
 - 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
-- 350 mya: O2 exceeded 0.2 atm
+- 350 mya: O₂ exceeded 0.2 atm
 - 312 mya: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
 - 305 mya: [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse)
-- 300 mya: O2 peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
+- 300 mya: O₂ peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
 - 273 mya: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction)
-- 252 mya: [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 96% of species lost to volcanoes, O2 fell to 0.15 atm
+- 252 mya: [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 96% of species lost to volcanoes, O₂ fell to 0.15 atm
 - 201.3 mya: [Permian–Jurassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 80% of species lost
-- 200 mya: O2 exceeded 0.2 atm
-- 200-150 mya: CO2 > 3000ppm
+- 200 mya: O₂ exceeded 0.2 atm
+- 200-150 mya: CO₂ > 3000 ppm
 - 183 mya: [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover)
 - 177 mya: [Mammaliaformes](https://en.wikipedia.org/wiki/Mammaliaformes) ("mammal shaped", from Latin mamma for breast) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
 - 159 mya: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
-- 150 mya: O2 exceeded 0.26 atm
+- 150 mya: O₂ exceeded 0.26 atm
 - 116 mya: [Aptian extinction event](https://en.wikipedia.org/wiki/Aptian_extinction)
 - 105 mya: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
 
@@ -170,12 +170,12 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 79.6 mya: [Primates](https://en.wikipedia.org/wiki/Primate) split from [Dermoptera (gliding mammals)](https://en.wikipedia.org/wiki/Colugo)
 - 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
 - 66 mya: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
-- 55 mya: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO2, global temperatures increased by 5-8 °C.
+- 55 mya: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO₂, global temperatures increased by 5-8 °C.
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
 - 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
-- 40 mya: O2 dropped to 0.23 atm
+- 40 mya: O₂ dropped to 0.23 atm
 - 29 mya: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
-- 25 mya: O2 dropped to 0.21 atm
+- 25 mya: O₂ dropped to 0.21 atm
 - 20 mya: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
 - 15.7 mya: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
 - 14 mya: [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption), extinctions related to cooling
@@ -200,42 +200,42 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ## < 1 Million Years Ago
 - 990-950 kya: [Jaramillo reversal](https://en.wikipedia.org/wiki/Jaramillo_reversal) of Earth's magnetic field
-- 800 kya: CO2 dipped below 190ppm, global temp -9 from present
-- 790 kya: CO2 peaked around 260ppm, global temp -1 from present
+- 800 kya: CO₂ dipped below 190 ppm, global temp -9 from present
+- 790 kya: CO₂ peaked around 260 ppm, global temp -1 from present
 - 781 kya: [Brunhes-Matuyama reversal](https://en.wikipedia.org/wiki/Brunhes%E2%80%93Matuyama_reversal) of Earth's magnetic field
-- 750 kya: CO2 dipped below 180ppm, global temp -9 from present
-- 740 kya: CO2 peaked around 210ppm, global temp -4 from present
-- 720 kya: CO2 dipped below 190ppm, global temp -9 from present
-- 700 kya: CO2 peaked around 240ppm, global temp -2 from present
-- 670 kya: CO2 dipped below 170ppm, global temp -11 from present
-- 660 kya: CO2 peaked around 200ppm, global temp -7 from present
-- 640 kya: CO2 dipped below 190ppm, global temp -9 from present
-- 610 kya: CO2 peaked around 260ppm, global temp -1 from present
-- 600 kya: CO2 dipped below 220ppm, global temp -7 from present
-- 590 kya: CO2 peaked around 250ppm, global temp -2 from present
-- 580 kya: CO2 dipped below 200ppm, global temp -7 from present
-- 540 kya: CO2 peaked around 250ppm, global temp -1 from present
-- 530 kya: CO2 dipped below 200ppm, global temp -8 from present
-- 490 kya: CO2 peaked around 250ppm, global temp -1 from present
-- 440 kya: CO2 dipped below 200ppm, global temp -9 from present
+- 750 kya: CO₂ dipped below 180 ppm, global temp -9 from present
+- 740 kya: CO₂ peaked around 210 ppm, global temp -4 from present
+- 720 kya: CO₂ dipped below 190 ppm, global temp -9 from present
+- 700 kya: CO₂ peaked around 240 ppm, global temp -2 from present
+- 670 kya: CO₂ dipped below 170 ppm, global temp -11 from present
+- 660 kya: CO₂ peaked around 200 ppm, global temp -7 from present
+- 640 kya: CO₂ dipped below 190 ppm, global temp -9 from present
+- 610 kya: CO₂ peaked around 260 ppm, global temp -1 from present
+- 600 kya: CO₂ dipped below 220 ppm, global temp -7 from present
+- 590 kya: CO₂ peaked around 250 ppm, global temp -2 from present
+- 580 kya: CO₂ dipped below 200 ppm, global temp -7 from present
+- 540 kya: CO₂ peaked around 250 ppm, global temp -1 from present
+- 530 kya: CO₂ dipped below 200 ppm, global temp -8 from present
+- 490 kya: CO₂ peaked around 250 ppm, global temp -1 from present
+- 440 kya: CO₂ dipped below 200 ppm, global temp -9 from present
 - 415 kya: [Controlled use of fire in Suffolk, England](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
-- 400 kya: CO2 peaked around 280ppm, global temp +3 from present
-- 350 kya: CO2 dipped below 200ppm, global temp -9 from present
-- 320 kya: CO2 peaked around 300ppm, global temp +4 from present
+- 400 kya: CO₂ peaked around 280 ppm, global temp +3 from present
+- 350 kya: CO₂ dipped below 200 ppm, global temp -9 from present
+- 320 kya: CO₂ peaked around 300 ppm, global temp +4 from present
 - 315 kya: [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens) emerged
 - 300 kya: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
 - 270 kya: [Y-chromosomal Adam](https://en.wikipedia.org/wiki/Y-chromosomal_Adam) lived ([Y-DNA haplogroup A](https://en.wikipedia.org/wiki/Haplogroup_A_%28Y-DNA%29)00)
-- 260 kya: CO2 dipped below 200ppm, global temp -9 from present
+- 260 kya: CO₂ dipped below 200 ppm, global temp -9 from present
 - 250 kya: [Homo neanderthalensis](https://en.wikipedia.org/wiki/Neanderthal) emerged
-- 240 kya: CO2 peaked around 280ppm, global temp +3 from present
+- 240 kya: CO₂ peaked around 280 ppm, global temp +3 from present
 - 200 kya: [Homo sapiens sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) emerged, 6 other homo species existed
 - 173 kya: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
-- 160 kya: CO2 dipped below 200ppm, global temp -9 from present
+- 160 kya: CO₂ dipped below 200 ppm, global temp -9 from present
 - 150 kya: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
 - 140-110 kya: [Anatomically modern humans](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved
 - 131 kya: North African/Near Eastern wildcats split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
 - 128 kya: [Homo cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
-- 120 kya: CO2 peaked around 280ppm, global temp +5 from present
+- 120 kya: CO₂ peaked around 280 ppm, global temp +5 from present
 - 115 kya: [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
 
 ## < 100 Thousand Years Ago
@@ -248,8 +248,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 50 kya: Explosion of innovation: tools and cultures become more sophisticated
 - 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
-- 26.5-20 kya: [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum), CO2 dipped to 180ppm, global temp -9 from present, dust exceeded 1.6ppm
-- 18 kya: CO2 falls to local minimum around 200ppm, global temp -10 from present
+- 26.5-20 kya: [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum), CO₂ dipped to 180 ppm, global temp -9 from present, dust exceeded 1.6 ppm
+- 18 kya: CO₂ falls to local minimum around 200 ppm, global temp -10 from present
 - 17-15 kya: [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas), global temperatures declined sharply
 - 15-13 kya: [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial), first pronounced warming since LGM
 
@@ -260,10 +260,10 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 14.5 kya: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
 ### Agriculture
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
-- 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO2 was 270ppm
+- 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ was 270 ppm
 
 ## < 10 Thousand Years Ago
-- 9650 BCE: [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO2 exceeded 250ppm
+- 9650 BCE: [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ exceeded 250 ppm
 
 ### Cats
 - 7500 BCE: [A human lived with a cat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
@@ -633,11 +633,11 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1987 CE: Richard Feynman published *Elementary Particles and the Laws of Physics*
 - 1987 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU C Compiler*](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1987 CE: [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) released the [Perl programming language](https://en.wikipedia.org/wiki/Perl)
-- 1988 CE: CO2 exceeded 350ppm
+- 1988 CE: CO₂ exceeded 350 ppm
 - 1989 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 1* (GPLv1)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 
 ### 1990s
-- 1990 CE: CO2 exceeded 360ppm
+- 1990 CE: CO₂ exceeded 360 ppm
 - 1990 CE: Woese et al published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
 - 1990 CE: [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) released the [Python programming language](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 - 1991 CE: [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) invented the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
@@ -657,7 +657,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ## 2000s
 - 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29)
-- 2000 CE: CO2 exceeded 370ppm
+- 2000 CE: CO₂ exceeded 370 ppm
 - 2000 CE: Richard Feynman posthumously published *Feynman Lectures on Computation*
 - 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published [KHTML](https://en.wikipedia.org/wiki/KHTML), the predecessor to WebKit
 - 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
@@ -669,7 +669,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2005 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)
 - 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) published [WebKit](https://en.wikipedia.org/wiki/WebKit) as open source software
 - 2006 CE: [Apple switched from PowerPC chips to Intel x86](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
-- 2006 CE: CO2 exceeded 380ppm
+- 2006 CE: CO₂ exceeded 380 ppm
 - 2006 CE: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) published the [Java Virtual Machine (JVM)](https://en.wikipedia.org/wiki/Java_virtual_machine) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 3* (GPLv3)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Street View](https://en.wikipedia.org/wiki/Google_Street_View)
@@ -678,15 +678,15 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ### 2010s
 - 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPad](https://en.wikipedia.org/wiki/IPad), a practical solid-state computer with a relatively large screen
-- 2011 CE: CO2 exceeded 390ppm
+- 2011 CE: CO₂ exceeded 390 ppm
 - 2011 CE: Donald Knuth published *The Art of Computer Programming, volume 4A*
 - 2012 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model S](https://en.wikipedia.org/wiki/Tesla_Model_S), a somewhat expensive, practical electric car
-- 2013 CE: Daily average CO2 exceeded 400ppm
+- 2013 CE: Daily average CO₂ exceeded 400 ppm
 - 2015 CE: T. Cavalier-Smith et al published *A higher level classification of all living organisms*
 - 2015 CE: Anja Spang et al published *Complex archaea that bridge the gap between prokaryotes and eukaryotes*
 - 2015 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [landed an orbital rocket vertically](https://en.wikipedia.org/wiki/Falcon_9_flight_20)
 - 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
-- 2018 CE: Daily average CO2 exceeded 410ppm
+- 2018 CE: Daily average CO₂ exceeded 410 ppm
 
 ---
 
