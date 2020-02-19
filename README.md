@@ -266,8 +266,6 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
 - 10.6 kya: People in [China](https://en.wikipedia.org/wiki/China) domesticated [cattle](https://en.wikipedia.org/wiki/Cattle)
 - 10 kya: People in [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
-
-## < 10 Thousand Years Ago
 - 9650 BCE: [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ exceeded 250 ppm
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
 - 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea) & [wheat](https://en.wikipedia.org/wiki/Wheat)
@@ -275,6 +273,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 8500 BCE: People in the [Tigris basin](https://en.wikipedia.org/wiki/Tigris) [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig), perhaps near [Çayönü](https://en.wikipedia.org/wiki/%C3%87ay%C3%B6n%C3%BC)
 - 8000 BCE: People in [India](https://en.wikipedia.org/wiki/India) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu)
 
+## < 10 Thousand Years Ago
 ### Cats
 - 7500 BCE: [A human lived with a cat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
 - 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
