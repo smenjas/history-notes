@@ -169,6 +169,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 541 mya: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO₂ was 4000 ppm, O₂ was 0.12 atm
 - 517 mya: [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction)
 - 502 mya: [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian)
+- 490 mya: [Green algae](https://en.wikipedia.org/wiki/Green_algae) evolved into [Embryophyta (land plants)](https://en.wikipedia.org/wiki/Embryophyte)
 - 485.4 mya: [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event)
 
 ### Jaw
@@ -183,7 +184,9 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 413 mya: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
 - 400 mya: O₂ exceeded 0.15 atm
 - 400 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
+- 385 mya: [Wattieza](https://en.wikipedia.org/wiki/Wattieza), an early tree, existed
 - 375 mya: [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction), 75% of species lost
+- 360-345 mya: [Archaeopteris](https://en.wikipedia.org/wiki/Archaeopteris), an early tree, existed
 
 ### [Choana](https://en.wikipedia.org/wiki/Choana)
 - 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
@@ -192,9 +195,11 @@ Once history begins, I've focused on reproducible publications, patents, and
 ### Womb
 - 312 mya: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
 - 305 mya: [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse)
+- 300 mya: [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) existed
 - 300 mya: O₂ peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
 - 273 mya: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction)
 - 252 mya: [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 96% of species lost to volcanoes, O₂ fell to 0.15 atm
+- 245-202 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) split from [Gymnosperms ("naked seeds", a.k.a. seed-producing plants)](https://en.wikipedia.org/wiki/Gymnosperm)
 - 201.3 mya: [Permian–Jurassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 80% of species lost
 - 200 mya: O₂ exceeded 0.2 atm
 - 200-150 mya: CO₂ > 3000 ppm
@@ -204,6 +209,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 177 mya: [Mammaliaformes](https://en.wikipedia.org/wiki/Mammaliaformes) ("mammal shaped", from Latin mamma for breast) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
 - 159 mya: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
 - 150 mya: O₂ exceeded 0.26 atm
+- 129-125 mya: [Poaceae, a.k.a. Gramineae or grasses](https://en.wikipedia.org/wiki/Poaceae) evolved
 - 116 mya: [Aptian extinction event](https://en.wikipedia.org/wiki/Aptian_extinction)
 - 105 mya: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
 
@@ -219,6 +225,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 70 mya: [Primates evolved thumbs](https://en.wikipedia.org/wiki/Thumb#Human_Evolution)
 - 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
 - 66 mya: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
+- 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) had replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
 - 55 mya: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO₂, global temperatures increased by 5-8 °C.
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
 - 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
@@ -300,15 +307,18 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
 - 26.5-20 kya: [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum), CO₂ dipped to 180 ppm, global temp -9 from present, dust exceeded 1.6 ppm
-- 18 kya: CO₂ falls to local minimum around 200 ppm, global temp -10 from present
+- 18 kya: CO₂ falls to local minimum around 200 ppm, global temp -10 from present, sea level 120m below present
 - 17-15 kya: [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas), global temperatures declined sharply
+- 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 100m below present
 - 15-13 kya: [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial), first pronounced warming since LGM
+- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 80m below present
 - 14.5 kya: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
 
 ### Dogs
 - 14.2 kya: Dogs lived with humans in modern Germany
 - 14.2-14.1 kya: [Older Dryas](https://en.wikipedia.org/wiki/Older_Dryas), global temperatures declined sharply
 - 12.9-11.7 kya: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
+- 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
 
 ### Agriculture
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
@@ -316,22 +326,25 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 13 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) brewed [beer](https://en.wikipedia.org/wiki/Beer) at [Raqefet Cave](https://en.wikipedia.org/wiki/Raqefet_Cave), Israel
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ exceeded 250 ppm
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
-- 11 kya: People in [China](https://en.wikipedia.org/wiki/China) domesticated [soybeans](https://en.wikipedia.org/wiki/Soybean)
-- 10.6 kya: People in [China](https://en.wikipedia.org/wiki/China) domesticated [cattle](https://en.wikipedia.org/wiki/Cattle)
-- 10 kya: People in [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
 - 9650 BCE: [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
 - 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea), [wheat](https://en.wikipedia.org/wiki/Wheat), & [rye](https://en.wikipedia.org/wiki/Rye)
+- 9000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated [soybeans](https://en.wikipedia.org/wiki/Soybean)
+- 8600 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated [cattle](https://en.wikipedia.org/wiki/Cattle)
 - 8500 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [sheep](https://en.wikipedia.org/wiki/Domestic_sheep)
 - 8500 BCE: People in the [Tigris basin](https://en.wikipedia.org/wiki/Tigris) [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig), perhaps near [Çayönü](https://en.wikipedia.org/wiki/%C3%87ay%C3%B6n%C3%BC)
+- 8000 BCE: People in [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
 - 8000 BCE: People in [India](https://en.wikipedia.org/wiki/India) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu)
+- 8000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 40m below present
 
 ## < 10 Thousand Years Ago
 ### Cats
 - 7500 BCE: [A human lived with a cat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
+- 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 20m below present
 - 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
 - 6000 BCE: People in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) domesticated the [chicken](https://en.wikipedia.org/wiki/Chicken)
 - 6000 BCE: People in [China](https://en.wikipedia.org/wiki/China) independently [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
+- 6000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 10m below present
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
 - 5000 BCE: People smelted [copper](https://en.wikipedia.org/wiki/Copper) on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
 - 5000 BCE: People in [Peru](https://en.wikipedia.org/wiki/Peru) domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig)
@@ -772,6 +785,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [Center of origin](https://en.wikipedia.org/wiki/Center_of_origin)
 - [Comparative history](https://en.wikipedia.org/wiki/Comparative_history)
 - [Contemporary history](https://en.wikipedia.org/wiki/Contemporary_history)
+- [Cosmic Calendar](https://en.wikipedia.org/wiki/Cosmic_Calendar)
 - [Chronology](https://en.wikipedia.org/wiki/Chronology)
 - [Chronology of the Universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe)
 - [Computational history](https://en.wikipedia.org/wiki/Computational_history)
@@ -779,7 +793,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [Detailed logarithmic timeline](https://en.wikipedia.org/wiki/Detailed_logarithmic_timeline)
 - [Environmental history](https://en.wikipedia.org/wiki/Environmental_history)
 - [Evolutionary history of life](https://en.wikipedia.org/wiki/Evolutionary_history_of_life)
-  - [Timeline of the evolutionary history of life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life)
+  - [Evolutionary history of plants](https://en.wikipedia.org/wiki/Evolutionary_history_of_plants)
 - [Fred Smitha: Macrohistory, World History](http://www.fsmitha.com/)
 - [Gender history](https://en.wikipedia.org/wiki/Gender_history)
 - [Geological history of Earth](https://en.wikipedia.org/wiki/Geological_history_of_Earth)
@@ -815,6 +829,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [History of writing](https://en.wikipedia.org/wiki/History_of_writing)
 - [Intellectual history](https://en.wikipedia.org/wiki/Intellectual_history)
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
+  - [Timeline of the evolutionary history of life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life)
   - [Timeline of historic inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
   - [Timeline of human evolution](https://en.wikipedia.org/wiki/Timeline_of_human_evolution)
   - [Timelines of world history](https://en.wikipedia.org/wiki/Timelines_of_world_history)
