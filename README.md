@@ -3,12 +3,6 @@
 This document looks at ["Big
 History"](https://en.wikipedia.org/wiki/Big_History), a.k.a. the big picture.
 
-bya: 1 billion years ago (10^9)
-mya: 1 million years ago (10^6)
-kya: 1 thousand years ago (10^3)
-ka: 1 thousand years
-ybp: years before present
-
 Atmospheric oxygen (O2) tells the
 [eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story. [Carbon dioxide
 (CO2) tells temperature's
@@ -30,6 +24,12 @@ cold and dry.
 Once history begins, I've focused on reproducible publications, patents, and
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 
+- bya: 1 billion years ago (10^9)
+- mya: 1 million years ago (10^6)
+- kya: 1 thousand years ago (10^3)
+- ka:  1 thousand years
+- ybp: years before present
+
 ---
 
 - [< 1 Billion Years Ago](#-1-billion-years-ago)
@@ -38,6 +38,7 @@ Once history begins, I've focused on reproducible publications, patents, and
   - [Tools](#tools)
   - [Fire](#fire)
 - [< 1 Million Years Ago](#-1-million-years-ago)
+- [< 100 Thousand Years Ago](#-100-thousand-years-ago)
   - [Clothing](#clothing)
   - [Dogs](#dogs)
   - [Agriculture](#agriculture)
@@ -191,7 +192,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 3.3 mya: [Large stone tools made in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
 - 2.8 mya: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) emerged
 - 1.9 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) emerged
-- 1.25-0.7 mya: [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition), glacial cycles switched from 41ka to 100ka
+- 1.25-0.7 mya: [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition), glacial cycles switched from 41 ka to 100 ka
 - 1.07 mya: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana.
 
 ### Fire
@@ -236,6 +237,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 128 kya: [Homo cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 120 kya: CO2 peaked around 280ppm, global temp +5 from present
 - 115 kya: [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
+
+## < 100 Thousand Years Ago
 
 ### Clothing
 - 83 kya: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
