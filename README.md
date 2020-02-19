@@ -32,6 +32,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ---
 
+- [The Big Bang](#the-big-bang)
+- [< 10 Billion Years Ago](#-10-billion-years-ago)
 - [< 1 Billion Years Ago](#-1-billion-years-ago)
 - [< 100 Million Years Ago](#-100-million-years-ago)
 - [< 10 Million Years Ago](#-10-million-years-ago)
@@ -69,9 +71,12 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ---
 
+## The Big Bang
 - 13.8 bya: [The Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
 - 13.5 bya: [First stars](https://en.wikipedia.org/wiki/Reionization) formed
 - 13.51 bya: [The Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
+
+## < 10 Billion Years Ago
 - 4.603 bya: [The Sun](https://en.wikipedia.org/wiki/Sun) formed
 - 4.543 bya: [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
 - 4.51 bya: [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth](https://en.wikipedia.org/wiki/Earth) & [Moon](https://en.wikipedia.org/wiki/Moon) formed from the debris
@@ -186,6 +191,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 7 mya: [Hominina](https://en.wikipedia.org/wiki/Human_taxonomy#Hominina) [split](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor) from [Panina](https://en.wikipedia.org/wiki/Pan_%28genus%29), i.e. [chimpanzees](https://en.wikipedia.org/wiki/Chimpanzee) and [bonobos](https://en.wikipedia.org/wiki/Bonobo)
 - 5.96-5.33 mya: [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
 - 4.2M-3.8 mya: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) emerged in Ethiopia & Kenya
+- 4 mya: [Early humans evolved to walk on two legs (bipedalism)](https://en.wikipedia.org/wiki/Human_skeletal_changes_due_to_bipedalism)
 
 ### Tools
 - 3.4 mya: [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in Ethiopia, near Gona)
@@ -261,14 +267,16 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ### Agriculture
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
+- 13.5 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Abu Hureyra](https://en.wikipedia.org/wiki/Tell_Abu_Hureyra) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates): a few hundred people lived there year-round, the largest settlement of people anywhere at the time
 - 13 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) brewed [beer](https://en.wikipedia.org/wiki/Beer) at [Raqefet Cave](https://en.wikipedia.org/wiki/Raqefet_Cave), Israel
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ exceeded 250 ppm
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
+- 11 kya: People in [China](https://en.wikipedia.org/wiki/China) domesticated [soybeans](https://en.wikipedia.org/wiki/Soybean)
 - 10.6 kya: People in [China](https://en.wikipedia.org/wiki/China) domesticated [cattle](https://en.wikipedia.org/wiki/Cattle)
 - 10 kya: People in [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
 - 9650 BCE: [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
-- 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea) & [wheat](https://en.wikipedia.org/wiki/Wheat)
+- 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea), [wheat](https://en.wikipedia.org/wiki/Wheat), & [rye](https://en.wikipedia.org/wiki/Rye)
 - 8500 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [sheep](https://en.wikipedia.org/wiki/Domestic_sheep)
 - 8500 BCE: People in the [Tigris basin](https://en.wikipedia.org/wiki/Tigris) [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig), perhaps near [Çayönü](https://en.wikipedia.org/wiki/%C3%87ay%C3%B6n%C3%BC)
 - 8000 BCE: People in [India](https://en.wikipedia.org/wiki/India) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu)
@@ -715,6 +723,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [Auxiliary sciences of history](https://en.wikipedia.org/wiki/Auxiliary_sciences_of_history)
 - [Bibliography](https://en.wikipedia.org/wiki/Bibliography)
 - [Big History](https://en.wikipedia.org/wiki/Big_History)
+- [Center of origin](https://en.wikipedia.org/wiki/Center_of_origin)
 - [Comparative history](https://en.wikipedia.org/wiki/Comparative_history)
 - [Contemporary history](https://en.wikipedia.org/wiki/Contemporary_history)
 - [Chronology](https://en.wikipedia.org/wiki/Chronology)
@@ -727,6 +736,7 @@ Once history begins, I've focused on reproducible publications, patents, and
   - [Timeline of the evolutionary history of life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life)
 - [Fred Smitha: Macrohistory, World History](http://www.fsmitha.com/)
 - [Gender history](https://en.wikipedia.org/wiki/Gender_history)
+- [Geological history of Earth](https://en.wikipedia.org/wiki/Geological_history_of_Earth)
 - [Historical method](https://en.wikipedia.org/wiki/Historical_method)
 - [History of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture)
   - [List of domesticated animals](https://en.wikipedia.org/wiki/List_of_domesticated_animals)
