@@ -3,7 +3,11 @@
 This document looks at ["Big
 History"](https://en.wikipedia.org/wiki/Big_History), a.k.a. the big picture.
 
-Ga: 1 billion years, Ma: 1 million years, ka: 1 thousand years
+bya: 1 billion years ago (10^9)
+mya: 1 million years ago (10^6)
+kya: 1 thousand years ago (10^3)
+ka: 1 thousand years
+ybp: years before present
 
 Atmospheric oxygen (O2) tells the
 [eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story. [Carbon dioxide
@@ -32,8 +36,13 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [< 100 Million Years Ago](#-100-million-years-ago)
 - [< 10 Million Years Ago](#-10-million-years-ago)
   - [Tools](#tools)
+  - [Fire](#fire)
 - [< 1 Million Years Ago](#-1-million-years-ago)
-- [Holocene Epoch](#holocene-epoch)
+  - [Clothing](#clothing)
+  - [Dogs](#dogs)
+  - [Agriculture](#agriculture)
+- [< 10 Thousand Years Ago](#-10-thousand-years-ago)
+  - [Cats](#cats)
   - [Writing](#writing)
   - [History](#history)
   - [Mathematics](#mathematics)
@@ -59,197 +68,206 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ---
 
-- 13.8Ga BP: [The Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
-- 13.5Ga BP: [First stars](https://en.wikipedia.org/wiki/Reionization) formed
-- 13.51Ga BP: [The Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
-- 4.603Ga BP: [The Sun](https://en.wikipedia.org/wiki/Sun) formed
-- 4.543Ga BP: [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
-- 4.51Ga BP: [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth](https://en.wikipedia.org/wiki/Earth) & [Moon](https://en.wikipedia.org/wiki/Moon) formed from the debris
-- 4.4Ga BP: Liquid water and an atmosphere existed on Earth
-- ? BP: [Pyrimidine](https://en.wikipedia.org/wiki/Pyrimidine) (precursor to cytosine, thymine, and uracil) existed
-- ? BP: [Purine](https://en.wikipedia.org/wiki/Purine) (precursor to adenine and guanine) existed
-- ? BP: [RNA](https://en.wikipedia.org/wiki/RNA) existed
-- ? BP: [DNA](https://en.wikipedia.org/wiki/DNA) existed
-- 4.29-3.48Ga BP: [Last universal common ancestor (LUCA)](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) lived
-- 3.8Ga BP: [Archaeal](https://en.wikipedia.org/wiki/Archaea) [lipids](https://en.wikipedia.org/wiki/Lipid) existed
-- 3.5Ga BP: Earliest oxygen production in shallow oceans, absorbed by the sea and sea bed
-- 3.5Ga BP: [Single celled life](https://en.wikipedia.org/wiki/Unicellular_organism) existed
-- ? BP: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis) among other things, existed
-- ? BP: The [cell nucleus](https://en.wikipedia.org/wiki/Cell_nucleus) (present in archaea & eukaryotes, but not eubacteria) existed
-- 2.7-2.4Ga BP: Nickel deposits, necessary for chemosynthetic [methane producers](https://en.wikipedia.org/wiki/Methanogen), decreased dramatically
-- 2.45Ga BP: O2 production started, practically no atmospheric O2 prior to this, with the possible exception of shallow oceans
-- 2.45-2.22Ga BP: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen
-- 2.4-2.05Ga BP: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
-- ? BP: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
-- 2.1-1.5Ga BP: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
-- 2.1-1.7Ga BP: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
-- 2.1Ga BP: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
-- 1.85Ga BP: O2 reached 0.03 atm, but most was aborbed into oceans and seabed rock
-- 1.4Ga BP: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
-- ? BP: [Orthokaryotes](https://en.wikipedia.org/wiki/Orthokaryotes) split from [Discicristata](https://en.wikipedia.org/wiki/Discicristata)
-- ? BP: [Neokaryotes](https://en.wikipedia.org/wiki/Neokaryotes) (all unikonts & bikonts) split from [Jakobids](https://en.wikipedia.org/wiki/Jakobid) (which have bacteria-like mitochondria)
-- ? BP: [Scotokaryotes (a.k.a. Opimoda)](https://en.wikipedia.org/wiki/Scotokaryotes) split from [Corticata](https://en.wikipedia.org/wiki/Corticata) ("one with a cortex", a.k.a. [Diphoda or Bikonts](https://en.wikipedia.org/wiki/Bikont), e.g. plants, algae, etc.)
-- ? BP: [Podiata](https://en.wikipedia.org/wiki/Podiata) split from [Malawimonas](https://en.wikipedia.org/wiki/Malawimonas)
-- ? BP: [Amorphea (a.k.a. Unikonts](https://en.wikipedia.org/wiki/Unikont), "one pole", i.e. a flagellum) split from [CRuMs](https://en.wikipedia.org/wiki/CRuMs) ([heterotrophic](https://en.wikipedia.org/wiki/Heterotroph) protists)
-- ? BP: [Obazoa](https://en.wikipedia.org/wiki/Obazoa) split from [Amoebozoa](https://en.wikipedia.org/wiki/Amoebozoa) (amoeboid protists)
-- 1.23-0.825Ga BP: [The supercontinent Rodinia](https://en.wikipedia.org/wiki/Rodinia) existed
-- 1.1Ga BP: [Opisthokonts](https://en.wikipedia.org/wiki/Opisthokont) ("rear pole", i.e. a flagellum) split from [Apusomonadida](https://en.wikipedia.org/wiki/Apusomonadida) (protozoan zooflagellates)
-- 1.1Ga BP: [Holozoa](https://en.wikipedia.org/wiki/Holozoa) split from [Holomycota](https://en.wikipedia.org/wiki/Holomycota) (fungi, slime molds, & amoebae)
-- ? BP: [Filozoa](https://en.wikipedia.org/wiki/Filozoa) ("thread animals") split from [Pluriformea](https://en.wikipedia.org/wiki/Pluriformea) ("many shapes")
+- 13.8 bya: [The Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
+- 13.5 bya: [First stars](https://en.wikipedia.org/wiki/Reionization) formed
+- 13.51 bya: [The Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
+- 4.603 bya: [The Sun](https://en.wikipedia.org/wiki/Sun) formed
+- 4.543 bya: [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
+- 4.51 bya: [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth](https://en.wikipedia.org/wiki/Earth) & [Moon](https://en.wikipedia.org/wiki/Moon) formed from the debris
+- 4.4 bya: Liquid water and an atmosphere existed on Earth
+- ? bya: [Pyrimidine](https://en.wikipedia.org/wiki/Pyrimidine) (precursor to cytosine, thymine, and uracil) existed
+- ? bya: [Purine](https://en.wikipedia.org/wiki/Purine) (precursor to adenine and guanine) existed
+- ? bya: [RNA](https://en.wikipedia.org/wiki/RNA) existed
+- ? bya: [DNA](https://en.wikipedia.org/wiki/DNA) existed
+- 4.29-3.48 bya: [Last universal common ancestor (LUCA)](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) lived
+- 3.8 bya: [Archaeal](https://en.wikipedia.org/wiki/Archaea) [lipids](https://en.wikipedia.org/wiki/Lipid) existed
+- 3.5 bya: Earliest oxygen production in shallow oceans, absorbed by the sea and sea bed
+- 3.5 bya: [Single celled life](https://en.wikipedia.org/wiki/Unicellular_organism) existed
+- ? bya: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis) among other things, existed
+- ? bya: The [cell nucleus](https://en.wikipedia.org/wiki/Cell_nucleus) (present in archaea & eukaryotes, but not eubacteria) existed
+- 2.7-2.4 bya: Nickel deposits, necessary for chemosynthetic [methane producers](https://en.wikipedia.org/wiki/Methanogen), decreased dramatically
+- 2.45 bya: O2 production started, practically no atmospheric O2 prior to this, with the possible exception of shallow oceans
+- 2.45-2.22 bya: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen
+- 2.4-2.05 bya: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
+- ? bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
+- 2.1-1.5 bya: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
+- 2.1-1.7 bya: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
+- 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
+- 1.85 bya: O2 reached 0.03 atm, but most was aborbed into oceans and seabed rock
+- 1.4 bya: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
+- ? bya: [Orthokaryotes](https://en.wikipedia.org/wiki/Orthokaryotes) split from [Discicristata](https://en.wikipedia.org/wiki/Discicristata)
+- ? bya: [Neokaryotes](https://en.wikipedia.org/wiki/Neokaryotes) (all unikonts & bikonts) split from [Jakobids](https://en.wikipedia.org/wiki/Jakobid) (which have bacteria-like mitochondria)
+- ? bya: [Scotokaryotes (a.k.a. Opimoda)](https://en.wikipedia.org/wiki/Scotokaryotes) split from [Corticata](https://en.wikipedia.org/wiki/Corticata) ("one with a cortex", a.k.a. [Diphoda or Bikonts](https://en.wikipedia.org/wiki/Bikont), e.g. plants, algae, etc.)
+- ? bya: [Podiata](https://en.wikipedia.org/wiki/Podiata) split from [Malawimonas](https://en.wikipedia.org/wiki/Malawimonas)
+- ? bya: [Amorphea (a.k.a. Unikonts](https://en.wikipedia.org/wiki/Unikont), "one pole", i.e. a flagellum) split from [CRuMs](https://en.wikipedia.org/wiki/CRuMs) ([heterotrophic](https://en.wikipedia.org/wiki/Heterotroph) protists)
+- ? bya: [Obazoa](https://en.wikipedia.org/wiki/Obazoa) split from [Amoebozoa](https://en.wikipedia.org/wiki/Amoebozoa) (amoeboid protists)
+- 1.23-0.825 bya: [The supercontinent Rodinia](https://en.wikipedia.org/wiki/Rodinia) existed
+- 1.1 bya: [Opisthokonts](https://en.wikipedia.org/wiki/Opisthokont) ("rear pole", i.e. a flagellum) split from [Apusomonadida](https://en.wikipedia.org/wiki/Apusomonadida) (protozoan zooflagellates)
+- 1.1 bya: [Holozoa](https://en.wikipedia.org/wiki/Holozoa) split from [Holomycota](https://en.wikipedia.org/wiki/Holomycota) (fungi, slime molds, & amoebae)
+- ? ybp: [Filozoa](https://en.wikipedia.org/wiki/Filozoa) ("thread animals") split from [Pluriformea](https://en.wikipedia.org/wiki/Pluriformea) ("many shapes")
 
 ## < 1 Billion Years Ago
-- 950Ma? BP: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
-- 952Ma BP: [Animalia](https://en.wikipedia.org/wiki/Animal) (a.k.a. Metazoa) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
-- 948Ma BP: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
-- 900Ma BP: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) emerged
-- 896Ma? BP: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerged
-- 850Ma BP: O2 was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
-- 800Ma BP: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
-- ? BP: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
-- 680Ma? BP: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
-- 680Ma? BP: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
-- 824Ma BP: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
-- 797Ma BP: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
-- 717Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
-- 662Ma BP: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
-- 684Ma BP: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
-- 684Ma BP: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
-- 676Ma BP: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
-- 650-635Ma BP: [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
-- 633-573Ma BP: [The supercontinent Pannotia existed](https://en.wikipedia.org/wiki/Pannotia) at the South Pole
-- 615Ma BP: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
-- 600Ma BP: O2 exceeded 0.1 atm
-- 579Ma BP: [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340Ka
-- 575Ma BP: [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion), producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
-- 542Ma BP: [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction)
-- 541Ma BP: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO2 was 4000ppm, O2 was 0.12 atm
-- 517Ma BP: [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction)
-- 502Ma BP: [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian)
-- 485.4Ma BP: [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event)
-- 473Ma BP: [Gnathostomata](https://en.wikipedia.org/wiki/Gnathostomata) ("jaw mouth", a.k.a. jawed fish) split from [Osteostraci](https://en.wikipedia.org/wiki/Osteostraci) ("bony shields") & [Pituriaspida](https://en.wikipedia.org/wiki/Pituriaspida) ("pituri shield")
-- 440Ma BP: [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events), 86% of species lost
-- 435Ma BP: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
-- 424Ma BP: [Lau extinction event](https://en.wikipedia.org/wiki/Lau_event)
-- 413Ma BP: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
-- 400Ma BP: O2 exceeded 0.15 atm
-- 400Ma BP: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
-- 375Ma BP: [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction), 75% of species lost
-- 352Ma BP: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
-- 350Ma BP: O2 exceeded 0.2 atm
-- 312Ma BP: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
-- 305Ma BP: [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse)
-- 300Ma BP: O2 peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
-- 273Ma BP: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction)
-- 252Ma BP: [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 96% of species lost to volcanoes, O2 fell to 0.15 atm
-- 201.3Ma BP: [Permian–Jurassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 80% of species lost
-- 200Ma BP: O2 exceeded 0.2 atm
-- 200-150Ma BP: CO2 > 3000ppm
-- 183Ma BP: [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover)
-- 177Ma BP: [Mammaliaformes](https://en.wikipedia.org/wiki/Mammaliaformes) ("mammal shaped", from Latin mamma for breast) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
-- 159Ma BP: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
-- 150Ma BP: O2 exceeded 0.26 atm
-- 116Ma BP: [Aptian extinction event](https://en.wikipedia.org/wiki/Aptian_extinction)
-- 105Ma BP: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
+- 950? mya: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
+- 952 mya: [Animalia](https://en.wikipedia.org/wiki/Animal) (a.k.a. Metazoa) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
+- 948 mya: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
+- 900 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) emerged
+- 896? mya: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerged
+- 850 mya: O2 was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
+- 800 mya: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
+- ? mya: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
+- 680? mya: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
+- 680? mya: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
+- 824 mya: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
+- 797 mya: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
+- 717 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
+- 662 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
+- 684 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
+- 684 mya: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
+- 676 mya: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
+- 650-635 mya: [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
+- 633-573 mya: [The supercontinent Pannotia existed](https://en.wikipedia.org/wiki/Pannotia) at the South Pole
+- 615 mya: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
+- 600 mya: O2 exceeded 0.1 atm
+- 579 mya: [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340Ka
+- 575 mya: [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion), producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
+- 542 mya: [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction)
+- 541 mya: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO2 was 4000ppm, O2 was 0.12 atm
+- 517 mya: [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction)
+- 502 mya: [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian)
+- 485.4 mya: [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event)
+- 473 mya: [Gnathostomata](https://en.wikipedia.org/wiki/Gnathostomata) ("jaw mouth", a.k.a. jawed fish) split from [Osteostraci](https://en.wikipedia.org/wiki/Osteostraci) ("bony shields") & [Pituriaspida](https://en.wikipedia.org/wiki/Pituriaspida) ("pituri shield")
+- 440 mya: [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events), 86% of species lost
+- 435 mya: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
+- 424 mya: [Lau extinction event](https://en.wikipedia.org/wiki/Lau_event)
+- 413 mya: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
+- 400 mya: O2 exceeded 0.15 atm
+- 400 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
+- 375 mya: [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction), 75% of species lost
+- 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
+- 350 mya: O2 exceeded 0.2 atm
+- 312 mya: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
+- 305 mya: [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse)
+- 300 mya: O2 peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
+- 273 mya: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction)
+- 252 mya: [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 96% of species lost to volcanoes, O2 fell to 0.15 atm
+- 201.3 mya: [Permian–Jurassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 80% of species lost
+- 200 mya: O2 exceeded 0.2 atm
+- 200-150 mya: CO2 > 3000ppm
+- 183 mya: [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover)
+- 177 mya: [Mammaliaformes](https://en.wikipedia.org/wiki/Mammaliaformes) ("mammal shaped", from Latin mamma for breast) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
+- 159 mya: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
+- 150 mya: O2 exceeded 0.26 atm
+- 116 mya: [Aptian extinction event](https://en.wikipedia.org/wiki/Aptian_extinction)
+- 105 mya: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
 
 ## < 100 Million Years Ago
-- 96Ma BP: [Boreoeutheria](https://en.wikipedia.org/wiki/Boreoeutheria) ("northern true beasts") split from [Atlantogenata](https://en.wikipedia.org/wiki/Atlantogenata) (elephants, sloths, etc.)
-- 94Ma BP: [Cenomanian-Turonian anoxic event](https://en.wikipedia.org/wiki/Cenomanian-Turonian_boundary_event)
-- 90Ma BP: [Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires) (Supraprimates) split from [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria) (dogs, cats, giraffes, whales, etc.)
-- 88Ma BP: [Euarchonta](https://en.wikipedia.org/wiki/Euarchonta) ("true ancestors") split from [Glires](https://en.wikipedia.org/wiki/Glires) (dormice), maybe
-- 86.2Ma BP: [Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha) split from [Scandentia (tree shrews)](https://en.wikipedia.org/wiki/Treeshrew)
-- 79.6Ma BP: [Primates](https://en.wikipedia.org/wiki/Primate) split from [Dermoptera (gliding mammals)](https://en.wikipedia.org/wiki/Colugo)
-- 67Ma BP: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
-- 66Ma BP: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
-- 55Ma BP: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO2, global temperatures increased by 5-8 °C.
-- 49-45Ma BP: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
-- 43Ma BP: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
-- 40Ma BP: O2 dropped to 0.23 atm
-- 29Ma BP: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
-- 25Ma BP: O2 dropped to 0.21 atm
-- 20Ma BP: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
-- 15.7Ma BP: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
-- 14Ma BP: [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption), extinctions related to cooling
+- 96 mya: [Boreoeutheria](https://en.wikipedia.org/wiki/Boreoeutheria) ("northern true beasts") split from [Atlantogenata](https://en.wikipedia.org/wiki/Atlantogenata) (elephants, sloths, etc.)
+- 94 mya: [Cenomanian-Turonian anoxic event](https://en.wikipedia.org/wiki/Cenomanian-Turonian_boundary_event)
+- 90 mya: [Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires) (Supraprimates) split from [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria) (dogs, cats, giraffes, whales, etc.)
+- 88 mya: [Euarchonta](https://en.wikipedia.org/wiki/Euarchonta) ("true ancestors") split from [Glires](https://en.wikipedia.org/wiki/Glires) (dormice), maybe
+- 86.2 mya: [Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha) split from [Scandentia (tree shrews)](https://en.wikipedia.org/wiki/Treeshrew)
+- 79.6 mya: [Primates](https://en.wikipedia.org/wiki/Primate) split from [Dermoptera (gliding mammals)](https://en.wikipedia.org/wiki/Colugo)
+- 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
+- 66 mya: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
+- 55 mya: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO2, global temperatures increased by 5-8 °C.
+- 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
+- 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
+- 40 mya: O2 dropped to 0.23 atm
+- 29 mya: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
+- 25 mya: O2 dropped to 0.21 atm
+- 20 mya: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
+- 15.7 mya: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
+- 14 mya: [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption), extinctions related to cooling
 
 ## < 10 Million Years Ago
-- 9Ma BP: [Homininae](https://en.wikipedia.org/wiki/Homininae) [split](https://en.wikipedia.org/wiki/Orangutan%E2%80%93human_last_common_ancestor) from [orangutans](https://en.wikipedia.org/wiki/Orangutan)
-- 8Ma BP: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
-- 7Ma BP: [Hominina](https://en.wikipedia.org/wiki/Human_taxonomy#Hominina) [split](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor) from [Panina](https://en.wikipedia.org/wiki/Pan_%28genus%29), i.e. [chimpanzees](https://en.wikipedia.org/wiki/Chimpanzee) and [bonobos](https://en.wikipedia.org/wiki/Bonobo)
-- 5.96-5.33Ma BP: [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
-- 4.2M-3.8Ma BP: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) emerged in Ethiopia & Kenya
+- 9 mya: [Homininae](https://en.wikipedia.org/wiki/Homininae) [split](https://en.wikipedia.org/wiki/Orangutan%E2%80%93human_last_common_ancestor) from [orangutans](https://en.wikipedia.org/wiki/Orangutan)
+- 8 mya: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
+- 7 mya: [Hominina](https://en.wikipedia.org/wiki/Human_taxonomy#Hominina) [split](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor) from [Panina](https://en.wikipedia.org/wiki/Pan_%28genus%29), i.e. [chimpanzees](https://en.wikipedia.org/wiki/Chimpanzee) and [bonobos](https://en.wikipedia.org/wiki/Bonobo)
+- 5.96-5.33 mya: [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
+- 4.2M-3.8 mya: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) emerged in Ethiopia & Kenya
 
 ### Tools
-- 3.4Ma BP: [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in Ethiopia, near Gona)
-- 3.3Ma BP: [Large stone tools made in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
-- 2.8Ma BP: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) emerged
-- 1.9Ma BP: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) emerged
-- 1.25-0.7Ma BP: [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition), glacial cycles switched from 41ka to 100ka
-- 1.07Ma BP: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana.
-- 1.0Ma BP: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) [controlled fire](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans) in [Wonderwerk Cave](https://en.wikipedia.org/wiki/Wonderwerk_Cave), in the Asbestos Mountains of South Africa
+- 3.4 mya: [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in Ethiopia, near Gona)
+- 3.3 mya: [Large stone tools made in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
+- 2.8 mya: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) emerged
+- 1.9 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) emerged
+- 1.25-0.7 mya: [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition), glacial cycles switched from 41ka to 100ka
+- 1.07 mya: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana.
+
+### Fire
+- 1.0 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) [controlled fire](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans) in [Wonderwerk Cave](https://en.wikipedia.org/wiki/Wonderwerk_Cave), in the Asbestos Mountains of South Africa
 
 ## < 1 Million Years Ago
-- 990-950ka BP: [Jaramillo reversal](https://en.wikipedia.org/wiki/Jaramillo_reversal) of Earth's magnetic field
-- 800ka BP: CO2 dipped below 190ppm, global temp -9 from present
-- 790ka BP: CO2 peaked around 260ppm, global temp -1 from present
-- 781ka BP: [Brunhes-Matuyama reversal](https://en.wikipedia.org/wiki/Brunhes%E2%80%93Matuyama_reversal) of Earth's magnetic field
-- 750ka BP: CO2 dipped below 180ppm, global temp -9 from present
-- 740ka BP: CO2 peaked around 210ppm, global temp -4 from present
-- 720ka BP: CO2 dipped below 190ppm, global temp -9 from present
-- 700ka BP: CO2 peaked around 240ppm, global temp -2 from present
-- 670ka BP: CO2 dipped below 170ppm, global temp -11 from present
-- 660ka BP: CO2 peaked around 200ppm, global temp -7 from present
-- 640ka BP: CO2 dipped below 190ppm, global temp -9 from present
-- 610ka BP: CO2 peaked around 260ppm, global temp -1 from present
-- 600ka BP: CO2 dipped below 220ppm, global temp -7 from present
-- 590ka BP: CO2 peaked around 250ppm, global temp -2 from present
-- 580ka BP: CO2 dipped below 200ppm, global temp -7 from present
-- 540ka BP: CO2 peaked around 250ppm, global temp -1 from present
-- 530ka BP: CO2 dipped below 200ppm, global temp -8 from present
-- 490ka BP: CO2 peaked around 250ppm, global temp -1 from present
-- 440ka BP: CO2 dipped below 200ppm, global temp -9 from present
-- 415ka BP: [Controlled use of fire in Suffolk, England](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
-- 400ka BP: CO2 peaked around 280ppm, global temp +3 from present
-- 350ka BP: CO2 dipped below 200ppm, global temp -9 from present
-- 320ka BP: CO2 peaked around 300ppm, global temp +4 from present
-- 315ka BP: [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens) emerged
-- 300ka BP: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
-- 270ka BP: [Y-chromosomal Adam](https://en.wikipedia.org/wiki/Y-chromosomal_Adam) lived ([Y-DNA haplogroup A](https://en.wikipedia.org/wiki/Haplogroup_A_%28Y-DNA%29)00)
-- 260ka BP: CO2 dipped below 200ppm, global temp -9 from present
-- 250ka BP: [Homo neanderthalensis](https://en.wikipedia.org/wiki/Neanderthal) emerged
-- 240ka BP: CO2 peaked around 280ppm, global temp +3 from present
-- 200ka BP: [Homo sapiens sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) emerged, 6 other homo species existed
-- 173ka BP: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
-- 160ka BP: CO2 dipped below 200ppm, global temp -9 from present
-- 150ka BP: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
-- 140-110ka BP: [Anatomically modern humans](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved
-- 131ka BP: North African/Near Eastern wildcats split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
-- 128ka BP: [Homo cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
-- 120ka BP: CO2 peaked around 280ppm, global temp +5 from present
-- 115ka BP: [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
-- 83ka BP: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
-- 75ka BP: [Toba volcano supereruption](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
-- 70ka BP: Gene mutations that allow abstract thinking emerged
-- 70-50ka BP: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
-- 50ka BP: Explosion of innovation: tools and cultures become more sophisticated
-- 40ka BP: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
-- 32ka BP: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
-- 26.5-20ka BP: [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum), CO2 dipped to 180ppm, global temp -9 from present, dust exceeded 1.6ppm
-- 18ka BP: CO2 falls to local minimum around 200ppm, global temp -10 from present
-- 17-15ka BP: [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas), global temperatures declined sharply
-- 15-13ka BP: [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial), first pronounced warming since LGM
-- 14.2ka BP: Dogs lived with humans in modern Germany
-- 14.2-14.1ka BP: [Older Dryas](https://en.wikipedia.org/wiki/Older_Dryas), global temperatures declined sharply
-- 12.9-11.7ka BP: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
+- 990-950 kya: [Jaramillo reversal](https://en.wikipedia.org/wiki/Jaramillo_reversal) of Earth's magnetic field
+- 800 kya: CO2 dipped below 190ppm, global temp -9 from present
+- 790 kya: CO2 peaked around 260ppm, global temp -1 from present
+- 781 kya: [Brunhes-Matuyama reversal](https://en.wikipedia.org/wiki/Brunhes%E2%80%93Matuyama_reversal) of Earth's magnetic field
+- 750 kya: CO2 dipped below 180ppm, global temp -9 from present
+- 740 kya: CO2 peaked around 210ppm, global temp -4 from present
+- 720 kya: CO2 dipped below 190ppm, global temp -9 from present
+- 700 kya: CO2 peaked around 240ppm, global temp -2 from present
+- 670 kya: CO2 dipped below 170ppm, global temp -11 from present
+- 660 kya: CO2 peaked around 200ppm, global temp -7 from present
+- 640 kya: CO2 dipped below 190ppm, global temp -9 from present
+- 610 kya: CO2 peaked around 260ppm, global temp -1 from present
+- 600 kya: CO2 dipped below 220ppm, global temp -7 from present
+- 590 kya: CO2 peaked around 250ppm, global temp -2 from present
+- 580 kya: CO2 dipped below 200ppm, global temp -7 from present
+- 540 kya: CO2 peaked around 250ppm, global temp -1 from present
+- 530 kya: CO2 dipped below 200ppm, global temp -8 from present
+- 490 kya: CO2 peaked around 250ppm, global temp -1 from present
+- 440 kya: CO2 dipped below 200ppm, global temp -9 from present
+- 415 kya: [Controlled use of fire in Suffolk, England](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
+- 400 kya: CO2 peaked around 280ppm, global temp +3 from present
+- 350 kya: CO2 dipped below 200ppm, global temp -9 from present
+- 320 kya: CO2 peaked around 300ppm, global temp +4 from present
+- 315 kya: [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens) emerged
+- 300 kya: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
+- 270 kya: [Y-chromosomal Adam](https://en.wikipedia.org/wiki/Y-chromosomal_Adam) lived ([Y-DNA haplogroup A](https://en.wikipedia.org/wiki/Haplogroup_A_%28Y-DNA%29)00)
+- 260 kya: CO2 dipped below 200ppm, global temp -9 from present
+- 250 kya: [Homo neanderthalensis](https://en.wikipedia.org/wiki/Neanderthal) emerged
+- 240 kya: CO2 peaked around 280ppm, global temp +3 from present
+- 200 kya: [Homo sapiens sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) emerged, 6 other homo species existed
+- 173 kya: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
+- 160 kya: CO2 dipped below 200ppm, global temp -9 from present
+- 150 kya: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
+- 140-110 kya: [Anatomically modern humans](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved
+- 131 kya: North African/Near Eastern wildcats split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
+- 128 kya: [Homo cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
+- 120 kya: CO2 peaked around 280ppm, global temp +5 from present
+- 115 kya: [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
 
-## Holocene Epoch
-- 11.7ka BP: [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO2 exceeded 250ppm
-- 12.5k BCE: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
-- 12k BCE: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
-- 10.2k BCE: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO2 was 270ppm
-- 7.5k BCE: [A human lived with a cat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
-- 6.4k BCE: Humans in the Fertile Crescent made [pottery](https://en.wikipedia.org/wiki/Pottery)
+### Clothing
+- 83 kya: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
+- 75 kya: [Toba volcano supereruption](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
+- 70 kya: Gene mutations that allow abstract thinking emerged
+- 70-50 kya: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
+- 50 kya: Explosion of innovation: tools and cultures become more sophisticated
+- 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
+- 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
+- 26.5-20 kya: [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum), CO2 dipped to 180ppm, global temp -9 from present, dust exceeded 1.6ppm
+- 18 kya: CO2 falls to local minimum around 200ppm, global temp -10 from present
+- 17-15 kya: [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas), global temperatures declined sharply
+- 15-13 kya: [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial), first pronounced warming since LGM
+
+### Dogs
+- 14.2 kya: Dogs lived with humans in modern Germany
+- 14.2-14.1 kya: [Older Dryas](https://en.wikipedia.org/wiki/Older_Dryas), global temperatures declined sharply
+- 12.9-11.7 kya: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
+- 14.5 kya: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
+### Agriculture
+- 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
+- 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO2 was 270ppm
+
+## < 10 Thousand Years Ago
+- 9650 BCE: [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO2 exceeded 250ppm
+
+### Cats
+- 7500 BCE: [A human lived with a cat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
+- 6400 BCE: Humans in the Fertile Crescent made [pottery](https://en.wikipedia.org/wiki/Pottery)
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
-- 5k BCE: Humans smelted copper on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
-- 5k BCE: Humans domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig) in the Andes
+- 5000 BCE: Humans smelted copper on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
+- 5000 BCE: Humans domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig) in the Andes
 
 ### Writing
 - 3300 BCE: [The Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
