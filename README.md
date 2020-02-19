@@ -32,10 +32,25 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ---
 
+## Contents
 - [The Big Bang](#the-big-bang)
 - [< 10 Billion Years Ago](#-10-billion-years-ago)
+  - [Mitochondria](#mitochondria)
+  - [Chloroplasts](#chloroplasts)
 - [< 1 Billion Years Ago](#-1-billion-years-ago)
+  - [Hox](#hox)
+  - [Gut](#gut)
+  - [Anus](#anus)
+  - [Spine](#spine)
+  - [Eye](#eye)
+  - [Jaw](#jaw)
+  - [Bones & Lungs](#bones-lungs)
+  - [Limbs](#limbs)
+  - [Choana](#choana)
+  - [Womb](#womb)
+  - [Breast](#breast)
 - [< 100 Million Years Ago](#-100-million-years-ago)
+  - [Thumb](#thumb)
 - [< 10 Million Years Ago](#-10-million-years-ago)
   - [Tools](#tools)
   - [Fire](#fire)
@@ -97,9 +112,13 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 2.4-2.05 bya: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
 - ? bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
 - 2.1-1.5 bya: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
+
+### Mitochondria
 - 2.1-1.7 bya: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
 - 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
 - 1.85 bya: O₂ reached 0.03 atm, but most was aborbed into oceans and seabed rock
+
+### Chloroplasts
 - 1.4 bya: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
 - ? bya: [Orthokaryotes](https://en.wikipedia.org/wiki/Orthokaryotes) split from [Discicristata](https://en.wikipedia.org/wiki/Discicristata)
 - ? bya: [Neokaryotes](https://en.wikipedia.org/wiki/Neokaryotes) (all unikonts & bikonts) split from [Jakobids](https://en.wikipedia.org/wiki/Jakobid) (which have bacteria-like mitochondria)
@@ -120,37 +139,57 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 896? mya: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerged
 - 850 mya: O₂ was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
 - 800 mya: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
+
+### Hox
 - ? mya: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
 - 680? mya: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
 - 680? mya: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
 - 824 mya: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
+
+### Gut
 - 797 mya: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
 - 717 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
 - 662 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
+
+### Anus
 - 684 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
 - 684 mya: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
 - 676 mya: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
 - 650-635 mya: [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
 - 633-573 mya: [The supercontinent Pannotia existed](https://en.wikipedia.org/wiki/Pannotia) at the South Pole
+
+### Spine
 - 615 mya: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
 - 600 mya: O₂ exceeded 0.1 atm
 - 579 mya: [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340 ka
 - 575 mya: [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion), producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
 - 542 mya: [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction)
+
+### Eye
 - 541 mya: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO₂ was 4000 ppm, O₂ was 0.12 atm
 - 517 mya: [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction)
 - 502 mya: [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian)
 - 485.4 mya: [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event)
+
+### Jaw
 - 473 mya: [Gnathostomata](https://en.wikipedia.org/wiki/Gnathostomata) ("jaw mouth", a.k.a. jawed fish) split from [Osteostraci](https://en.wikipedia.org/wiki/Osteostraci) ("bony shields") & [Pituriaspida](https://en.wikipedia.org/wiki/Pituriaspida) ("pituri shield")
 - 440 mya: [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events), 86% of species lost
+
+### Bones & Lungs
 - 435 mya: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
 - 424 mya: [Lau extinction event](https://en.wikipedia.org/wiki/Lau_event)
+
+### Limbs
 - 413 mya: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
 - 400 mya: O₂ exceeded 0.15 atm
 - 400 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
 - 375 mya: [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction), 75% of species lost
+
+### [Choana](https://en.wikipedia.org/wiki/Choana)
 - 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
 - 350 mya: O₂ exceeded 0.2 atm
+
+### Womb
 - 312 mya: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
 - 305 mya: [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse)
 - 300 mya: O₂ peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
@@ -160,6 +199,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 200 mya: O₂ exceeded 0.2 atm
 - 200-150 mya: CO₂ > 3000 ppm
 - 183 mya: [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover)
+
+### Breast
 - 177 mya: [Mammaliaformes](https://en.wikipedia.org/wiki/Mammaliaformes) ("mammal shaped", from Latin mamma for breast) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
 - 159 mya: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
 - 150 mya: O₂ exceeded 0.26 atm
@@ -173,6 +214,9 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 88 mya: [Euarchonta](https://en.wikipedia.org/wiki/Euarchonta) ("true ancestors") split from [Glires](https://en.wikipedia.org/wiki/Glires) (dormice), maybe
 - 86.2 mya: [Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha) split from [Scandentia (tree shrews)](https://en.wikipedia.org/wiki/Treeshrew)
 - 79.6 mya: [Primates](https://en.wikipedia.org/wiki/Primate) split from [Dermoptera (gliding mammals)](https://en.wikipedia.org/wiki/Colugo)
+
+### Thumb
+- 70 mya: [Primates evolved thumbs](https://en.wikipedia.org/wiki/Thumb#Human_Evolution)
 - 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
 - 66 mya: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
 - 55 mya: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO₂, global temperatures increased by 5-8 °C.
@@ -238,7 +282,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 173 kya: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
 - 160 kya: CO₂ dipped below 200 ppm, global temp -9 from present
 - 150 kya: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
-- 140-110 kya: [Anatomically modern humans](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved
+- 140-110 kya: [Anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved a larger fore-brain, smaller teeth, and longer distal bones
 - 131 kya: North African/Near Eastern wildcats split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
 - 128 kya: [Homo cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 120 kya: CO₂ peaked around 280 ppm, global temp +5 from present
@@ -251,7 +295,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 75 kya: [Toba volcano supereruption](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
 - 70 kya: Gene mutations that allow abstract thinking emerged
 - 70-50 kya: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
-- 50 kya: Explosion of innovation: tools and cultures become more sophisticated
+- 50-40 kya: [Explosion of innovation: tools and cultures become more sophisticated](https://en.wikipedia.org/wiki/Behavioral_modernity)
+- 50-30 kya: ["Gracile" anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) emerged
 - 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
 - 26.5-20 kya: [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum), CO₂ dipped to 180 ppm, global temp -9 from present, dust exceeded 1.6 ppm
@@ -611,6 +656,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1959 CE: Richard Feynman presented *There's Plenty of Room at the Bottom*
 
 ### 1960s
+- 1960 CE: [François Jacob](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacob), Perrin, Sánchez, & [Jacques Monod](https://en.wikipedia.org/wiki/Jacques_Monod) published *L'opéron: groupe de gènes à expression coordonnée par un opérateur* (*Operon: a group of genes with the expression coordinated by an operator*), describing genetic feedback loops
 - 1960 CE: John McCarthy published *Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I*
 - 1960 CE: John von Neumann published *Continuous geometry*
 - 1960 CE: [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) and [Alfréd Rényi](https://en.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi) published *On the evolution of random graphs*
@@ -770,6 +816,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [Intellectual history](https://en.wikipedia.org/wiki/Intellectual_history)
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
   - [Timeline of historic inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
+  - [Timeline of human evolution](https://en.wikipedia.org/wiki/Timeline_of_human_evolution)
   - [Timelines of world history](https://en.wikipedia.org/wiki/Timelines_of_world_history)
     - [Timeline of epochs in cosmology](https://en.wikipedia.org/wiki/Timeline_of_epochs_in_cosmology)
     - [Timeline of natural history](https://en.wikipedia.org/wiki/Timeline_of_natural_history)
