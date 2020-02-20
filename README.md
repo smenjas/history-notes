@@ -409,6 +409,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 295 BCE: [Demetrius of Phalerum](https://en.wikipedia.org/wiki/Demetrius_of_Phalerum) acquired writings of [Aristotle](https://en.wikipedia.org/wiki/Aristotle) and [Theophrastus](https://en.wikipedia.org/wiki/Theophrastus) for [Ptolemy I Soter](https://en.wikipedia.org/wiki/Ptolemy_I_Soter)
 - 283 BCE: [Ptolemy II Philadeplhus](https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus) created the [Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria), continuing work started by [Ptolemy I Soter](https://en.wikipedia.org/wiki/Ptolemy_I_Soter)
 - 280 BCE: [Aristarchus of Samos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) published [*On the Sizes and Distances (of the Sun and Moon)*](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_%28Aristarchus%29)
+- 260 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Kandahar Bilingual Rock Inscription](https://en.wikipedia.org/wiki/Kandahar_Bilingual_Rock_Inscription)
+- 259 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Minor Rock Edicts](https://en.wikipedia.org/wiki/Minor_Rock_Edicts) with [Brahmi numerals](https://en.wikipedia.org/wiki/Brahmi_numerals), precursors to the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) but lacking [zero](https://en.wikipedia.org/wiki/0)
 - 250 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
 - 234 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
 - 220-150 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) invented the [astrolabe](https://en.wikipedia.org/wiki/Astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
@@ -430,14 +432,18 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) published commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art)
 - 400 CE: [The Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
+- 500 CE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) developed the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
 - 525 CE: [Dionysius Exiguus](https://en.wikipedia.org/wiki/Dionysius_Exiguus) invented the [*Anno Domini*](https://en.wikipedia.org/wiki/Anno_Domini) [calendar era](https://en.wikipedia.org/wiki/Calendar_era), an alternative to the [Era of the Martyrs](https://en.wikipedia.org/wiki/Era_of_the_Martyrs)
 - 613 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote *On the Nature of Things*, mentioning "pestifera semina" ("plague-bearing seeds")
 - 732 CE: [Bede](https://en.wikipedia.org/wiki/Bede) wrote the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People), popularizing the *Anno Domini* era
 - 820 CE: [al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of algebra
+- 825 CE: [Al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) published *On the Calculation with Hindu Numerals*
+- 830 CE: [Al-Kindi](https://en.wikipedia.org/wiki/Al-Kindi) published *On the Use of the Hindu Numerals*
 - 863 CE: [Saints Cyril & Methodius](https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius) developed the [Glagolitic script](https://en.wikipedia.org/wiki/Glagolitic_script), derived from medieval cursive [Greek minuscule script](https://en.wikipedia.org/wiki/Greek_minuscule)
 - 893 CE: [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script) developed, based on Greek [uncial script](https://en.wikipedia.org/wiki/Uncial_script) & Glagolitic script
 - 900 CE: [Arab navigators](https://en.wikipedia.org/wiki/Geography_and_cartography_in_medieval_Islam) originated the [kamal](https://en.wikipedia.org/wiki/Kamal_%28navigation%29), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1025 CE: [Ibn Sina](https://en.wikipedia.org/wiki/Ibn_Sina) wrote [*The Canon of Medicine*](https://en.wikipedia.org/wiki/The_Canon_of_Medicine)
+- 1202 CE: [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) published [*Liber Abaci* (*The Book of the Abacus*)](https://en.wikipedia.org/wiki/Liber_Abaci), introducing the [Hindu-Arabic numberal system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1345 CE: [Tommaso del Garbo](https://en.wikipedia.org/wiki/Tommaso_del_Garbo) mentioned Galen's "seeds of plague" in his work *Commentaria non-parum utilia in libros Galeni* (*Helpful commentaries on the books of Galen*)
 - 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesised that infectious diseases were caused by "minute bodies" and described how they can be transmitted through garments, vessels and earrings
@@ -516,6 +522,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1748 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Introductio in analysin infinitorum* (*Introduction to the analysis of the infinite*)](https://en.wikipedia.org/wiki/Introductio_in_analysin_infinitorum)
 - 1748 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) invented the [heliometer](https://en.wikipedia.org/wiki/Heliometer), which makes precise measurements between objects seen through a telescope
 - 1749 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) published *La figure de la terre* (*The figure of the Earth*)
+- 1751-1772 CE: [Denis Diderot](https://en.wikipedia.org/wiki/Denis_Diderot) published [*Encyclopédie*](https://en.wikipedia.org/wiki/Encyclop%C3%A9die)
 - 1753 CE: [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) published [*Species Plantarum*](https://en.wikipedia.org/wiki/Species_Plantarum)
 - 1754 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Discourse on Inequality*](https://en.wikipedia.org/wiki/Discourse_on_Inequality)
 - 1755 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutiones calculi differentialis*](https://en.wikipedia.org/wiki/Institutiones_calculi_differentialis)
@@ -632,6 +639,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1918 CE: Albert Einstein published *Gravitationswellen* (*On Gravitational Waves*)
 
 ### 1920s
+- 1920 CE: [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells) published [*The Outline of History*](https://en.wikipedia.org/wiki/The_Outline_of_History)
 - 1921 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) posthumously published [*Economy and Society*](https://en.wikipedia.org/wiki/Economy_and_Society)
 - 1922 CE: [Gago Coutinho](https://en.wikipedia.org/wiki/Carlos_Viegas_Gago_Coutinho) modified the [sextant](https://en.wikipedia.org/wiki/Sextant) for [aeronautical](https://en.wikipedia.org/wiki/Aeronautics) [navigation](https://en.wikipedia.org/wiki/Navigation)
 - 1923 CE: John von Neumann published *On the introduction of transfinite numbers*
@@ -642,6 +650,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
 - 1931 CE: [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski) published *A Non-Aristotelian System and its Necessity for Rigour in Mathematics and Physics* coining ["A map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
 - 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
+- 1935-1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1936 CE: Theodore P. Wright published *Factors affecting the costs of airplanes*
 - 1936 CE: Alonzo Church published *An unsolvable problem of elementary number theory*
 - 1936 CE: Dale Carnegie published *How to Win Friends and Influence People*
@@ -688,6 +697,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1968 CE: The FCC ruled that "any lawful device" can be connected to the AT&T network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
 - 1968 CE: Motoo Kimura published *Evolutionary rate at the molecular level*
 - 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
+- 1968 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Lessons of History*](https://en.wikipedia.org/wiki/The_Lessons_of_History)
 - 1968 CE: Donald Knuth published *The Art of Computer Programming, volume 1*
 - 1969 CE: Donald Knuth published *The Art of Computer Programming, volume 2*
 - 1969 CE: Neil Armstrong & Buzz Aldrin walked on the Moon
@@ -779,6 +789,8 @@ Once history begins, I've focused on reproducible publications, patents, and
 # More History
 - [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
 - [Anthropology](https://en.wikipedia.org/wiki/Anthropology): the scientific study of humans
+- [Art history](https://en.wikipedia.org/wiki/Art_history)
+- [Attested language](https://en.wikipedia.org/wiki/Attested_language)
 - [Auxiliary sciences of history](https://en.wikipedia.org/wiki/Auxiliary_sciences_of_history)
 - [Bibliography](https://en.wikipedia.org/wiki/Bibliography)
 - [Big History](https://en.wikipedia.org/wiki/Big_History)
@@ -789,23 +801,35 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [Chronology](https://en.wikipedia.org/wiki/Chronology)
 - [Chronology of the Universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe)
 - [Computational history](https://en.wikipedia.org/wiki/Computational_history)
+- [Cradle of civilization](https://en.wikipedia.org/wiki/Cradle_of_civilization)
 - [Cultural history](https://en.wikipedia.org/wiki/Cultural_history)
 - [Detailed logarithmic timeline](https://en.wikipedia.org/wiki/Detailed_logarithmic_timeline)
+- [Economic history of the world](https://en.wikipedia.org/wiki/Economic_history_of_the_world)
 - [Environmental history](https://en.wikipedia.org/wiki/Environmental_history)
 - [Evolutionary history of life](https://en.wikipedia.org/wiki/Evolutionary_history_of_life)
   - [Evolutionary history of plants](https://en.wikipedia.org/wiki/Evolutionary_history_of_plants)
 - [Fred Smitha: Macrohistory, World History](http://www.fsmitha.com/)
 - [Gender history](https://en.wikipedia.org/wiki/Gender_history)
 - [Geological history of Earth](https://en.wikipedia.org/wiki/Geological_history_of_Earth)
+- [Germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
+- [Historical linguistics](https://en.wikipedia.org/wiki/Historical_linguistics)
 - [Historical method](https://en.wikipedia.org/wiki/Historical_method)
+- [Historiography](https://en.wikipedia.org/wiki/Historiography)
+- [History](https://en.wikipedia.org/wiki/History)
 - [History of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture)
   - [List of domesticated animals](https://en.wikipedia.org/wiki/List_of_domesticated_animals)
   - [List of domesticated plants](https://en.wikipedia.org/wiki/List_of_domesticated_plants)
+- [History of art](https://en.wikipedia.org/wiki/History_of_art)
+- [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
 - [History of Earth](https://en.wikipedia.org/wiki/History_of_Earth)
 - [History of books](https://en.wikipedia.org/wiki/History_of_books)
 - [History of chemistry](https://en.wikipedia.org/wiki/History_of_chemistry)
+- [History of communication](https://en.wikipedia.org/wiki/History_of_communication)
 - [History of computing](https://en.wikipedia.org/wiki/History_of_computing)
+- [History of computing hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
 - [History of computer science](https://en.wikipedia.org/wiki/History_of_computer_science)
+- [History of economic thought](https://en.wikipedia.org/wiki/History_of_economic_thought)
+- [History of education](https://en.wikipedia.org/wiki/History_of_education)
 - [History of engineering](https://en.wikipedia.org/wiki/History_of_engineering)
 - [History of globalization](https://en.wikipedia.org/wiki/History_of_globalization)
 - [Historiography (history of history)](https://en.wikipedia.org/wiki/Historiography)
@@ -815,23 +839,60 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [History of materials science](https://en.wikipedia.org/wiki/History_of_materials_science)
 - [History of mathematics](https://en.wikipedia.org/wiki/History_of_mathematics)
 - [History of medicine](https://en.wikipedia.org/wiki/History_of_medicine)
+- [History of money](https://en.wikipedia.org/wiki/History_of_money)
+- [History of painting](https://en.wikipedia.org/wiki/History_of_painting)
+- [History of personal computers](https://en.wikipedia.org/wiki/History_of_personal_computers)
 - [History of physics](https://en.wikipedia.org/wiki/History_of_physics)
 - [History of programming languages](https://en.wikipedia.org/wiki/History_of_programming_languages)
+- [History of radio](https://en.wikipedia.org/wiki/History_of_radio)
 - [History of robots](https://en.wikipedia.org/wiki/History_of_robots)
 - [History of science](https://en.wikipedia.org/wiki/History_of_science)
+- [History of scientific method](https://en.wikipedia.org/wiki/History_of_scientific_method)
 - [History of software engineering](https://en.wikipedia.org/wiki/History_of_software_engineering)
 - [History of spaceflight](https://en.wikipedia.org/wiki/History_of_spaceflight)
+- [History of tablet computers](https://en.wikipedia.org/wiki/History_of_tablet_computers)
 - [History of technology](https://en.wikipedia.org/wiki/History_of_technology)
+- [History of telecommunication](https://en.wikipedia.org/wiki/History_of_telecommunication)
 - [History of thermodynamics](https://en.wikipedia.org/wiki/History_of_thermodynamics)
 - [History of transport](https://en.wikipedia.org/wiki/History_of_transport)
+- [History of the alphabet](https://en.wikipedia.org/wiki/History_of_the_alphabet)
+- [History of the anchor](https://en.wikipedia.org/wiki/History_of_the_anchor)
+- [History of the Arabic alphabet](https://en.wikipedia.org/wiki/History_of_the_Arabic_alphabet)
+- [History of the battery](https://en.wikipedia.org/wiki/History_of_the_battery)
+- [History of the Greek alphabet](https://en.wikipedia.org/wiki/History_of_the_Greek_alphabet)
+- [History of the Internet](https://en.wikipedia.org/wiki/History_of_the_Internet)
+- [History of the periodic table](https://en.wikipedia.org/wiki/History_of_the_periodic_table)
+- [History of the petroleum industry](https://en.wikipedia.org/wiki/History_of_the_petroleum_industry)
 - [History of the social sciences](https://en.wikipedia.org/wiki/History_of_the_social_sciences)
+- [History of the steam engine](https://en.wikipedia.org/wiki/History_of_the_steam_engine)
+- [History of the telescope](https://en.wikipedia.org/wiki/History_of_the_telescope)
+- [History of the transistor](https://en.wikipedia.org/wiki/History_of_the_transistor)
+- [History of the web browser](https://en.wikipedia.org/wiki/History_of_the_web_browser)
 - [History of the world](https://en.wikipedia.org/wiki/History_of_the_world)
+- [History of the World Wide Web](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+- [History of Western Civilization](https://en.wikipedia.org/wiki/History_of_Western_civilization)
 - [History of writing](https://en.wikipedia.org/wiki/History_of_writing)
 - [Intellectual history](https://en.wikipedia.org/wiki/Intellectual_history)
+- [List of languages by first written accounts](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
-  - [Timeline of the evolutionary history of life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life)
+  - [Timeline of agriculture and food technology](https://en.wikipedia.org/wiki/Timeline_of_agriculture_and_food_technology)
+  - [Timeline of clothing and textiles technology](https://en.wikipedia.org/wiki/Timeline_of_clothing_and_textiles_technology)
+  - [Timeline of heat engine technology](https://en.wikipedia.org/wiki/Timeline_of_heat_engine_technology)
   - [Timeline of historic inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
+  - [Timeline of hypertext technology](https://en.wikipedia.org/wiki/Timeline_of_hypertext_technology)
   - [Timeline of human evolution](https://en.wikipedia.org/wiki/Timeline_of_human_evolution)
+  - [Timeline of lighting technology](https://en.wikipedia.org/wiki/Timeline_of_lighting_technology)
+  - [Timeline of low-temperature technology](https://en.wikipedia.org/wiki/Timeline_of_low-temperature_technology)
+  - [Timeline of materials technology](https://en.wikipedia.org/wiki/Timeline_of_materials_technology)
+  - [Timeline of medicine and medical technology](https://en.wikipedia.org/wiki/Timeline_of_medicine_and_medical_technology)
+  - [Timeline of microscope technology](https://en.wikipedia.org/wiki/Timeline_of_microscope_technology)
+  - [Timeline of music technology](https://en.wikipedia.org/wiki/Timeline_of_music_technology)
+  - [Timeline of rocket and missile technology](https://en.wikipedia.org/wiki/Timeline_of_rocket_and_missile_technology)
+  - [Timeline of photography technology](https://en.wikipedia.org/wiki/Timeline_of_photography_technology)
+  - [Timeline of telescopes, observatories, and observing technology](https://en.wikipedia.org/wiki/Timeline_of_telescopes,_observatories,_and_observing_technology)
+  - [Timeline of temperature and pressure measurement technology](https://en.wikipedia.org/wiki/Timeline_of_temperature_and_pressure_measurement_technology)
+  - [Timeline of the evolutionary history of life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life)
+  - [Timeline of transportation technology](https://en.wikipedia.org/wiki/Timeline_of_transportation_technology)
   - [Timelines of world history](https://en.wikipedia.org/wiki/Timelines_of_world_history)
     - [Timeline of epochs in cosmology](https://en.wikipedia.org/wiki/Timeline_of_epochs_in_cosmology)
     - [Timeline of natural history](https://en.wikipedia.org/wiki/Timeline_of_natural_history)
@@ -840,6 +901,7 @@ Once history begins, I've focused on reproducible publications, patents, and
     - [Timeline of the Middle Ages](https://en.wikipedia.org/wiki/Timeline_of_the_Middle_Ages)
     - [Timelines of modern history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)
 - [Living graph](https://en.wikipedia.org/wiki/Living_graph)
+- [Natural history](https://en.wikipedia.org/wiki/Natural_history)
 - [Popular history](https://en.wikipedia.org/wiki/Popular_history)
 - [Prehistory](https://en.wikipedia.org/wiki/Prehistory)
 - [Protohistory](https://en.wikipedia.org/wiki/Protohistory)
