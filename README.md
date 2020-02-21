@@ -399,6 +399,8 @@ Few descriptions survive, despite many discoveries.
 ### History
 - 440 BCE: [Herodotus](https://en.wikipedia.org/wiki/Herodotus) wrote [*The Histories*](https://en.wikipedia.org/wiki/Histories_%28Herodotus%29), establishing [historiography](https://en.wikipedia.org/wiki/Historiography)
 - 431-411 BCE [Thucydides](https://en.wikipedia.org/wiki/Thucydides) wrote the [*History of the Peloponnesian War*](https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War), establishing [scientific history](https://en.wikipedia.org/wiki/Historical_method) and documenting how the [Plague of Athens](https://en.wikipedia.org/wiki/Plague_of_Athens) spread via infection, an important milestone in the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
+- 430 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus), or someone else, wrote [Prometheus Bound](https://en.wikipedia.org/wiki/Prometheus_Bound) by this time
+- 420 BCE: [Democritus](https://en.wikipedia.org/wiki/Democritus) & [Leucippus](https://en.wikipedia.org/wiki/Leucippus) formulated the [atomic theory](https://en.wikipedia.org/wiki/Atomic_theory) at [Abdera, Thrace](https://en.wikipedia.org/wiki/Abdera,_Thrace)
 - 403 BCE: [Athens](https://en.wikipedia.org/wiki/Athens) officially adopted the standard 24-letter [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
 - 400 BCE: [Laozi](https://en.wikipedia.org/wiki/Laozi) published the [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 - 387 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) founded his [Academy](https://en.wikipedia.org/wiki/Platonic_Academy)
@@ -439,11 +441,13 @@ Few descriptions survive, despite many discoveries.
 - 125 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) published [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
+- 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote *Lives and Opinions of Eminent Philosophers*
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) published commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art)
 - 400 CE: [The Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
+- 400 CE: [Joannes Stobaeus](https://en.wikipedia.org/wiki/Stobaeus) compiled *Eklogon, apophthegmaton, hypothekon biblia tessara* (*Four Books of Extracts, Sayings and Precepts*) an [anthology](https://en.wikipedia.org/wiki/Anthology) of [classical Greek](https://en.wikipedia.org/wiki/Classical_Greece) literature including the [Delphic maxims](https://en.wikipedia.org/wiki/Delphic_maxims), e.g. ["Know thyself"](https://en.wikipedia.org/wiki/Know_thyself)
 - 500 CE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) developed the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
 - 525 CE: [Dionysius Exiguus](https://en.wikipedia.org/wiki/Dionysius_Exiguus) invented the [*Anno Domini*](https://en.wikipedia.org/wiki/Anno_Domini) [calendar era](https://en.wikipedia.org/wiki/Calendar_era), an alternative to the [Era of the Martyrs](https://en.wikipedia.org/wiki/Era_of_the_Martyrs)
-- 613 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote *On the Nature of Things*, mentioning "pestifera semina" ("plague-bearing seeds")
+- 613 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote *De natura rerum* (*On the Nature of Things*), mentioning "pestifera semina" ("plague-bearing seeds")
 - 630 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote [*Etymologiae* (*Etymologies*)](https://en.wikipedia.org/wiki/Etymologiae), an influential [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 732 CE: [Bede](https://en.wikipedia.org/wiki/Bede) wrote the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People), popularizing the *Anno Domini* era
 - 820 CE: [al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of algebra
@@ -534,6 +538,7 @@ Few descriptions survive, despite many discoveries.
 - 1726 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [*Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy)*](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica) 3rd edition
 - 1726 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *De Sono* (*On Sound*)
 - 1727 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) published *On the masting of ships*, *On the best method of observing the altitude of stars at sea*, and *On the best method of observing the variation of the compass at sea*
+- 1728 CE: [Ephraim Chambers](https://en.wikipedia.org/wiki/Ephraim_Chambers) published [*Cyclopædia, or an Universal Dictionary of Arts and Sciences*](https://en.wikipedia.org/wiki/Cyclop%C3%A6dia,_or_an_Universal_Dictionary_of_Arts_and_Sciences), one of the first general [encyclopedias](https://en.wikipedia.org/wiki/Encyclopedia) produced in English
 - 1729 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) published *Essai d'optique sur la gradation de la lumière* (*Optical test on the dimming of light*)
 - 1731 CE: [John Hadley](https://en.wikipedia.org/wiki/John_Hadley) & [Thomas Godfrey](https://en.wikipedia.org/wiki/Thomas_Godfrey_%28inventor%29) implemented the [sextant](https://en.wikipedia.org/wiki/Sextant), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
 - 1735 CE: [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) published [Systema Naturae](https://en.wikipedia.org/wiki/Systema_Naturae) 1st edition
@@ -546,7 +551,7 @@ Few descriptions survive, despite many discoveries.
 - 1748 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Introductio in analysin infinitorum* (*Introduction to the analysis of the infinite*)](https://en.wikipedia.org/wiki/Introductio_in_analysin_infinitorum)
 - 1748 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) invented the [heliometer](https://en.wikipedia.org/wiki/Heliometer), which makes precise measurements between objects seen through a telescope
 - 1749 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) published *La figure de la terre* (*The figure of the Earth*)
-- 1751-1772 CE: [Denis Diderot](https://en.wikipedia.org/wiki/Denis_Diderot) published [*Encyclopédie*](https://en.wikipedia.org/wiki/Encyclop%C3%A9die)
+- 1751-1759 CE: [Denis Diderot](https://en.wikipedia.org/wiki/Denis_Diderot) & [Jean le Rond d'Alembert](https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert) published [*Encyclopédie*](https://en.wikipedia.org/wiki/Encyclop%C3%A9die)
 - 1753 CE: [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) published [*Species Plantarum*](https://en.wikipedia.org/wiki/Species_Plantarum)
 - 1754 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Discourse on Inequality*](https://en.wikipedia.org/wiki/Discourse_on_Inequality)
 - 1755 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutiones calculi differentialis*](https://en.wikipedia.org/wiki/Institutiones_calculi_differentialis)
@@ -813,6 +818,7 @@ Few descriptions survive, despite many discoveries.
 
 ## More History
 - [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
+- [Anthology](https://en.wikipedia.org/wiki/Anthology): a curated collection of literary works
 - [Anthropology](https://en.wikipedia.org/wiki/Anthropology): the scientific study of humans
 - [Art history](https://en.wikipedia.org/wiki/Art_history)
 - [Attested language](https://en.wikipedia.org/wiki/Attested_language)
