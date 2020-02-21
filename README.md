@@ -795,6 +795,7 @@ Few descriptions survive, despite many discoveries.
 - 2003 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Fedora operating system](https://en.wikipedia.org/wiki/Fedora_%28operating_system%29)
 - 2004 CE: [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth) released the [Ubuntu operating system](https://en.wikipedia.org/wiki/Mark_Shuttleworth)
 - 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) published [Markdown](https://en.wikipedia.org/wiki/Markdown) as open source software
+- 2004 CE: [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) published [*The Ancestor's Tale*](https://en.wikipedia.org/wiki/The_Ancestor%27s_Tale)
 - 2005 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published [Git](https://en.wikipedia.org/wiki/Git) as open source software
 - 2005 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)
 - 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) published [WebKit](https://en.wikipedia.org/wiki/WebKit) as open source software
