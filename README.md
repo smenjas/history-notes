@@ -419,11 +419,13 @@ Few descriptions survive, despite many discoveries.
 - 260 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Kandahar Bilingual Rock Inscription](https://en.wikipedia.org/wiki/Kandahar_Bilingual_Rock_Inscription)
 - 259 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Minor Rock Edicts](https://en.wikipedia.org/wiki/Minor_Rock_Edicts) with [Brahmi numerals](https://en.wikipedia.org/wiki/Brahmi_numerals), precursors to the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) but lacking [zero](https://en.wikipedia.org/wiki/0)
 - 250 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
+- 240 BCE: [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) measured the [Earth's circumference](https://en.wikipedia.org/wiki/Earth's_circumference)
 - 234 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
 - 220-150 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) invented the [astrolabe](https://en.wikipedia.org/wiki/Astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
-- 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) published [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar.
-- 240 BCE: [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) measured the [Earth's circumference](https://en.wikipedia.org/wiki/Earth's_circumference)
+- 212 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) wrote many mathematical works, and deployed a heat ray by the time of his death
+- 200 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) wrote *Conics* and other works on mathematics
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
+- 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) published [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar.
 - 100 BCE: [The Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
 - 56 BCE: [Lucretius](https://en.wikipedia.org/wiki/Lucretius) wrote [*De rerum natura* (*On the Nature of Things*)](https://en.wikipedia.org/wiki/De_rerum_natura), stated that the world contained "seeds" that can sicken you if inhaled or ingested
 - 46 BCE: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) proposed the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
@@ -513,6 +515,7 @@ Few descriptions survive, despite many discoveries.
 ### Cell Biology
 - 1665 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) published [*Micrographia*](https://en.wikipedia.org/wiki/Micrographia), coining the biological term [cell](https://en.wikipedia.org/wiki/Cell_%28biology%29)
 - 1666 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) described a [reflecting instrument](https://en.wikipedia.org/wiki/Reflecting_instrument), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
+- 1683 CE: [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) published *Lectiones Opticae et Geometricae* (*Optics & Geometrics Lessons*), demonstrating the [fundamental theorem of calculus](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus)
 - 1673 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published [*Horologium Oscillatorium* (*The Pendulum Clock*)](https://en.wikipedia.org/wiki/Horologium_Oscillatorium)
 - 1674 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [protists](https://en.wikipedia.org/wiki/Protist)
 - 1677 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [spermatozoa](https://en.wikipedia.org/wiki/Spermatozoon)
@@ -520,6 +523,7 @@ Few descriptions survive, despite many discoveries.
 - 1681 CE: [Thomas Burnet](https://en.wikipedia.org/wiki/Thomas_Burnet) published *Sacred Theory of the Earth*
 - 1682 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered the banded pattern of [muscular fibers](https://en.wikipedia.org/wiki/Muscle), in 1682
 - 1683 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [bacteria](https://en.wikipedia.org/wiki/Bacteria)
+- 1683 CE: [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) published *Lectiones Mathematicae* (*Mathematics Lessons*)
 - 1684 CE: [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) published [*Nova Methodus pro Maximis et Minimis*](https://en.wikipedia.org/wiki/Nova_Methodus_pro_Maximis_et_Minimis)
 - 1687 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [*Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy)*](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica) 1st edition
 - 1689 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Two Treatises of Government*](https://en.wikipedia.org/wiki/Two_Treatises_of_Government)
