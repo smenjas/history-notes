@@ -15,12 +15,10 @@ varies](https://en.wikipedia.org/wiki/Past_sea_level) with temperature.
 
 In [the Holocene epoch](https://en.wikipedia.org/wiki/Holocene), temperature
 has varied < ±2 °C, CO₂ has steadily increased from about 260 ppm, and dust
-levels have stayed below 0.1 ppm.
-
-Dust levels only exceed 0.4 ppm when the global average temperature drops more
-than 6 °C below the Holocene average, during major
-[glaciations](https://en.wikipedia.org/wiki/Glacial_period). The air becomes
-cold and dry.
+levels have stayed below 0.1 ppm. Dust levels only exceed 0.4 ppm when the
+global average temperature drops more than 6 °C below the Holocene average,
+during major [glaciations](https://en.wikipedia.org/wiki/Glacial_period). The
+air becomes cold and dry.
 
 Once history begins, I've focused on reproducible publications, patents, and
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
@@ -38,6 +36,7 @@ There have been many discoveries, but few descriptions survive.
 - [ka:  1 thousand years](https://en.wikipedia.org/wiki/Year#Abbreviations_yr_and_ya)
 - [ybp: years before present](https://en.wikipedia.org/wiki/Before_Present)
 - [atm: approximate atmospheric pressure at sea level](https://en.wikipedia.org/wiki/Atmosphere_%28unit%29)
+- [ppm: parts per million](https://en.wikipedia.org/wiki/Parts-per_notation)
 
 ## Contents
 - [The Big Bang](#the-big-bang)
