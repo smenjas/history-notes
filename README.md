@@ -508,6 +508,8 @@ Few descriptions survive, despite many discoveries.
 - 1489 CE: [Poliziano (a.k.a. Politianus)](https://en.wikipedia.org/wiki/Poliziano) published *Miscellanea*, an influential series of discursive essays on philology and [criticism](https://en.wikipedia.org/wiki/Criticism)
 
 ## 1500s
+- 1501 CE: [Giorgio Valla](https://en.wikipedia.org/wiki/Giorgio_Valla) published *De expetendis et fugiendis rebus* (*On Desired & Avoided Affairs*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) containing newly discovered and translated [ancient Greek mathematical](https://en.wikipedia.org/wiki/Greek_mathematics) texts
+- 1503 CE: [Gregor Reisch](https://en.wikipedia.org/wiki/Gregor_Reisch%29) published the *Margarita Philosophica*, an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) explaining the [7 liberal arts](https://en.wikipedia.org/wiki/Liberal_arts_education#Seven_liberal_arts)
 - 1532 CE: [Niccolò Machiavelli's](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) published
 - 1543 CE: [Andreas Vesalius](https://en.wikipedia.org/wiki/Andreas_Vesalius) published [*De humani corporis fabrica* (*On the fabric of the human body*)](https://en.wikipedia.org/wiki/De_humani_corporis_fabrica)
 - 1543 CE: [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) published [*De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)
@@ -534,6 +536,7 @@ Few descriptions survive, despite many discoveries.
 - 1638 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Two New Sciences*](https://en.wikipedia.org/wiki/Two_New_Sciences)
 - 1641 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Meditations on First Philosophy*](https://en.wikipedia.org/wiki/Meditations_on_First_Philosophy)
 - 1644 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Principia Philosophiæ* (*Principles of Philosophy*)](https://en.wikipedia.org/wiki/Principles_of_Philosophy)
+- 1646 CE: [Thomas Browne](https://en.wikipedia.org/wiki/Thomas_Browne) published [*Pseudodoxia Epidemica* (a.k.a. *Vulgar Errors*)](https://en.wikipedia.org/wiki/Pseudodoxia_Epidemica)
 - 1648 CE: [Marcus Zuerius van Boxhorn](https://en.wikipedia.org/wiki/Marcus_Zuerius_van_Boxhorn) discovered the similarity among [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages), and supposed the existence of a primitive common language
 - 1658 CE: [Athanasius Kircher](https://en.wikipedia.org/wiki/Athanasius_Kircher) wrote *Scrutinium pestis physico-medicum*, inventing the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
 - 1659 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published *De vi centrifuga*, describing [centripetal force](https://en.wikipedia.org/wiki/Centripetal_force)
@@ -600,12 +603,14 @@ Few descriptions survive, despite many discoveries.
 - 1765 CE: [James Watt](https://en.wikipedia.org/wiki/James_Watt) increased the efficiency of the [steam engine](https://en.wikipedia.org/wiki/Watt_steam_engine) with a condenser and steam jacket
 - 1765 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Vollständige Anleitung zur Algebra*
 - 1768 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Letters to a German Princess*](https://en.wikipedia.org/wiki/Letters_to_a_German_Princess)
+- 1768 CE: [William Smellie](https://en.wikipedia.org/wiki/William_Smellie_%28encyclopedist%29) edited the [Encyclopædia Britannica 1st edition](https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica_First_Edition)
 - 1769 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) accurately calculated the distance from the Earth to the Sun to be 93 million miles, based on observing the [transit of Venus](https://en.wikipedia.org/wiki/Transit_of_Venus)
 - 1770 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutionum calculi integralis*](https://en.wikipedia.org/wiki/Institutionum_calculi_integralis)
 - 1776 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*Wealth of Nations*](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
 - 1785 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) invented the first man-made [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1788 CE: [James Hutton](https://en.wikipedia.org/wiki/James_Hutton) published [*Theory of the Earth*](https://en.wikipedia.org/wiki/Theory_of_the_Earth)
 - 1793 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) explained [how the human eye focuses on objects at different distances](https://en.wikipedia.org/wiki/Accommodation_%28eye%29)
+- 1796 CE: Renatus Gotthelf Löbel edited the [*Conversations-Lexikon* (*Conversation Dictionary*)](https://en.wikipedia.org/wiki/Conversations-Lexikon_mit_vorz%C3%BCglicher_R%C3%BCcksicht_auf_die_gegenw%C3%A4rtigen_Zeiten), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) later called the [*Brockhaus Enzyklopädie*](https://en.wikipedia.org/wiki/Brockhaus_Enzyklop%C3%A4die)
 - 1798 CE: [Edward Jenner](https://en.wikipedia.org/wiki/Edward_Jenner) published *Inquiry into the Variolae vaccinae known as the Cow Pox*
 
 ## 1800s
@@ -947,6 +952,7 @@ Few descriptions survive, despite many discoveries.
 - [Intellectual history](https://en.wikipedia.org/wiki/Intellectual_history)
 - [Librivox](https://librivox.org/)
 - [List of languages by first written accounts](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
+- [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 - [List of people considered father or mother of a scientific field](https://en.wikipedia.org/wiki/List_of_people_considered_father_or_mother_of_a_scientific_field)
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
   - [Timeline of agriculture and food technology](https://en.wikipedia.org/wiki/Timeline_of_agriculture_and_food_technology)
