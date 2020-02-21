@@ -3,14 +3,15 @@
 This document looks at ["Big
 History"](https://en.wikipedia.org/wiki/Big_History), a.k.a. the big picture.
 
-Atmospheric oxygen (O₂) tells the
-[eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story. [Carbon dioxide
-(CO₂) tells temperature's
-story.](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
-
 I've shown each known branch along the path of [human
 evolution](https://en.wikipedia.org/wiki/Human_evolution). The branch leading
 to humans is on the left.
+
+Atmospheric oxygen (O₂) tells the
+[eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story. [Carbon dioxide
+(CO₂)](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
+tells temperature's story. [Sea level
+varies](https://en.wikipedia.org/wiki/Past_sea_level) with temperature.
 
 In [the Holocene epoch](https://en.wikipedia.org/wiki/Holocene), temperature
 has varied < ±2 °C, CO₂ has steadily increased from about 260 ppm, and dust
@@ -24,13 +25,19 @@ cold and dry.
 Once history begins, I've focused on reproducible publications, patents, and
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 
-- bya: 1 billion years ago (10⁹)
-- mya: 1 million years ago (10⁶)
-- kya: 1 thousand years ago (10³)
-- ka:  1 thousand years
-- ybp: years before present
+We need both discovery and communication to [stand on the shoulders of
+giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
+There have been many discoveries, but few descriptions survive.
 
 ---
+
+## Units
+- [bya: 1 billion years ago (10⁹)](https://en.wikipedia.org/wiki/Year#Abbreviations_yr_and_ya)
+- [mya: 1 million years ago (10⁶)](https://en.wikipedia.org/wiki/Year#Abbreviations_yr_and_ya)
+- [kya: 1 thousand years ago (10³)](https://en.wikipedia.org/wiki/Year#Abbreviations_yr_and_ya)
+- [ka:  1 thousand years](https://en.wikipedia.org/wiki/Year#Abbreviations_yr_and_ya)
+- [ybp: years before present](https://en.wikipedia.org/wiki/Before_Present)
+- [atm: approximate atmospheric pressure at sea level](https://en.wikipedia.org/wiki/Atmosphere_%28unit%29)
 
 ## Contents
 - [The Big Bang](#the-big-bang)
@@ -425,7 +432,11 @@ Once history begins, I've focused on reproducible publications, patents, and
 - ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) published the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
 
 ## Common Era
+- 77 CE: [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder) published [*Naturalis Historia* (*Natural History*)](https://en.wikipedia.org/wiki/Natural_History_%28Pliny%29)
+- 95 CE: [Quintillian](https://en.wikipedia.org/wiki/Quintilian) published [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria): his aim was "the education of the perfect orator", and he taught Pliny the Younger [rhetoric](https://en.wikipedia.org/wiki/Rhetoric)
+- 99 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) published the first book of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
 - 108 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) published [*Discourses of Epictetus*](https://en.wikipedia.org/wiki/Discourses_of_Epictetus)
+- 109 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) published the first 9 books of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
 - 111 CE: [Ban Biao](https://en.wikipedia.org/wiki/Ban_Biao)'s children published [*The Book of Han*](https://en.wikipedia.org/wiki/Book_of_Han), a [history of China](https://en.wikipedia.org/wiki/History_of_China)
 - 125 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) published [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
@@ -435,21 +446,28 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 500 CE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) developed the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
 - 525 CE: [Dionysius Exiguus](https://en.wikipedia.org/wiki/Dionysius_Exiguus) invented the [*Anno Domini*](https://en.wikipedia.org/wiki/Anno_Domini) [calendar era](https://en.wikipedia.org/wiki/Calendar_era), an alternative to the [Era of the Martyrs](https://en.wikipedia.org/wiki/Era_of_the_Martyrs)
 - 613 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote *On the Nature of Things*, mentioning "pestifera semina" ("plague-bearing seeds")
+- 630 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote [*Etymologiae* (*Etymologies*)](https://en.wikipedia.org/wiki/Etymologiae), an influential [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 732 CE: [Bede](https://en.wikipedia.org/wiki/Bede) wrote the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People), popularizing the *Anno Domini* era
 - 820 CE: [al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of algebra
 - 825 CE: [Al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) published *On the Calculation with Hindu Numerals*
 - 830 CE: [Al-Kindi](https://en.wikipedia.org/wiki/Al-Kindi) published *On the Use of the Hindu Numerals*
+- 830 CE: [Rabanus Maurus](https://en.wikipedia.org/wiki/Rabanus_Maurus) wrote *De rerum naturis* (*On the nature of things*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) based on [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville)'s [*Etymologiae*](https://en.wikipedia.org/wiki/Etymologiae)
 - 863 CE: [Saints Cyril & Methodius](https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius) developed the [Glagolitic script](https://en.wikipedia.org/wiki/Glagolitic_script), derived from medieval cursive [Greek minuscule script](https://en.wikipedia.org/wiki/Greek_minuscule)
 - 893 CE: [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script) developed, based on Greek [uncial script](https://en.wikipedia.org/wiki/Uncial_script) & Glagolitic script
 - 900 CE: [Arab navigators](https://en.wikipedia.org/wiki/Geography_and_cartography_in_medieval_Islam) originated the [kamal](https://en.wikipedia.org/wiki/Kamal_%28navigation%29), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
+- 987 CE: [Ibn al-Nadim](https://en.wikipedia.org/wiki/Ibn_al-Nadim) published *Kitāb al-Fihrist* (*The Book Catalogue*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
+- 1000 CE: Soudas published the [Suda](https://en.wikipedia.org/wiki/Suda), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1025 CE: [Ibn Sina](https://en.wikipedia.org/wiki/Ibn_Sina) wrote [*The Canon of Medicine*](https://en.wikipedia.org/wiki/The_Canon_of_Medicine)
-- 1202 CE: [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) published [*Liber Abaci* (*The Book of the Abacus*)](https://en.wikipedia.org/wiki/Liber_Abaci), introducing the [Hindu-Arabic numberal system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
+- 1202 CE: [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) published [*Liber Abaci* (*The Book of the Abacus*)](https://en.wikipedia.org/wiki/Liber_Abaci), introducing the [Hindu-Arabic numberal system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) to the West
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1345 CE: [Tommaso del Garbo](https://en.wikipedia.org/wiki/Tommaso_del_Garbo) mentioned Galen's "seeds of plague" in his work *Commentaria non-parum utilia in libros Galeni* (*Helpful commentaries on the books of Galen*)
 - 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesised that infectious diseases were caused by "minute bodies" and described how they can be transmitted through garments, vessels and earrings
+- 1377 CE: [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) published the [*Muqaddimah* (*Prolegomena*, "introduction")](https://en.wikipedia.org/wiki/Muqaddimah), the first book of the *Kitāb al-ʻIbar or "Book of Lessons*: an early view of [universal history](https://en.wikipedia.org/wiki/Universal_history) that introduced the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to the [social sciences](https://en.wikipedia.org/wiki/Social_science), and included an outline of the labor [theory of value](https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29), an early example of [political economy](https://en.wikipedia.org/wiki/Political_economy)
 - 1440 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) invented the [printing press](https://en.wikipedia.org/wiki/Printing_press)
 - 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
 - 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of the Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
+- 1470 CE: Scribes copied [Quintillian](https://en.wikipedia.org/wiki/Quintilian)'s [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria) into [New Latin](https://en.wikipedia.org/wiki/New_Latin), combining two [Koine Greek](https://en.wikipedia.org/wiki/Koine_Greek) words (ἐγκύκλιος παιδεία, "enkyklios paedia") into one: [encyclopaedia](https://en.wikipedia.org/wiki/Encyclopedia)
+- 1489 CE: [Poliziano (a.k.a. Politianus)](https://en.wikipedia.org/wiki/Poliziano) published *Miscellanea*, an influential series of discursive essays on philology and [criticism](https://en.wikipedia.org/wiki/Criticism)
 
 ## 1500s
 - 1532 CE: [Niccolò Machiavelli's](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) published
@@ -469,6 +487,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1611 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) invented the [Keplerian telescope](https://en.wikipedia.org/wiki/Refracting_telescope#Keplerian_telescope)
 - 1619 CE: [Willem Boreel](https://en.wikipedia.org/wiki/Willem_Boreel) described [Cornelis Drebbel](https://en.wikipedia.org/wiki/Cornelis_Drebbel)'s [compound microscope](https://en.wikipedia.org/wiki/Optical_microscope#Compound_microscope)
 - 1620 CE: [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) published [*Novum Organum* (*New Organ*)](https://en.wikipedia.org/wiki/Novum_Organum)
+- 1624 CE: [Vincent of Beauvais](https://en.wikipedia.org/wiki/Vincent_of_Beauvais) published the *Great Mirror* (*Speculum Maius*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1624 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [compound microscope](https://en.wikipedia.org/wiki/Optical_microscope#Compound_microscope)
 - 1632 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published his [*Dialogue Concerning the Two Chief World Systems*](https://en.wikipedia.org/wiki/Dialogue_Concerning_the_Two_Chief_World_Systems)
 - 1636 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) published *Methodus ad disquirendam maximam et minimam et de tangentibus linearum curvarum*
@@ -504,6 +523,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 ## 1700s
 - 1703 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) posthumously published *De motu corporum ex percussione*, describing [elastic collision](https://en.wikipedia.org/wiki/Elastic_collision)
+- 1704 CE: [John Harris](https://en.wikipedia.org/wiki/John_Harris_%28writer%29) published his *Lexicon Technicum* (*Technical Dictionary*), the first alphabetical [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) in English
 - 1704 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published [*Opticks*](https://en.wikipedia.org/wiki/Opticks)
 - 1706 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) posthumously published [*Of the Conduct of the Understanding*](https://en.wikipedia.org/wiki/Of_the_Conduct_of_the_Understanding), a handbook for autodidacts
 - 1713 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [*Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy)*](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica) 2nd edition
@@ -594,6 +614,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - 1872 CE: James Clerk Maxwell published *On the Theory of Colour Vision*
 - 1873 CE: James Clerk Maxwell published *A Treatise on Electricity and Magnetism*
 - 1876 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *On the Limits of the Optical Capacity of the Microscope*
+- 1877 CE: [Ulisse Dini](https://en.wikipedia.org/wiki/Ulisse_Dini) published *Fondamenti per la teoria delle funzioni di variabili reali* (*Foundations for the Theory of Functions of Real Variables*), contributing to [real analysis](https://en.wikipedia.org/wiki/Real_analysis)
 - 1878 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) coined the term "energy" in its modern usage
 - 1878 CE: Louis Pasteur published *Les Microbes organisés*
 - 1879 CE: Emile Berliner patented an *Improvement in electrical-contact telephones*, the carbon microphone
@@ -805,6 +826,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [Cultural history](https://en.wikipedia.org/wiki/Cultural_history)
 - [Detailed logarithmic timeline](https://en.wikipedia.org/wiki/Detailed_logarithmic_timeline)
 - [Economic history of the world](https://en.wikipedia.org/wiki/Economic_history_of_the_world)
+- [Editio princeps](https://en.wikipedia.org/wiki/Editio_princeps)
 - [Environmental history](https://en.wikipedia.org/wiki/Environmental_history)
 - [Evolutionary history of life](https://en.wikipedia.org/wiki/Evolutionary_history_of_life)
   - [Evolutionary history of plants](https://en.wikipedia.org/wiki/Evolutionary_history_of_plants)
@@ -830,6 +852,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [History of computer science](https://en.wikipedia.org/wiki/History_of_computer_science)
 - [History of economic thought](https://en.wikipedia.org/wiki/History_of_economic_thought)
 - [History of education](https://en.wikipedia.org/wiki/History_of_education)
+- [History of encyclopedias](https://en.wikipedia.org/wiki/History_of_encyclopedias)
 - [History of engineering](https://en.wikipedia.org/wiki/History_of_engineering)
 - [History of globalization](https://en.wikipedia.org/wiki/History_of_globalization)
 - [Historiography (history of history)](https://en.wikipedia.org/wiki/Historiography)
@@ -873,6 +896,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [History of Western Civilization](https://en.wikipedia.org/wiki/History_of_Western_civilization)
 - [History of writing](https://en.wikipedia.org/wiki/History_of_writing)
 - [Intellectual history](https://en.wikipedia.org/wiki/Intellectual_history)
+- [Librivox](https://librivox.org/)
 - [List of languages by first written accounts](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
   - [Timeline of agriculture and food technology](https://en.wikipedia.org/wiki/Timeline_of_agriculture_and_food_technology)
@@ -900,8 +924,10 @@ Once history begins, I've focused on reproducible publications, patents, and
     - [Timeline of ancient history](https://en.wikipedia.org/wiki/Timeline_of_ancient_history)
     - [Timeline of the Middle Ages](https://en.wikipedia.org/wiki/Timeline_of_the_Middle_Ages)
     - [Timelines of modern history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)
+- [Lists of etymologies](https://en.wikipedia.org/wiki/Lists_of_etymologies)
 - [Living graph](https://en.wikipedia.org/wiki/Living_graph)
 - [Natural history](https://en.wikipedia.org/wiki/Natural_history)
+- [Philology](https://en.wikipedia.org/wiki/Philology): the study of [literature](https://en.wikipedia.org/wiki/Literature)
 - [Popular history](https://en.wikipedia.org/wiki/Popular_history)
 - [Prehistory](https://en.wikipedia.org/wiki/Prehistory)
 - [Protohistory](https://en.wikipedia.org/wiki/Protohistory)
@@ -909,13 +935,16 @@ Once history begins, I've focused on reproducible publications, patents, and
 - [Recorded history](https://en.wikipedia.org/wiki/Recorded_history)
 - [Macrohistory](https://en.wikipedia.org/wiki/Macrohistory)
 - [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+- [Philosophy of history](https://en.wikipedia.org/wiki/Philosophy_of_history)
 - [Political history](https://en.wikipedia.org/wiki/Political_history)
 - [Political history of the world](https://en.wikipedia.org/wiki/Political_history_of_the_world)
-- [Philosophy of history](https://en.wikipedia.org/wiki/Philosophy_of_history)
+- [Project Gutenberg](https://www.gutenberg.org/)
 - [Social history](https://en.wikipedia.org/wiki/Social_history)
 - [Synchronoptic view](https://en.wikipedia.org/wiki/Synchronoptic_view)
   - [Hyperhistory Online](https://www.hyperhistory.com/)
 - [TimeTree: The timescale of life](http://www.timetree.org/)
 - [Transnational history](https://en.wikipedia.org/wiki/Transnational_history)
 - [Universal history](https://en.wikipedia.org/wiki/Universal_history)
+- [Wikipedia](https://en.wikipedia.org)
+- [Wikisource](https://wikisource.org)
 - [World history](https://en.wikipedia.org/wiki/World_history)
