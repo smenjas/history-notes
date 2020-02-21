@@ -708,6 +708,7 @@ Few descriptions survive, despite many discoveries.
 - 1952 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) tested the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine)
 - 1955 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) announced the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine), developed and tested since 1947
 - 1956 CE: [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States)
+- 1958 CE: [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29) developed the [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_%28programming_language%29)
 - 1959 CE: Karl Popper published *The Logic of Scientific Discovery*
 - 1959 CE: Richard Feynman presented *There's Plenty of Room at the Bottom*
 
