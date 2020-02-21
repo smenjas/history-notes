@@ -1,9 +1,8 @@
 # History Notes
 
-This document looks at ["Big
-History"](https://en.wikipedia.org/wiki/Big_History), a.k.a. the big picture.
-
-I've shown each known branch along the path of [human
+This is a chronology of humanity, a.k.a. ["Big
+History"](https://en.wikipedia.org/wiki/Big_History). I've shown each known
+branch along the path of [human
 evolution](https://en.wikipedia.org/wiki/Human_evolution). The branch leading
 to humans is on the left.
 
@@ -25,7 +24,7 @@ Once history begins, I've focused on reproducible publications, patents, and
 
 We need both discovery and communication to [stand on the shoulders of
 giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
-There have been many discoveries, but few descriptions survive.
+Few descriptions survive, despite many discoveries.
 
 ---
 
@@ -50,7 +49,7 @@ There have been many discoveries, but few descriptions survive.
   - [Spine](#spine)
   - [Eye](#eye)
   - [Jaw](#jaw)
-  - [Bones & Lungs](#bones-lungs)
+  - [Bones & Lungs](#bones--lungs)
   - [Limbs](#limbs)
   - [Choana](#choana)
   - [Womb](#womb)
@@ -403,7 +402,7 @@ There have been many discoveries, but few descriptions survive.
 - 403 BCE: [Athens](https://en.wikipedia.org/wiki/Athens) officially adopted the standard 24-letter [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
 - 400 BCE: [Laozi](https://en.wikipedia.org/wiki/Laozi) published the [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 - 387 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) founded his [Academy](https://en.wikipedia.org/wiki/Platonic_Academy)
-- 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29)
+- 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29), an influential work on [philosophy](https://en.wikipedia.org/wiki/Philosophy) & [political theory](https://en.wikipedia.org/wiki/Political_philosophy)
 - 360 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Timaeus*](https://en.wikipedia.org/wiki/Timaeus_%28dialogue%29)
 - 350 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*On the Heavens*](https://en.wikipedia.org/wiki/On_the_Heavens)
 - 334 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_%28Classical%29)
@@ -454,14 +453,20 @@ There have been many discoveries, but few descriptions survive.
 - 863 CE: [Saints Cyril & Methodius](https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius) developed the [Glagolitic script](https://en.wikipedia.org/wiki/Glagolitic_script), derived from medieval cursive [Greek minuscule script](https://en.wikipedia.org/wiki/Greek_minuscule)
 - 893 CE: [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script) developed, based on Greek [uncial script](https://en.wikipedia.org/wiki/Uncial_script) & Glagolitic script
 - 900 CE: [Arab navigators](https://en.wikipedia.org/wiki/Geography_and_cartography_in_medieval_Islam) originated the [kamal](https://en.wikipedia.org/wiki/Kamal_%28navigation%29), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
+- 915 CE: [Al-Tabari](https://en.wikipedia.org/wiki/Al-Tabari) published his [*History of the Prophets and Kings*](https://en.wikipedia.org/wiki/History_of_the_Prophets_and_Kings), a detailed and comprehensive chronicle of Mediterranean and Middle Eastern history
+- 947 CE: [Al-Masudi](https://en.wikipedia.org/wiki/Al-Masudi) published the first edition of [*Murūj aḏ-Ḏahab wa-Maʿādin al-Jawhar* (*Meadows of Gold and Mines of Gems*)](https://en.wikipedia.org/wiki/The_Meadows_of_Gold), a book on [world history](https://en.wikipedia.org/wiki/World_history), the first to combine history and [scientific](https://en.wikipedia.org/wiki/Science) [geography](https://en.wikipedia.org/wiki/Geography) in a large-scale work
 - 987 CE: [Ibn al-Nadim](https://en.wikipedia.org/wiki/Ibn_al-Nadim) published *Kitāb al-Fihrist* (*The Book Catalogue*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: Soudas published the [Suda](https://en.wikipedia.org/wiki/Suda), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
+- 1000 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote [*al-Athar al-Baqqiya 'an al-Qorun al-Khaliyya* (*The remaining traces of past centuries*)](https://en.wikipedia.org/wiki/The_Remaining_Signs_of_Past_Centuries)
 - 1025 CE: [Ibn Sina](https://en.wikipedia.org/wiki/Ibn_Sina) wrote [*The Canon of Medicine*](https://en.wikipedia.org/wiki/The_Canon_of_Medicine)
+- 1030 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) completed his *Tārīkh al-Hind* (*History of India*)
+- 1036 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) listed *Kitab al-saydala fi al-tibb* (*Book on the [Pharmacopoeia](https://en.wikipedia.org/wiki/Pharmacopoeia) of Medicine*) among 103 titles he had written on astrology, astronomy, geography, geology, history, mathematics, medicine, physics, psychology, sociology, and theology
+- 1037 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote *Codex Masudicus*, noting that Eurasia only covers 2/5 of the Earth's surface and another continent must exist on the other side of the planet
 - 1202 CE: [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) published [*Liber Abaci* (*The Book of the Abacus*)](https://en.wikipedia.org/wiki/Liber_Abaci), introducing the [Hindu-Arabic numberal system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) to the West
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1345 CE: [Tommaso del Garbo](https://en.wikipedia.org/wiki/Tommaso_del_Garbo) mentioned Galen's "seeds of plague" in his work *Commentaria non-parum utilia in libros Galeni* (*Helpful commentaries on the books of Galen*)
 - 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesised that infectious diseases were caused by "minute bodies" and described how they can be transmitted through garments, vessels and earrings
-- 1377 CE: [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) published the [*Muqaddimah* (*Prolegomena*, "introduction")](https://en.wikipedia.org/wiki/Muqaddimah), the first book of the *Kitāb al-ʻIbar or "Book of Lessons*: an early view of [universal history](https://en.wikipedia.org/wiki/Universal_history) that introduced the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to the [social sciences](https://en.wikipedia.org/wiki/Social_science), and included an outline of the labor [theory of value](https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29), an early example of [political economy](https://en.wikipedia.org/wiki/Political_economy)
+- 1377 CE: [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) published the [*Muqaddimah* (*Prolegomena*, "introduction")](https://en.wikipedia.org/wiki/Muqaddimah), the first book of the *Kitāb al-ʻIbar* (*Book of Lessons*): an early view of [universal history](https://en.wikipedia.org/wiki/Universal_history) that introduced the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to the [social sciences](https://en.wikipedia.org/wiki/Social_science), and included an outline of the labor [theory of value](https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29), an early example of [political economy](https://en.wikipedia.org/wiki/Political_economy)
 - 1440 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) invented the [printing press](https://en.wikipedia.org/wiki/Printing_press)
 - 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
 - 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of the Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
@@ -806,7 +811,7 @@ There have been many discoveries, but few descriptions survive.
 
 ---
 
-# More History
+## More History
 - [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
 - [Anthropology](https://en.wikipedia.org/wiki/Anthropology): the scientific study of humans
 - [Art history](https://en.wikipedia.org/wiki/Art_history)
@@ -815,6 +820,7 @@ There have been many discoveries, but few descriptions survive.
 - [Bibliography](https://en.wikipedia.org/wiki/Bibliography)
 - [Big History](https://en.wikipedia.org/wiki/Big_History)
 - [Center of origin](https://en.wikipedia.org/wiki/Center_of_origin)
+- [Chronicle](https://en.wikipedia.org/wiki/Chronicle): a historical account of facts and events arranged in chronological order, as in a timeline
 - [Comparative history](https://en.wikipedia.org/wiki/Comparative_history)
 - [Contemporary history](https://en.wikipedia.org/wiki/Contemporary_history)
 - [Cosmic Calendar](https://en.wikipedia.org/wiki/Cosmic_Calendar)
@@ -941,9 +947,11 @@ There have been many discoveries, but few descriptions survive.
 - [Social history](https://en.wikipedia.org/wiki/Social_history)
 - [Synchronoptic view](https://en.wikipedia.org/wiki/Synchronoptic_view)
   - [Hyperhistory Online](https://www.hyperhistory.com/)
+- [Timeline](https://en.wikipedia.org/wiki/Timeline)
 - [TimeTree: The timescale of life](http://www.timetree.org/)
 - [Transnational history](https://en.wikipedia.org/wiki/Transnational_history)
 - [Universal history](https://en.wikipedia.org/wiki/Universal_history)
 - [Wikipedia](https://en.wikipedia.org)
 - [Wikisource](https://wikisource.org)
+- [Wikispecies](https://species.wikimedia.org)
 - [World history](https://en.wikipedia.org/wiki/World_history)
