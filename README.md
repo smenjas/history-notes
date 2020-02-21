@@ -56,6 +56,8 @@ Few descriptions survive, despite many discoveries.
   - [Breast](#breast)
 - [< 100 Million Years Ago](#-100-million-years-ago)
   - [Thumb](#thumb)
+  - [Color Vision](#color-vision)
+  - [No Tail](#no-tail)
 - [< 10 Million Years Ago](#-10-million-years-ago)
   - [Tools](#tools)
   - [Fire](#fire)
@@ -235,9 +237,13 @@ Few descriptions survive, despite many discoveries.
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
 - 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
 - 40 mya: O₂ dropped to 0.23 atm
+
+### Color Vision
 - 29 mya: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
 - 25 mya: O₂ dropped to 0.21 atm
 - 20 mya: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
+
+### No Tail
 - 15.7 mya: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
 - 14 mya: [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption), extinctions related to cooling
 
@@ -411,6 +417,7 @@ Few descriptions survive, despite many discoveries.
 - 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) published *Aṣṭādhyāyī* on Sanskrit grammar.
 
 ### Mathematics
+- 300 BCE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) wrote the [Bakhshali manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript) around this time, using *shunya-bindu* ("the dot of the empty place") to represent [zero](https://en.wikipedia.org/wiki/0) as a placeholder
 - 300 BCE: [Euclid](https://en.wikipedia.org/wiki/Euclid) wrote [*Elements*](https://en.wikipedia.org/wiki/Euclid%27s_Elements), beginning formal mathematics
 - 300 BCE: [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) founded [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 - 295 BCE: [Demetrius of Phalerum](https://en.wikipedia.org/wiki/Demetrius_of_Phalerum) acquired writings of [Aristotle](https://en.wikipedia.org/wiki/Aristotle) and [Theophrastus](https://en.wikipedia.org/wiki/Theophrastus) for [Ptolemy I Soter](https://en.wikipedia.org/wiki/Ptolemy_I_Soter)
@@ -441,6 +448,7 @@ Few descriptions survive, despite many discoveries.
 - 109 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) published the first 9 books of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
 - 111 CE: [Ban Biao](https://en.wikipedia.org/wiki/Ban_Biao)'s children published [*The Book of Han*](https://en.wikipedia.org/wiki/Book_of_Han), a [history of China](https://en.wikipedia.org/wiki/History_of_China)
 - 125 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) published [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
+- 150 CE: [Claudius Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) wrote the [Almagest](https://en.wikipedia.org/wiki/Almagest), an influential work on [astronomy](https://en.wikipedia.org/wiki/Astronomy)
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
 - 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote *Lives and Opinions of Eminent Philosophers*
@@ -448,12 +456,14 @@ Few descriptions survive, despite many discoveries.
 - 400 CE: [The Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
 - 400 CE: [Joannes Stobaeus](https://en.wikipedia.org/wiki/Stobaeus) compiled *Eklogon, apophthegmaton, hypothekon biblia tessara* (*Four Books of Extracts, Sayings and Precepts*) an [anthology](https://en.wikipedia.org/wiki/Anthology) of [classical Greek](https://en.wikipedia.org/wiki/Classical_Greece) literature including the [Delphic maxims](https://en.wikipedia.org/wiki/Delphic_maxims), e.g. ["Know thyself"](https://en.wikipedia.org/wiki/Know_thyself)
 - 500 CE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) developed the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
+- 510 CE: [Aryabhata](https://en.wikipedia.org/wiki/Aryabhata) published [Aryabhatiya](https://en.wikipedia.org/wiki/Aryabhatiya), which states "sthānāt sthānaṁ daśaguṇaṁ syāt" ("from place to place each is ten times the preceding"), originating the modern decimal-based place value notation
 - 525 CE: [Dionysius Exiguus](https://en.wikipedia.org/wiki/Dionysius_Exiguus) invented the [*Anno Domini*](https://en.wikipedia.org/wiki/Anno_Domini) [calendar era](https://en.wikipedia.org/wiki/Calendar_era), an alternative to the [Era of the Martyrs](https://en.wikipedia.org/wiki/Era_of_the_Martyrs)
 - 613 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote *De natura rerum* (*On the Nature of Things*), mentioning "pestifera semina" ("plague-bearing seeds")
+- 628 CE: [Brahmagupta](https://en.wikipedia.org/wiki/Brahmagupta) wrote the [Brāhmasphuṭasiddhānta](https://en.wikipedia.org/wiki/Br%C4%81hmasphu%E1%B9%ADasiddh%C4%81nta), demonstrating [zero](https://en.wikipedia.org/wiki/0) and [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 630 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote [*Etymologiae* (*Etymologies*)](https://en.wikipedia.org/wiki/Etymologiae), an influential [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 732 CE: [Bede](https://en.wikipedia.org/wiki/Bede) wrote the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People), popularizing the *Anno Domini* era
-- 820 CE: [al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of algebra
-- 825 CE: [Al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) published *On the Calculation with Hindu Numerals*
+- 820 CE: [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of algebra
+- 825 CE: [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) published *On the Calculation with Hindu Numerals*, including an explanation of [zero](https://en.wikipedia.org/wiki/0)
 - 830 CE: [Al-Kindi](https://en.wikipedia.org/wiki/Al-Kindi) published *On the Use of the Hindu Numerals*
 - 830 CE: [Rabanus Maurus](https://en.wikipedia.org/wiki/Rabanus_Maurus) wrote *De rerum naturis* (*On the nature of things*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) based on [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville)'s [*Etymologiae*](https://en.wikipedia.org/wiki/Etymologiae)
 - 863 CE: [Saints Cyril & Methodius](https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius) developed the [Glagolitic script](https://en.wikipedia.org/wiki/Glagolitic_script), derived from medieval cursive [Greek minuscule script](https://en.wikipedia.org/wiki/Greek_minuscule)
@@ -461,6 +471,8 @@ Few descriptions survive, despite many discoveries.
 - 900 CE: [Arab navigators](https://en.wikipedia.org/wiki/Geography_and_cartography_in_medieval_Islam) originated the [kamal](https://en.wikipedia.org/wiki/Kamal_%28navigation%29), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 915 CE: [Al-Tabari](https://en.wikipedia.org/wiki/Al-Tabari) published his [*History of the Prophets and Kings*](https://en.wikipedia.org/wiki/History_of_the_Prophets_and_Kings), a detailed and comprehensive chronicle of Mediterranean and Middle Eastern history
 - 947 CE: [Al-Masudi](https://en.wikipedia.org/wiki/Al-Masudi) published the first edition of [*Murūj aḏ-Ḏahab wa-Maʿādin al-Jawhar* (*Meadows of Gold and Mines of Gems*)](https://en.wikipedia.org/wiki/The_Meadows_of_Gold), a book on [world history](https://en.wikipedia.org/wiki/World_history), the first to combine history and [scientific](https://en.wikipedia.org/wiki/Science) [geography](https://en.wikipedia.org/wiki/Geography) in a large-scale work
+- 976 CE: The [*Codex Vigilanus* (*Watchful Manuscript*)](https://en.wikipedia.org/wiki/Codex_Vigilanus) introduced [Arabic numerals](https://en.wikipedia.org/wiki/Arabic_numerals) (except zero) to [the West](https://en.wikipedia.org/wiki/Western_world)
+- 977 CE: [Muhammad ibn Ahmad al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Ahmad_al-Khwarizmi) compiled *Mafātīḥ al-ʿulūm* (*The Keys of the Sciences*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia), stating that if no number appears in the place of tens in a calculation, a little circle (called a ṣifr) should be used "to keep the rows"
 - 987 CE: [Ibn al-Nadim](https://en.wikipedia.org/wiki/Ibn_al-Nadim) published *Kitāb al-Fihrist* (*The Book Catalogue*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: Soudas published the [Suda](https://en.wikipedia.org/wiki/Suda), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote [*al-Athar al-Baqqiya 'an al-Qorun al-Khaliyya* (*The remaining traces of past centuries*)](https://en.wikipedia.org/wiki/The_Remaining_Signs_of_Past_Centuries)
@@ -468,7 +480,9 @@ Few descriptions survive, despite many discoveries.
 - 1030 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) completed his *Tārīkh al-Hind* (*History of India*)
 - 1036 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) listed *Kitab al-saydala fi al-tibb* (*Book on the [Pharmacopoeia](https://en.wikipedia.org/wiki/Pharmacopoeia) of Medicine*) among 103 titles he had written on astrology, astronomy, geography, geology, history, mathematics, medicine, physics, psychology, sociology, and theology
 - 1037 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote *Codex Masudicus*, noting that Eurasia only covers 2/5 of the Earth's surface and another continent must exist on the other side of the planet
-- 1202 CE: [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) published [*Liber Abaci* (*The Book of the Abacus*)](https://en.wikipedia.org/wiki/Liber_Abaci), introducing the [Hindu-Arabic numberal system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) to the West
+- 1200 CE: [Alexander of Villedieu](https://en.wikipedia.org/wiki/Alexander_of_Villedieu) wrote *Carmen de Algorismo* (*Poem about Arithmetic*), demonstrating the [Hindu-Arabic numberal system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
+- 1202 CE: [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) published [*Liber Abaci* (*The Book of the Abacus*)](https://en.wikipedia.org/wiki/Liber_Abaci), popularizing the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) and introducing [zero](https://en.wikipedia.org/wiki/0) to the West
+- 1225 CE: [Johannes de Sacrobosco](https://en.wikipedia.org/wiki/Johannes_de_Sacrobosco) wrote *Algorismus Vulgaris* (*Common Algorithms*)
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1345 CE: [Tommaso del Garbo](https://en.wikipedia.org/wiki/Tommaso_del_Garbo) mentioned Galen's "seeds of plague" in his work *Commentaria non-parum utilia in libros Galeni* (*Helpful commentaries on the books of Galen*)
 - 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesised that infectious diseases were caused by "minute bodies" and described how they can be transmitted through garments, vessels and earrings
@@ -900,6 +914,7 @@ Few descriptions survive, despite many discoveries.
 - [History of the Arabic alphabet](https://en.wikipedia.org/wiki/History_of_the_Arabic_alphabet)
 - [History of the battery](https://en.wikipedia.org/wiki/History_of_the_battery)
 - [History of the Greek alphabet](https://en.wikipedia.org/wiki/History_of_the_Greek_alphabet)
+- [History of the Hindu-Arabic numberal system](https://en.wikipedia.org/wiki/History_of_the_Hindu%E2%80%93Arabic_numeral_system)
 - [History of the Internet](https://en.wikipedia.org/wiki/History_of_the_Internet)
 - [History of the periodic table](https://en.wikipedia.org/wiki/History_of_the_periodic_table)
 - [History of the petroleum industry](https://en.wikipedia.org/wiki/History_of_the_petroleum_industry)
