@@ -70,6 +70,7 @@ Few descriptions survive, despite many discoveries.
   - [Cats](#cats)
   - [Writing](#writing)
   - [History](#history)
+  - [Medicine](#medicine)
   - [Mathematics](#mathematics)
 - [Common Era](#common-era)
   - [Zero](#zero)
@@ -414,6 +415,9 @@ Few descriptions survive, despite many discoveries.
 - 400 BCE: [Laozi](https://en.wikipedia.org/wiki/Laozi) published the [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 - 387 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) founded his [Academy](https://en.wikipedia.org/wiki/Platonic_Academy)
 - 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29), an influential work on [philosophy](https://en.wikipedia.org/wiki/Philosophy) & [political theory](https://en.wikipedia.org/wiki/Political_philosophy)
+
+### Medicine
+- 370 BCE: [Hippocrates](https://en.wikipedia.org/wiki/Hippocrates) by the time of his death had written or inspired the [Hippocratic Corpus](https://en.wikipedia.org/wiki/Hippocratic_Corpus), [establishing medicine](https://en.wikipedia.org/wiki/History_of_medicine) and coining the [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath)
 - 360 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Timaeus*](https://en.wikipedia.org/wiki/Timaeus_%28dialogue%29)
 - 350 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*On the Heavens*](https://en.wikipedia.org/wiki/On_the_Heavens)
 - 334 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_%28Classical%29)
