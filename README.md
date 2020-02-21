@@ -435,6 +435,7 @@ Few descriptions survive, despite many discoveries.
 - 250 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
 - 240 BCE: [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) measured the [Earth's circumference](https://en.wikipedia.org/wiki/Earth's_circumference)
 - 234 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
+- 230 BCE: [Aristarchus of Samos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) by the time of his death wrote [*Peri megethon kai apostematon* (*On the Sizes and Distances*)](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_%28Aristarchus%29), correctly concluding that the Sun is larger than the Earth, and the Earth orbits the Sun, i.e. [the heliocentric model](https://en.wikipedia.org/wiki/Heliocentrism)
 - 220-150 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) invented the [astrolabe](https://en.wikipedia.org/wiki/Astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 212 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) wrote many mathematical works, and deployed a heat ray by the time of his death
 - 200 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) wrote *Conics* and other works on mathematics
