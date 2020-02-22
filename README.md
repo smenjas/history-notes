@@ -495,9 +495,11 @@ Few descriptions survive, despite many discoveries.
 - 1200 CE: [Alexander of Villedieu](https://en.wikipedia.org/wiki/Alexander_of_Villedieu) wrote *Carmen de Algorismo* (*Poem about Arithmetic*), demonstrating the [Hindu-Arabic numberal system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
 - 1202 CE: [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) published [*Liber Abaci* (*The Book of the Abacus*)](https://en.wikipedia.org/wiki/Liber_Abaci), popularizing the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) and introducing [zero](https://en.wikipedia.org/wiki/0) to the West
 - 1225 CE: [Johannes de Sacrobosco](https://en.wikipedia.org/wiki/Johannes_de_Sacrobosco) wrote *Algorismus Vulgaris* (*Common Algorithms*)
+- 1231 CE: [Ali ibn al-Athir](https://en.wikipedia.org/wiki/Ali_ibn_al-Athir) wrote [*al-Kāmil fit-Tārīkh* (*The Complete History*)](https://en.wikipedia.org/wiki/The_Complete_History)
 - 1240 CE: [Bartholomeus Anglicus (Bartholomew of England)](https://en.wikipedia.org/wiki/Bartholomeus_Anglicus) compiled *De proprietatibus rerum* (*On the Properties of Things*), a widely translated [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1247 CE: [Qin Jiushao](https://en.wikipedia.org/wiki/Qin_Jiushao) wrote [*Mathematical Treatise in Nine Sections*](https://en.wikipedia.org/wiki/Mathematical_Treatise_in_Nine_Sections), the oldest surviving [Chinese mathematical](https://en.wikipedia.org/wiki/Chinese_mathematics) text using a round symbol for [zero](https://en.wikipedia.org/wiki/0)
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
+- 1315-1329 CE: [Abu'l-Fida](https://en.wikipedia.org/wiki/Abu%27l-Fida) wrote [*Tarikhu 'al-Mukhtasar fi Akhbar al-Bashar* (*The Concise History of Humanity or Chronicles*)](https://en.wikipedia.org/wiki/Concise_History_of_Humanity), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
 - 1345 CE: [Tommaso del Garbo](https://en.wikipedia.org/wiki/Tommaso_del_Garbo) mentioned Galen's "seeds of plague" in his work *Commentaria non-parum utilia in libros Galeni* (*Helpful commentaries on the books of Galen*)
 - 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesised that infectious diseases were caused by "minute bodies" and described how they can be transmitted through garments, vessels and earrings
 - 1377 CE: [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) published the [*Muqaddimah* (*Prolegomena*, "introduction")](https://en.wikipedia.org/wiki/Muqaddimah), the first book of the *Kitāb al-ʻIbar* (*Book of Lessons*): an early view of [universal history](https://en.wikipedia.org/wiki/Universal_history) that introduced the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to the [social sciences](https://en.wikipedia.org/wiki/Social_science), and included an outline of the labor [theory of value](https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29), an early example of [political economy](https://en.wikipedia.org/wiki/Political_economy)
@@ -754,7 +756,7 @@ Few descriptions survive, despite many discoveries.
 
 ### 1950s
 - 1952 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) tested the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine)
-- 1953 CE: [Maurice Karnaugh](https://en.wikipedia.org/wiki/Maurice_Karnaugh) published *The Map Method for Synthesis of Combinational Logic Circuits*, introducing the [Karnaugh map], a method of simplifying [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) expressions
+- 1953 CE: [Maurice Karnaugh](https://en.wikipedia.org/wiki/Maurice_Karnaugh) published *The Map Method for Synthesis of Combinational Logic Circuits*, introducing the [Karnaugh map](https://en.wikipedia.org/wiki/Karnaugh_map), a method of simplifying [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) expressions
 - 1955 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) announced the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine), developed and tested since 1947
 - 1956 CE: [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States)
 - 1958 CE: [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29) developed the [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_%28programming_language%29)
@@ -924,6 +926,7 @@ Few descriptions survive, despite many discoveries.
 - [History of engineering](https://en.wikipedia.org/wiki/History_of_engineering)
 - [History of globalization](https://en.wikipedia.org/wiki/History_of_globalization)
 - [Historiography (history of history)](https://en.wikipedia.org/wiki/Historiography)
+- [History of human sexuality](https://en.wikipedia.org/wiki/History_of_human_sexuality)
 - [History of ideas](https://en.wikipedia.org/wiki/History_of_ideas)
 - [History of information theory](https://en.wikipedia.org/wiki/History_of_information_theory)
 - [History of literature](https://en.wikipedia.org/wiki/History_of_literature)
@@ -935,6 +938,7 @@ Few descriptions survive, despite many discoveries.
 - [History of personal computers](https://en.wikipedia.org/wiki/History_of_personal_computers)
 - [History of physics](https://en.wikipedia.org/wiki/History_of_physics)
 - [History of programming languages](https://en.wikipedia.org/wiki/History_of_programming_languages)
+- [History of psychology](https://en.wikipedia.org/wiki/History_of_psychology)
 - [History of radio](https://en.wikipedia.org/wiki/History_of_radio)
 - [History of robots](https://en.wikipedia.org/wiki/History_of_robots)
 - [History of science](https://en.wikipedia.org/wiki/History_of_science)
