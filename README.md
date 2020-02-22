@@ -635,9 +635,12 @@ Few descriptions survive, despite many discoveries.
 - 1833 CE: Charles Lyell published *Principles of Geology*
 - 1840 CE: Louis Agassiz published *Études sur les glaciers*
 - 1842 CE: Christian Doppler published *On the coloured light of the binary stars and some other stars of the heavens*
+- 1844 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published *Die Lineale Ausdehnungslehre* (*The Theory of Linear Extension*), introducing [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
+- 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 - 1850 CE: Rudolf Clausius published *On the Moving Force of Heat*
-- 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) invented the [ophthalmoscope](https://en.wikipedia.org/wiki/Ophthalmoscope)
+- 1851 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) invented the [ophthalmoscope](https://en.wikipedia.org/wiki/Ophthalmoscope)
+- 1853 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published a theory of how colors mix, still taught as [Grassmann's law](https://en.wikipedia.org/wiki/Grassmann%27s_laws_%28color_science%29)
 - 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought), founding [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 - 1855 CE: A. W. Hofmann published *On Insolinic Acid*, describing aromatic compounds
 - 1856 CE: David E. Hughes patented an *Improvement in telegraphs*
@@ -647,6 +650,7 @@ Few descriptions survive, despite many discoveries.
 - 1859 CE: David E. Hughes patented an *Improvement in electro-magnetic telegraphs* (duplex communication)
 - 1861 CE: Thomas Sutton invented the single lens reflex (SLR) camera
 - 1861 CE: James Clerk Maxwell published *On Physical Lines of Force*
+- 1862 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) set out the first [axiomatic](https://en.wikipedia.org/wiki/Axiomatic_system) presentation of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic), using [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction)
 - 1863 CE: Charles Lyell published *Geological Evidences of the Antiquity of Man*
 - 1863 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published [*Sensations of Tone*](https://en.wikipedia.org/wiki/Sensations_of_Tone)
 - 1864 CE: James Clerk Maxwell published *A Dynamical Theory of the Electromagnetic Field*
@@ -655,8 +659,10 @@ Few descriptions survive, despite many discoveries.
 - 1867 CE: Rudolf Clausius published *The Mechanical Theory of Heat* and coined "entropy"
 - 1867 CE: Joseph Lister published *On the Antiseptic Principle in the Practice of Surgery*
 - 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
+- 1867 CE: [Hermann Hankel](https://en.wikipedia.org/wiki/Hermann_Hankel) published [*Vorlesungen über die complexen Zahlen und ihre Functionen* (*Lectures on complex numbers and their functions*)](https://books.google.com/books?id=754KAAAAYAAJ)
 - 1868 CE: James Clerk Maxwell published *On governors*
 - 1869 CE: Dmitri Mendeleev composed his periodic table of the elements
+- 1870 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Logic of Relatives*, extending the [theory of relations](https://en.wikipedia.org/wiki/Finitary_relation)
 - 1872 CE: Andrew Ramsay published *The River Courses of England and Wales*
 - 1872 CE: James Clerk Maxwell published his thermodynamic relations
 - 1872 CE: James Clerk Maxwell published *On the Theory of Colour Vision*
@@ -665,20 +671,27 @@ Few descriptions survive, despite many discoveries.
 - 1877 CE: [Ulisse Dini](https://en.wikipedia.org/wiki/Ulisse_Dini) published *Fondamenti per la teoria delle funzioni di variabili reali* (*Foundations for the Theory of Functions of Real Variables*), contributing to [real analysis](https://en.wikipedia.org/wiki/Real_analysis)
 - 1878 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) coined the term "energy" in its modern usage
 - 1878 CE: Louis Pasteur published *Les Microbes organisés*
+- 1878 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Illustrations of the Logic of Science*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
 - 1879 CE: Emile Berliner patented an *Improvement in electrical-contact telephones*, the carbon microphone
 - 1879 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (*concept-script*)
+- 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra) with One Constant*
+- 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Logic of Number*, describing [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
+- 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A Theory of Probable Inference*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
 - 1883 CE: Georg Cantor published *Grundlagen einer allgemeinen Mannigfaltigkeitslehre*
 - 1883 CE: A. F. W. Schimper published *Über die Entwicklung der Chlorophyllkörner und Farbkörper*
 - 1884 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*The Foundations of Arithmetic*](https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic)
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Algebra of Logic: A Contribution to the Philosophy of Notation*
+- 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) wrote a letter to [Allan Marquand](https://en.wikipedia.org/wiki/Allan_Marquand) describing how Boolean calculations could be carried via electrical switches
 - 1886 CE: Louis Pasteur published *Traitement de la Rage*
 - 1887 CE: Alexander G. Bell patented *Transmitting and recording sounds by radiant energy*
 - 1887 CE: Alexander G. Bell patented *Reproducing sounds from phonograph records*
+- 1889 CE: [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) published [*Arithmetices principia, nova methodo exposita* (*principles of arithmetic, presented by a new method*)](https://en.wikipedia.org/wiki/Arithmetices_principia,_nova_methodo_exposita), simplifying earlier work to formulate [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
 - 1894 CE: Heinrich Hertz published *The Principles of Mechanics Presented in a New Form*
 - 1896 CE: Guglielmo Marconi patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
 - 1897 CE: Georg Cantor published *Beiträge zur Begründung der transfiniten Mengenlehre*
 - 1898 CE: A. F. W. Schimper published *Pflanzengeographie auf physiologischer Grundlage*
+- 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
 
 ## 1900s
 - 1900 CE: Albert Einstein published *Folgerungen aus den Capillaritätserscheinungen* (*Conclusions Drawn from the Phenomena of Capillarity*)
@@ -741,6 +754,7 @@ Few descriptions survive, despite many discoveries.
 
 ### 1950s
 - 1952 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) tested the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine)
+- 1953 CE: [Maurice Karnaugh](https://en.wikipedia.org/wiki/Maurice_Karnaugh) published *The Map Method for Synthesis of Combinational Logic Circuits*, introducing the [Karnaugh map], a method of simplifying [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) expressions
 - 1955 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) announced the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine), developed and tested since 1947
 - 1956 CE: [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States)
 - 1958 CE: [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29) developed the [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_%28programming_language%29)
@@ -777,6 +791,7 @@ Few descriptions survive, despite many discoveries.
 - 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
 
 ### 1970s
+- 1970 CE: [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) published *A [Relational Model](https://en.wikipedia.org/wiki/Relational_model) of Data for Large Shared Data Banks*
 - 1970 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) ported Unix to the PHP-11/20 in assembly
 - 1971 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published the [*UNIX Programmer's Manual*](https://en.wikipedia.org/wiki/Man_page)
 - 1972 CE: Richard Feynman published *Statistical Mechanics*
