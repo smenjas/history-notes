@@ -81,6 +81,7 @@ Few descriptions survive, despite many discoveries.
   - [Calculus](#calculus)
 - [1700s](#1700s)
 - [1800s](#1800s)
+  - [Statistics](#statistics)
 - [1900s](#1900s)
   - [1910s](#1910s)
   - [1920s](#1920s)
@@ -550,7 +551,7 @@ Few descriptions survive, despite many discoveries.
 - 1666 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) described a [reflecting instrument](https://en.wikipedia.org/wiki/Reflecting_instrument), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
 
 ### Calculus
-- 1683 CE: [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) published *Lectiones Opticae et Geometricae* (*Optics & Geometrics Lessons*), demonstrating the [fundamental theorem of calculus](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus)
+- 1667 CE: [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) published *Lectiones Opticae et Geometricae* (*Optics & Geometrics Lessons*), demonstrating the [fundamental theorem of calculus](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus)
 - 1673 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published [*Horologium Oscillatorium* (*The Pendulum Clock*)](https://en.wikipedia.org/wiki/Horologium_Oscillatorium)
 - 1674 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [protists](https://en.wikipedia.org/wiki/Protist)
 - 1677 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [spermatozoa](https://en.wikipedia.org/wiki/Spermatozoon)
@@ -673,6 +674,8 @@ Few descriptions survive, despite many discoveries.
 - 1877 CE: [Ulisse Dini](https://en.wikipedia.org/wiki/Ulisse_Dini) published *Fondamenti per la teoria delle funzioni di variabili reali* (*Foundations for the Theory of Functions of Real Variables*), contributing to [real analysis](https://en.wikipedia.org/wiki/Real_analysis)
 - 1878 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) coined the term "energy" in its modern usage
 - 1878 CE: Louis Pasteur published *Les Microbes organisés*
+
+### Statistics
 - 1878 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Illustrations of the Logic of Science*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
 - 1879 CE: Emile Berliner patented an *Improvement in electrical-contact telephones*, the carbon microphone
 - 1879 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (*concept-script*)
@@ -682,6 +685,7 @@ Few descriptions survive, despite many discoveries.
 - 1883 CE: Georg Cantor published *Grundlagen einer allgemeinen Mannigfaltigkeitslehre*
 - 1883 CE: A. F. W. Schimper published *Über die Entwicklung der Chlorophyllkörner und Farbkörper*
 - 1884 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*The Foundations of Arithmetic*](https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic)
+- 1884 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) & [Joseph Jastrow](https://en.wikipedia.org/wiki/Joseph_Jastrow) published *On Small Differences in Sensation*, introducing [blinded](https://en.wikipedia.org/wiki/Blinded_experiment), [randomized controlled experiments](https://en.wikipedia.org/wiki/Randomized_controlled_trial) with [repeated measures design](https://en.wikipedia.org/wiki/Repeated_measures_design)
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Algebra of Logic: A Contribution to the Philosophy of Notation*
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) wrote a letter to [Allan Marquand](https://en.wikipedia.org/wiki/Allan_Marquand) describing how Boolean calculations could be carried via electrical switches
 - 1886 CE: Louis Pasteur published *Traitement de la Rage*
@@ -885,6 +889,7 @@ Few descriptions survive, despite many discoveries.
 - [Big History](https://en.wikipedia.org/wiki/Big_History)
 - [Center of origin](https://en.wikipedia.org/wiki/Center_of_origin)
 - [Chronicle](https://en.wikipedia.org/wiki/Chronicle): a historical account of facts and events arranged in chronological order, as in a timeline
+- [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
 - [Comparative history](https://en.wikipedia.org/wiki/Comparative_history)
 - [Contemporary history](https://en.wikipedia.org/wiki/Contemporary_history)
 - [Cosmic Calendar](https://en.wikipedia.org/wiki/Cosmic_Calendar)
@@ -1021,6 +1026,7 @@ Few descriptions survive, despite many discoveries.
 - [TimeTree: The timescale of life](http://www.timetree.org/)
 - [Transnational history](https://en.wikipedia.org/wiki/Transnational_history)
 - [Universal history](https://en.wikipedia.org/wiki/Universal_history)
+- [Wikidata](https://www.wikidata.org)
 - [Wikipedia](https://en.wikipedia.org)
 - [Wikisource](https://wikisource.org)
 - [Wikispecies](https://species.wikimedia.org)
