@@ -98,6 +98,7 @@ Few descriptions survive, despite many discoveries.
   - [Definitions](#definitions)
   - [Lists](#lists)
   - [Sources](#sources)
+  - [Videos](#videos)
   - [Subjects](#subjects)
   - [More Timelines](#more-timelines)
   - [More History](#more-history)
@@ -919,6 +920,17 @@ Few descriptions survive, despite many discoveries.
 - [Wikipedia](https://en.wikipedia.org)
 - [Wikisource](https://wikisource.org)
 - [Wikispecies](https://species.wikimedia.org)
+
+### Videos
+- [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
+  - [Extra History: Chronological Order (Pre-History - 1699 CE)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BuNVhOt8Ls82Cr20yo6Y_p)
+  - [Extra History: Chronological Order (1700 CE - Present)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BNTUc1fwlXFuodoGo_u6TH)
+- [Feature History](https://www.youtube.com/channel/UCHdluULl5c7bilx1x1TGzJQ)
+- [History Matters](https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg)
+- [Jabzy](https://www.youtube.com/user/JabzyJoe)
+- [Jack Rackam](https://www.youtube.com/channel/UCaQzyr4MWn1b9W4TdpxxeKw)
+- [Suibhne](https://www.youtube.com/channel/UCQD-0MjUbDBwm2UTVYr0Dag)
+- [The History Guy](https://www.youtube.com/channel/UC4sEmXUuWIFlxRIFBRV6VXQ)
 
 ### Subjects
 - [Anthropology](https://en.wikipedia.org/wiki/Anthropology): the scientific study of humans
