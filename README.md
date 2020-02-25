@@ -507,7 +507,7 @@ Few descriptions survive, despite many discoveries.
 - 1030 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) completed his *Tārīkh al-Hind* (*History of India*)
 - 1036 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) listed *Kitab al-saydala fi al-tibb* (*Book on the [Pharmacopoeia](https://en.wikipedia.org/wiki/Pharmacopoeia) of Medicine*) among 103 titles he had written on astrology, astronomy, geography, geology, history, mathematics, medicine, physics, psychology, sociology, and theology
 - 1037 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote *Codex Masudicus*, noting that Eurasia only covers 2/5 of the Earth's surface and another continent must exist on the other side of the planet
-- 1200 CE: [Alexander of Villedieu](https://en.wikipedia.org/wiki/Alexander_of_Villedieu) wrote *Carmen de Algorismo* (*Poem about Arithmetic*), demonstrating the [Hindu-Arabic numberal system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
+- 1200 CE: [Alexander of Villedieu](https://en.wikipedia.org/wiki/Alexander_of_Villedieu) wrote *Carmen de Algorismo* (*Poem about Arithmetic*), demonstrating the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
 - 1202 CE: [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) published [*Liber Abaci* (*The Book of the Abacus*)](https://en.wikipedia.org/wiki/Liber_Abaci), popularizing the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) and introducing [zero](https://en.wikipedia.org/wiki/0) to the West
 - 1225 CE: [Johannes de Sacrobosco](https://en.wikipedia.org/wiki/Johannes_de_Sacrobosco) wrote *Algorismus Vulgaris* (*Common Algorithms*)
 - 1231 CE: [Ali ibn al-Athir](https://en.wikipedia.org/wiki/Ali_ibn_al-Athir) wrote [*al-Kāmil fit-Tārīkh* (*The Complete History*)](https://en.wikipedia.org/wiki/The_Complete_History)
@@ -1036,7 +1036,7 @@ Few descriptions survive, despite many discoveries.
   - [History of the alphabet](https://en.wikipedia.org/wiki/History_of_the_alphabet)
   - [History of the Arabic alphabet](https://en.wikipedia.org/wiki/History_of_the_Arabic_alphabet)
   - [History of the Greek alphabet](https://en.wikipedia.org/wiki/History_of_the_Greek_alphabet)
-  - [History of the Hindu-Arabic numberal system](https://en.wikipedia.org/wiki/History_of_the_Hindu%E2%80%93Arabic_numeral_system)
+  - [History of the Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/History_of_the_Hindu%E2%80%93Arabic_numeral_system)
 
 #### [History of science](https://en.wikipedia.org/wiki/History_of_science)
 - [History of chemistry](https://en.wikipedia.org/wiki/History_of_chemistry)
