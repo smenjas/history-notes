@@ -108,7 +108,6 @@ Few descriptions survive, despite many discoveries.
     - [History of science](#history-of-science)
       - [History of the social sciences](#history-of-the-social-sciences)
     - [History of technology](#history-of-technology)
-      - [History of transport](#history-of-transport)
 
 ---
 
@@ -640,6 +639,7 @@ Few descriptions survive, despite many discoveries.
 - 1805 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *An Essay on the Cohesion of Fluids*
 - 1807 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Course of Lectures on Natural Philosophy and the Mechanical Arts*
 - 1808 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Functions of the Heart and Arteries*
+- 1810 CE: [George Cayley](https://en.wikipedia.org/wiki/George_Cayley) published *On Aerial Navigation*
 - 1813 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) introduced the term [Indo-European language](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 1813 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *System of Practical Nosology*
 - 1814 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) invented the modern [spectroscope](https://en.wikipedia.org/wiki/Spectroscope)
@@ -649,13 +649,13 @@ Few descriptions survive, despite many discoveries.
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *De la Lumière* (*On Light*)
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *Mémoire sur un nouveau système d'éclairage des phares* (*Memoir upon a new system of lighthouse illumination*)
 - 1827 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *Mémoire sur la double réfraction* (*Memoir on double refraction*)
-- 1833 CE: Charles Lyell published *Principles of Geology*
-- 1840 CE: Louis Agassiz published *Études sur les glaciers*
-- 1842 CE: Christian Doppler published *On the coloured light of the binary stars and some other stars of the heavens*
+- 1833 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Principles of Geology*](https://en.wikipedia.org/wiki/Principles_of_Geology)
+- 1840 CE: [Louis Agassiz](https://en.wikipedia.org/wiki/Louis_Agassiz) published *Études sur les glaciers* (*Studies on Glaciers*)
+- 1842 CE: [Christian Doppler](https://en.wikipedia.org/wiki/Christian_Doppler) published [*Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels* (*On the coloured light of the binary stars and some other stars of the heavens*)](https://en.wikipedia.org/wiki/%C3%9Cber_das_farbige_Licht_der_Doppelsterne_und_einiger_anderer_Gestirne_des_Himmels)
 - 1844 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published *Die Lineale Ausdehnungslehre* (*The Theory of Linear Extension*), introducing [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
-- 1850 CE: Rudolf Clausius published *On the Moving Force of Heat*
+- 1850 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *Ueber die bewegende Kraft der Wärme* (*On the Moving Force of Heat*)
 - 1851 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) invented the [ophthalmoscope](https://en.wikipedia.org/wiki/Ophthalmoscope)
 - 1853 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published a theory of how colors mix, still taught as [Grassmann's law](https://en.wikipedia.org/wiki/Grassmann%27s_laws_%28color_science%29)
 - 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought), founding [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
@@ -668,12 +668,12 @@ Few descriptions survive, despite many discoveries.
 - 1861 CE: Thomas Sutton invented the single lens reflex (SLR) camera
 - 1861 CE: James Clerk Maxwell published *On Physical Lines of Force*
 - 1862 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) set out the first [axiomatic](https://en.wikipedia.org/wiki/Axiomatic_system) presentation of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic), using [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction)
-- 1863 CE: Charles Lyell published *Geological Evidences of the Antiquity of Man*
+- 1863 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Geological Evidences of the Antiquity of Man*](https://en.wikipedia.org/wiki/Geological_Evidences_of_the_Antiquity_of_Man)
 - 1863 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published [*Sensations of Tone*](https://en.wikipedia.org/wiki/Sensations_of_Tone)
 - 1864 CE: James Clerk Maxwell published *A Dynamical Theory of the Electromagnetic Field*
 - 1866 CE: Gregor Mendel published *Versuche über Pflanzenhybriden*
 - 1866 CE: E. Kaeckel published *Generelle Morphologie der Organismen*
-- 1867 CE: Rudolf Clausius published *The Mechanical Theory of Heat* and coined "entropy"
+- 1867 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *The Mechanical Theory of Heat* and coined "entropy"
 - 1867 CE: Joseph Lister published *On the Antiseptic Principle in the Practice of Surgery*
 - 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
 - 1867 CE: [Hermann Hankel](https://en.wikipedia.org/wiki/Hermann_Hankel) published [*Vorlesungen über die complexen Zahlen und ihre Functionen* (*Lectures on complex numbers and their functions*)](https://books.google.com/books?id=754KAAAAYAAJ)
@@ -1039,8 +1039,10 @@ Few descriptions survive, despite many discoveries.
   - [History of the Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/History_of_the_Hindu%E2%80%93Arabic_numeral_system)
 
 #### [History of science](https://en.wikipedia.org/wiki/History_of_science)
+- [History of biology](https://en.wikipedia.org/wiki/History_of_biology)
 - [History of chemistry](https://en.wikipedia.org/wiki/History_of_chemistry)
   - [History of the periodic table](https://en.wikipedia.org/wiki/History_of_the_periodic_table)
+- [History of entropy](https://en.wikipedia.org/wiki/History_of_entropy)
 - [History of materials science](https://en.wikipedia.org/wiki/History_of_materials_science)
 - [History of mathematics](https://en.wikipedia.org/wiki/History_of_mathematics)
 - [History of medicine](https://en.wikipedia.org/wiki/History_of_medicine)
