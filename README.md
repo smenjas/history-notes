@@ -574,11 +574,14 @@ Few descriptions survive, despite many discoveries.
 - 1683 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [bacteria](https://en.wikipedia.org/wiki/Bacteria)
 - 1683 CE: [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) published *Lectiones Mathematicae* (*Mathematics Lessons*)
 - 1684 CE: [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) published [*Nova Methodus pro Maximis et Minimis*](https://en.wikipedia.org/wiki/Nova_Methodus_pro_Maximis_et_Minimis)
+- 1684 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) sent [Edmond Halley](https://en.wikipedia.org/wiki/Edmond_Halley) the manuscript [*De motu corporum in gyrum* (*On the motion of bodies in an orbit*)](https://en.wikipedia.org/wiki/De_motu_corporum_in_gyrum)
+- 1686 CE: [Edmond Halley](https://en.wikipedia.org/wiki/Edmond_Halley) published *An Historical Account of the Trade Winds, and Monsoons, Observable in the Seas between and Near the Tropicks, with an Attempt to Assign the Phisical Cause of the Said Winds*, identifying solar heating as the cause of atmospheric motions, establishing the relationship between [barometric pressure](https://en.wikipedia.org/wiki/Barometer) and height above sea level, and contributing to the field of [information visualization](https://en.wikipedia.org/wiki/Information_visualization)
 - 1687 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [*Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy)*](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica) 1st edition
 - 1689 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Two Treatises of Government*](https://en.wikipedia.org/wiki/Two_Treatises_of_Government)
 - 1690 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*An Essay Concerning Human Understanding*](https://en.wikipedia.org/wiki/An_Essay_Concerning_Human_Understanding)
 - 1690 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published [*Traité de la Lumière* (*Treatise on Light*)](https://en.wikipedia.org/wiki/Treatise_on_Light)
 - 1693 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Some Thoughts Concerning Education*](https://en.wikipedia.org/wiki/Some_Thoughts_Concerning_Education)
+- 1693 CE: [Edmond Halley](https://en.wikipedia.org/wiki/Edmond_Halley) published *An Estimate of the Degrees of the Mortality of Mankind*, an article on [life annuities](https://en.wikipedia.org/wiki/Life_annuity) that influenced [actuarial science](https://en.wikipedia.org/wiki/Actuarial_science) & [demography](https://en.wikipedia.org/wiki/Demography)
 - 1698 CE: [Jean Bouguer](https://en.wikipedia.org/wiki/Jean_Bouguer) published *Traité complet de la navigation* (*Complete Treaty of Navigation*)
 - 1699 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) invented the [octant](https://en.wikipedia.org/wiki/Octant_%28instrument%29), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
 
@@ -609,6 +612,7 @@ Few descriptions survive, despite many discoveries.
 - 1754 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Discourse on Inequality*](https://en.wikipedia.org/wiki/Discourse_on_Inequality)
 - 1755 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutiones calculi differentialis*](https://en.wikipedia.org/wiki/Institutiones_calculi_differentialis)
 - 1757 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Principes généraux de l'état d'équilibre d'un fluide*
+- 1758 CE: [Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) et al. published *Miscellanea Taurinensia* (*Turin Miscellanea*), describing sound propagation & string vibration
 - 1759 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) invented H3, demonstrating the bimetallic strip and caged roller bearing
 - 1759 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) invented H4, a handheld marine chronometer
 - 1759 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*The Theory of Moral Sentiments*](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
@@ -625,6 +629,7 @@ Few descriptions survive, despite many discoveries.
 - 1776 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*Wealth of Nations*](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
 - 1785 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) invented the first man-made [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1788 CE: [James Hutton](https://en.wikipedia.org/wiki/James_Hutton) published [*Theory of the Earth*](https://en.wikipedia.org/wiki/Theory_of_the_Earth)
+- 1788 CE: [Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) published [*Mécanique analytique* (*Analytical mechanics*)](https://en.wikipedia.org/wiki/M%C3%A9canique_analytique)
 - 1793 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) explained [how the human eye focuses on objects at different distances](https://en.wikipedia.org/wiki/Accommodation_%28eye%29)
 - 1796 CE: Renatus Gotthelf Löbel edited the [*Conversations-Lexikon* (*Conversation Dictionary*)](https://en.wikipedia.org/wiki/Conversations-Lexikon_mit_vorz%C3%BCglicher_R%C3%BCcksicht_auf_die_gegenw%C3%A4rtigen_Zeiten), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) later called the [*Brockhaus Enzyklopädie*](https://en.wikipedia.org/wiki/Brockhaus_Enzyklop%C3%A4die)
 - 1798 CE: [Edward Jenner](https://en.wikipedia.org/wiki/Edward_Jenner) published *Inquiry into the Variolae vaccinae known as the Cow Pox*
@@ -640,16 +645,24 @@ Few descriptions survive, despite many discoveries.
 - 1807 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Course of Lectures on Natural Philosophy and the Mechanical Arts*
 - 1808 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Functions of the Heart and Arteries*
 - 1810 CE: [George Cayley](https://en.wikipedia.org/wiki/George_Cayley) published *On Aerial Navigation*
+- 1810 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Beyträge zu einer begründeteren Darstellung der Mathematik* (*Contributions to a more justified representation of mathematics*)
 - 1813 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) introduced the term [Indo-European language](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 1813 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *System of Practical Nosology*
 - 1814 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) invented the modern [spectroscope](https://en.wikipedia.org/wiki/Spectroscope)
 - 1815 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Practical and Historical Treatise on Consumptive Diseases*
+- 1816 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Der binomische Lehrsatz* (*The binomial theorem*)
+- 1817 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Rein analytischer Beweis* (*Purely analytical proof*), rigorously defining [mathematical limits](https://en.wikipedia.org/wiki/Limit_of_a_function)
 - 1818 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) deposited *Mémoire sur la diffraction de la lumière* (*Memoir on the diffraction of light*)
 - 1821 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) developed a [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
+- 1821 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published [*Cours d'Analyse* (*Analysis Course*)](https://en.wikipedia.org/wiki/Cours_d%27Analyse)
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *De la Lumière* (*On Light*)
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *Mémoire sur un nouveau système d'éclairage des phares* (*Memoir upon a new system of lighthouse illumination*)
+- 1823 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published *Le Calcul infinitésimal* (*Infinitesimal Calculus*)
 - 1827 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *Mémoire sur la double réfraction* (*Memoir on double refraction*)
+- 1828 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published *Leçons sur les applications de calcul infinitésimal; La géométrie* (*Lessons on infinitesimal computing applications; Geometry*)
 - 1833 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Principles of Geology*](https://en.wikipedia.org/wiki/Principles_of_Geology)
+- 1837 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published his *Wissenschaftslehre* (*Theory of Science*)
+- 1838 CE: [Christoph Gudermann](https://en.wikipedia.org/wiki/Christoph_Gudermann) introduced the concept of [uniform convergence](https://en.wikipedia.org/wiki/Uniform_convergence)
 - 1840 CE: [Louis Agassiz](https://en.wikipedia.org/wiki/Louis_Agassiz) published *Études sur les glaciers* (*Studies on Glaciers*)
 - 1842 CE: [Christian Doppler](https://en.wikipedia.org/wiki/Christian_Doppler) published [*Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels* (*On the coloured light of the binary stars and some other stars of the heavens*)](https://en.wikipedia.org/wiki/%C3%9Cber_das_farbige_Licht_der_Doppelsterne_und_einiger_anderer_Gestirne_des_Himmels)
 - 1844 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published *Die Lineale Ausdehnungslehre* (*The Theory of Linear Extension*), introducing [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
@@ -657,6 +670,7 @@ Few descriptions survive, despite many discoveries.
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 - 1850 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *Ueber die bewegende Kraft der Wärme* (*On the Moving Force of Heat*)
 - 1851 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) invented the [ophthalmoscope](https://en.wikipedia.org/wiki/Ophthalmoscope)
+- 1851 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published [*Paradoxien des Unendlichen* (*The Paradoxes of the Infinite*)](https://en.wikipedia.org/wiki/The_Paradoxes_of_the_Infinite)
 - 1853 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published a theory of how colors mix, still taught as [Grassmann's law](https://en.wikipedia.org/wiki/Grassmann%27s_laws_%28color_science%29)
 - 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought), founding [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
@@ -771,6 +785,7 @@ Few descriptions survive, despite many discoveries.
 - 1944 CE: John von Neumann published *First Draft of a Report on the EDVAC*
 - 1945 CE: Vannevar Bush published *As We May Think*
 - 1947 CE: Kathleen Booth published *General considerations in the design of an all purpose electronic digital computer (Coding for the ARC, 2nd ed)*, introducing assembly language
+- 1947 CE: [Marjory Stoneman Douglas](https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas) published [*The Everglades: River of Grass*](https://en.wikipedia.org/wiki/The_Everglades:_River_of_Grass)
 - 1948 CE: Claude Shannon published *A Mathematical Theory of Communication*
 - 1948 CE: John von Neumann published *The general and logical theory of automata*
 
@@ -793,11 +808,13 @@ Few descriptions survive, despite many discoveries.
 - 1962 CE: Émile Zuckerkandl & Linus Pauling published *Molecular disease, evolution, and genic heterogeneity*
 - 1962 CE: [L. R. Ford, Jr.](https://en.wikipedia.org/wiki/L._R._Ford_Jr.) & [D. R. Fulkerson](https://en.wikipedia.org/wiki/D._R._Fulkerson) published *Network Flows and General Matchings*
 - 1962 CE: Thomas S. Kuhn published *The Structure of Scientific Revolutions*
+- 1962 CE: [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson) published [*Silent Spring*](https://en.wikipedia.org/wiki/Silent_Spring)
 - 1964 CE: Richard Feynman published *The Feynman Lectures on Physics*
 - 1965 CE: Richard Feynman & Albert Hibbs published *Quantum Mechanics and Path Integrals*
 - 1965 CE: Richard Feynman published *The Character of Physical Law*
 - 1965 CE: Norman Borlaug planted dwarf spring wheat in South Asia
 - 1965 CE: Donald Knuth published *On the translation of languages from left to right*
+- 1965 CE: [Ralph Nader](https://en.wikipedia.org/wiki/Ralph_Nader) published [*Unsafe at Any Speed*](https://en.wikipedia.org/wiki/Unsafe_at_Any_Speed)
 - 1966 CE: John von Neumann published *Theory of Self-Reproducing Automata*
 - 1967 CE: Lynn Sagan published *On the origin of mitosing cells*
 - 1968 CE: The FCC ruled that "any lawful device" can be connected to the AT&T network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
@@ -816,6 +833,7 @@ Few descriptions survive, despite many discoveries.
 - 1970 CE: [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) published *A [Relational Model](https://en.wikipedia.org/wiki/Relational_model) of Data for Large Shared Data Banks*
 - 1970 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) ported Unix to the PHP-11/20 in assembly
 - 1971 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published the [*UNIX Programmer's Manual*](https://en.wikipedia.org/wiki/Man_page)
+- 1971 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) published *The Closing Circle*
 - 1972 CE: Richard Feynman published *Statistical Mechanics*
 - 1972 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the C programming language](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 - 1973 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) [ported Unix to the PHP-11/20 in C](https://en.wikipedia.org/wiki/History_of_Unix)
@@ -863,6 +881,7 @@ Few descriptions survive, despite many discoveries.
 - 2000 CE: CO₂ exceeded 370 ppm
 - 2000 CE: Richard Feynman posthumously published *Feynman Lectures on Computation*
 - 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published [KHTML](https://en.wikipedia.org/wiki/KHTML), the predecessor to WebKit
+- 2000 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) et al. published *Long-range Air Transport of Dioxin from North American Sources to Ecologically Vulnerable Receptors in Nunavut, Arctic Canada*
 - 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 - 2001 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Earth](https://en.wikipedia.org/wiki/Google_Earth)
 - 2003 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Fedora operating system](https://en.wikipedia.org/wiki/Fedora_%28operating_system%29)
@@ -919,7 +938,9 @@ Few descriptions survive, despite many discoveries.
 - [List of domesticated plants](https://en.wikipedia.org/wiki/List_of_domesticated_plants)
   - [Neolithic founder crops](https://en.wikipedia.org/wiki/Neolithic_founder_crops)
   - [New World crops](https://en.wikipedia.org/wiki/New_World_crops)
+- [List of firsts in aviation](https://en.wikipedia.org/wiki/List_of_firsts_in_aviation)
 - [List of languages by first written accounts](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
+- [List of numeral systems](https://en.wikipedia.org/wiki/List_of_numeral_systems)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 - [List of people considered father or mother of a scientific field](https://en.wikipedia.org/wiki/List_of_people_considered_father_or_mother_of_a_scientific_field)
 - [Lists of etymologies](https://en.wikipedia.org/wiki/Lists_of_etymologies)
@@ -927,14 +948,17 @@ Few descriptions survive, despite many discoveries.
 ### Sources
 - [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
 - [Fred Smitha: Macrohistory, World History](http://www.fsmitha.com/)
+- [Google Books](https://books.google.com/)
+- [Google Patents](https://patents.google.com/)
 - [Hyperhistory Online](https://www.hyperhistory.com/)
 - [Librivox](https://librivox.org/)
 - [Project Gutenberg](https://www.gutenberg.org/)
+- [ScienceDirect](https://www.sciencedirect.com/)
 - [TimeTree: The timescale of life](http://www.timetree.org/)
-- [Wikidata](https://www.wikidata.org)
-- [Wikipedia](https://en.wikipedia.org)
-- [Wikisource](https://wikisource.org)
-- [Wikispecies](https://species.wikimedia.org)
+- [Wikidata](https://www.wikidata.org/)
+- [Wikipedia](https://en.wikipedia.org/)
+- [Wikisource](https://wikisource.org/)
+- [Wikispecies](https://species.wikimedia.org/)
 
 ### Videos
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
@@ -986,6 +1010,7 @@ Few descriptions survive, despite many discoveries.
 - [Technology timelines](https://en.wikipedia.org/wiki/Category:Technology_timelines)
   - [Timeline of agriculture and food technology](https://en.wikipedia.org/wiki/Timeline_of_agriculture_and_food_technology)
     - [Timeline of food](https://en.wikipedia.org/wiki/Timeline_of_food)
+  - [Timeline of chemical element discoveries](https://en.wikipedia.org/wiki/Timeline_of_chemical_element_discoveries)
   - [Timeline of clothing and textiles technology](https://en.wikipedia.org/wiki/Timeline_of_clothing_and_textiles_technology)
   - [Timeline of digital preservation](https://en.wikipedia.org/wiki/Timeline_of_digital_preservation)
   - [Timeline of electrical and electronic engineering](https://en.wikipedia.org/wiki/Timeline_of_electrical_and_electronic_engineering)
@@ -995,6 +1020,7 @@ Few descriptions survive, despite many discoveries.
     - [Timeline of steam power](https://en.wikipedia.org/wiki/Timeline_of_steam_power)
   - [Timeline of historic inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
   - [Timeline of hypertext technology](https://en.wikipedia.org/wiki/Timeline_of_hypertext_technology)
+  - [Timeline of information theory](https://en.wikipedia.org/wiki/Timeline_of_information_theory)
   - [Timeline of lighting technology](https://en.wikipedia.org/wiki/Timeline_of_lighting_technology)
   - [Timeline of low-temperature technology](https://en.wikipedia.org/wiki/Timeline_of_low-temperature_technology)
   - [Timeline of materials technology](https://en.wikipedia.org/wiki/Timeline_of_materials_technology)
@@ -1024,6 +1050,7 @@ Few descriptions survive, despite many discoveries.
 - [Timeline of the evolutionary history of life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life)
   - [Timeline of human evolution](https://en.wikipedia.org/wiki/Timeline_of_human_evolution)
   - [Timeline of plant evolution](https://en.wikipedia.org/wiki/Timeline_of_plant_evolution)
+- [Timelines of modern history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)
 - [Timelines of world history](https://en.wikipedia.org/wiki/Timelines_of_world_history)
   - [Timeline of epochs in cosmology](https://en.wikipedia.org/wiki/Timeline_of_epochs_in_cosmology)
   - [Timeline of natural history](https://en.wikipedia.org/wiki/Timeline_of_natural_history)
@@ -1052,11 +1079,18 @@ Few descriptions survive, despite many discoveries.
   - [Cradle of civilization](https://en.wikipedia.org/wiki/Cradle_of_civilization)
 - [History](https://en.wikipedia.org/wiki/History)
   - [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
+  - [Contemporary history](https://en.wikipedia.org/wiki/Contemporary_history)
+  - [Early modern period](https://en.wikipedia.org/wiki/Early_modern_period)
+  - [Late modern period](https://en.wikipedia.org/wiki/Late_modern_period)
+  - [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
+  - [Science in the medieval Islamic world](https://en.wikipedia.org/wiki/Science_in_the_medieval_Islamic_world)
+  - [Scientific Revolution](https://en.wikipedia.org/wiki/Scientific_Revolution)
 
 #### [History of communication](https://en.wikipedia.org/wiki/History_of_communication)
 - [History of art](https://en.wikipedia.org/wiki/History_of_art)
   - [History of painting](https://en.wikipedia.org/wiki/History_of_painting)
 - [History of writing](https://en.wikipedia.org/wiki/History_of_writing)
+  - [History of ancient numeral systems](https://en.wikipedia.org/wiki/History_of_ancient_numeral_systems)
   - [History of books](https://en.wikipedia.org/wiki/History_of_books)
   - [History of encyclopedias](https://en.wikipedia.org/wiki/History_of_encyclopedias)
   - [History of literature](https://en.wikipedia.org/wiki/History_of_literature)
@@ -1121,6 +1155,7 @@ Few descriptions survive, despite many discoveries.
 - [History of timekeeping devices](https://en.wikipedia.org/wiki/History_of_timekeeping_devices)
 - [History of transport](https://en.wikipedia.org/wiki/History_of_transport)
   - [History of spaceflight](https://en.wikipedia.org/wiki/History_of_spaceflight)
+  - [History of the automobile](https://en.wikipedia.org/wiki/History_of_the_automobile)
   - [History of the electric vehicle](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle)
   - [History of the petroleum industry](https://en.wikipedia.org/wiki/History_of_the_petroleum_industry)
 - [History of the battery](https://en.wikipedia.org/wiki/History_of_the_battery)
