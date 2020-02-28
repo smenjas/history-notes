@@ -683,30 +683,33 @@ Few descriptions survive, despite many discoveries.
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
 - 1856 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphs*](https://patents.google.com/patent/US14917A)
 - 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian functions*)
+- 1857 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Experiments on Colour, as perceived by the Eye, with Remarks on Colour-Blindness*
 - 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On integrals of the hydrodynamic equations, which correspond to the vortex movements*), introducing [Helmoholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
 - 1859 CE: Charles Darwin published *On the Origin of Species*
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in electro-magnetic telegraphs*](https://patents.google.com/patent/US22531A) for [duplex communication](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphfng-machlnes*](https://patents.google.com/patent/US22770A) for the [printing telegraph](https://en.wikipedia.org/wiki/Printing_telegraph)
-- 1861 CE: Thomas Sutton invented the single lens reflex (SLR) camera
-- 1861 CE: James Clerk Maxwell published *On Physical Lines of Force*
+- 1859 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) developed a [panoramic camera](https://en.wikipedia.org/wiki/Panoramic_photography) with a [wide-angle lens](https://en.wikipedia.org/wiki/Wide-angle_lens)
+- 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) invented the [single lens reflex (SLR) camera](https://en.wikipedia.org/wiki/Single-lens_reflex_camera)
+- 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) & [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) demonstrated [color photography](https://en.wikipedia.org/wiki/Color_photography)
+- 1861 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*On Physical Lines of Force*](https://en.wikipedia.org/wiki/On_Physical_Lines_of_Force)
 - 1862 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) set out the first [axiomatic](https://en.wikipedia.org/wiki/Axiomatic_system) presentation of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic), using [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction)
 - 1863 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Geological Evidences of the Antiquity of Man*](https://en.wikipedia.org/wiki/Geological_Evidences_of_the_Antiquity_of_Man)
 - 1863 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published [*Sensations of Tone*](https://en.wikipedia.org/wiki/Sensations_of_Tone)
-- 1864 CE: James Clerk Maxwell published *A Dynamical Theory of the Electromagnetic Field*
+- 1864 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Dynamical Theory of the Electromagnetic Field*](https://en.wikipedia.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field)
 - 1865 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *An Introduction to Modern Chemistry*
-- 1866 CE: Gregor Mendel published *Versuche über Pflanzenhybriden*
+- 1866 CE: [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) published [*Versuche über Pflanzenhybriden* (*Experiments on Plant Hybridization*)](https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization)
 - 1866 CE: E. Kaeckel published *Generelle Morphologie der Organismen*
 - 1867 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *The Mechanical Theory of Heat* and coined "entropy"
 - 1867 CE: Joseph Lister published *On the Antiseptic Principle in the Practice of Surgery*
 - 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
 - 1867 CE: [Hermann Hankel](https://en.wikipedia.org/wiki/Hermann_Hankel) published [*Vorlesungen über die complexen Zahlen und ihre Functionen* (*Lectures on complex numbers and their functions*)](https://books.google.com/books?id=754KAAAAYAAJ)
-- 1868 CE: James Clerk Maxwell published *On governors*
+- 1868 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On governors*, establishing the theoretical basis for [control engineering](https://en.wikipedia.org/wiki/Control_engineering)
 - 1869 CE: Dmitri Mendeleev composed his periodic table of the elements
 - 1870 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Logic of Relatives*, extending the [theory of relations](https://en.wikipedia.org/wiki/Finitary_relation)
+- 1871 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published his [thermodynamic relations](https://en.wikipedia.org/wiki/Maxwell_relations)
 - 1872 CE: Andrew Ramsay published *The River Courses of England and Wales*
-- 1872 CE: James Clerk Maxwell published his thermodynamic relations
-- 1872 CE: James Clerk Maxwell published *On the Theory of Colour Vision*
-- 1873 CE: James Clerk Maxwell published *A Treatise on Electricity and Magnetism*
+- 1872 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On the Theory of Colour Vision*
+- 1873 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Treatise on Electricity and Magnetism*](https://en.wikipedia.org/wiki/A_Treatise_on_Electricity_and_Magnetism)
 - 1876 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *On the Limits of the Optical Capacity of the Microscope*
 - 1877 CE: [Ulisse Dini](https://en.wikipedia.org/wiki/Ulisse_Dini) published *Fondamenti per la teoria delle funzioni di variabili reali* (*Foundations for the Theory of Functions of Real Variables*), contributing to [real analysis](https://en.wikipedia.org/wiki/Real_analysis)
 - 1878 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) coined the term "energy" in its modern usage
