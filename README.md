@@ -480,6 +480,7 @@ Few descriptions survive, despite many discoveries.
 - 500 CE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) developed the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
 - 510 CE: [Aryabhata](https://en.wikipedia.org/wiki/Aryabhata) wrote [Aryabhatiya](https://en.wikipedia.org/wiki/Aryabhatiya), which states "sthānāt sthānaṁ daśaguṇaṁ syāt" ("from place to place each is ten times the preceding"), originating the modern decimal-based place value notation
 - 525 CE: [Dionysius Exiguus](https://en.wikipedia.org/wiki/Dionysius_Exiguus) invented the [*Anno Domini*](https://en.wikipedia.org/wiki/Anno_Domini) [calendar era](https://en.wikipedia.org/wiki/Calendar_era), an alternative to the [Era of the Martyrs](https://en.wikipedia.org/wiki/Era_of_the_Martyrs)
+- 529 CE: [Justinian I](https://en.wikipedia.org/wiki/Justinian_I) ordered [Tribonian](https://en.wikipedia.org/wiki/Tribonian) to compile the [*Corpus Juris Civilis* (*Body of Civil Law*)](https://en.wikipedia.org/wiki/Corpus_Juris_Civilis), an influential work in [jurisprudence](https://en.wikipedia.org/wiki/Jurisprudence)
 - 613 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote *De natura rerum* (*On the Nature of Things*), mentioning "pestifera semina" ("plague-bearing seeds")
 
 ### Zero
