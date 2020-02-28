@@ -681,12 +681,12 @@ Few descriptions survive, despite many discoveries.
 - 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought), founding [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 - 1854 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Zur Theorie der Abelschen Funktionen* (*The theory of Abelian functions*)
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
-- 1856 CE: David E. Hughes patented an *Improvement in telegraphs*
+- 1856 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphs*](https://patents.google.com/patent/US14917A)
 - 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian functions*)
 - 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On integrals of the hydrodynamic equations, which correspond to the vortex movements*), introducing [Helmoholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
 - 1859 CE: Charles Darwin published *On the Origin of Species*
-- 1859 CE: David E. Hughes patented an *Improvement in telegraphfng-machlnes* (printing telegraph)
-- 1859 CE: David E. Hughes patented an *Improvement in electro-magnetic telegraphs* (duplex communication)
+- 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in electro-magnetic telegraphs*](https://patents.google.com/patent/US22531A) for [duplex communication](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29)
+- 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphfng-machlnes*](https://patents.google.com/patent/US22770A) for the [printing telegraph](https://en.wikipedia.org/wiki/Printing_telegraph)
 - 1861 CE: Thomas Sutton invented the single lens reflex (SLR) camera
 - 1861 CE: James Clerk Maxwell published *On Physical Lines of Force*
 - 1862 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) set out the first [axiomatic](https://en.wikipedia.org/wiki/Axiomatic_system) presentation of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic), using [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction)
