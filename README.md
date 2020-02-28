@@ -648,6 +648,7 @@ Few descriptions survive, despite many discoveries.
 - 1804 CE: [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard) invented the [Jacquard Loom](https://en.wikipedia.org/wiki/Jacquard_machine)
 - 1805 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *An Essay on the Cohesion of Fluids*
 - 1807 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Course of Lectures on Natural Philosophy and the Mechanical Arts*
+- 1807 CE: [François Budan de Boislaurent](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Budan_de_Boislaurent) published a *Nouvelle méthode pour la résolution des équations numériques* (*New method for solving numerical equations*), formulating [Budan's theorem](https://en.wikipedia.org/wiki/Budan's_theorem)
 - 1808 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Functions of the Heart and Arteries*
 - 1810 CE: [George Cayley](https://en.wikipedia.org/wiki/George_Cayley) published *On Aerial Navigation*
 - 1810 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Beyträge zu einer begründeteren Darstellung der Mathematik* (*Contributions to a more justified representation of mathematics*)
@@ -662,10 +663,16 @@ Few descriptions survive, despite many discoveries.
 - 1821 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published [*Cours d'Analyse* (*Analysis Course*)](https://en.wikipedia.org/wiki/Cours_d%27Analyse)
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *De la Lumière* (*On Light*)
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *Mémoire sur un nouveau système d'éclairage des phares* (*Memoir upon a new system of lighthouse illumination*)
+- 1822 CE: [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) published *Théorie analytique de la chaleur* (*The Analytical Theory of Heat*)
 - 1823 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published *Le Calcul infinitésimal* (*Infinitesimal Calculus*)
+- 1824 CE: [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) published *Remarques générales sur les températures du globe terrestre et des espaces planétaires* (*General notes on temperatures of the globe and planetary spaces*)
+- 1827 CE: [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) published *Mémoire sur la température du globe terrestre et des espaces planétaires* (*Memoire on the temperature of the terrestrial globe and planetary spaces*)
 - 1827 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *Mémoire sur la double réfraction* (*Memoir on double refraction*)
 - 1828 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published *Leçons sur les applications de calcul infinitésimal; La géométrie* (*Lessons on infinitesimal computing applications; Geometry*)
+- 1829 CE: [Jacques Charles François Sturm](https://en.wikipedia.org/wiki/Jacques_Charles_Fran%C3%A7ois_Sturm) published *Analyse d'un mémoire sur la résolution des équations numériques* (*Analysis of a memoir on the solution of equations with numerical coefficients*), formulating [Sturm's theorem](https://en.wikipedia.org/wiki/Sturm%27s_theorem) concerning [real-root isolation](https://en.wikipedia.org/wiki/Real-root_isolation)
+- 1829 CE: [Jacques Charles François Sturm](https://en.wikipedia.org/wiki/Jacques_Charles_Fran%C3%A7ois_Sturm) published *Extrait d'un mémoire sur l'intégration d'un système d'équations différentielles linéaires* (*Abstract of a memoir on the integration of a system of linear differential equations*)
 - 1833 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Principles of Geology*](https://en.wikipedia.org/wiki/Principles_of_Geology)
+- 1835 CE: [Jacques Charles François Sturm](https://en.wikipedia.org/wiki/Jacques_Charles_Fran%C3%A7ois_Sturm) published *Mémoire sur la résolution des équations numériques* (*Memoir on the solution of equations with numerical coefficients*)
 - 1837 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published his *Wissenschaftslehre* (*Theory of Science*)
 - 1838 CE: [Christoph Gudermann](https://en.wikipedia.org/wiki/Christoph_Gudermann) introduced the concept of [uniform convergence](https://en.wikipedia.org/wiki/Uniform_convergence)
 - 1840 CE: [Louis Agassiz](https://en.wikipedia.org/wiki/Louis_Agassiz) published *Études sur les glaciers* (*Studies on Glaciers*)
