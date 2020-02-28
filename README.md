@@ -786,6 +786,7 @@ Few descriptions survive, despite many discoveries.
 - 1938 CE: H. Copeland published *The kingdoms of organisms*
 - 1938 CE: Kurt Gödel published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
 - 1939 CE: Linus Pauling published *The Nature of the Chemical Bond*
+- 1939 CE: [The Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
 
 ### 1940s
 - 1942 CE: Richard Feynman published *The Principle of Least Action in Quantum Mechanics*
