@@ -782,6 +782,7 @@ Few descriptions survive, despite many discoveries.
 
 ### 1940s
 - 1942 CE: Richard Feynman published *The Principle of Least Action in Quantum Mechanics*
+- 1942 CE: [John Vincent Atanasoff](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff) & [Clifford Berry](https://en.wikipedia.org/wiki/Clifford_Berry) demonstrated the [Atanasoff–Berry computer (ABC)](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer), the first [digital electronic computer](https://en.wikipedia.org/wiki/Digital_electronic_computer), and used it to solve [linear equations](https://en.wikipedia.org/wiki/Linear_equation)
 - 1943 CE: British codebreakers invent the Colossus: the first programmable electronic digital computer
 - 1944 CE: John von Neumann published *First Draft of a Report on the EDVAC*
 - 1945 CE: Vannevar Bush published *As We May Think*
@@ -950,6 +951,7 @@ Few descriptions survive, despite many discoveries.
 - [List of numeral systems](https://en.wikipedia.org/wiki/List_of_numeral_systems)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 - [List of people considered father or mother of a scientific field](https://en.wikipedia.org/wiki/List_of_people_considered_father_or_mother_of_a_scientific_field)
+- [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 - [Lists of etymologies](https://en.wikipedia.org/wiki/Lists_of_etymologies)
 - [Lists of important publications in science](https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science)
   - [Bibliography of anthropology](https://en.wikipedia.org/wiki/Bibliography_of_anthropology)
@@ -1064,9 +1066,11 @@ Few descriptions survive, despite many discoveries.
     - [Timeline of food](https://en.wikipedia.org/wiki/Timeline_of_food)
   - [Timeline of chemical element discoveries](https://en.wikipedia.org/wiki/Timeline_of_chemical_element_discoveries)
   - [Timeline of clothing and textiles technology](https://en.wikipedia.org/wiki/Timeline_of_clothing_and_textiles_technology)
+  - [Timeline of computing](https://en.wikipedia.org/wiki/Timeline_of_computing)
   - [Timeline of computational physics](https://en.wikipedia.org/wiki/Timeline_of_computational_physics)
   - [Timeline of computational mathematics](https://en.wikipedia.org/wiki/Timeline_of_computational_mathematics)
   - [Timeline of digital preservation](https://en.wikipedia.org/wiki/Timeline_of_digital_preservation)
+  - [Timeline of diving technology](https://en.wikipedia.org/wiki/Timeline_of_diving_technology)
   - [Timeline of electrical and electronic engineering](https://en.wikipedia.org/wiki/Timeline_of_electrical_and_electronic_engineering)
   - [Timeline of heat engine technology](https://en.wikipedia.org/wiki/Timeline_of_heat_engine_technology)
     - [Timeline of motor and engine technology](https://en.wikipedia.org/wiki/Timeline_of_motor_and_engine_technology)
@@ -1082,7 +1086,9 @@ Few descriptions survive, despite many discoveries.
     - [Timeline of biotechnology](https://en.wikipedia.org/wiki/Timeline_of_biotechnology)
   - [Timeline of microscope technology](https://en.wikipedia.org/wiki/Timeline_of_microscope_technology)
   - [Timeline of music technology](https://en.wikipedia.org/wiki/Timeline_of_music_technology)
+  - [Timeline of nuclear fusion](https://en.wikipedia.org/wiki/Timeline_of_nuclear_fusion)
   - [Timeline of nuclear weapons development](https://en.wikipedia.org/wiki/Timeline_of_nuclear_weapons_development)
+  - [Timeline of online video](https://en.wikipedia.org/wiki/Timeline_of_online_video)
   - [Timeline of particle physics technology](https://en.wikipedia.org/wiki/Timeline_of_particle_physics_technology)
   - [Timeline of photography technology](https://en.wikipedia.org/wiki/Timeline_of_photography_technology)
   - [Timeline of radio](https://en.wikipedia.org/wiki/Timeline_of_radio)
@@ -1092,6 +1098,9 @@ Few descriptions survive, despite many discoveries.
   - [Timeline of telescopes, observatories, and observing technology](https://en.wikipedia.org/wiki/Timeline_of_telescopes,_observatories,_and_observing_technology)
     - [Timeline of telescope technology](https://en.wikipedia.org/wiki/Timeline_of_telescope_technology)
   - [Timeline of temperature and pressure measurement technology](https://en.wikipedia.org/wiki/Timeline_of_temperature_and_pressure_measurement_technology)
+  - [Timeline of the introduction of color television in countries](https://en.wikipedia.org/wiki/Timeline_of_the_introduction_of_color_television_in_countries)
+  - [Timeline of the introduction of radio in countries](https://en.wikipedia.org/wiki/Timeline_of_the_introduction_of_radio_in_countries)
+  - [Timeline of the introduction of television in countries](https://en.wikipedia.org/wiki/Timeline_of_the_introduction_of_television_in_countries)
   - [Timeline of the telephone](https://en.wikipedia.org/wiki/Timeline_of_the_telephone)
   - [Timeline of time measurement technology](https://en.wikipedia.org/wiki/Timeline_of_time_measurement_technology)
   - [Timeline of transportation technology](https://en.wikipedia.org/wiki/Timeline_of_transportation_technology)
@@ -1218,3 +1227,4 @@ Few descriptions survive, despite many discoveries.
 - [History of the internal combustion engine](https://en.wikipedia.org/wiki/History_of_the_internal_combustion_engine)
 - [History of the steam engine](https://en.wikipedia.org/wiki/History_of_the_steam_engine)
 - [History of the telescope](https://en.wikipedia.org/wiki/History_of_the_telescope)
+- [History of underwater diving](https://en.wikipedia.org/wiki/History_of_underwater_diving)
