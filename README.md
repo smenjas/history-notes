@@ -398,6 +398,7 @@ Few descriptions survive, despite many discoveries.
 - 1850 BCE: People near Wadi El-Hol, Egypt wrote [Proto-Sinaitic script](https://en.wikipedia.org/wiki/Proto-Sinaitic_script)
 - 1800 BCE: Assyrians from [Assur](https://en.wikipedia.org/wiki/Assur) on the [Tigris River](https://en.wikipedia.org/wiki/Tigris) introduced [cuneiform](https://en.wikipedia.org/wiki/Cuneiform) to [Hattusa, Turkey](https://en.wikipedia.org/wiki/Hattusa), the capital of the [Hittite Empire](https://en.wikipedia.org/wiki/Hittites)
 - 1800-1450 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Linear A](https://en.wikipedia.org/wiki/Linear_A), descended from Cretan hieroglyphs
+- 1754 BCE: [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) enacted the [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 - 1700 BCE: [King Anitta](https://en.wikipedia.org/wiki/Anitta) who wrote the oldest known [Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages) text in [Hittite](https://en.wikipedia.org/wiki/Hittite_language), burned [Hattusa](https://en.wikipedia.org/wiki/Hattusa)
 - 1450-1200 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) wrote [Linear B](https://en.wikipedia.org/wiki/Linear_B), descended from Linear A
 - 1300 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) made [concrete](https://en.wikipedia.org/wiki/Concrete) floors in the royal palace of [Tiryns](https://en.wikipedia.org/wiki/Tiryns) on the [Peloponnese peninsula](https://en.wikipedia.org/wiki/Peloponnese)
@@ -954,6 +955,8 @@ Few descriptions survive, despite many discoveries.
 - [List of domesticated plants](https://en.wikipedia.org/wiki/List_of_domesticated_plants)
   - [Neolithic founder crops](https://en.wikipedia.org/wiki/Neolithic_founder_crops)
   - [New World crops](https://en.wikipedia.org/wiki/New_World_crops)
+- [List of empires](https://en.wikipedia.org/wiki/List_of_empires)
+  - [List of largest empires](https://en.wikipedia.org/wiki/List_of_largest_empires)
 - [List of experiments](https://en.wikipedia.org/wiki/List_of_experiments)
 - [List of firsts in aviation](https://en.wikipedia.org/wiki/List_of_firsts_in_aviation)
 - [List of Internet pioneers](https://en.wikipedia.org/wiki/List_of_Internet_pioneers)
