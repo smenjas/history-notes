@@ -636,6 +636,7 @@ Few descriptions survive, despite many discoveries.
 
 ## 1800s
 - 1800 CE: [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) published a description of an [electric battery](https://en.wikipedia.org/wiki/History_of_the_battery)
+- 1801 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published [*Disquisitiones Arithmeticae* (*Arithmetical Investigations*)](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae)
 - 1801 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *On the mechanics of the eye*, describing [astigmatism](https://en.wikipedia.org/wiki/Astigmatism) for the first time
 - 1802 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Bakerian Lecture: On the Theory of Light and Colours*, hypothesizing that colour perception depends on 3 kinds of nerve fibers in the [retina](https://en.wikipedia.org/wiki/Retina)
 - 1803 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) demonstrated the [double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
