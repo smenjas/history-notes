@@ -679,6 +679,7 @@ Few descriptions survive, despite many discoveries.
 - 1839 CE: [Peter Gustav Lejeune Dirichlet](https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet) proved the first [class number formula](https://en.wikipedia.org/wiki/Class_number_formula), for [quadratic forms](https://en.wikipedia.org/wiki/Quadratic_form)
 - 1840 CE: [Louis Agassiz](https://en.wikipedia.org/wiki/Louis_Agassiz) published *Études sur les glaciers* (*Studies on Glaciers*)
 - 1840 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published *Dioptrische Untersuchungen* (*Dioptric examinations*)
+- 1841 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the uniform motion of heat in homogeneous solid bodies, and its connection with the mathematical theory of electricity*
 - 1842 CE: [Christian Doppler](https://en.wikipedia.org/wiki/Christian_Doppler) published [*Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels* (*On the coloured light of the binary stars and some other stars of the heavens*)](https://en.wikipedia.org/wiki/%C3%9Cber_das_farbige_Licht_der_Doppelsterne_und_einiger_anderer_Gestirne_des_Himmels)
 - 1844 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published *Die Lineale Ausdehnungslehre* (*The Theory of Linear Extension*), introducing [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
@@ -686,12 +687,16 @@ Few descriptions survive, despite many discoveries.
 - 1850 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *Ueber die bewegende Kraft der Wärme* (*On the Moving Force of Heat*)
 - 1851 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) invented the [ophthalmoscope](https://en.wikipedia.org/wiki/Ophthalmoscope)
 - 1851 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published [*Paradoxien des Unendlichen* (*The Paradoxes of the Infinite*)](https://en.wikipedia.org/wiki/The_Paradoxes_of_the_Infinite)
+- 1851 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the dynamical theory of heat; with numerical results deduced from Mr. Joule's equivalent of a thermal unit and M. Regnault's observations on steam*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
 - 1853 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published a theory of how colors mix, still taught as [Grassmann's law](https://en.wikipedia.org/wiki/Grassmann%27s_laws_%28color_science%29)
 - 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought), founding [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 - 1854 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Zur Theorie der Abelschen Funktionen* (*The theory of Abelian functions*)
+- 1854 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the theory of the electric telegraph*
+- 1855 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the peristaltic induction of electric currents in submarine telegraph wires*
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
 - 1856 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphs*](https://patents.google.com/patent/US14917A)
 - 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian functions*)
+- 1856 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the thermal effects of fluids in motion*, describing the [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect) and promoting the [kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases)
 - 1857 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Experiments on Colour, as perceived by the Eye, with Remarks on Colour-Blindness*
 - 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On integrals of the hydrodynamic equations, which correspond to the vortex movements*), introducing [Helmoholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
 - 1859 CE: Charles Darwin published *On the Origin of Species*
@@ -713,6 +718,7 @@ Few descriptions survive, despite many discoveries.
 - 1867 CE: Joseph Lister published *On the Antiseptic Principle in the Practice of Surgery*
 - 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
 - 1867 CE: [Hermann Hankel](https://en.wikipedia.org/wiki/Hermann_Hankel) published [*Vorlesungen über die complexen Zahlen und ihre Functionen* (*Lectures on complex numbers and their functions*)](https://books.google.com/books?id=754KAAAAYAAJ)
+- 1867 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) & [Peter Tait](https://en.wikipedia.org/wiki/Peter_Tait_%28physicist%29) published their [*Treatise on Natural Philosophy*](https://en.wikipedia.org/wiki/Treatise_on_Natural_Philosophy) (a.k.a. *T & T* from the authors' initials), founding the study of [mechanics](https://en.wikipedia.org/wiki/Mechanics)
 - 1868 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On governors*, establishing the theoretical basis for [control engineering](https://en.wikipedia.org/wiki/Control_engineering)
 - 1869 CE: Dmitri Mendeleev composed his periodic table of the elements
 - 1870 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Logic of Relatives*, extending the [theory of relations](https://en.wikipedia.org/wiki/Finitary_relation)
@@ -765,6 +771,7 @@ Few descriptions survive, despite many discoveries.
 - 1905 CE: Konstantin Mereschkowski published *The nature and origins of chromatophores in the plant kingdom*
 - 1905 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) published [*The Protestant Ethic and the Spirit of Capitalism*](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)
 - 1907 CE: Albert Einstein published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the equivalence principle
+- 1907 CE: [Bertram Boltwood](https://en.wikipedia.org/wiki/Bertram_Boltwood) published *On the Ultimate Disintegration Products of the Radio-active Elements. Part II. The disintegration products of uranium*, describing [radiometric dating](https://en.wikipedia.org/wiki/Radiometric_dating)
 - 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumbered them
 - 1909 CE: E. M. Forster published *The Machine Stops*
 
