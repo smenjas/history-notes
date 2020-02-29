@@ -714,7 +714,7 @@ Few descriptions survive, despite many discoveries.
 - 1865 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *An Introduction to Modern Chemistry*
 - 1866 CE: [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) published [*Versuche über Pflanzenhybriden* (*Experiments on Plant Hybridization*)](https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization)
 - 1866 CE: E. Kaeckel published *Generelle Morphologie der Organismen*
-- 1867 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *The Mechanical Theory of Heat* and coined "entropy"
+- 1867 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *The Mechanical Theory of Heat*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics) and coining ["entropy"](https://en.wikipedia.org/wiki/Entropy)
 - 1867 CE: Joseph Lister published *On the Antiseptic Principle in the Practice of Surgery*
 - 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
 - 1867 CE: [Hermann Hankel](https://en.wikipedia.org/wiki/Hermann_Hankel) published [*Vorlesungen über die complexen Zahlen und ihre Functionen* (*Lectures on complex numbers and their functions*)](https://books.google.com/books?id=754KAAAAYAAJ)
@@ -758,6 +758,7 @@ Few descriptions survive, despite many discoveries.
 - 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
 
 ## 1900s
+- 1900 CE: [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) published *Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum* (*On the Theory of the Energy Distribution Law of the Normal Spectrum*), originating [quantum theory](https://en.wikipedia.org/wiki/Quantum_mechanics)
 - 1900 CE: Albert Einstein published *Folgerungen aus den Capillaritätserscheinungen* (*Conclusions Drawn from the Phenomena of Capillarity*)
 - 1902 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Transcendenten* (*Theory of Abelian Transcendents*)
 - 1903 CE: K. Tsіolkovskіy published *Study of world space with jet devices*
@@ -789,6 +790,8 @@ Few descriptions survive, despite many discoveries.
 
 ### 1920s
 - 1920 CE: [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells) published [*The Outline of History*](https://en.wikipedia.org/wiki/The_Outline_of_History)
+- 1920 CE: [Frank Watson Dyson](https://en.wikipedia.org/wiki/Frank_Watson_Dyson), [Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington) & C. R. Davidson published *A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Solar eclipse of May 29, 1919*, confirming Einstein's [general theory of relativity](https://en.wikipedia.org/wiki/General_relativity)
+- 1920 CE: [Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington) published *The Internal Constitution of the Stars*, anticipating the discovery of [nuclear fusion](https://en.wikipedia.org/wiki/Nuclear_fusion)
 - 1921 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) posthumously published [*Economy and Society*](https://en.wikipedia.org/wiki/Economy_and_Society)
 - 1922 CE: [Gago Coutinho](https://en.wikipedia.org/wiki/Carlos_Viegas_Gago_Coutinho) modified the [sextant](https://en.wikipedia.org/wiki/Sextant) for [aeronautical](https://en.wikipedia.org/wiki/Aeronautics) [navigation](https://en.wikipedia.org/wiki/Navigation)
 - 1923 CE: [Harry Ricardo](https://en.wikipedia.org/wiki/Harry_Ricardo) published *The Internal Combustion Engine*
@@ -812,6 +815,7 @@ Few descriptions survive, despite many discoveries.
 - 1938 CE: Kurt Gödel published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
 - 1939 CE: Linus Pauling published *The Nature of the Chemical Bond*
 - 1939 CE: [The Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
+- 1939 CE: [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) & [Otto Robert Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) published *Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction*, describing [nuclear fission](https://en.wikipedia.org/wiki/Nuclear_fission)
 
 ### 1940s
 - 1942 CE: Richard Feynman published *The Principle of Least Action in Quantum Mechanics*
