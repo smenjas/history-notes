@@ -699,7 +699,7 @@ Few descriptions survive, despite many discoveries.
 - 1856 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the thermal effects of fluids in motion*, describing the [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect) and promoting the [kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases)
 - 1857 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Experiments on Colour, as perceived by the Eye, with Remarks on Colour-Blindness*
 - 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On integrals of the hydrodynamic equations, which correspond to the vortex movements*), introducing [Helmoholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
-- 1859 CE: Charles Darwin published *On the Origin of Species*
+- 1859 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*On the Origin of Species*](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in electro-magnetic telegraphs*](https://patents.google.com/patent/US22531A) for [duplex communication](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphfng-machlnes*](https://patents.google.com/patent/US22770A) for the [printing telegraph](https://en.wikipedia.org/wiki/Printing_telegraph)
 - 1859 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) developed a [panoramic camera](https://en.wikipedia.org/wiki/Panoramic_photography) with a [wide-angle lens](https://en.wikipedia.org/wiki/Wide-angle_lens)
@@ -713,7 +713,7 @@ Few descriptions survive, despite many discoveries.
 - 1864 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Dynamical Theory of the Electromagnetic Field*](https://en.wikipedia.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field)
 - 1865 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *An Introduction to Modern Chemistry*
 - 1866 CE: [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) published [*Versuche über Pflanzenhybriden* (*Experiments on Plant Hybridization*)](https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization)
-- 1866 CE: E. Kaeckel published *Generelle Morphologie der Organismen*
+- 1866 CE: [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) published *Generelle Morphologie der Organismen*
 - 1867 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *The Mechanical Theory of Heat*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics) and coining ["entropy"](https://en.wikipedia.org/wiki/Entropy)
 - 1867 CE: Joseph Lister published *On the Antiseptic Principle in the Practice of Surgery*
 - 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
@@ -723,6 +723,7 @@ Few descriptions survive, despite many discoveries.
 - 1869 CE: Dmitri Mendeleev composed his periodic table of the elements
 - 1870 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Logic of Relatives*, extending the [theory of relations](https://en.wikipedia.org/wiki/Finitary_relation)
 - 1871 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published his [thermodynamic relations](https://en.wikipedia.org/wiki/Maxwell_relations)
+- 1871 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Descent of Man, and Selection in Relation to Sex*](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex)
 - 1872 CE: Andrew Ramsay published *The River Courses of England and Wales*
 - 1872 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On the Theory of Colour Vision*
 - 1873 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Treatise on Electricity and Magnetism*](https://en.wikipedia.org/wiki/A_Treatise_on_Electricity_and_Magnetism)
