@@ -532,8 +532,10 @@ Few descriptions survive, despite many discoveries.
 - 1543 CE: [Andreas Vesalius](https://en.wikipedia.org/wiki/Andreas_Vesalius) published [*De humani corporis fabrica* (*On the fabric of the human body*)](https://en.wikipedia.org/wiki/De_humani_corporis_fabrica)
 - 1543 CE: [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) published [*De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)
 - 1546 CE: [Girolamo Fracastoro](https://en.wikipedia.org/wiki/Girolamo_Fracastoro) published *De Contagione et Contagiosis Morbis* (*The contamination and contagious sickness*), proposing that epidemic diseases are caused by transferable seed-like entities (seminaria morbi) that transmit infection by direct or indirect contact, or even without contact over long distances, and categorizing diseases based on how they were transmitted and how long they could lie dormant
+- 1570 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published [*Theatrum Orbis Terrarum* (*Theatre of the Orb of the World*)](https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum), the first modern [atlas](https://en.wikipedia.org/wiki/Atlas)
 - 1582 CE: [Pope Gregory XIII](https://en.wikipedia.org/wiki/Pope_Gregory_XIII) introduced the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
 - 1593 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the modern [thermometer](https://en.wikipedia.org/wiki/Thermometer)
+- 1596 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published a new edition of *Thesaurus geographicus* (*Geographic treasure*), and proposed [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
 - 1598 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [military compass](https://en.wikipedia.org/wiki/Sector_%28instrument%29)
 
 ## 1600s
@@ -559,7 +561,6 @@ Few descriptions survive, despite many discoveries.
 - 1658 CE: [Athanasius Kircher](https://en.wikipedia.org/wiki/Athanasius_Kircher) wrote *Scrutinium pestis physico-medicum*, inventing the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
 - 1659 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published *De vi centrifuga*, describing [centripetal force](https://en.wikipedia.org/wiki/Centripetal_force)
 - 1660 CE: Joost van Breen invented the spiegelboog ("mirror bow"), a [reflecting](https://en.wikipedia.org/wiki/Reflecting_instrument) [cross staff](https://en.wikipedia.org/wiki/Jacob%27s_staff), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
-- 1668 CE: [Francesco Redi](https://en.wikipedia.org/wiki/Francesco_Redi) disproved [spontaneous generation](https://en.wikipedia.org/wiki/Spontaneous_generation) by an experiment using a sealed jar
 
 ### Cell Biology
 - 1665 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) published [*Micrographia*](https://en.wikipedia.org/wiki/Micrographia), coining the biological term [cell](https://en.wikipedia.org/wiki/Cell_%28biology%29)
@@ -567,6 +568,8 @@ Few descriptions survive, despite many discoveries.
 
 ### Calculus
 - 1667 CE: [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) published *Lectiones Opticae et Geometricae* (*Optics & Geometrics Lessons*), demonstrating the [fundamental theorem of calculus](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus)
+- 1668 CE: [Francesco Redi](https://en.wikipedia.org/wiki/Francesco_Redi) published *Esperienze Intorno alla Generazione degli Insetti* (*Experiments on the Generation of Insects*), disproving [spontaneous generation](https://en.wikipedia.org/wiki/Spontaneous_generation) by an experiment using a sealed jar
+- 1669 CE: [Nicolas Steno](https://en.wikipedia.org/wiki/Nicolas_Steno) published *De solido intra solidum naturaliter contento dissertationis prodromus* (*Preliminary discourse to a dissertation on a solid body naturally contained within a solid*), defining [stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy), and founding [geology](https://en.wikipedia.org/wiki/Geology), [paleontology](https://en.wikipedia.org/wiki/Paleontology), and [crystallography](https://en.wikipedia.org/wiki/Crystallography)
 - 1673 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published [*Horologium Oscillatorium* (*The Pendulum Clock*)](https://en.wikipedia.org/wiki/Horologium_Oscillatorium)
 - 1674 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [protists](https://en.wikipedia.org/wiki/Protist)
 - 1677 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [spermatozoa](https://en.wikipedia.org/wiki/Spermatozoon)
@@ -632,7 +635,7 @@ Few descriptions survive, despite many discoveries.
 - 1770 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutionum calculi integralis*](https://en.wikipedia.org/wiki/Institutionum_calculi_integralis)
 - 1776 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*Wealth of Nations*](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
 - 1785 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) invented the first man-made [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
-- 1788 CE: [James Hutton](https://en.wikipedia.org/wiki/James_Hutton) published [*Theory of the Earth*](https://en.wikipedia.org/wiki/Theory_of_the_Earth)
+- 1788 CE: [James Hutton](https://en.wikipedia.org/wiki/James_Hutton) published [*Theory of the Earth*](https://en.wikipedia.org/wiki/Theory_of_the_Earth), showing that the Earth is the product of natural forces, laying the foundations for modern [geology](https://en.wikipedia.org/wiki/Geology)
 - 1788 CE: [Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) published [*Mécanique analytique* (*Analytical mechanics*)](https://en.wikipedia.org/wiki/M%C3%A9canique_analytique)
 - 1793 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) explained [how the human eye focuses on objects at different distances](https://en.wikipedia.org/wiki/Accommodation_%28eye%29)
 - 1796 CE: Renatus Gotthelf Löbel edited the [*Conversations-Lexikon* (*Conversation Dictionary*)](https://en.wikipedia.org/wiki/Conversations-Lexikon_mit_vorz%C3%BCglicher_R%C3%BCcksicht_auf_die_gegenw%C3%A4rtigen_Zeiten), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) later called the [*Brockhaus Enzyklopädie*](https://en.wikipedia.org/wiki/Brockhaus_Enzyklop%C3%A4die)
@@ -641,6 +644,7 @@ Few descriptions survive, despite many discoveries.
 ## 1800s
 - 1800 CE: [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) published a description of an [electric battery](https://en.wikipedia.org/wiki/History_of_the_battery)
 - 1801 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published [*Disquisitiones Arithmeticae* (*Arithmetical Investigations*)](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae)
+- 1801 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published *Delineation of the Strata of England*
 - 1801 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *On the mechanics of the eye*, describing [astigmatism](https://en.wikipedia.org/wiki/Astigmatism) for the first time
 - 1802 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Bakerian Lecture: On the Theory of Light and Colours*, hypothesizing that colour perception depends on 3 kinds of nerve fibers in the [retina](https://en.wikipedia.org/wiki/Retina)
 - 1803 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) demonstrated the [double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
@@ -652,13 +656,16 @@ Few descriptions survive, despite many discoveries.
 - 1808 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Functions of the Heart and Arteries*
 - 1810 CE: [George Cayley](https://en.wikipedia.org/wiki/George_Cayley) published *On Aerial Navigation*
 - 1810 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Beyträge zu einer begründeteren Darstellung der Mathematik* (*Contributions to a more justified representation of mathematics*)
+- 1811 CE: [Georges Cuvier](https://en.wikipedia.org/wiki/Georges_Cuvier) & [Alexandre Brongniart](https://en.wikipedia.org/wiki/Alexandre_Brongniart) published *Description Geologiques des Environs de Paris* (*Geological Description of the Surroundings of Paris*)
 - 1813 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) introduced the term [Indo-European language](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 1813 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *System of Practical Nosology*
 - 1814 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) invented the modern [spectroscope](https://en.wikipedia.org/wiki/Spectroscope)
 - 1815 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Practical and Historical Treatise on Consumptive Diseases*
+- 1815 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published [*A Delineation of the Strata of England and Walse with part of Scotland*](https://commons.wikimedia.org/wiki/File:Geological_map_Britain_William_Smith_1815.jpg), an influential [geological map](https://en.wikipedia.org/wiki/Geologic_map)
 - 1816 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Der binomische Lehrsatz* (*The binomial theorem*)
 - 1817 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Rein analytischer Beweis* (*Purely analytical proof*), rigorously defining [mathematical limits](https://en.wikipedia.org/wiki/Limit_of_a_function)
 - 1818 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) deposited *Mémoire sur la diffraction de la lumière* (*Memoir on the diffraction of light*)
+- 1819 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published *Strata Identified by Organized Fossils*
 - 1821 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) developed a [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1821 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published [*Cours d'Analyse* (*Analysis Course*)](https://en.wikipedia.org/wiki/Cours_d%27Analyse)
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *De la Lumière* (*On Light*)
@@ -681,6 +688,7 @@ Few descriptions survive, despite many discoveries.
 - 1840 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published *Dioptrische Untersuchungen* (*Dioptric examinations*)
 - 1841 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the uniform motion of heat in homogeneous solid bodies, and its connection with the mathematical theory of electricity*
 - 1842 CE: [Christian Doppler](https://en.wikipedia.org/wiki/Christian_Doppler) published [*Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels* (*On the coloured light of the binary stars and some other stars of the heavens*)](https://en.wikipedia.org/wiki/%C3%9Cber_das_farbige_Licht_der_Doppelsterne_und_einiger_anderer_Gestirne_des_Himmels)
+- 1842 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Structure and Distribution of Coral Reefs*](https://en.wikipedia.org/wiki/The_Structure_and_Distribution_of_Coral_Reefs#Publication_and_subsequent_editions)
 - 1844 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published *Die Lineale Ausdehnungslehre* (*The Theory of Linear Extension*), introducing [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
@@ -698,7 +706,7 @@ Few descriptions survive, despite many discoveries.
 - 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian functions*)
 - 1856 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the thermal effects of fluids in motion*, describing the [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect) and promoting the [kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases)
 - 1857 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Experiments on Colour, as perceived by the Eye, with Remarks on Colour-Blindness*
-- 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On integrals of the hydrodynamic equations, which correspond to the vortex movements*), introducing [Helmoholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
+- 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On integrals of the hydrodynamic equations, which correspond to the vortex movements*), introducing [Helmholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
 - 1859 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*On the Origin of Species*](https://en.wikipedia.org/wiki/On_the_Origin_of_Species), describing his theories of [common descent](https://en.wikipedia.org/wiki/Common_descent) and [natural selection](https://en.wikipedia.org/wiki/Natural_selection)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in electro-magnetic telegraphs*](https://patents.google.com/patent/US22531A) for [duplex communication](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphfng-machlnes*](https://patents.google.com/patent/US22770A) for the [printing telegraph](https://en.wikipedia.org/wiki/Printing_telegraph)
@@ -724,7 +732,6 @@ Few descriptions survive, despite many discoveries.
 - 1870 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Logic of Relatives*, extending the [theory of relations](https://en.wikipedia.org/wiki/Finitary_relation)
 - 1871 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published his [thermodynamic relations](https://en.wikipedia.org/wiki/Maxwell_relations)
 - 1871 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Descent of Man, and Selection in Relation to Sex*](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex)
-- 1872 CE: Andrew Ramsay published *The River Courses of England and Wales*
 - 1872 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On the Theory of Colour Vision*
 - 1873 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Treatise on Electricity and Magnetism*](https://en.wikipedia.org/wiki/A_Treatise_on_Electricity_and_Magnetism)
 - 1876 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *On the Limits of the Optical Capacity of the Microscope*
@@ -780,9 +787,11 @@ Few descriptions survive, despite many discoveries.
 ### 1910s
 - 1910 CE: Konstantin Mereschkowski published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms.*
 - 1911 CE: Albert Einstein published *On the Influence of Gravitation on the Propagation of Light*, allowing general relativity to be tested
+- 1911 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Association of Lead with Uranium in Rock-Minerals, and Its Application to the Measurement of Geological Time*, describing the first accurate [uranium-lead radiometric dating](https://en.wikipedia.org/wiki/Uranium%E2%80%93lead_dating)
 - 1912 CE: Automobiles roughly equaled the number of horses on U.S. streets
+- 1913 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Age of the Earth*
 - 1915 CE: Albert Einstein published *Die Feldgleichungen der Gravitation* (*The Field Equations of Gravitation*)
-- 1915 CE: Alfred Wagner published *Die Entstehung der Kontinente und Ozeane*
+- 1915 CE: [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener) published *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*), developing the theory of [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
 - 1916 CE: Albert Einstein published *Näherungsweise Integration der Feldgleichungen der Gravitation* (*Approximate Integration of the Gravitational Field Equations*)
 - 1916 CE: Albert Einstein published *Die Grundlage der allgemeinen Relativitätstheorie* (*The basis of General Relativity*)
 - 1917 CE: Albert Einstein published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
@@ -814,6 +823,7 @@ Few descriptions survive, despite many discoveries.
 - 1937 CE: John von Neumann published *Continuous geometries with a transition probability*
 - 1938 CE: H. Copeland published *The kingdoms of organisms*
 - 1938 CE: Kurt Gödel published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
+- 1938 CE: [Alfred O. C. Nier](https://en.wikipedia.org/wiki/Alfred_O._C._Nier) published measurements of the relative abundance of the isotopes of uranium
 - 1939 CE: Linus Pauling published *The Nature of the Chemical Bond*
 - 1939 CE: [The Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
 - 1939 CE: [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) & [Otto Robert Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) published *Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction*, describing [nuclear fission](https://en.wikipedia.org/wiki/Nuclear_fission)
@@ -830,10 +840,12 @@ Few descriptions survive, despite many discoveries.
 - 1948 CE: John von Neumann published *The general and logical theory of automata*
 
 ### 1950s
+- 1951 CE: [Fritz Houtermans](https://en.wikipedia.org/wiki/Fritz_Houtermans) published *Über ein neues Verfahren zur Durchführung chemischer Altersbestimmungen nach der Blei-Methode* (*About a new method for carrying out chemical age determinations using the lead method*)
 - 1952 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) tested the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine)
 - 1953 CE: [Maurice Karnaugh](https://en.wikipedia.org/wiki/Maurice_Karnaugh) published *The Map Method for Synthesis of Combinational Logic Circuits*, introducing the [Karnaugh map](https://en.wikipedia.org/wiki/Karnaugh_map), a method of simplifying [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) expressions
 - 1955 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) announced the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine), developed and tested since 1947
 - 1956 CE: [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States)
+- 1957 CE: [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp) & [Bruce C. Heezen](https://en.wikipedia.org/wiki/Bruce_C._Heezen) published a physiographic map of the North Atlantic Ocean, showing the [mid-ocean ridge](https://en.wikipedia.org/wiki/Mid-ocean_ridge)
 - 1958 CE: [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29) developed the [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_%28programming_language%29)
 - 1959 CE: Karl Popper published *The Logic of Scientific Discovery*
 - 1959 CE: Richard Feynman presented *There's Plenty of Room at the Bottom*
@@ -1054,6 +1066,7 @@ Few descriptions survive, despite many discoveries.
   - [Cultural history](https://en.wikipedia.org/wiki/Cultural_history)
   - [Environmental history](https://en.wikipedia.org/wiki/Environmental_history)
   - [Gender history](https://en.wikipedia.org/wiki/Gender_history)
+  - [Historical geology](https://en.wikipedia.org/wiki/Historical_geology)
   - [Intellectual history](https://en.wikipedia.org/wiki/Intellectual_history)
   - [Macrohistory](https://en.wikipedia.org/wiki/Macrohistory)
   - [Maritime history](https://en.wikipedia.org/wiki/Maritime_history)
