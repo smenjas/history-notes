@@ -779,6 +779,7 @@ Few descriptions survive, despite many discoveries.
   - *A new determination of molecular dimensions*
 - 1905 CE: Konstantin Mereschkowski published *The nature and origins of chromatophores in the plant kingdom*
 - 1905 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) published [*The Protestant Ethic and the Spirit of Capitalism*](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)
+- 1906 CE: [Daniel Barringer](https://en.wikipedia.org/wiki/Daniel_Barringer_%28geologist%29) & [Benjamin Chew Tilghman](https://en.wikipedia.org/wiki/Benjamin_Chew_Tilghman) presented *Coon Mountain and its Crater*, arguing that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
 - 1907 CE: Albert Einstein published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the equivalence principle
 - 1907 CE: [Bertram Boltwood](https://en.wikipedia.org/wiki/Bertram_Boltwood) published *On the Ultimate Disintegration Products of the Radio-active Elements. Part II. The disintegration products of uranium*, describing [radiometric dating](https://en.wikipedia.org/wiki/Radiometric_dating)
 - 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumbered them
@@ -816,6 +817,7 @@ Few descriptions survive, despite many discoveries.
 - 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
 - 1931 CE: [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski) published *A Non-Aristotelian System and its Necessity for Rigour in Mathematics and Physics* coining ["A map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
 - 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
+- 1935 CE: [Boris Choubert](https://en.wikipedia.org/wiki/Boris_Choubert) published *Recherches sur la genèse des chaînes paléolithiques et antécambriennes* (*Research on the genesis of the Palaeolithic and Antecambrian chains*, showing how the continents had previously fit together to form the supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 - 1935-1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1936 CE: Theodore P. Wright published *Factors affecting the costs of airplanes*
 - 1936 CE: Alonzo Church published *An unsolvable problem of elementary number theory*
@@ -842,6 +844,7 @@ Few descriptions survive, despite many discoveries.
 - 1947 CE: [Marjory Stoneman Douglas](https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas) published [*The Everglades: River of Grass*](https://en.wikipedia.org/wiki/The_Everglades:_River_of_Grass)
 - 1948 CE: Claude Shannon published *A Mathematical Theory of Communication*
 - 1948 CE: John von Neumann published *The general and logical theory of automata*
+- 1949 CE: [Keith Runcorn](https://en.wikipedia.org/wiki/Keith_Runcorn) published *Investigations relating to the main geomagnetic field*, proposing [paleomagnetism](https://en.wikipedia.org/wiki/Paleomagnetism)
 
 ### 1950s
 - 1951 CE: [Fritz Houtermans](https://en.wikipedia.org/wiki/Fritz_Houtermans) published *Über ein neues Verfahren zur Durchführung chemischer Altersbestimmungen nach der Blei-Methode* (*About a new method for carrying out chemical age determinations using the lead method*)
@@ -862,6 +865,7 @@ Few descriptions survive, despite many discoveries.
 - 1960 CE: [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) and [Alfréd Rényi](https://en.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi) published *On the evolution of random graphs*
 - 1960 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *Nature of great oceanic ridges*, describing [mid-ocean ridges](https://en.wikipedia.org/wiki/Mid-ocean_ridge)
 - 1960 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *Evolution of ocean basins*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
+- 1960 CE: [Gene Shoemaker](https://en.wikipedia.org/wiki/Eugene_Merle_Shoemaker) published *First Natural Occurrence of Coesite*, proving that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
 - 1961 CE: Richard Feynman presented *Theory of Fundamental Processes*
 - 1961 CE: Richard Feynman presented *Quantum Electrodynamics*
 - 1961 CE: [Robert S. Dietz](https://en.wikipedia.org/wiki/Robert_S._Dietz) published *Continent and Ocean Basin Evolution by Spreading of the Sea Floor*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
@@ -876,6 +880,8 @@ Few descriptions survive, despite many discoveries.
 - 1965 CE: Norman Borlaug planted dwarf spring wheat in South Asia
 - 1965 CE: Donald Knuth published *On the translation of languages from left to right*
 - 1965 CE: [Ralph Nader](https://en.wikipedia.org/wiki/Ralph_Nader) published [*Unsafe at Any Speed*](https://en.wikipedia.org/wiki/Unsafe_at_Any_Speed)
+- 1965 CE: [Tuzo Wilson](https://en.wikipedia.org/wiki/John_Tuzo_Wilson) published *A new class of faults and their bearing on continental drift*, describing [transform faults](https://en.wikipedia.org/wiki/Transform_fault)
+- 1965 CE: [Teddy Bullard](https://en.wikipedia.org/wiki/Edward_Bullard) showed a computer model [fitting the continents together](https://en.wikipedia.org/wiki/Pangaea) at 914 m below sea level
 - 1966 CE: John von Neumann published *Theory of Self-Reproducing Automata*
 - 1967 CE: Lynn Sagan published *On the origin of mitosing cells*
 - 1968 CE: The FCC ruled that "any lawful device" can be connected to the AT&T network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
