@@ -855,8 +855,12 @@ Few descriptions survive, despite many discoveries.
 - 1960 CE: John McCarthy published *Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I*
 - 1960 CE: John von Neumann published *Continuous geometry*
 - 1960 CE: [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) and [Alfréd Rényi](https://en.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi) published *On the evolution of random graphs*
+- 1960 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *Nature of great oceanic ridges*, describing [mid-ocean ridges](https://en.wikipedia.org/wiki/Mid-ocean_ridge)
+- 1960 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *Evolution of ocean basins*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1961 CE: Richard Feynman presented *Theory of Fundamental Processes*
 - 1961 CE: Richard Feynman presented *Quantum Electrodynamics*
+- 1961 CE: [Robert S. Dietz](https://en.wikipedia.org/wiki/Robert_S._Dietz) published *Continent and Ocean Basin Evolution by Spreading of the Sea Floor*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
+- 1962 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *History of Ocean Basins*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1962 CE: Émile Zuckerkandl & Linus Pauling published *Molecular disease, evolution, and genic heterogeneity*
 - 1962 CE: [L. R. Ford, Jr.](https://en.wikipedia.org/wiki/L._R._Ford_Jr.) & [D. R. Fulkerson](https://en.wikipedia.org/wiki/D._R._Fulkerson) published *Network Flows and General Matchings*
 - 1962 CE: Thomas S. Kuhn published *The Structure of Scientific Revolutions*
