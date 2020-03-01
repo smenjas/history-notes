@@ -809,6 +809,8 @@ Few descriptions survive, despite many discoveries.
 - 1925 CE: É. Chatton published *Pansporella perplexa*
 - 1925 CE: John von Neumann published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
 - 1927 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Variationsrechnung* (*Calculus of Variations*)
+- 1927 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *A Geological Comparison of South America with South Africa*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
+- 1928 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *Radioactivity and Earth movements*, proposing [mantle convection](https://en.wikipedia.org/wiki/Mantle_convection)
 
 ### 1930s
 - 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
@@ -821,6 +823,7 @@ Few descriptions survive, despite many discoveries.
 - 1936 CE: Alan Turing published *On Computable Numbers, with an Application to the Entscheidungsproblem*
 - 1936 CE: Rosser published *Extensions of some theorems of Gödel and Church*
 - 1937 CE: John von Neumann published *Continuous geometries with a transition probability*
+- 1937 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *Our Wandering Continents*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
 - 1938 CE: H. Copeland published *The kingdoms of organisms*
 - 1938 CE: Kurt Gödel published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
 - 1938 CE: [Alfred O. C. Nier](https://en.wikipedia.org/wiki/Alfred_O._C._Nier) published measurements of the relative abundance of the isotopes of uranium
@@ -833,6 +836,7 @@ Few descriptions survive, despite many discoveries.
 - 1942 CE: [John Vincent Atanasoff](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff) & [Clifford Berry](https://en.wikipedia.org/wiki/Clifford_Berry) demonstrated the [Atanasoff–Berry computer (ABC)](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer), the first [digital electronic computer](https://en.wikipedia.org/wiki/Digital_electronic_computer), and used it to solve [linear equations](https://en.wikipedia.org/wiki/Linear_equation)
 - 1943 CE: British codebreakers invent the Colossus: the first programmable electronic digital computer
 - 1944 CE: John von Neumann published *First Draft of a Report on the EDVAC*
+- 1944 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *Principles of Physical Geology*, promoting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
 - 1945 CE: Vannevar Bush published *As We May Think*
 - 1947 CE: Kathleen Booth published *General considerations in the design of an all purpose electronic digital computer (Coding for the ARC, 2nd ed)*, introducing assembly language
 - 1947 CE: [Marjory Stoneman Douglas](https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas) published [*The Everglades: River of Grass*](https://en.wikipedia.org/wiki/The_Everglades:_River_of_Grass)
@@ -845,8 +849,9 @@ Few descriptions survive, despite many discoveries.
 - 1953 CE: [Maurice Karnaugh](https://en.wikipedia.org/wiki/Maurice_Karnaugh) published *The Map Method for Synthesis of Combinational Logic Circuits*, introducing the [Karnaugh map](https://en.wikipedia.org/wiki/Karnaugh_map), a method of simplifying [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) expressions
 - 1955 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) announced the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine), developed and tested since 1947
 - 1956 CE: [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States)
-- 1957 CE: [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp) & [Bruce C. Heezen](https://en.wikipedia.org/wiki/Bruce_C._Heezen) published a physiographic map of the North Atlantic Ocean, showing the [mid-ocean ridge](https://en.wikipedia.org/wiki/Mid-ocean_ridge)
+- 1957 CE: [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp) & [Bruce C. Heezen](https://en.wikipedia.org/wiki/Bruce_C._Heezen) published a physiographic map of the North Atlantic Ocean, showing the [Mid-Atlantic Ridge](https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge)
 - 1958 CE: [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29) developed the [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_%28programming_language%29)
+- 1958 CE: [Samuel Warren Carey](https://en.wikipedia.org/wiki/Samuel_Warren_Carey) published *The tectonic approach to continental drift*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1959 CE: Karl Popper published *The Logic of Scientific Discovery*
 - 1959 CE: Richard Feynman presented *There's Plenty of Room at the Bottom*
 
@@ -877,6 +882,7 @@ Few descriptions survive, despite many discoveries.
 - 1968 CE: Motoo Kimura published *Evolutionary rate at the molecular level*
 - 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
 - 1968 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Lessons of History*](https://en.wikipedia.org/wiki/The_Lessons_of_History)
+- 1968 CE: [Jack Oliver](https://en.wikipedia.org/wiki/Jack_Oliver_%28scientist%29) published *Seismology and the New Global Tectonics*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1968 CE: Donald Knuth published *The Art of Computer Programming, volume 1*
 - 1969 CE: Donald Knuth published *The Art of Computer Programming, volume 2*
 - 1969 CE: Neil Armstrong & Buzz Aldrin walked on the Moon
