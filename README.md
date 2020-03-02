@@ -75,23 +75,33 @@ Few descriptions survive, despite many discoveries.
 - [Common Era](#common-era)
   - [Zero](#zero)
   - [Algebra](#algebra)
+  - [Printing](#printing)
 - [1500s](#1500s)
 - [1600s](#1600s)
   - [Cell Biology](#cell-biology)
   - [Calculus](#calculus)
 - [1700s](#1700s)
+  - [Metal Lathe](#metal-lathe)
 - [1800s](#1800s)
+  - [Telegraph](#telegraph)
+  - [Antiseptics](#antiseptics)
   - [Statistics](#statistics)
+  - [Telephone](#telephone)
+  - [Radio](#radio)
 - [1900s](#1900s)
+    - [Assembly Line](#assembly-line)
   - [1910s](#1910s)
   - [1920s](#1920s)
   - [1930s](#1930s)
+    - [Turing Machine](#turing-machine)
   - [1940s](#1940s)
   - [1950s](#1950s)
   - [1960s](#1960s)
+    - [Internet](#internet)
   - [1970s](#1970s)
   - [1980s](#1980s)
   - [1990s](#1990s)
+    - [World Wide Web](#world-wide-web)
 - [2000s](#2000s)
   - [2010s](#2010s)
 - [Resources](#resources)
@@ -526,6 +536,8 @@ Few descriptions survive, despite many discoveries.
 - 1354 CE: [Ibn Battuta](https://en.wikipedia.org/wiki/Ibn_Battuta) & [Ibn Juzayy](https://en.wikipedia.org/wiki/Ibn_Juzayy) wrote *الرحلة* (*Rihla* or *The Travels*), describing the [medieval](https://en.wikipedia.org/wiki/Middle_Ages) [Islamic world](https://en.wikipedia.org/wiki/Muslim_world)
 - 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesized that infectious diseases were caused by "minute bodies" and described how they can be transmitted through garments, vessels and earrings
 - 1377 CE: [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) wrote the [*Muqaddimah* (*Prolegomena* or *Introduction*)](https://en.wikipedia.org/wiki/Muqaddimah), the first book of the *Kitāb al-ʻIbar* (*Book of Lessons*): an early view of [universal history](https://en.wikipedia.org/wiki/Universal_history) that introduced the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to the [social sciences](https://en.wikipedia.org/wiki/Social_science), and included an outline of the labor [theory of value](https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29), an early example of [political economy](https://en.wikipedia.org/wiki/Political_economy)
+
+### Printing
 - 1440 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) invented the [printing press](https://en.wikipedia.org/wiki/Printing_press)
 - 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
 - 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of the Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
@@ -631,6 +643,8 @@ Few descriptions survive, despite many discoveries.
 - 1759 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) invented H3, demonstrating the bimetallic strip and caged roller bearing
 - 1759 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) invented H4, a handheld marine chronometer
 - 1759 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*The Theory of Moral Sentiments*](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
+
+### Metal Lathe
 - 1760 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the [industrial lathe](https://en.wikipedia.org/wiki/Metal_lathe)
 - 1762 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison)'s son demonstrated the H4 on a transatlantic voyage
 - 1762 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Du contrat social* (*The Social Contract*)](https://en.wikipedia.org/wiki/The_Social_Contract)
@@ -712,6 +726,8 @@ Few descriptions survive, despite many discoveries.
 - 1854 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the theory of the electric telegraph*
 - 1855 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the peristaltic induction of electric currents in submarine telegraph wires*
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
+
+### Telegraph
 - 1856 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphs*](https://patents.google.com/patent/US14917A)
 - 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian functions*)
 - 1856 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the thermal effects of fluids in motion*, describing the [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect) and promoting the [kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases)
@@ -732,8 +748,10 @@ Few descriptions survive, despite many discoveries.
 - 1865 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *An Introduction to Modern Chemistry*
 - 1866 CE: [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) published [*Versuche über Pflanzenhybriden* (*Experiments on Plant Hybridization*)](https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization)
 - 1866 CE: [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) published *Generelle Morphologie der Organismen*
-- 1867 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *The Mechanical Theory of Heat*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics) and coining ["entropy"](https://en.wikipedia.org/wiki/Entropy)
+
+### Antiseptics
 - 1867 CE: [Joseph Lister](https://en.wikipedia.org/wiki/Joseph_Lister) published [*On the Antiseptic Principle in the Practice of Surgery*](https://en.wikipedia.org/wiki/Antiseptic_Principle_of_the_Practice_of_Surgery)
+- 1867 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *The Mechanical Theory of Heat*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics) and coining ["entropy"](https://en.wikipedia.org/wiki/Entropy)
 - 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
 - 1867 CE: [Hermann Hankel](https://en.wikipedia.org/wiki/Hermann_Hankel) published [*Vorlesungen über die complexen Zahlen und ihre Functionen* (*Lectures on complex numbers and their functions*)](https://books.google.com/books?id=754KAAAAYAAJ)
 - 1867 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) & [Peter Tait](https://en.wikipedia.org/wiki/Peter_Tait_%28physicist%29) published their [*Treatise on Natural Philosophy*](https://en.wikipedia.org/wiki/Treatise_on_Natural_Philosophy) (a.k.a. *T & T* from the authors' initials), founding the study of [mechanics](https://en.wikipedia.org/wiki/Mechanics)
@@ -763,6 +781,8 @@ Few descriptions survive, despite many discoveries.
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Algebra of Logic: A Contribution to the Philosophy of Notation*
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) wrote a letter to [Allan Marquand](https://en.wikipedia.org/wiki/Allan_Marquand) describing how Boolean calculations could be carried via electrical switches
 - 1886 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Traitement de la Rage*
+
+### Telephone
 - 1887 CE: Alexander G. Bell patented *Transmitting and recording sounds by radiant energy*
 - 1887 CE: Alexander G. Bell patented *Reproducing sounds from phonograph records*
 - 1889 CE: [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) published [*Arithmetices principia, nova methodo exposita* (*principles of arithmetic, presented by a new method*)](https://en.wikipedia.org/wiki/Arithmetices_principia,_nova_methodo_exposita), simplifying earlier work to formulate [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
@@ -770,6 +790,8 @@ Few descriptions survive, despite many discoveries.
 - 1894 CE: Heinrich Hertz published *The Principles of Mechanics Presented in a New Form*
 - 1894 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-1* (*Treatises-1*)
 - 1895 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-2* (*Treatises-2*)
+
+### Radio
 - 1896 CE: Guglielmo Marconi patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
 - 1897 CE: Georg Cantor published *Beiträge zur Begründung der transfiniten Mengenlehre*
 - 1898 CE: A. F. W. Schimper published *Pflanzengeographie auf physiologischer Grundlage*
@@ -792,6 +814,8 @@ Few descriptions survive, despite many discoveries.
 - 1906 CE: [Daniel Barringer](https://en.wikipedia.org/wiki/Daniel_Barringer_%28geologist%29) & [Benjamin Chew Tilghman](https://en.wikipedia.org/wiki/Benjamin_Chew_Tilghman) presented *Coon Mountain and its Crater*, arguing that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
 - 1907 CE: Albert Einstein published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the equivalence principle
 - 1907 CE: [Bertram Boltwood](https://en.wikipedia.org/wiki/Bertram_Boltwood) published *On the Ultimate Disintegration Products of the Radio-active Elements. Part II. The disintegration products of uranium*, describing [radiometric dating](https://en.wikipedia.org/wiki/Radiometric_dating)
+
+#### Assembly Line
 - 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumbered them
 - 1909 CE: E. M. Forster published *The Machine Stops*
 
@@ -829,10 +853,12 @@ Few descriptions survive, despite many discoveries.
 - 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
 - 1935 CE: [Boris Choubert](https://en.wikipedia.org/wiki/Boris_Choubert) published *Recherches sur la genèse des chaînes paléolithiques et antécambriennes* (*Research on the genesis of the Palaeolithic and Antecambrian chains*, showing how the continents had previously fit together to form the supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 - 1935-1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
+
+#### Turing Machine
+- 1936 CE: Alan Turing published *On Computable Numbers, with an Application to the Entscheidungsproblem*
 - 1936 CE: Theodore P. Wright published *Factors affecting the costs of airplanes*
 - 1936 CE: Alonzo Church published *An unsolvable problem of elementary number theory*
 - 1936 CE: Dale Carnegie published *How to Win Friends and Influence People*
-- 1936 CE: Alan Turing published *On Computable Numbers, with an Application to the Entscheidungsproblem*
 - 1936 CE: Rosser published *Extensions of some theorems of Gödel and Church*
 - 1937 CE: John von Neumann published *Continuous geometries with a transition probability*
 - 1937 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *Our Wandering Continents*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
@@ -900,12 +926,14 @@ Few descriptions survive, despite many discoveries.
 - 1968 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Lessons of History*](https://en.wikipedia.org/wiki/The_Lessons_of_History)
 - 1968 CE: [Jack Oliver](https://en.wikipedia.org/wiki/Jack_Oliver_%28scientist%29) published *Seismology and the New Global Tectonics*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1968 CE: Donald Knuth published *The Art of Computer Programming, volume 1*
+
+#### Internet
+- 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
 - 1969 CE: Donald Knuth published *The Art of Computer Programming, volume 2*
 - 1969 CE: Neil Armstrong & Buzz Aldrin walked on the Moon
 - 1969 CE: R. H. Whittaker published *New concepts of kingdoms of organisms*
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson), [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie), & Rudd Canaday [implemented Unix in assembly for the PDP-7 computer](https://en.wikipedia.org/wiki/History_of_Unix)
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the B programming language](https://en.wikipedia.org/wiki/B_%28programming_language%29)
-- 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
 
 ### 1970s
 - 1970 CE: [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) published *A [Relational Model](https://en.wikipedia.org/wiki/Relational_model) of Data for Large Shared Data Banks*
@@ -942,6 +970,8 @@ Few descriptions survive, despite many discoveries.
 - 1990 CE: CO₂ exceeded 360 ppm
 - 1990 CE: Woese et al published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
 - 1990 CE: [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) released the [Python programming language](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
+
+#### World Wide Web
 - 1991 CE: [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) invented the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
 - 1991 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 2* (GPLv2)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1992 CE: [William](https://en.wikipedia.org/wiki/William_Jolitz) & [Lynne Jolitz](https://en.wikipedia.org/wiki/Lynne_Jolitz) released [386BSD](https://en.wikipedia.org/wiki/386BSD)
