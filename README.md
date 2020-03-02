@@ -459,11 +459,13 @@ Few descriptions survive, despite many discoveries.
 - 100 BCE: [The Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
 - 56 BCE: [Lucretius](https://en.wikipedia.org/wiki/Lucretius) wrote [*De rerum natura* (*On the Nature of Things*)](https://en.wikipedia.org/wiki/De_rerum_natura), stated that the world contained "seeds" that can sicken you if inhaled or ingested
 - 46 BCE: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) proposed the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
+- 44 BCE: The [Palmyrene alphabet](https://en.wikipedia.org/wiki/Palmyrene_alphabet) descended from cursive versions of the Aramaic alphabet
 - 40 BCE: [Andronicus of Rhodes](https://en.wikipedia.org/wiki/Andronicus_of_Rhodes) wrote Aristotle's [*Organon*](https://en.wikipedia.org/wiki/Organon) (*Instrument*)
 - 36 BCE: [Marcus Terentius Varro](https://en.wikipedia.org/wiki/Marcus_Terentius_Varro) wrote *Rerum rusticarum libri III* (*Three Books on Agriculture*), which states "Precautions must also be taken in the neighborhood of swamps […] because there are bred certain minute creatures which cannot be seen by the eyes, which float in the air and enter the body through the mouth and nose and there cause serious diseases."
 - ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
 
 ## Common Era
+- 50 CE: The [Syriac alphabet](https://en.wikipedia.org/wiki/Syriac_alphabet) descended from the Palmyrene alphabet
 - 77 CE: [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder) wrote [*Naturalis Historia* (*Natural History*)](https://en.wikipedia.org/wiki/Natural_History_%28Pliny%29)
 - 95 CE: [Quintillian](https://en.wikipedia.org/wiki/Quintilian) wrote [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria): his aim was "the education of the perfect orator", and he taught Pliny the Younger [rhetoric](https://en.wikipedia.org/wiki/Rhetoric)
 - 99 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) wrote the first book of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
@@ -476,6 +478,7 @@ Few descriptions survive, despite many discoveries.
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
 - 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote *Lives and Opinions of Eminent Philosophers*
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) wrote commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art), demonstrating [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
+- 313 CE: The [Sogdian alphabet](https://en.wikipedia.org/wiki/Sogdian_alphabet) descended from the Syriac alphabet
 - 400 CE: [The Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
 - 400 CE: [Joannes Stobaeus](https://en.wikipedia.org/wiki/Stobaeus) compiled *Eklogon, apophthegmaton, hypothekon biblia tessara* (*Four Books of Extracts, Sayings and Precepts*) an [anthology](https://en.wikipedia.org/wiki/Anthology) of [classical Greek](https://en.wikipedia.org/wiki/Classical_Greece) literature including the [Delphic maxims](https://en.wikipedia.org/wiki/Delphic_maxims), e.g. ["Know thyself"](https://en.wikipedia.org/wiki/Know_thyself)
 - 500 CE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) developed the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
@@ -487,6 +490,7 @@ Few descriptions survive, despite many discoveries.
 ### Zero
 - 628 CE: [Brahmagupta](https://en.wikipedia.org/wiki/Brahmagupta) wrote the [Brāhmasphuṭasiddhānta](https://en.wikipedia.org/wiki/Br%C4%81hmasphu%E1%B9%ADasiddh%C4%81nta), demonstrating [zero](https://en.wikipedia.org/wiki/0) and [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 630 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote [*Etymologiae* (*Etymologies*)](https://en.wikipedia.org/wiki/Etymologiae), an influential [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
+- 700 CE: The [Old Uyghur alphabet](https://en.wikipedia.org/wiki/Old_Uyghur_alphabet) descended from the Sogdian alphabet, in [Turpan](https://en.wikipedia.org/wiki/Turpan)
 - 732 CE: [Bede](https://en.wikipedia.org/wiki/Bede) wrote the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People), popularizing the *Anno Domini* era
 
 ### Algebra
@@ -514,6 +518,7 @@ Few descriptions survive, despite many discoveries.
 - 1231 CE: [Ali ibn al-Athir](https://en.wikipedia.org/wiki/Ali_ibn_al-Athir) wrote [*al-Kāmil fit-Tārīkh* (*The Complete History*)](https://en.wikipedia.org/wiki/The_Complete_History)
 - 1240 CE: [Bartholomeus Anglicus (Bartholomew of England)](https://en.wikipedia.org/wiki/Bartholomeus_Anglicus) compiled *De proprietatibus rerum* (*On the Properties of Things*), a widely translated [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1247 CE: [Qin Jiushao](https://en.wikipedia.org/wiki/Qin_Jiushao) wrote [*Mathematical Treatise in Nine Sections*](https://en.wikipedia.org/wiki/Mathematical_Treatise_in_Nine_Sections), the oldest surviving [Chinese mathematical](https://en.wikipedia.org/wiki/Chinese_mathematics) text using a round symbol for [zero](https://en.wikipedia.org/wiki/0)
+- 1250 CE: [Tata-tonga](https://en.wikipedia.org/wiki/Tata-tonga) introduced the [Old Uyghur alphabet](https://en.wikipedia.org/wiki/Old_Uyghur_alphabet) to [Genghis Khan](https://en.wikipedia.org/wiki/Genghis_Khan), and adapted it into [Mongolian script](https://en.wikipedia.org/wiki/Mongolian_script)
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1300 CE: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) & [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa) wrote [*Livres des Merveilles du Monde* (*Books of the Wonders of the World*)](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo)
 - 1315-1329 CE: [Abu'l-Fida](https://en.wikipedia.org/wiki/Abu%27l-Fida) wrote [*Tarikhu 'al-Mukhtasar fi Akhbar al-Bashar* (*The Concise History of Humanity or Chronicles*)](https://en.wikipedia.org/wiki/Concise_History_of_Humanity), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
@@ -539,6 +544,7 @@ Few descriptions survive, despite many discoveries.
 - 1593 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the modern [thermometer](https://en.wikipedia.org/wiki/Thermometer)
 - 1596 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published a new edition of *Thesaurus geographicus* (*Geographic treasure*), and proposed [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
 - 1598 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [military compass](https://en.wikipedia.org/wiki/Sector_%28instrument%29)
+- 1599 CE: [Nurhaci](https://en.wikipedia.org/wiki/Nurhaci) adapted [Mongolian script](https://en.wikipedia.org/wiki/Mongolian_script) into the [Manchu alphabet](https://en.wikipedia.org/wiki/Manchu_alphabet)
 
 ## 1600s
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
