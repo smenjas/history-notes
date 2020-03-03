@@ -83,11 +83,20 @@ Few descriptions survive, despite many discoveries.
 - [1700s](#1700s)
   - [Metal Lathe](#metal-lathe)
 - [1800s](#1800s)
-  - [Telegraph](#telegraph)
-  - [Antiseptics](#antiseptics)
-  - [Statistics](#statistics)
-  - [Telephone](#telephone)
-  - [Radio](#radio)
+  - [1810s](#1800s)
+  - [1820s](#1800s)
+  - [1830s](#1800s)
+  - [1840s](#1800s)
+  - [1850s](#1800s)
+    - [Telegraph](#telegraph)
+  - [1860s](#1800s)
+    - [Antiseptics](#antiseptics)
+  - [1870s](#1800s)
+    - [Statistics](#statistics)
+  - [1880s](#1800s)
+    - [Telephone](#telephone)
+  - [1890s](#1800s)
+    - [Radio](#radio)
 - [1900s](#1900s)
     - [Assembly Line](#assembly-line)
   - [1910s](#1910s)
@@ -570,7 +579,7 @@ Few descriptions survive, despite many discoveries.
 - 1624 CE: [Vincent of Beauvais](https://en.wikipedia.org/wiki/Vincent_of_Beauvais) published the *Speculum Maius* (*Great Mirror*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1624 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [compound microscope](https://en.wikipedia.org/wiki/Optical_microscope#Compound_microscope)
 - 1632 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published his [*Dialogue Concerning the Two Chief World Systems*](https://en.wikipedia.org/wiki/Dialogue_Concerning_the_Two_Chief_World_Systems)
-- 1636 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) published *Methodus ad disquirendam maximam et minimam et de tangentibus linearum curvarum*
+- 1636 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) published *Methodus ad disquirendam maximam et minimam et de tangentibus linearum curvarum* (*A method for discussing maximum and minimum and the tangents of curves*)
 - 1637 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Discourse on the Method*](https://en.wikipedia.org/wiki/Discourse_on_the_Method)
 - 1637 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*La Géométrie*](https://en.wikipedia.org/wiki/La_G%C3%A9om%C3%A9trie)
 - 1638 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Two New Sciences*](https://en.wikipedia.org/wiki/Two_New_Sciences)
@@ -677,6 +686,8 @@ Few descriptions survive, despite many discoveries.
 - 1807 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Course of Lectures on Natural Philosophy and the Mechanical Arts*
 - 1807 CE: [François Budan de Boislaurent](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Budan_de_Boislaurent) published a *Nouvelle méthode pour la résolution des équations numériques* (*New method for solving numerical equations*), formulating [Budan's theorem](https://en.wikipedia.org/wiki/Budan's_theorem)
 - 1808 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Functions of the Heart and Arteries*
+
+### 1810s
 - 1810 CE: [George Cayley](https://en.wikipedia.org/wiki/George_Cayley) published *On Aerial Navigation*
 - 1810 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Beyträge zu einer begründeteren Darstellung der Mathematik* (*Contributions to a more justified representation of mathematics*)
 - 1811 CE: [Georges Cuvier](https://en.wikipedia.org/wiki/Georges_Cuvier) & [Alexandre Brongniart](https://en.wikipedia.org/wiki/Alexandre_Brongniart) published *Description Geologiques des Environs de Paris* (*Geological Description of the Surroundings of Paris*)
@@ -689,6 +700,8 @@ Few descriptions survive, despite many discoveries.
 - 1817 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Rein analytischer Beweis* (*Purely analytical proof*), rigorously defining [mathematical limits](https://en.wikipedia.org/wiki/Limit_of_a_function)
 - 1818 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) deposited *Mémoire sur la diffraction de la lumière* (*Memoir on the diffraction of light*)
 - 1819 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published *Strata Identified by Organized Fossils*
+
+### 1820s
 - 1821 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) developed a [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1821 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published [*Cours d'Analyse* (*Analysis Course*)](https://en.wikipedia.org/wiki/Cours_d%27Analyse)
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *De la Lumière* (*On Light*)
@@ -702,11 +715,15 @@ Few descriptions survive, despite many discoveries.
 - 1829 CE: [Jacques Charles François Sturm](https://en.wikipedia.org/wiki/Jacques_Charles_Fran%C3%A7ois_Sturm) published *Analyse d'un mémoire sur la résolution des équations numériques* (*Analysis of a memoir on the solution of equations with numerical coefficients*), formulating [Sturm's theorem](https://en.wikipedia.org/wiki/Sturm%27s_theorem) concerning [real-root isolation](https://en.wikipedia.org/wiki/Real-root_isolation)
 - 1829 CE: [Jacques Charles François Sturm](https://en.wikipedia.org/wiki/Jacques_Charles_Fran%C3%A7ois_Sturm) published *Extrait d'un mémoire sur l'intégration d'un système d'équations différentielles linéaires* (*Abstract of a memoir on the integration of a system of linear differential equations*)
 - 1829 CE: [Peter Gustav Lejeune Dirichlet](https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet) published *Sur la convergence des séries trigonométriques qui servent à représenter une fonction arbitraire entre des limites données* (*On the convergence of trigonometric series that serve to represent an arbitrary function between given limits*) showing for which functions the convergence of the [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) holds, under [certain conditions](https://en.wikipedia.org/wiki/Dirichlet_conditions), and giving the modern definition of a [function](https://en.wikipedia.org/wiki/Function_%28mathematics%29)
+
+### 1830s
 - 1833 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Principles of Geology*](https://en.wikipedia.org/wiki/Principles_of_Geology)
 - 1835 CE: [Jacques Charles François Sturm](https://en.wikipedia.org/wiki/Jacques_Charles_Fran%C3%A7ois_Sturm) published *Mémoire sur la résolution des équations numériques* (*Memoir on the solution of equations with numerical coefficients*)
 - 1837 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published his *Wissenschaftslehre* (*Theory of Science*)
 - 1838 CE: [Christoph Gudermann](https://en.wikipedia.org/wiki/Christoph_Gudermann) introduced the concept of [uniform convergence](https://en.wikipedia.org/wiki/Uniform_convergence)
 - 1839 CE: [Peter Gustav Lejeune Dirichlet](https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet) proved the first [class number formula](https://en.wikipedia.org/wiki/Class_number_formula), for [quadratic forms](https://en.wikipedia.org/wiki/Quadratic_form)
+
+### 1840s
 - 1840 CE: [Louis Agassiz](https://en.wikipedia.org/wiki/Louis_Agassiz) published *Études sur les glaciers* (*Studies on Glaciers*)
 - 1840 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published *Dioptrische Untersuchungen* (*Dioptric examinations*)
 - 1841 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the uniform motion of heat in homogeneous solid bodies, and its connection with the mathematical theory of electricity*
@@ -716,6 +733,8 @@ Few descriptions survive, despite many discoveries.
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 - 1848 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Mémoire sur la relation qui peut exister entre la forme cristalline et la composition chimique, et sur la cause de la polarisation rotatoire* (*Memoir on the relationship that can exist between crystalline form and chemical composition, and on the cause of rotary polarization*), demonstrating [molecular chirality](https://en.wikipedia.org/wiki/Chirality_%28chemistry%29) and explaining [isomers](https://en.wikipedia.org/wiki/Isomer)
+
+### 1850s
 - 1850 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *Ueber die bewegende Kraft der Wärme* (*On the Moving Force of Heat*)
 - 1851 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) invented the [ophthalmoscope](https://en.wikipedia.org/wiki/Ophthalmoscope)
 - 1851 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published [*Paradoxien des Unendlichen* (*The Paradoxes of the Infinite*)](https://en.wikipedia.org/wiki/The_Paradoxes_of_the_Infinite)
@@ -727,7 +746,7 @@ Few descriptions survive, despite many discoveries.
 - 1855 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the peristaltic induction of electric currents in submarine telegraph wires*
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
 
-### Telegraph
+#### Telegraph
 - 1856 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphs*](https://patents.google.com/patent/US14917A)
 - 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian functions*)
 - 1856 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the thermal effects of fluids in motion*, describing the [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect) and promoting the [kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases)
@@ -737,6 +756,8 @@ Few descriptions survive, despite many discoveries.
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in electro-magnetic telegraphs*](https://patents.google.com/patent/US22531A) for [duplex communication](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphfng-machlnes*](https://patents.google.com/patent/US22770A) for the [printing telegraph](https://en.wikipedia.org/wiki/Printing_telegraph)
 - 1859 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) developed a [panoramic camera](https://en.wikipedia.org/wiki/Panoramic_photography) with a [wide-angle lens](https://en.wikipedia.org/wiki/Wide-angle_lens)
+
+### 1860s
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) invented the [single lens reflex (SLR) camera](https://en.wikipedia.org/wiki/Single-lens_reflex_camera)
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) & [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) demonstrated [color photography](https://en.wikipedia.org/wiki/Color_photography)
 - 1861 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*On Physical Lines of Force*](https://en.wikipedia.org/wiki/On_Physical_Lines_of_Force)
@@ -749,7 +770,7 @@ Few descriptions survive, despite many discoveries.
 - 1866 CE: [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) published [*Versuche über Pflanzenhybriden* (*Experiments on Plant Hybridization*)](https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization)
 - 1866 CE: [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) published *Generelle Morphologie der Organismen*
 
-### Antiseptics
+#### Antiseptics
 - 1867 CE: [Joseph Lister](https://en.wikipedia.org/wiki/Joseph_Lister) published [*On the Antiseptic Principle in the Practice of Surgery*](https://en.wikipedia.org/wiki/Antiseptic_Principle_of_the_Practice_of_Surgery)
 - 1867 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *The Mechanical Theory of Heat*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics) and coining ["entropy"](https://en.wikipedia.org/wiki/Entropy)
 - 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
@@ -757,6 +778,8 @@ Few descriptions survive, despite many discoveries.
 - 1867 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) & [Peter Tait](https://en.wikipedia.org/wiki/Peter_Tait_%28physicist%29) published their [*Treatise on Natural Philosophy*](https://en.wikipedia.org/wiki/Treatise_on_Natural_Philosophy) (a.k.a. *T & T* from the authors' initials), founding the study of [mechanics](https://en.wikipedia.org/wiki/Mechanics)
 - 1868 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On governors*, establishing the theoretical basis for [control engineering](https://en.wikipedia.org/wiki/Control_engineering)
 - 1869 CE: [Dmitri Mendeleev](https://en.wikipedia.org/wiki/Dmitri_Mendeleev) presented *The Dependence between the Properties of the Atomic Weights of the Elements*, describing his [periodic table of the elements](https://en.wikipedia.org/wiki/Periodic_table), which he saw in a dream
+
+### 1870s
 - 1870 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Logic of Relatives*, extending the [theory of relations](https://en.wikipedia.org/wiki/Finitary_relation)
 - 1871 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published his [thermodynamic relations](https://en.wikipedia.org/wiki/Maxwell_relations)
 - 1871 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Descent of Man, and Selection in Relation to Sex*](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex)
@@ -767,10 +790,12 @@ Few descriptions survive, despite many discoveries.
 - 1878 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) coined the term "energy" in its modern usage
 - 1878 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Les Microbes organisés, leur rôle dans la Fermentation, la Putréfaction et la Contagion* (*Microbes organized, their role in fermentation, putrefaction and the Contagion*)
 
-### Statistics
+#### Statistics
 - 1878 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Illustrations of the Logic of Science*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
-- 1879 CE: Emile Berliner patented an *Improvement in electrical-contact telephones*, the carbon microphone
+- 1879 CE: [Emile Berliner](https://en.wikipedia.org/wiki/Emile_Berliner) patented an *Improvement in electrical-contact telephones*, the carbon microphone
 - 1879 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (*concept-script*)
+
+### 1880s
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra) with One Constant*
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Logic of Number*, describing [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A Theory of Probable Inference*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
@@ -782,10 +807,12 @@ Few descriptions survive, despite many discoveries.
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) wrote a letter to [Allan Marquand](https://en.wikipedia.org/wiki/Allan_Marquand) describing how Boolean calculations could be carried via electrical switches
 - 1886 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Traitement de la Rage*
 
-### Telephone
+#### Telephone
 - 1887 CE: Alexander G. Bell patented *Transmitting and recording sounds by radiant energy*
 - 1887 CE: Alexander G. Bell patented *Reproducing sounds from phonograph records*
 - 1889 CE: [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) published [*Arithmetices principia, nova methodo exposita* (*principles of arithmetic, presented by a new method*)](https://en.wikipedia.org/wiki/Arithmetices_principia,_nova_methodo_exposita), simplifying earlier work to formulate [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
+
+### 1890s
 - 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
 - 1894 CE: Heinrich Hertz published *The Principles of Mechanics Presented in a New Form*
 - 1894 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-1* (*Treatises-1*)
