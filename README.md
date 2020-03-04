@@ -290,7 +290,7 @@ Few descriptions survive, despite many discoveries.
 - 8 mya: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
 - 7 mya: [Hominina](https://en.wikipedia.org/wiki/Human_taxonomy#Hominina) [split](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor) from [Panina](https://en.wikipedia.org/wiki/Pan_%28genus%29), i.e. [chimpanzees](https://en.wikipedia.org/wiki/Chimpanzee) and [bonobos](https://en.wikipedia.org/wiki/Bonobo)
 - 5.96-5.33 mya: [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
-- 4.2M-3.8 mya: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) emerged in Ethiopia & Kenya
+- 4.2-3.8 mya: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) emerged in Ethiopia & Kenya
 - 4 mya: [Early humans evolved to walk on two legs (bipedalism)](https://en.wikipedia.org/wiki/Human_skeletal_changes_due_to_bipedalism)
 
 ### Tools
@@ -714,6 +714,7 @@ Few descriptions survive, despite many discoveries.
 - 1821 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) developed a [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1821 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published [*Cours d'Analyse* (*Analysis Course*)](https://en.wikipedia.org/wiki/Cours_d%27Analyse)
 - 1821 CE: [James Mill](https://en.wikipedia.org/wiki/James_Mill) published *Elements of Political Economy*
+- 1821 CE: [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) demonstrated the [homopolar motor](https://en.wikipedia.org/wiki/Homopolar_motor), a type of [direct current](https://en.wikipedia.org/wiki/Direct_current) [electric motor](https://en.wikipedia.org/wiki/Electric_motor)
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *De la Lumière* (*On Light*)
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *Mémoire sur un nouveau système d'éclairage des phares* (*Memoir upon a new system of lighthouse illumination*)
 - 1822 CE: [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) published *Théorie analytique de la chaleur* (*The Analytical Theory of Heat*)
@@ -732,6 +733,7 @@ Few descriptions survive, despite many discoveries.
 - 1837 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published his *Wissenschaftslehre* (*Theory of Science*)
 - 1838 CE: [Christoph Gudermann](https://en.wikipedia.org/wiki/Christoph_Gudermann) introduced the concept of [uniform convergence](https://en.wikipedia.org/wiki/Uniform_convergence)
 - 1839 CE: [Peter Gustav Lejeune Dirichlet](https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet) proved the first [class number formula](https://en.wikipedia.org/wiki/Class_number_formula), for [quadratic forms](https://en.wikipedia.org/wiki/Quadratic_form)
+- 1839 CE: [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) published *Experimental Researches in Electricity*
 
 ### 1840s
 - 1840 CE: [Louis Agassiz](https://en.wikipedia.org/wiki/Louis_Agassiz) published *Études sur les glaciers* (*Studies on Glaciers*)
@@ -833,7 +835,7 @@ Few descriptions survive, despite many discoveries.
 - 1894 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-1* (*Treatises-1*)
 - 1895 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-2* (*Treatises-2*)
 
-### Radio
+#### Radio
 - 1896 CE: Guglielmo Marconi patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
 - 1897 CE: Georg Cantor published *Beiträge zur Begründung der transfiniten Mengenlehre*
 - 1898 CE: A. F. W. Schimper published *Pflanzengeographie auf physiologischer Grundlage*
