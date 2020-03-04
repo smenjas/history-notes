@@ -629,6 +629,7 @@ Few descriptions survive, despite many discoveries.
 - 1703 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) posthumously published *De motu corporum ex percussione*, describing [elastic collision](https://en.wikipedia.org/wiki/Elastic_collision)
 - 1704 CE: [John Harris](https://en.wikipedia.org/wiki/John_Harris_%28writer%29) published his *Lexicon Technicum* (*Technical Dictionary*), the first alphabetical [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) in English
 - 1704 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published [*Opticks*](https://en.wikipedia.org/wiki/Opticks)
+- 1705 CE: [John Law](https://en.wikipedia.org/wiki/John_Law_%28economist%29) published [*Money and Trade Considered: With a Proposal for Supplying the Nation with Money*](https://en.wikipedia.org/wiki/Money_and_Trade_Considered)
 - 1706 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) posthumously published [*Of the Conduct of the Understanding*](https://en.wikipedia.org/wiki/Of_the_Conduct_of_the_Understanding), a handbook for autodidacts
 - 1713 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [*Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy)*](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica) 2nd edition
 - 1722 CE: [René Antoine Ferchault de Réaumur](https://en.wikipedia.org/wiki/Ren%C3%A9_Antoine_Ferchault_de_R%C3%A9aumur) published *L'art de convertir le fer forgé en acier, et l'art d'adoucir le fer fondu, ou de faire des ouvrages de fer fondu aussi finis que le fer forgé* (*The art of converting wrought iron into steel, and the art of softening molten iron, or making works of molten iron as finished as wrought iron*), describing how iron becomes [steel](https://en.wikipedia.org/wiki/Steel)
@@ -677,6 +678,7 @@ Few descriptions survive, despite many discoveries.
 - 1793 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) explained [how the human eye focuses on objects at different distances](https://en.wikipedia.org/wiki/Accommodation_%28eye%29)
 - 1796 CE: Renatus Gotthelf Löbel edited the [*Conversations-Lexikon* (*Conversation Dictionary*)](https://en.wikipedia.org/wiki/Conversations-Lexikon_mit_vorz%C3%BCglicher_R%C3%BCcksicht_auf_die_gegenw%C3%A4rtigen_Zeiten), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) later called the [*Brockhaus Enzyklopädie*](https://en.wikipedia.org/wiki/Brockhaus_Enzyklop%C3%A4die)
 - 1798 CE: [Edward Jenner](https://en.wikipedia.org/wiki/Edward_Jenner) published *Inquiry into the Variolae vaccinae known as the Cow Pox*
+- 1798 CE: [Thomas Robert Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus) published [*An Essay on the Principle of Population*](https://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population)
 
 ## 1800s
 - 1800 CE: [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) published a description of an [electric battery](https://en.wikipedia.org/wiki/History_of_the_battery)
@@ -704,12 +706,14 @@ Few descriptions survive, despite many discoveries.
 - 1815 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published [*A Delineation of the Strata of England and Walse with part of Scotland*](https://commons.wikimedia.org/wiki/File:Geological_map_Britain_William_Smith_1815.jpg), an influential [geological map](https://en.wikipedia.org/wiki/Geologic_map)
 - 1816 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Der binomische Lehrsatz* (*The binomial theorem*)
 - 1817 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Rein analytischer Beweis* (*Purely analytical proof*), rigorously defining [mathematical limits](https://en.wikipedia.org/wiki/Limit_of_a_function)
+- 1817 CE: [David Ricardo](https://en.wikipedia.org/wiki/David_Ricardo) published [*On the Principles of Political Economy and Taxation*](https://en.wikipedia.org/wiki/On_the_Principles_of_Political_Economy_and_Taxation), advancing a [labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value) and describing [comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage)
 - 1818 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) deposited *Mémoire sur la diffraction de la lumière* (*Memoir on the diffraction of light*)
 - 1819 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published *Strata Identified by Organized Fossils*
 
 ### 1820s
 - 1821 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) developed a [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1821 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published [*Cours d'Analyse* (*Analysis Course*)](https://en.wikipedia.org/wiki/Cours_d%27Analyse)
+- 1821 CE: [James Mill](https://en.wikipedia.org/wiki/James_Mill) published *Elements of Political Economy*
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *De la Lumière* (*On Light*)
 - 1822 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *Mémoire sur un nouveau système d'éclairage des phares* (*Memoir upon a new system of lighthouse illumination*)
 - 1822 CE: [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) published *Théorie analytique de la chaleur* (*The Analytical Theory of Heat*)
@@ -735,11 +739,13 @@ Few descriptions survive, despite many discoveries.
 - 1841 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the uniform motion of heat in homogeneous solid bodies, and its connection with the mathematical theory of electricity*
 - 1842 CE: [Christian Doppler](https://en.wikipedia.org/wiki/Christian_Doppler) published [*Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels* (*On the coloured light of the binary stars and some other stars of the heavens*)](https://en.wikipedia.org/wiki/%C3%9Cber_das_farbige_Licht_der_Doppelsterne_und_einiger_anderer_Gestirne_des_Himmels)
 - 1842 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Structure and Distribution of Coral Reefs*](https://en.wikipedia.org/wiki/The_Structure_and_Distribution_of_Coral_Reefs#Publication_and_subsequent_editions)
+- 1843 CE: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) published [*A System of Logic*](https://en.wikipedia.org/wiki/A_System_of_Logic), describing [Mill's Methods](https://en.wikipedia.org/wiki/Mill%27s_Methods) of [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 - 1844 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published *Die Lineale Ausdehnungslehre* (*The Theory of Linear Extension*), introducing [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 - 1847 CE: [John Snow](https://en.wikipedia.org/wiki/John_Snow) published *On the Inhalation of the Vapor of Ether*, one of the first studies of [anesthesia](https://en.wikipedia.org/wiki/Anesthetic)
 - 1848 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Mémoire sur la relation qui peut exister entre la forme cristalline et la composition chimique, et sur la cause de la polarisation rotatoire* (*Memoir on the relationship that can exist between crystalline form and chemical composition, and on the cause of rotary polarization*), demonstrating [molecular chirality](https://en.wikipedia.org/wiki/Chirality_%28chemistry%29) and explaining [isomers](https://en.wikipedia.org/wiki/Isomer)
+- 1848 CE: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) published [*Principles of Political Economy*](https://en.wikipedia.org/wiki/Principles_of_Political_Economy)
 - 1849 CE: [John Snow](https://en.wikipedia.org/wiki/John_Snow) published *On the Mode of Communication of Cholera*, a key event in [epidemiology](https://en.wikipedia.org/wiki/Epidemiology)
 
 ### 1850s
@@ -764,6 +770,7 @@ Few descriptions survive, despite many discoveries.
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in electro-magnetic telegraphs*](https://patents.google.com/patent/US22531A) for [duplex communication](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphfng-machlnes*](https://patents.google.com/patent/US22770A) for the [printing telegraph](https://en.wikipedia.org/wiki/Printing_telegraph)
 - 1859 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) developed a [panoramic camera](https://en.wikipedia.org/wiki/Panoramic_photography) with a [wide-angle lens](https://en.wikipedia.org/wiki/Wide-angle_lens)
+- 1848 CE: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) published [*On Liberty*](https://en.wikipedia.org/wiki/On_Liberty)
 
 ### 1860s
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) invented the [single lens reflex (SLR) camera](https://en.wikipedia.org/wiki/Single-lens_reflex_camera)
@@ -867,12 +874,14 @@ Few descriptions survive, despite many discoveries.
 - 1917 CE: Albert Einstein published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
 - 1918 CE: Albert Einstein published *Gravitationswellen* (*On Gravitational Waves*)
+- 1919 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The Economic Consequences of the Peace*](https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace)
 
 ### 1920s
 - 1920 CE: [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells) published [*The Outline of History*](https://en.wikipedia.org/wiki/The_Outline_of_History)
 - 1920 CE: [Frank Watson Dyson](https://en.wikipedia.org/wiki/Frank_Watson_Dyson), [Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington) & C. R. Davidson published *A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Solar eclipse of May 29, 1919*, confirming Einstein's [general theory of relativity](https://en.wikipedia.org/wiki/General_relativity)
 - 1920 CE: [Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington) published *The Internal Constitution of the Stars*, anticipating the discovery of [nuclear fusion](https://en.wikipedia.org/wiki/Nuclear_fusion)
 - 1921 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) posthumously published [*Economy and Society*](https://en.wikipedia.org/wiki/Economy_and_Society)
+- 1921 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*A Treatise on Probability*](https://en.wikipedia.org/wiki/A_Treatise_on_Probability), contributing to [probability theory](https://en.wikipedia.org/wiki/Probability_theory)
 - 1922 CE: [Gago Coutinho](https://en.wikipedia.org/wiki/Carlos_Viegas_Gago_Coutinho) modified the [sextant](https://en.wikipedia.org/wiki/Sextant) for [aeronautical](https://en.wikipedia.org/wiki/Aeronautics) [navigation](https://en.wikipedia.org/wiki/Navigation)
 - 1923 CE: [Harry Ricardo](https://en.wikipedia.org/wiki/Harry_Ricardo) published *The Internal Combustion Engine*
 - 1923 CE: John von Neumann published *On the introduction of transfinite numbers*
@@ -883,6 +892,7 @@ Few descriptions survive, despite many discoveries.
 - 1928 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *Radioactivity and Earth movements*, proposing [mantle convection](https://en.wikipedia.org/wiki/Mantle_convection)
 
 ### 1930s
+- 1930 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*A Treatise on Money*](https://en.wikipedia.org/wiki/A_Treatise_on_Money)
 - 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
 - 1931 CE: [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski) published *A Non-Aristotelian System and its Necessity for Rigour in Mathematics and Physics* coining ["A map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
 - 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
@@ -895,6 +905,7 @@ Few descriptions survive, despite many discoveries.
 - 1936 CE: Alonzo Church published *An unsolvable problem of elementary number theory*
 - 1936 CE: Dale Carnegie published *How to Win Friends and Influence People*
 - 1936 CE: Rosser published *Extensions of some theorems of Gödel and Church*
+- 1936 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The General Theory of Employment, Interest and Money*](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money), an influential book on [macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
 - 1937 CE: John von Neumann published *Continuous geometries with a transition probability*
 - 1937 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *Our Wandering Continents*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
 - 1938 CE: H. Copeland published *The kingdoms of organisms*
@@ -905,6 +916,7 @@ Few descriptions survive, despite many discoveries.
 - 1939 CE: [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) & [Otto Robert Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) published *Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction*, describing [nuclear fission](https://en.wikipedia.org/wiki/Nuclear_fission)
 
 ### 1940s
+- 1940 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*How to Pay for the War*](https://en.wikipedia.org/wiki/How_to_Pay_for_the_War), discussing [price controls](https://en.wikipedia.org/wiki/Price_controls)
 - 1942 CE: Richard Feynman published *The Principle of Least Action in Quantum Mechanics*
 - 1942 CE: [John Vincent Atanasoff](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff) & [Clifford Berry](https://en.wikipedia.org/wiki/Clifford_Berry) demonstrated the [Atanasoff–Berry computer (ABC)](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer), the first [digital electronic computer](https://en.wikipedia.org/wiki/Digital_electronic_computer), and used it to solve [linear equations](https://en.wikipedia.org/wiki/Linear_equation)
 - 1943 CE: British codebreakers invent the Colossus: the first programmable electronic digital computer
@@ -913,8 +925,10 @@ Few descriptions survive, despite many discoveries.
 - 1945 CE: Vannevar Bush published *As We May Think*
 - 1947 CE: Kathleen Booth published *General considerations in the design of an all purpose electronic digital computer (Coding for the ARC, 2nd ed)*, introducing assembly language
 - 1947 CE: [Marjory Stoneman Douglas](https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas) published [*The Everglades: River of Grass*](https://en.wikipedia.org/wiki/The_Everglades:_River_of_Grass)
+- 1947 CE: [Paul Samuelson](https://en.wikipedia.org/wiki/Paul_Samuelson) published [*Foundations of Economic Analysis*](https://en.wikipedia.org/wiki/Foundations_of_Economic_Analysis)
 - 1948 CE: Claude Shannon published *A Mathematical Theory of Communication*
 - 1948 CE: John von Neumann published *The general and logical theory of automata*
+- 1948 CE: [Paul Samuelson](https://en.wikipedia.org/wiki/Paul_Samuelson) & [William Nordhaus](https://en.wikipedia.org/wiki/William_Nordhaus) published [*Economics: An Introductory Analysis*](https://en.wikipedia.org/wiki/Economics_%28textbook%29)
 - 1949 CE: [Keith Runcorn](https://en.wikipedia.org/wiki/Keith_Runcorn) published *Investigations relating to the main geomagnetic field*, proposing [paleomagnetism](https://en.wikipedia.org/wiki/Paleomagnetism)
 
 ### 1950s
