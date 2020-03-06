@@ -43,8 +43,8 @@ Few descriptions survive, despite many discoveries.
   [Mitochondria](#mitochondria), [Chloroplasts](#chloroplasts)
 - [< 1 Billion Years Ago](#-1-billion-years-ago):
   [Hox](#hox), [Gut](#gut), [Anus](#anus), [Spine](#spine), [Eye](#eye),
-  [Jaw](#jaw), [Lungs](#lungs),
-  [Limbs](#limbs), [Choana](#choana), [Womb](#womb), [Breast](#breast)
+  [Jaw](#jaw), [Lungs](#lungs), [Limbs](#limbs), [Choana](#choana),
+  [Womb](#womb), [Breast](#breast)
 - [< 100 Million Years Ago](#-100-million-years-ago):
   [Thumb](#thumb), [Color Vision](#color-vision), [No Tail](#no-tail)
 - [< 10 Million Years Ago](#-10-million-years-ago):
@@ -618,6 +618,8 @@ Few descriptions survive, despite many discoveries.
 - 1759 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) invented H3, demonstrating the bimetallic strip and caged roller bearing
 - 1759 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) invented H4, a handheld marine chronometer
 - 1759 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*The Theory of Moral Sentiments*](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
+- 1759 CE: [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) published *An Experimental Enquiry Concerning the Natural Powers of Water and Wind to Turn Mills and Other Machines Depending on Circular Motion*
+- 1759 CE: [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) completed [Smeaton's Tower](https://en.wikipedia.org/wiki/Smeaton%27s_Tower), reintroducing [hydraulic lime](https://en.wikipedia.org/wiki/Hydraulic_lime) as a building material, previously used by the ancient Greek and Roman civilizations
 
 ### Metal Lathe
 - 1760 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the [industrial lathe](https://en.wikipedia.org/wiki/Metal_lathe)
@@ -679,6 +681,7 @@ Few descriptions survive, despite many discoveries.
 - 1822 CE: [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) published *Théorie analytique de la chaleur* (*The Analytical Theory of Heat*)
 - 1823 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published *Le Calcul infinitésimal* (*Infinitesimal Calculus*)
 - 1824 CE: [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) published *Remarques générales sur les températures du globe terrestre et des espaces planétaires* (*General notes on temperatures of the globe and planetary spaces*)
+- 1824 CE: [Joseph Aspdin](https://en.wikipedia.org/wiki/Joseph_Aspdin) patented [Portland cement](https://en.wikipedia.org/wiki/Portland_cement)
 - 1827 CE: [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) published *Mémoire sur la température du globe terrestre et des espaces planétaires* (*Memoir on the temperature of the terrestrial globe and planetary spaces*)
 - 1827 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *Mémoire sur la double réfraction* (*Memoir on double refraction*)
 - 1828 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published *Leçons sur les applications de calcul infinitésimal; La géométrie* (*Lessons on infinitesimal computing applications; Geometry*)
@@ -1289,6 +1292,7 @@ Few descriptions survive, despite many discoveries.
 #### [History of communication](https://en.wikipedia.org/wiki/History_of_communication)
 - [History of art](https://en.wikipedia.org/wiki/History_of_art)
   - [History of painting](https://en.wikipedia.org/wiki/History_of_painting)
+- [History of language (historical linguistics)](https://en.wikipedia.org/wiki/Historical_linguistics)
 - [History of writing](https://en.wikipedia.org/wiki/History_of_writing)
   - [History of ancient numeral systems](https://en.wikipedia.org/wiki/History_of_ancient_numeral_systems)
   - [History of books](https://en.wikipedia.org/wiki/History_of_books)
@@ -1333,9 +1337,9 @@ Few descriptions survive, despite many discoveries.
 
 #### [History of technology](https://en.wikipedia.org/wiki/History_of_technology)
 - [History of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture)
-- [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
 - [History of cartography](https://en.wikipedia.org/wiki/History_of_cartography)
 - [History of computing](https://en.wikipedia.org/wiki/History_of_computing)
+  - [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
   - [History of computing hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
   - [History of computer science](https://en.wikipedia.org/wiki/History_of_computer_science)
   - [History of hypertext](https://en.wikipedia.org/wiki/History_of_hypertext)
@@ -1349,7 +1353,12 @@ Few descriptions survive, despite many discoveries.
   - [History of the transistor](https://en.wikipedia.org/wiki/History_of_the_transistor)
   - [History of the web browser](https://en.wikipedia.org/wiki/History_of_the_web_browser)
   - [History of the World Wide Web](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+- [History of construction](https://en.wikipedia.org/wiki/History_of_construction)
 - [History of engineering](https://en.wikipedia.org/wiki/History_of_engineering)
+  - [History of electrical engineering](https://en.wikipedia.org/wiki/History_of_electrical_engineering)
+  - [History of electronic engineering](https://en.wikipedia.org/wiki/History_of_electronic_engineering)
+  - [History of mechanical engineering](https://en.wikipedia.org/wiki/History_of_mechanical_engineering)
+  - [History of structural engineering](https://en.wikipedia.org/wiki/History_of_structural_engineering)
 - [History of nuclear weapons](https://en.wikipedia.org/wiki/History_of_nuclear_weapons)
 - [History of optics](https://en.wikipedia.org/wiki/History_of_optics)
 - [History of radio](https://en.wikipedia.org/wiki/History_of_radio)
@@ -1359,10 +1368,11 @@ Few descriptions survive, despite many discoveries.
   - [History of spaceflight](https://en.wikipedia.org/wiki/History_of_spaceflight)
   - [History of the automobile](https://en.wikipedia.org/wiki/History_of_the_automobile)
   - [History of the electric vehicle](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle)
+  - [History of the internal combustion engine](https://en.wikipedia.org/wiki/History_of_the_internal_combustion_engine)
   - [History of the petroleum industry](https://en.wikipedia.org/wiki/History_of_the_petroleum_industry)
-- [History of the anchor](https://en.wikipedia.org/wiki/History_of_the_anchor)
+  - [History of the steam engine](https://en.wikipedia.org/wiki/History_of_the_steam_engine)
+  - [Maritime history](https://en.wikipedia.org/wiki/Maritime_history)
+    - [History of the anchor](https://en.wikipedia.org/wiki/History_of_the_anchor)
 - [History of the battery](https://en.wikipedia.org/wiki/History_of_the_battery)
-- [History of the internal combustion engine](https://en.wikipedia.org/wiki/History_of_the_internal_combustion_engine)
-- [History of the steam engine](https://en.wikipedia.org/wiki/History_of_the_steam_engine)
 - [History of the telescope](https://en.wikipedia.org/wiki/History_of_the_telescope)
 - [History of underwater diving](https://en.wikipedia.org/wiki/History_of_underwater_diving)
