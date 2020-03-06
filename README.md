@@ -49,7 +49,8 @@ Few descriptions survive, despite many discoveries.
   [Thumb](#thumb), [Color Vision](#color-vision), [No Tail](#no-tail)
 - [< 10 Million Years Ago](#-10-million-years-ago):
   [Tools](#tools), [Fire](#fire)
-- [< 1 Million Years Ago](#-1-million-years-ago)
+- [< 1 Million Years Ago](#-1-million-years-ago):
+  [Anatomically Modern Humans](#anatomically-modern-humans)
 - [< 100 Thousand Years Ago](#-100-thousand-years-ago):
   [Clothing](#clothing), [Dogs](#dogs), [Agriculture](#agriculture)
 - [< 10 Thousand Years Ago](#-10-thousand-years-ago):
@@ -294,6 +295,8 @@ Few descriptions survive, despite many discoveries.
 - 173 kya: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
 - 160 kya: CO₂ dipped below 200 ppm, global temp -9 from present
 - 150 kya: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
+
+### Anatomically Modern Humans
 - 140-110 kya: [Anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved a larger fore-brain, smaller teeth, and longer distal bones
 - 131 kya: North African/Near Eastern wildcats split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
 - 128 kya: [Homo cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
