@@ -817,6 +817,7 @@ Few descriptions survive, despite many discoveries.
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra) with One Constant*
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Logic of Number*, describing [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A Theory of Probable Inference*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
+- 1882 CE: [Robert Koch](https://en.wikipedia.org/wiki/Robert_Koch) published *Die Aetiologie der Tuberculose* (*The Etiology of Tuberculosis*)
 - 1883 CE: Georg Cantor published *Grundlagen einer allgemeinen Mannigfaltigkeitslehre*
 - 1883 CE: A. F. W. Schimper published *Über die Entwicklung der Chlorophyllkörner und Farbkörper*
 - 1884 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*The Foundations of Arithmetic*](https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic)
