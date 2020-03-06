@@ -1,0 +1,49 @@
+# Empires
+
+- 2500 BCE: The [Assyrian Empire](https://en.wikipedia.org/wiki/Assyria) began
+- 2350 BCE: The [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) began
+- 2154 BCE: The [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) ended, after 196 years
+- 1600 BCE: The [Hittite Empire](https://en.wikipedia.org/wiki/Hittites) began
+- 1178 BCE: The [Hittite Empire](https://en.wikipedia.org/wiki/Hittites) ended, after 422 years
+- 814 BCE: The [Carthaginian Empire](https://en.wikipedia.org/wiki/Ancient_Carthage) began
+- 609 BCE: The [Assyrian Empire](https://en.wikipedia.org/wiki/Assyria) ended, after roughly 1900 years
+- 550 BCE: The [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) began
+- 330 BCE: The [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) ended, after 220 years
+- 146 BCE: The [Carthaginian Empire](https://en.wikipedia.org/wiki/Ancient_Carthage) ended, after 668 years
+- 27 CE: The [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire) began
+- 395 CE: The [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire) split into the [Western Roman Empire](https://en.wikipedia.org/wiki/Western_Roman_Empire) and the [Byzantine Empire](https://en.wikipedia.org/wiki/Byzantine_Empire), after 368 years
+- 476 CE: The [Western Roman Empire](https://en.wikipedia.org/wiki/Western_Roman_Empire) ended, after 81 years
+- 661 CE: The [Umayyad Caliphate](https://en.wikipedia.org/wiki/Umayyad_Caliphate) began
+- 750 CE: The [Umayyad Caliphate](https://en.wikipedia.org/wiki/Umayyad_Caliphate) ended, after 89 years
+- 750 CE: The [Abbasid Caliphate](https://en.wikipedia.org/wiki/Abbasid_Caliphate) began
+- 800 CE: The [Carolingian Empire](https://en.wikipedia.org/wiki/Carolingian_Empire) began
+- 888 CE: The [Carolingian Empire](https://en.wikipedia.org/wiki/Carolingian_Empire) ended, after 88 years
+- 1206 CE: The [Mongol Empire](https://en.wikipedia.org/wiki/Mongol_Empire) began
+- 1271 CE: The [Yuan dynasty](https://en.wikipedia.org/wiki/Yuan_dynasty) began
+- 1299 CE: The [Ottoman Empire](https://en.wikipedia.org/wiki/Ottoman_Empire) began
+- 1368 CE: The [Mongol Empire](https://en.wikipedia.org/wiki/Mongol_Empire) ended, after 162 years
+- 1368 CE: The [Yuan dynasty](https://en.wikipedia.org/wiki/Yuan_dynasty) ended, after 97 years
+- 1453 CE: The [Byzantine Empire](https://en.wikipedia.org/wiki/Byzantine_Empire) ended, after 1058 years
+- 1492 CE: The [Spanish Empire](https://en.wikipedia.org/wiki/Spanish_Empire) began
+- 1497 CE: The [British Empire](https://en.wikipedia.org/wiki/British_Empire) began
+- 1517 CE: The [Abbasid Caliphate](https://en.wikipedia.org/wiki/Abbasid_Caliphate) ended, after 767 years
+- 1543 CE: The [Dutch Empire](https://en.wikipedia.org/wiki/Dutch_Empire) began
+- 1636 CE: The [Qing dynasty](https://en.wikipedia.org/wiki/Qing_dynasty) began
+- 1721 CE: The [Russian Empire](https://en.wikipedia.org/wiki/Russian_Empire) began
+- 1804 CE: The [1st French Empire](https://en.wikipedia.org/wiki/First_French_Empire) began
+- 1814 CE: The [1st French Empire](https://en.wikipedia.org/wiki/First_French_Empire) ended, after 10 years
+- 1852 CE: The [2nd French Empire](https://en.wikipedia.org/wiki/Second_French_Empire) began
+- 1870 CE: The [2nd French Empire](https://en.wikipedia.org/wiki/Second_French_Empire) ended, after 18 years
+- 1871 CE: The [German Empire](https://en.wikipedia.org/wiki/German_Empire) began
+- 1882 CE: The [Italian Empire](https://en.wikipedia.org/wiki/Dutch_Empire) began
+- 1912 CE: The [Qing dynasty](https://en.wikipedia.org/wiki/Qing_dynasty) ended, after 276 years
+- 1917 CE: The [Russian Empire](https://en.wikipedia.org/wiki/Russian_Empire) ended, after 196 years
+- 1918 CE: The [German Empire](https://en.wikipedia.org/wiki/German_Empire) ended, after 47 years
+- 1923 CE: The [Ottoman Empire](https://en.wikipedia.org/wiki/Ottoman_Empire) ended, after 624 years
+- 1960 CE: The [Italian Empire](https://en.wikipedia.org/wiki/Dutch_Empire) ended, after 78 years
+- 1975 CE: The [Dutch Empire](https://en.wikipedia.org/wiki/Dutch_Empire) ended, after 432 years
+- 1976 CE: The [Spanish Empire](https://en.wikipedia.org/wiki/Spanish_Empire) ended, after 484 years
+- 1997 CE: The [British Empire](https://en.wikipedia.org/wiki/British_Empire) ended, after 500 years
+
+## Resources
+- [List of largest empires](https://en.wikipedia.org/wiki/List_of_largest_empires)
