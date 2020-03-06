@@ -66,7 +66,7 @@ Few descriptions survive, despite many discoveries.
   - [1810s](#1810s)
   - [1820s](#1820s)
   - [1830s](#1830s)
-  - [1840s](#1840s)
+  - [1840s](#1840s): [Anesthesia](#anesthesia)
   - [1850s](#1850s): [Telegraph](#telegraph)
   - [1860s](#1860s): [Antiseptics](#antiseptics)
   - [1870s](#1870s): [Statistics](#statistics)
@@ -704,6 +704,8 @@ Few descriptions survive, despite many discoveries.
 - 1844 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published *Die Lineale Ausdehnungslehre* (*The Theory of Linear Extension*), introducing [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
+
+#### Anesthesia
 - 1847 CE: [John Snow](https://en.wikipedia.org/wiki/John_Snow) published *On the Inhalation of the Vapor of Ether*, one of the first studies of [anesthesia](https://en.wikipedia.org/wiki/Anesthetic)
 - 1848 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Mémoire sur la relation qui peut exister entre la forme cristalline et la composition chimique, et sur la cause de la polarisation rotatoire* (*Memoir on the relationship that can exist between crystalline form and chemical composition, and on the cause of rotary polarization*), demonstrating [molecular chirality](https://en.wikipedia.org/wiki/Chirality_%28chemistry%29) and explaining [isomers](https://en.wikipedia.org/wiki/Isomer)
 - 1848 CE: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) published [*Principles of Political Economy*](https://en.wikipedia.org/wiki/Principles_of_Political_Economy)
