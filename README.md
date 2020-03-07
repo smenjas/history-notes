@@ -714,6 +714,7 @@ Few descriptions survive, despite many discoveries.
 - 1848 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Mémoire sur la relation qui peut exister entre la forme cristalline et la composition chimique, et sur la cause de la polarisation rotatoire* (*Memoir on the relationship that can exist between crystalline form and chemical composition, and on the cause of rotary polarization*), demonstrating [molecular chirality](https://en.wikipedia.org/wiki/Chirality_%28chemistry%29) and explaining [isomers](https://en.wikipedia.org/wiki/Isomer)
 - 1848 CE: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) published [*Principles of Political Economy*](https://en.wikipedia.org/wiki/Principles_of_Political_Economy)
 - 1849 CE: [John Snow](https://en.wikipedia.org/wiki/John_Snow) published *On the Mode of Communication of Cholera*, a key event in [epidemiology](https://en.wikipedia.org/wiki/Epidemiology)
+- 1849 CE: [Crawford Long](https://en.wikipedia.org/wiki/Crawford_Long) published *An account of the first use of Sulphuric Ether by Inhalation as an Anaesthetic in Surgical Operations*, describing [anesthesia](https://en.wikipedia.org/wiki/Anesthetic)
 
 ### 1850s
 - 1850 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *Ueber die bewegende Kraft der Wärme* (*On the Moving Force of Heat*)
