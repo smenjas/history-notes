@@ -14,7 +14,6 @@
   - [Modern philosophy](#modern-philosophy)
     - [Contemporary philosophy](#contemporary-philosophy)
 - [Glossary](#glossary)
-- [License](#license)
 
 ---
 
