@@ -786,7 +786,7 @@ Few descriptions survive, despite many discoveries.
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A Theory of Probable Inference*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
 - 1882 CE: [Robert Koch](https://en.wikipedia.org/wiki/Robert_Koch) published *Die Aetiologie der Tuberculose* (*The Etiology of Tuberculosis*)
 - 1883 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Ueber unendliche, lineare Punktmannichfaltigkeiten (5)* (*About infinite, linear point manifolds (5)*), later republished as *Grundlagen einer allgemeinen Mannigfaltigkeitslehre* (*Basics of a general theory of diversity*)
-- 1883 CE: A. F. W. Schimper published *Über die Entwicklung der Chlorophyllkörner und Farbkörper*
+- 1883 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Über die Entwicklung der Chlorophyllkörner und Farbkörper* (*About the development of chlorophyll grains and color bodies*)
 - 1884 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*The Foundations of Arithmetic*](https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic)
 - 1884 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) & [Joseph Jastrow](https://en.wikipedia.org/wiki/Joseph_Jastrow) published *On Small Differences in Sensation*, introducing [blinded](https://en.wikipedia.org/wiki/Blinded_experiment), [randomized controlled experiments](https://en.wikipedia.org/wiki/Randomized_controlled_trial) with [repeated measures design](https://en.wikipedia.org/wiki/Repeated_measures_design)
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Algebra of Logic: A Contribution to the Philosophy of Notation*
@@ -807,7 +807,7 @@ Few descriptions survive, despite many discoveries.
 #### Radio
 - 1896 CE: Guglielmo Marconi patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
 - 1897 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre (2)* (*Contributions to the foundation of the transfinite set theory (2)*
-- 1898 CE: A. F. W. Schimper published *Pflanzengeographie auf physiologischer Grundlage*
+- 1898 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Pflanzengeographie auf physiologischer Grundlage* (*Plant geography on a physiological basis*)
 - 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
 
 ## 1900s
