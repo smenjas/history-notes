@@ -800,15 +800,18 @@ Few descriptions survive, despite many discoveries.
 
 ### 1890s
 - 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
+- 1892 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Value, Capital and Rent*
 - 1894 CE: Heinrich Hertz published *The Principles of Mechanics Presented in a New Form*
 - 1894 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-1* (*Treatises-1*)
 - 1895 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-2* (*Treatises-2*)
 
 #### Radio
 - 1896 CE: Guglielmo Marconi patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
+- 1896 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Studies in the theory of Public Finance*
 - 1897 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre (2)* (*Contributions to the foundation of the transfinite set theory (2)*
 - 1898 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Pflanzengeographie auf physiologischer Grundlage* (*Plant geography on a physiological basis*)
 - 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
+- 1898 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Geldzins und Güterpreise* (*Interest and Prices*)
 
 ## 1900s
 - 1900 CE: [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) published *Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum* (*On the Theory of the Energy Distribution Law of the Normal Spectrum*), originating [quantum theory](https://en.wikipedia.org/wiki/Quantum_mechanics)
@@ -844,6 +847,7 @@ Few descriptions survive, despite many discoveries.
 - 1915 CE: [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener) published *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*), developing the theory of [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
 - 1916 CE: Albert Einstein published *Näherungsweise Integration der Feldgleichungen der Gravitation* (*Approximate Integration of the Gravitational Field Equations*)
 - 1916 CE: Albert Einstein published *Die Grundlage der allgemeinen Relativitätstheorie* (*The basis of General Relativity*)
+- 1916 CE: [Gustav Cassel](https://en.wikipedia.org/wiki/Gustav_Cassel) published *The Present Situation of the Foreign Trade*, describing [purchasing power parity](https://en.wikipedia.org/wiki/Purchasing_power_parity)
 - 1917 CE: Albert Einstein published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
 - 1918 CE: Albert Einstein published *Gravitationswellen* (*On Gravitational Waves*)
@@ -858,6 +862,7 @@ Few descriptions survive, despite many discoveries.
 - 1922 CE: [Gago Coutinho](https://en.wikipedia.org/wiki/Carlos_Viegas_Gago_Coutinho) modified the [sextant](https://en.wikipedia.org/wiki/Sextant) for [aeronautical](https://en.wikipedia.org/wiki/Aeronautics) [navigation](https://en.wikipedia.org/wiki/Navigation)
 - 1923 CE: [Harry Ricardo](https://en.wikipedia.org/wiki/Harry_Ricardo) published *The Internal Combustion Engine*
 - 1923 CE: John von Neumann published *On the introduction of transfinite numbers*
+- 1923 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published *Tract on Monetray Reform*
 - 1925 CE: É. Chatton published *Pansporella perplexa*
 - 1925 CE: John von Neumann published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
 - 1927 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Variationsrechnung* (*Calculus of Variations*)
