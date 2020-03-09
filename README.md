@@ -437,7 +437,7 @@ Few descriptions survive, despite many discoveries.
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
 - 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar.
 - 100 BCE: [The Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
-- 56 BCE: [Lucretius](https://en.wikipedia.org/wiki/Lucretius) wrote [*De rerum natura* (*On the Nature of Things*)](https://en.wikipedia.org/wiki/De_rerum_natura), stated that the world contained "seeds" that can sicken you if inhaled or ingested
+- 56 BCE: [Lucretius](https://en.wikipedia.org/wiki/Lucretius) wrote [*De rerum natura* (*On the Nature of Things*)](https://en.wikipedia.org/wiki/De_rerum_natura), stating that the world contained "seeds" that can sicken you if inhaled or ingested
 - 46 BCE: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) proposed the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
 - 44 BCE: The [Palmyrene alphabet](https://en.wikipedia.org/wiki/Palmyrene_alphabet) descended from cursive versions of the Aramaic alphabet
 - 40 BCE: [Andronicus of Rhodes](https://en.wikipedia.org/wiki/Andronicus_of_Rhodes) wrote Aristotle's [*Organon*](https://en.wikipedia.org/wiki/Organon) (*Instrument*)
@@ -816,6 +816,7 @@ Few descriptions survive, despite many discoveries.
 - 1902 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Transcendenten* (*Theory of Abelian Transcendents*)
 - 1903 CE: K. Tsіolkovskіy published *Study of world space with jet devices*
 - 1903 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-3* (*Treatises-3*)
+- 1903 CE: [Nicholas Johannsen](https://en.wikipedia.org/wiki/Nicholas_Johannsen) published *Der Kreislauf des Geldes und Mechanismus des Sozial-Lebens* (*The Circuit Theory of Money*), an early work in [monetary circuit theory](https://en.wikipedia.org/wiki/Monetary_circuit_theory)
 - 1905 CE: Albert Einstein published 5 papers:
   - *On a Heuristic Viewpoint Concerning the Production and Transformation of Light* (suggested quanta)
   - *On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat* (proved atomic theory)
