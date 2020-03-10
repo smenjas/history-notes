@@ -1127,6 +1127,7 @@ Few descriptions survive, despite many discoveries.
 - [Google Books](https://books.google.com/)
 - [Google Patents](https://patents.google.com/)
 - [Hyperhistory Online](https://www.hyperhistory.com/)
+- [Internet Archive](https://archive.org/)
 - [Librivox](https://librivox.org/)
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [ScienceDirect](https://www.sciencedirect.com/)
