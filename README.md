@@ -151,12 +151,12 @@ Few descriptions survive, despite many discoveries.
 ### Gut
 - 797 mya: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
 - 717 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
-- 662 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
 
 ### Anus
 - 684 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
 - 684 mya: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
 - 676 mya: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
+- 662 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
 - 650-635 mya: [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
 - 633-573 mya: [The supercontinent Pannotia existed](https://en.wikipedia.org/wiki/Pannotia) at the South Pole
 
@@ -263,44 +263,44 @@ Few descriptions survive, despite many discoveries.
 
 ## < 1 Million Years Ago
 - 990-950 kya: [Jaramillo reversal](https://en.wikipedia.org/wiki/Jaramillo_reversal) of Earth's magnetic field
-- 800 kya: CO₂ dipped below 190 ppm, global temp -9 from present
-- 790 kya: CO₂ peaked around 260 ppm, global temp -1 from present
+- 800 kya: CO₂ dipped below 190 ppm, global temp -9 °C from present
+- 790 kya: CO₂ peaked around 260 ppm, global temp -1 °C from present
 - 781 kya: [Brunhes-Matuyama reversal](https://en.wikipedia.org/wiki/Brunhes%E2%80%93Matuyama_reversal) of Earth's magnetic field
-- 750 kya: CO₂ dipped below 180 ppm, global temp -9 from present
-- 740 kya: CO₂ peaked around 210 ppm, global temp -4 from present
-- 720 kya: CO₂ dipped below 190 ppm, global temp -9 from present
-- 700 kya: CO₂ peaked around 240 ppm, global temp -2 from present
-- 670 kya: CO₂ dipped below 170 ppm, global temp -11 from present
-- 660 kya: CO₂ peaked around 200 ppm, global temp -7 from present
-- 640 kya: CO₂ dipped below 190 ppm, global temp -9 from present
-- 610 kya: CO₂ peaked around 260 ppm, global temp -1 from present
-- 600 kya: CO₂ dipped below 220 ppm, global temp -7 from present
-- 590 kya: CO₂ peaked around 250 ppm, global temp -2 from present
-- 580 kya: CO₂ dipped below 200 ppm, global temp -7 from present
-- 540 kya: CO₂ peaked around 250 ppm, global temp -1 from present
-- 530 kya: CO₂ dipped below 200 ppm, global temp -8 from present
-- 490 kya: CO₂ peaked around 250 ppm, global temp -1 from present
-- 440 kya: CO₂ dipped below 200 ppm, global temp -9 from present
+- 750 kya: CO₂ dipped below 180 ppm, global temp -9 °C from present
+- 740 kya: CO₂ peaked around 210 ppm, global temp -4 °C from present
+- 720 kya: CO₂ dipped below 190 ppm, global temp -9 °C from present
+- 700 kya: CO₂ peaked around 240 ppm, global temp -2 °C from present
+- 670 kya: CO₂ dipped below 170 ppm, global temp -11 °C from present
+- 660 kya: CO₂ peaked around 200 ppm, global temp -7 °C from present
+- 640 kya: CO₂ dipped below 190 ppm, global temp -9 °C from present
+- 610 kya: CO₂ peaked around 260 ppm, global temp -1 °C from present
+- 600 kya: CO₂ dipped below 220 ppm, global temp -7 °C from present
+- 590 kya: CO₂ peaked around 250 ppm, global temp -2 °C from present
+- 580 kya: CO₂ dipped below 200 ppm, global temp -7 °C from present
+- 540 kya: CO₂ peaked around 250 ppm, global temp -1 °C from present
+- 530 kya: CO₂ dipped below 200 ppm, global temp -8 °C from present
+- 490 kya: CO₂ peaked around 250 ppm, global temp -1 °C from present
+- 440 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 415 kya: [Controlled use of fire in Suffolk, England](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
-- 400 kya: CO₂ peaked around 280 ppm, global temp +3 from present
-- 350 kya: CO₂ dipped below 200 ppm, global temp -9 from present
-- 320 kya: CO₂ peaked around 300 ppm, global temp +4 from present
+- 400 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present
+- 350 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
+- 320 kya: CO₂ peaked around 300 ppm, global temp +4 °C from present
 - 315 kya: [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens) emerged
 - 300 kya: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
 - 270 kya: [Y-chromosomal Adam](https://en.wikipedia.org/wiki/Y-chromosomal_Adam) lived ([Y-DNA haplogroup A](https://en.wikipedia.org/wiki/Haplogroup_A_%28Y-DNA%29)00)
-- 260 kya: CO₂ dipped below 200 ppm, global temp -9 from present
+- 260 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 250 kya: [Homo neanderthalensis](https://en.wikipedia.org/wiki/Neanderthal) emerged
-- 240 kya: CO₂ peaked around 280 ppm, global temp +3 from present
+- 240 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present
 - 200 kya: [Homo sapiens sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) emerged, 6 other homo species existed
 - 173 kya: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
-- 160 kya: CO₂ dipped below 200 ppm, global temp -9 from present
+- 160 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 150 kya: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
 
 ### Anatomically Modern Humans
 - 140-110 kya: [Anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved a larger fore-brain, smaller teeth, and longer distal bones
 - 131 kya: North African/Near Eastern wildcats split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
 - 128 kya: [Homo cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
-- 120 kya: CO₂ peaked around 280 ppm, global temp +5 from present
+- 120 kya: CO₂ peaked around 280 ppm, global temp +5 °C from present
 - 115 kya: [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
 
 ## < 100 Thousand Years Ago
@@ -314,8 +314,8 @@ Few descriptions survive, despite many discoveries.
 - 50-30 kya: ["Gracile" anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) emerged
 - 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
-- 26.5-20 kya: [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum), CO₂ dipped to 180 ppm, global temp -9 from present, dust exceeded 1.6 ppm
-- 18 kya: CO₂ falls to local minimum around 200 ppm, global temp -10 from present, sea level 120m below present
+- 26.5-20 kya: [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum), CO₂ dipped to 180 ppm, global temp -9 °C from present, dust exceeded 1.6 ppm
+- 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, sea level 120m below present
 - 17-15 kya: [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas), global temperatures declined sharply
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 100m below present
 - 15-13 kya: [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial), first pronounced warming since LGM
@@ -323,7 +323,7 @@ Few descriptions survive, despite many discoveries.
 - 14.5 kya: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
 
 ### Dogs
-- 14.2 kya: Dogs lived with humans in modern Germany
+- 14.2 kya: [Dogs lived with humans](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog#Bonn%E2%80%93Oberkassel_dog) along the [Rhine River](https://en.wikipedia.org/wiki/Rhine)
 - 14.2-14.1 kya: [Older Dryas](https://en.wikipedia.org/wiki/Older_Dryas), global temperatures declined sharply
 - 12.9-11.7 kya: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
 - 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
@@ -622,7 +622,7 @@ Few descriptions survive, despite many discoveries.
 - 1759 CE: [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) completed [Smeaton's Tower](https://en.wikipedia.org/wiki/Smeaton%27s_Tower), reintroducing [hydraulic lime](https://en.wikipedia.org/wiki/Hydraulic_lime) as a building material, previously used by the ancient Greek and Roman civilizations
 
 ### Metal Lathe
-- 1760 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the [industrial lathe](https://en.wikipedia.org/wiki/Metal_lathe)
+- 1760 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the [metal lathe](https://en.wikipedia.org/wiki/Metal_lathe), [photo here](https://artsandculture.google.com/asset/metal-turning-lathe/kwGbpYqKSyzcSg)
 - 1762 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison)'s son demonstrated the H4 on a transatlantic voyage
 - 1762 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Du contrat social* (*The Social Contract*)](https://en.wikipedia.org/wiki/The_Social_Contract)
 - 1762 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Émile, ou De l’éducation* (*Emile, or On Education*)](https://en.wikipedia.org/wiki/Emile,_or_On_Education)
