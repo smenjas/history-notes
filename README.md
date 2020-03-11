@@ -860,9 +860,11 @@ Few descriptions survive, despite many discoveries.
 - 1921 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) posthumously published [*Economy and Society*](https://en.wikipedia.org/wiki/Economy_and_Society)
 - 1921 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*A Treatise on Probability*](https://en.wikipedia.org/wiki/A_Treatise_on_Probability), contributing to [probability theory](https://en.wikipedia.org/wiki/Probability_theory)
 - 1922 CE: [Gago Coutinho](https://en.wikipedia.org/wiki/Carlos_Viegas_Gago_Coutinho) modified the [sextant](https://en.wikipedia.org/wiki/Sextant) for [aeronautical](https://en.wikipedia.org/wiki/Aeronautics) [navigation](https://en.wikipedia.org/wiki/Navigation)
+- 1922 CE: [Alexander Friedmann](https://en.wikipedia.org/wiki/Alexander_Friedmann) published *Über die Krümmung des Raumes* (*On the curvature of space*), hypothesizing that [the universe is expanding](https://en.wikipedia.org/wiki/Expansion_of_the_universe)
 - 1923 CE: [Harry Ricardo](https://en.wikipedia.org/wiki/Harry_Ricardo) published *The Internal Combustion Engine*
 - 1923 CE: John von Neumann published *On the introduction of transfinite numbers*
 - 1923 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published *Tract on Monetray Reform*
+- 1924 CE: [Alexander Friedmann](https://en.wikipedia.org/wiki/Alexander_Friedmann) published *Über die Möglichkeit einer Welt mit konstanter negativer Krümmung des Raumes* (*On the possibility of a world with constant negative curvature of space*), proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
 - 1925 CE: É. Chatton published *Pansporella perplexa*
 - 1925 CE: John von Neumann published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
 - 1927 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Variationsrechnung* (*Calculus of Variations*)
