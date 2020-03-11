@@ -752,7 +752,7 @@ Few descriptions survive, despite many discoveries.
 - 1864 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Dynamical Theory of the Electromagnetic Field*](https://en.wikipedia.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field)
 - 1865 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *An Introduction to Modern Chemistry*
 - 1866 CE: [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) published [*Versuche über Pflanzenhybriden* (*Experiments on Plant Hybridization*)](https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization)
-- 1866 CE: [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) published *Generelle Morphologie der Organismen*
+- 1866 CE: [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) published *Generelle Morphologie der Organismen* (*General morphology of organisms*)
 
 #### Antiseptics
 - 1867 CE: [Joseph Lister](https://en.wikipedia.org/wiki/Joseph_Lister) published [*On the Antiseptic Principle in the Practice of Surgery*](https://en.wikipedia.org/wiki/Antiseptic_Principle_of_the_Practice_of_Surgery)
@@ -867,12 +867,14 @@ Few descriptions survive, despite many discoveries.
 - 1925 CE: John von Neumann published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
 - 1927 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Variationsrechnung* (*Calculus of Variations*)
 - 1927 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *A Geological Comparison of South America with South Africa*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
+- 1927 CE: [Georges Lemaître](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre) published *Un Univers homogène de masse constante et de rayon croissant rendant compte de la vitesse radiale des nébuleuses extra-galactiques* (*A homogeneous universe of constant mass and increasing radius accounting for the radial speed of extra-galactic nebulae*), hypothesizing that [the universe is expanding](https://en.wikipedia.org/wiki/Expansion_of_the_universe), and describing what would become [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law)
 - 1928 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *Radioactivity and Earth movements*, proposing [mantle convection](https://en.wikipedia.org/wiki/Mantle_convection)
 
 ### 1930s
 - 1930 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*A Treatise on Money*](https://en.wikipedia.org/wiki/A_Treatise_on_Money)
 - 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
 - 1931 CE: [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski) published *A Non-Aristotelian System and its Necessity for Rigour in Mathematics and Physics* coining ["A map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
+- 1931 CE: [Georges Lemaître](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre) published *The Beginning of the World from the Point of View of Quantum Theory*, proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
 - 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
 - 1935 CE: [Boris Choubert](https://en.wikipedia.org/wiki/Boris_Choubert) published *Recherches sur la genèse des chaînes paléolithiques et antécambriennes* (*Research on the genesis of the Palaeolithic and Antecambrian chains*, showing how the continents had previously fit together to form the supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 - 1935-1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
