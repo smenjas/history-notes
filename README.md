@@ -43,7 +43,7 @@ Few descriptions survive, despite many discoveries.
   [Mitochondria](#mitochondria), [Chloroplasts](#chloroplasts)
 - [< 1 Billion Years Ago](#-1-billion-years-ago):
   [Hox](#hox), [Gut](#gut), [Spine](#spine), [Eye](#eye), [Jaw](#jaw),
-  [Lungs](#lungs), [Limbs](#limbs), [Womb](#womb), [Breast](#breast)
+  [Lungs](#lungs), [Limbs](#limbs), [Amniotic Sac](#amniotic_sac)
 - [< 100 Million Years Ago](#-100-million-years-ago):
   [Thumb](#thumb), [Color Vision](#color-vision), [No Tail](#no-tail)
 - [< 10 Million Years Ago](#-10-million-years-ago):
@@ -189,7 +189,7 @@ Few descriptions survive, despite many discoveries.
 - 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
 - 350 mya: O₂ exceeded 0.2 atm
 
-### Womb
+### Amniotic Sac
 - 312 mya: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
 - 305 mya: [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse)
 - 300 mya: [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) existed
@@ -201,8 +201,6 @@ Few descriptions survive, despite many discoveries.
 - 200 mya: O₂ exceeded 0.2 atm
 - 200-150 mya: CO₂ > 3000 ppm
 - 183 mya: [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover)
-
-### Breast
 - 177 mya: [Mammaliaformes](https://en.wikipedia.org/wiki/Mammaliaformes) ("mammal shaped", from Latin mamma for breast) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
 - 159 mya: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
 - 150 mya: O₂ exceeded 0.26 atm
