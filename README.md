@@ -220,7 +220,7 @@ Few descriptions survive, despite many discoveries.
 - 70 mya: [Primates evolved thumbs](https://en.wikipedia.org/wiki/Thumb#Human_Evolution)
 - 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
 - 66 mya: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
-- 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) had replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
+- 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
 - 55 mya: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO₂, global temperatures increased by 5-8 °C.
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
 - 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
@@ -400,8 +400,11 @@ Few descriptions survive, despite many discoveries.
 - 420 BCE: [Democritus](https://en.wikipedia.org/wiki/Democritus) & [Leucippus](https://en.wikipedia.org/wiki/Leucippus) formulated the [atomic theory](https://en.wikipedia.org/wiki/Atomic_theory) at [Abdera, Thrace](https://en.wikipedia.org/wiki/Abdera,_Thrace)
 - 403 BCE: [Athens](https://en.wikipedia.org/wiki/Athens) officially adopted the standard 24-letter [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
 - 400 BCE: [Laozi](https://en.wikipedia.org/wiki/Laozi) wrote the [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching)
+- 399 BCE: [The city of Athens tried Socrates for moral corruption and impiety](https://en.wikipedia.org/wiki/Trial_of_Socrates)
 - 387 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) founded his [Academy](https://en.wikipedia.org/wiki/Platonic_Academy)
 - 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29), an influential work on [philosophy](https://en.wikipedia.org/wiki/Philosophy) & [political theory](https://en.wikipedia.org/wiki/Political_philosophy)
+- 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Apology of Socrates to the Jury*](https://en.wikipedia.org/wiki/Apology_%28Xenophon%29)
+- 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Memorabilia*](https://en.wikipedia.org/wiki/Memorabilia_%28Xenophon%29), a collection of [Socratic dialogues](https://en.wikipedia.org/wiki/Socratic_dialogue)
 - 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Lacedaemonion Politeia* (*Spartan Constitution*)](https://en.wikipedia.org/wiki/Constitution_of_the_Lacedaemonians)
 - 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Anabasis* (*Expedition*)](https://en.wikipedia.org/wiki/Anabasis_%28Xenophon%29)
 
@@ -409,6 +412,7 @@ Few descriptions survive, despite many discoveries.
 - 370 BCE: [Hippocrates](https://en.wikipedia.org/wiki/Hippocrates) by the time of his death had written or inspired the [Hippocratic Corpus](https://en.wikipedia.org/wiki/Hippocratic_Corpus), [establishing medicine](https://en.wikipedia.org/wiki/History_of_medicine) and coining the [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath)
 - 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Cyropaedia*](https://en.wikipedia.org/wiki/Cyropaedia)
 - 362 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Hellenica*](https://en.wikipedia.org/wiki/Hellenica), describing the last 7 years of the [Peloponnesian War](https://en.wikipedia.org/wiki/Peloponnesian_War), following [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
+- 361 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Oeconomicus* (*Economics*)](https://en.wikipedia.org/wiki/Oeconomicus), a [Socratic dialogue](https://en.wikipedia.org/wiki/Socratic_dialogue) on agriculture and managing a household
 - 360 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Agesilaus*](https://en.wikipedia.org/wiki/Agesilaus_%28Xenophon%29)
 - 360 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Timaeus*](https://en.wikipedia.org/wiki/Timaeus_%28dialogue%29)
 - 350 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*On the Heavens*](https://en.wikipedia.org/wiki/On_the_Heavens)
