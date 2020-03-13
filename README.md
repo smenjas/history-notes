@@ -43,7 +43,7 @@ Few descriptions survive, despite many discoveries.
   [Mitochondria](#mitochondria), [Chloroplasts](#chloroplasts)
 - [< 1 Billion Years Ago](#-1-billion-years-ago):
   [Hox](#hox), [Gut](#gut), [Spine](#spine), [Eye](#eye), [Jaw](#jaw),
-  [Lungs](#lungs), [Limbs](#limbs), [Amniotic Sac](#amniotic_sac)
+  [Lungs](#lungs), [Limbs](#limbs), [Amniotic Sac](#amniotic-sac)
 - [< 100 Million Years Ago](#-100-million-years-ago):
   [Thumb](#thumb), [Color Vision](#color-vision), [No Tail](#no-tail)
 - [< 10 Million Years Ago](#-10-million-years-ago):
