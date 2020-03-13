@@ -42,9 +42,8 @@ Few descriptions survive, despite many discoveries.
 - [< 10 Billion Years Ago](#-10-billion-years-ago):
   [Mitochondria](#mitochondria), [Chloroplasts](#chloroplasts)
 - [< 1 Billion Years Ago](#-1-billion-years-ago):
-  [Hox](#hox), [Gut](#gut), [Anus](#anus), [Spine](#spine), [Eye](#eye),
-  [Jaw](#jaw), [Lungs](#lungs), [Limbs](#limbs), [Choana](#choana),
-  [Womb](#womb), [Breast](#breast)
+  [Hox](#hox), [Gut](#gut), [Spine](#spine), [Eye](#eye), [Jaw](#jaw),
+  [Lungs](#lungs), [Limbs](#limbs), [Womb](#womb), [Breast](#breast)
 - [< 100 Million Years Ago](#-100-million-years-ago):
   [Thumb](#thumb), [Color Vision](#color-vision), [No Tail](#no-tail)
 - [< 10 Million Years Ago](#-10-million-years-ago):
@@ -140,19 +139,17 @@ Few descriptions survive, despite many discoveries.
 - 900 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) emerged
 - 896? mya: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerged
 - 850 mya: O₂ was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
-- 800 mya: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
 
-### Hox
+### [Hox](https://en.wikipedia.org/wiki/Hox_gene)
 - ? mya: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
 - 680? mya: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
 - 680? mya: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
 - 824 mya: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
+- 800 mya: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
 
 ### Gut
 - 797 mya: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
 - 717 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
-
-### Anus
 - 684 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
 - 684 mya: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
 - 676 mya: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
@@ -189,8 +186,6 @@ Few descriptions survive, despite many discoveries.
 - 385 mya: [Wattieza](https://en.wikipedia.org/wiki/Wattieza), an early tree, existed
 - 375 mya: [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction), 75% of species lost
 - 360-345 mya: [Archaeopteris](https://en.wikipedia.org/wiki/Archaeopteris), an early tree, existed
-
-### [Choana](https://en.wikipedia.org/wiki/Choana)
 - 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
 - 350 mya: O₂ exceeded 0.2 atm
 
@@ -803,6 +798,7 @@ Few descriptions survive, despite many discoveries.
 - 1892 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Value, Capital and Rent*
 - 1894 CE: Heinrich Hertz published *The Principles of Mechanics Presented in a New Form*
 - 1894 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-1* (*Treatises-1*)
+- 1894 CE: [William Bateson](https://en.wikipedia.org/wiki/William_Bateson) published *Materials for the Study of Variation*, describing [homeotic mutations](https://en.wikipedia.org/wiki/Homeosis), in which an expected body-part has been replaced by another
 - 1895 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-2* (*Treatises-2*)
 
 #### Radio
@@ -828,6 +824,7 @@ Few descriptions survive, despite many discoveries.
   - *A new determination of molecular dimensions*
 - 1905 CE: Konstantin Mereschkowski published *The nature and origins of chromatophores in the plant kingdom*
 - 1905 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) published [*The Protestant Ethic and the Spirit of Capitalism*](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)
+- 1905 CE: [William Bateson](https://en.wikipedia.org/wiki/William_Bateson) coined the term ["genetics"](https://en.wikipedia.org/wiki/Genetics)
 - 1906 CE: [Daniel Barringer](https://en.wikipedia.org/wiki/Daniel_Barringer_%28geologist%29) & [Benjamin Chew Tilghman](https://en.wikipedia.org/wiki/Benjamin_Chew_Tilghman) presented *Coon Mountain and its Crater*, arguing that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
 - 1907 CE: Albert Einstein published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle)
 - 1907 CE: [Bertram Boltwood](https://en.wikipedia.org/wiki/Bertram_Boltwood) published *On the Ultimate Disintegration Products of the Radio-active Elements. Part II. The disintegration products of uranium*, describing [radiometric dating](https://en.wikipedia.org/wiki/Radiometric_dating)
