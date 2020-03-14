@@ -803,23 +803,23 @@ Few descriptions survive, despite many discoveries.
 - 1886 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Traitement de la Rage* (*Treatment of Rabies*)
 
 #### Telephone
-- 1887 CE: Alexander G. Bell patented *Transmitting and recording sounds by radiant energy*
-- 1887 CE: Alexander G. Bell patented *Reproducing sounds from phonograph records*
+- 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Transmitting and recording sounds by radiant energy*
+- 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Reproducing sounds from phonograph records*
 - 1889 CE: [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) published [*Arithmetices principia, nova methodo exposita* (*principles of arithmetic, presented by a new method*)](https://en.wikipedia.org/wiki/Arithmetices_principia,_nova_methodo_exposita), simplifying earlier work to formulate [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 
 ### 1890s
 - 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
 - 1892 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Value, Capital and Rent*
-- 1894 CE: Heinrich Hertz published *The Principles of Mechanics Presented in a New Form*
+- 1894 CE: [Heinrich Hertz](https://en.wikipedia.org/wiki/Heinrich_Hertz) published *The Principles of Mechanics Presented in a New Form*
 - 1894 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-1* (*Treatises-1*)
 - 1894 CE: [William Bateson](https://en.wikipedia.org/wiki/William_Bateson) published *Materials for the Study of Variation*, describing [homeotic mutations](https://en.wikipedia.org/wiki/Homeosis), in which an expected body-part has been replaced by another
 - 1895 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-2* (*Treatises-2*)
-- 1895 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 1* (*Contributions to the foundation of the transfinite set theory 1*
+- 1895 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 1* (*Contributions to the foundation of the transfinite set theory 1*)
 
 #### Radio
-- 1896 CE: Guglielmo Marconi patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
+- 1896 CE: [Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi) patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
 - 1896 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Studies in the theory of Public Finance*
-- 1897 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 2* (*Contributions to the foundation of the transfinite set theory 2*
+- 1897 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 2* (*Contributions to the foundation of the transfinite set theory 2*)
 - 1898 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Pflanzengeographie auf physiologischer Grundlage* (*Plant geography on a physiological basis*)
 - 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
 - 1898 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Geldzins und Güterpreise* (*Interest and Prices*)
@@ -828,7 +828,7 @@ Few descriptions survive, despite many discoveries.
 - 1900 CE: [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) published *Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum* (*On the Theory of the Energy Distribution Law of the Normal Spectrum*), originating [quantum theory](https://en.wikipedia.org/wiki/Quantum_mechanics)
 - 1900 CE: Albert Einstein published *Folgerungen aus den Capillaritätserscheinungen* (*Conclusions Drawn from the Phenomena of Capillarity*)
 - 1902 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Transcendenten* (*Theory of Abelian Transcendents*)
-- 1903 CE: K. Tsіolkovskіy published *Study of world space with jet devices*
+- 1903 CE: [Konstantin Tsіolkovskіy](https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky) published *Exploration of Outer Space with Reaction Devices*, describing his [rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
 - 1903 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-3* (*Treatises-3*)
 - 1903 CE: [Nicholas Johannsen](https://en.wikipedia.org/wiki/Nicholas_Johannsen) published *Der Kreislauf des Geldes und Mechanismus des Sozial-Lebens* (*The Circuit Theory of Money*), an early work in [monetary circuit theory](https://en.wikipedia.org/wiki/Monetary_circuit_theory)
 - 1905 CE: Albert Einstein published 5 papers:
