@@ -795,12 +795,12 @@ Few descriptions survive, despite many discoveries.
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A Theory of Probable Inference*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
 - 1882 CE: [Robert Koch](https://en.wikipedia.org/wiki/Robert_Koch) published *Die Aetiologie der Tuberculose* (*The Etiology of Tuberculosis*)
 - 1883 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Ueber unendliche, lineare Punktmannichfaltigkeiten (5)* (*About infinite, linear point manifolds (5)*), later republished as *Grundlagen einer allgemeinen Mannigfaltigkeitslehre* (*Basics of a general theory of diversity*)
-- 1883 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Über die Entwicklung der Chlorophyllkörner und Farbkörper* (*About the development of chlorophyll grains and color bodies*)
+- 1883 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Über die Entwicklung der Chlorophyllkörner und Farbkörper* (*On the development of chlorophyll grains and color bodies*)
 - 1884 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*The Foundations of Arithmetic*](https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic)
 - 1884 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) & [Joseph Jastrow](https://en.wikipedia.org/wiki/Joseph_Jastrow) published *On Small Differences in Sensation*, introducing [blinded](https://en.wikipedia.org/wiki/Blinded_experiment), [randomized controlled experiments](https://en.wikipedia.org/wiki/Randomized_controlled_trial) with [repeated measures design](https://en.wikipedia.org/wiki/Repeated_measures_design)
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Algebra of Logic: A Contribution to the Philosophy of Notation*
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) wrote a letter to [Allan Marquand](https://en.wikipedia.org/wiki/Allan_Marquand) describing how Boolean calculations could be carried via electrical switches
-- 1886 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Traitement de la Rage*
+- 1886 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Traitement de la Rage* (*Treatment of Rabies*)
 
 #### Telephone
 - 1887 CE: Alexander G. Bell patented *Transmitting and recording sounds by radiant energy*
@@ -814,11 +814,12 @@ Few descriptions survive, despite many discoveries.
 - 1894 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-1* (*Treatises-1*)
 - 1894 CE: [William Bateson](https://en.wikipedia.org/wiki/William_Bateson) published *Materials for the Study of Variation*, describing [homeotic mutations](https://en.wikipedia.org/wiki/Homeosis), in which an expected body-part has been replaced by another
 - 1895 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-2* (*Treatises-2*)
+- 1895 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 1* (*Contributions to the foundation of the transfinite set theory 1*
 
 #### Radio
 - 1896 CE: Guglielmo Marconi patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
 - 1896 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Studies in the theory of Public Finance*
-- 1897 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre (2)* (*Contributions to the foundation of the transfinite set theory (2)*
+- 1897 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 2* (*Contributions to the foundation of the transfinite set theory 2*
 - 1898 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Pflanzengeographie auf physiologischer Grundlage* (*Plant geography on a physiological basis*)
 - 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
 - 1898 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Geldzins und Güterpreise* (*Interest and Prices*)
