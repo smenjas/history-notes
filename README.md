@@ -312,22 +312,22 @@ Few descriptions survive, despite many discoveries.
 - 17-15 kya: [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas), global temperatures declined sharply
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 100m below present
 - 15-13 kya: [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial), first pronounced warming since LGM
-- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 80m below present
 - 14.5 kya: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
+- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 80m below present
 
 ### Dogs
 - 14.2 kya: [Dogs lived with humans](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog#Bonn%E2%80%93Oberkassel_dog) along the [Rhine River](https://en.wikipedia.org/wiki/Rhine)
 - 14.2-14.1 kya: [Older Dryas](https://en.wikipedia.org/wiki/Older_Dryas), global temperatures declined sharply
-- 12.9-11.7 kya: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
-- 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
 
 ### Agriculture
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
 - 13.5 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Abu Hureyra](https://en.wikipedia.org/wiki/Tell_Abu_Hureyra) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates): a few hundred people lived there year-round, the largest settlement of people anywhere at the time
 - 13 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) brewed [beer](https://en.wikipedia.org/wiki/Beer) at [Raqefet Cave](https://en.wikipedia.org/wiki/Raqefet_Cave), Israel
+- 12.9-11.7 kya: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ exceeded 250 ppm
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
-- 9650 BCE: [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
+- 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
+- 9650 BCE: [The Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
 - 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea), [wheat](https://en.wikipedia.org/wiki/Wheat), & [rye](https://en.wikipedia.org/wiki/Rye)
 - 9000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated [soybeans](https://en.wikipedia.org/wiki/Soybean)
@@ -459,7 +459,10 @@ Few descriptions survive, despite many discoveries.
 - 109 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) wrote the first 9 books of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
 - 111 CE: [Ban Biao](https://en.wikipedia.org/wiki/Ban_Biao)'s children wrote [*The Book of Han*](https://en.wikipedia.org/wiki/Book_of_Han), a [history of China](https://en.wikipedia.org/wiki/History_of_China)
 - 125 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) wrote [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
+- 131 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) wrote [*Periplus of the Euxine Sea*](https://en.wikipedia.org/wiki/Periplus_of_the_Euxine_Sea)
+- 137 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) wrote *Techne Taktike*, on [Roman military tactics](https://en.wikipedia.org/wiki/Roman_infantry_tactics)
 - 150 CE: [Claudius Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) wrote the [Almagest](https://en.wikipedia.org/wiki/Almagest), an influential work on [astronomy](https://en.wikipedia.org/wiki/Astronomy)
+- 160 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) wrote [*Alexándrou Anábasis* (*The Anabasis of Alexander*)](https://en.wikipedia.org/wiki/The_Anabasis_of_Alexander), [*Indica*](https://en.wikipedia.org/wiki/Indica_%28Arrian%29), *Ta met' Alexandron* (*Events after Alexander*), *Kynēgetikos* (*On Hunting*), and many other books by the time he died
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
 - 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote *Lives and Opinions of Eminent Philosophers*
