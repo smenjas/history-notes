@@ -398,6 +398,7 @@ Few descriptions survive, despite many discoveries.
 - 431-411 BCE [Thucydides](https://en.wikipedia.org/wiki/Thucydides) wrote the [*History of the Peloponnesian War*](https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War), establishing [scientific history](https://en.wikipedia.org/wiki/Historical_method) and documenting how the [Plague of Athens](https://en.wikipedia.org/wiki/Plague_of_Athens) spread via infection, an important milestone in the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
 - 430 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus), or someone else, wrote [Prometheus Bound](https://en.wikipedia.org/wiki/Prometheus_Bound) by this time
 - 420 BCE: [Democritus](https://en.wikipedia.org/wiki/Democritus) & [Leucippus](https://en.wikipedia.org/wiki/Leucippus) formulated the [atomic theory](https://en.wikipedia.org/wiki/Atomic_theory) at [Abdera, Thrace](https://en.wikipedia.org/wiki/Abdera,_Thrace)
+- 420 BCE: The "Old Oligarch" wrote the [*Athenaion Politeia* (*Athenian Constitution*)](https://en.wikipedia.org/wiki/Constitution_of_the_Athenians_%28Pseudo-Xenophon%29)
 - 403 BCE: [Athens](https://en.wikipedia.org/wiki/Athens) officially adopted the standard 24-letter [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
 - 400 BCE: [Laozi](https://en.wikipedia.org/wiki/Laozi) wrote the [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching)
 - 399 BCE: [The city of Athens tried Socrates for moral corruption and impiety](https://en.wikipedia.org/wiki/Trial_of_Socrates)
@@ -413,8 +414,11 @@ Few descriptions survive, despite many discoveries.
 - 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Cyropaedia*](https://en.wikipedia.org/wiki/Cyropaedia)
 - 362 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Hellenica*](https://en.wikipedia.org/wiki/Hellenica), describing the last 7 years of the [Peloponnesian War](https://en.wikipedia.org/wiki/Peloponnesian_War), following [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
 - 361 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Oeconomicus* (*Economics*)](https://en.wikipedia.org/wiki/Oeconomicus), a [Socratic dialogue](https://en.wikipedia.org/wiki/Socratic_dialogue) on agriculture and managing a household
+- 360 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Symposium*](https://en.wikipedia.org/wiki/Symposium_%28Xenophon%29)
 - 360 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Agesilaus*](https://en.wikipedia.org/wiki/Agesilaus_%28Xenophon%29)
 - 360 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Timaeus*](https://en.wikipedia.org/wiki/Timaeus_%28dialogue%29)
+- 355 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Ways and Means*](https://en.wikipedia.org/wiki/Ways_and_Means_%28Xenophon%29)
+- 354 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*On Horsemanship*](https://en.wikipedia.org/wiki/On_Horsemanship), [Hipparchicus](https://en.wikipedia.org/wiki/Hipparchicus), & [*Cynegeticus* (*On Hunting*)](https://en.wikipedia.org/wiki/Cynegeticus) by the time he died
 - 350 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*On the Heavens*](https://en.wikipedia.org/wiki/On_the_Heavens)
 - 334 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_%28Classical%29)
 - 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) wrote *Aṣṭādhyāyī* on Sanskrit grammar.
