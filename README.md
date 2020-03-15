@@ -826,12 +826,12 @@ Few descriptions survive, despite many discoveries.
 
 ## 1900s
 - 1900 CE: [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) published *Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum* (*On the Theory of the Energy Distribution Law of the Normal Spectrum*), originating [quantum theory](https://en.wikipedia.org/wiki/Quantum_mechanics)
-- 1900 CE: Albert Einstein published *Folgerungen aus den Capillaritätserscheinungen* (*Conclusions Drawn from the Phenomena of Capillarity*)
+- 1900 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Folgerungen aus den Capillaritätserscheinungen* (*Conclusions Drawn from the Phenomena of Capillarity*)
 - 1902 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Transcendenten* (*Theory of Abelian Transcendents*)
 - 1903 CE: [Konstantin Tsіolkovskіy](https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky) published *Exploration of Outer Space with Reaction Devices*, describing his [rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
 - 1903 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-3* (*Treatises-3*)
 - 1903 CE: [Nicholas Johannsen](https://en.wikipedia.org/wiki/Nicholas_Johannsen) published *Der Kreislauf des Geldes und Mechanismus des Sozial-Lebens* (*The Circuit Theory of Money*), an early work in [monetary circuit theory](https://en.wikipedia.org/wiki/Monetary_circuit_theory)
-- 1905 CE: Albert Einstein published 5 papers:
+- 1905 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published 5 papers:
   - *On a Heuristic Viewpoint Concerning the Production and Transformation of Light* (suggested quanta)
   - *On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat* (proved atomic theory)
   - *On the Electrodynamics of Moving Bodies* (introduced special relativity)
@@ -841,7 +841,7 @@ Few descriptions survive, despite many discoveries.
 - 1905 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) published [*The Protestant Ethic and the Spirit of Capitalism*](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)
 - 1905 CE: [William Bateson](https://en.wikipedia.org/wiki/William_Bateson) coined the term ["genetics"](https://en.wikipedia.org/wiki/Genetics)
 - 1906 CE: [Daniel Barringer](https://en.wikipedia.org/wiki/Daniel_Barringer_%28geologist%29) & [Benjamin Chew Tilghman](https://en.wikipedia.org/wiki/Benjamin_Chew_Tilghman) presented *Coon Mountain and its Crater*, arguing that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
-- 1907 CE: Albert Einstein published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle)
+- 1907 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle)
 - 1907 CE: [Bertram Boltwood](https://en.wikipedia.org/wiki/Bertram_Boltwood) published *On the Ultimate Disintegration Products of the Radio-active Elements. Part II. The disintegration products of uranium*, describing [radiometric dating](https://en.wikipedia.org/wiki/Radiometric_dating)
 
 #### Assembly Line
@@ -851,18 +851,18 @@ Few descriptions survive, despite many discoveries.
 
 ### 1910s
 - 1910 CE: Konstantin Mereschkowski published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms.*
-- 1911 CE: Albert Einstein published *On the Influence of Gravitation on the Propagation of Light*, allowing general relativity to be tested
+- 1911 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *On the Influence of Gravitation on the Propagation of Light*, allowing general relativity to be tested
 - 1911 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Association of Lead with Uranium in Rock-Minerals, and Its Application to the Measurement of Geological Time*, describing the first accurate [uranium-lead radiometric dating](https://en.wikipedia.org/wiki/Uranium%E2%80%93lead_dating)
 - 1912 CE: Automobiles roughly equaled the number of horses on U.S. streets
 - 1913 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Age of the Earth*
-- 1915 CE: Albert Einstein published *Die Feldgleichungen der Gravitation* (*The Field Equations of Gravitation*)
+- 1915 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Die Feldgleichungen der Gravitation* (*The Field Equations of Gravitation*)
 - 1915 CE: [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener) published *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*), developing the theory of [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
-- 1916 CE: Albert Einstein published *Näherungsweise Integration der Feldgleichungen der Gravitation* (*Approximate Integration of the Gravitational Field Equations*)
-- 1916 CE: Albert Einstein published *Die Grundlage der allgemeinen Relativitätstheorie* (*The basis of General Relativity*)
+- 1916 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Näherungsweise Integration der Feldgleichungen der Gravitation* (*Approximate Integration of the Gravitational Field Equations*)
+- 1916 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Die Grundlage der allgemeinen Relativitätstheorie* (*The basis of General Relativity*)
 - 1916 CE: [Gustav Cassel](https://en.wikipedia.org/wiki/Gustav_Cassel) published *The Present Situation of the Foreign Trade*, describing [purchasing power parity](https://en.wikipedia.org/wiki/Purchasing_power_parity)
-- 1917 CE: Albert Einstein published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
+- 1917 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
-- 1918 CE: Albert Einstein published *Gravitationswellen* (*On Gravitational Waves*)
+- 1918 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Gravitationswellen* (*On Gravitational Waves*)
 - 1919 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The Economic Consequences of the Peace*](https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace)
 
 ### 1920s
