@@ -851,7 +851,7 @@ Few descriptions survive, despite many discoveries.
 
 ### 1910s
 - 1910 CE: [Konstantin Mereschkowski](https://en.wikipedia.org/wiki/Konstantin_Mereschkowski) published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms*
-- 1911 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *On the Influence of Gravitation on the Propagation of Light*, allowing general relativity to be tested
+- 1911 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *On the Influence of Gravitation on the Propagation of Light*, allowing [general relativity](https://en.wikipedia.org/wiki/General_relativity) to be tested
 - 1911 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Association of Lead with Uranium in Rock-Minerals, and Its Application to the Measurement of Geological Time*, describing the first accurate [uranium-lead radiometric dating](https://en.wikipedia.org/wiki/Uranium%E2%80%93lead_dating)
 - 1912 CE: Automobiles roughly equaled the number of horses on U.S. streets
 - 1913 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Age of the Earth*
@@ -934,7 +934,7 @@ Few descriptions survive, despite many discoveries.
 - 1957 CE: [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp) & [Bruce C. Heezen](https://en.wikipedia.org/wiki/Bruce_C._Heezen) published a physiographic map of the North Atlantic Ocean, showing the [Mid-Atlantic Ridge](https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge)
 - 1958 CE: [Samuel Warren Carey](https://en.wikipedia.org/wiki/Samuel_Warren_Carey) published *The tectonic approach to continental drift*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1959 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*The Logic of Scientific Discovery*](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
-- 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *There's Plenty of Room at the Bottom*
+- 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented [*There's Plenty of Room at the Bottom*](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom)
 
 ### 1960s
 - 1960 CE: [François Jacob](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacob), Perrin, Sánchez, & [Jacques Monod](https://en.wikipedia.org/wiki/Jacques_Monod) published *L'opéron: groupe de gènes à expression coordonnée par un opérateur* (*Operon: a group of genes with the expression coordinated by an operator*), describing genetic feedback loops
@@ -972,8 +972,8 @@ Few descriptions survive, despite many discoveries.
 #### Internet
 - 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
 - 1969 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 2*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
-- 1969 CE: Neil Armstrong & Buzz Aldrin walked on the Moon
-- 1969 CE: R. H. Whittaker published *New concepts of kingdoms of organisms*
+- 1969 CE: [NASA's Apollo 11 mission](https://en.wikipedia.org/wiki/Apollo_11) landed 2 people on the Moon, and returned them to the Earth alive
+- 1969 CE: [Robert Whittaker](https://en.wikipedia.org/wiki/Robert_Whittaker) published *New concepts of kingdoms of organisms*
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson), [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie), & Rudd Canaday [implemented Unix in assembly for the PDP-7 computer](https://en.wikipedia.org/wiki/History_of_Unix)
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the B programming language](https://en.wikipedia.org/wiki/B_%28programming_language%29)
 
@@ -1002,6 +1002,7 @@ Few descriptions survive, despite many discoveries.
 - 1985 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *QED: The Strange Theory of Light and Matter*
 - 1986 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The METAFONTbook*
 - 1986 CE: [Leslie Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport) published *The Definitive, Non-Technical Introduction to [LaTeX](https://en.wikipedia.org/wiki/LaTeX), Professional Typesetting and Scientific Publishing*
+- 1986 CE: [K. Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler) published [*Engines of Creation*](https://en.wikipedia.org/wiki/Engines_of_Creation), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
 - 1987 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Elementary Particles and the Laws of Physics*
 - 1987 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU C Compiler*](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1987 CE: [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) released the [Perl programming language](https://en.wikipedia.org/wiki/Perl)
@@ -1018,6 +1019,7 @@ Few descriptions survive, despite many discoveries.
 - 1991 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 2* (GPLv2)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1992 CE: [William](https://en.wikipedia.org/wiki/William_Jolitz) & [Lynne Jolitz](https://en.wikipedia.org/wiki/Lynne_Jolitz) released [386BSD](https://en.wikipedia.org/wiki/386BSD)
 - 1992 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+- 1992 CE: [K. Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler) published *Nanosystems: Molecular Machinery, Manufacturing and Computation*
 - 1993 CE: Some hackers released [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD)
 - 1993 CE: [Ian Murdock](https://en.wikipedia.org/wiki/Ian_Murdock) released the [Debian operating system](https://en.wikipedia.org/wiki/Debian)
 - 1994 CE: [Apple switched from Motorola 68k chips to PowerPC](https://en.wikipedia.org/wiki/Power_Macintosh)
@@ -1384,6 +1386,7 @@ Few descriptions survive, despite many discoveries.
   - [History of electronic engineering](https://en.wikipedia.org/wiki/History_of_electronic_engineering)
   - [History of mechanical engineering](https://en.wikipedia.org/wiki/History_of_mechanical_engineering)
   - [History of structural engineering](https://en.wikipedia.org/wiki/History_of_structural_engineering)
+- [History of nanotechnology](https://en.wikipedia.org/wiki/History_of_nanotechnology)
 - [History of nuclear weapons](https://en.wikipedia.org/wiki/History_of_nuclear_weapons)
 - [History of optics](https://en.wikipedia.org/wiki/History_of_optics)
 - [History of radio](https://en.wikipedia.org/wiki/History_of_radio)
