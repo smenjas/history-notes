@@ -845,7 +845,7 @@ Few descriptions survive, despite many discoveries.
 - 1907 CE: [Bertram Boltwood](https://en.wikipedia.org/wiki/Bertram_Boltwood) published *On the Ultimate Disintegration Products of the Radio-active Elements. Part II. The disintegration products of uranium*, describing [radiometric dating](https://en.wikipedia.org/wiki/Radiometric_dating)
 
 #### Assembly Line
-- 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumbered them
+- 1908 CE: [Ford Motor Company](https://en.wikipedia.org/wiki/Ford_Motor_Company) first sold the [Model T automobile](https://en.wikipedia.org/wiki/Ford_Model_T), horses greatly outnumbered them
 - 1908 CE: [Georgy Voronoy](https://en.wikipedia.org/wiki/Georgy_Voronoy) published *Nouvelles applications des paramètres continus à la théorie de formes quadratiques* (*New applications of continuous parameters to the theory of quadratic forms*), formally defining [Voronoi diagrams](https://en.wikipedia.org/wiki/Voronoi_diagram)
 - 1909 CE: [E. M. Forster](https://en.wikipedia.org/wiki/E._M._Forster) published [*The Machine Stops*](https://en.wikipedia.org/wiki/The_Machine_Stops)
 
@@ -956,22 +956,22 @@ Few descriptions survive, despite many discoveries.
 - 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) & [Albert Hibbs](https://en.wikipedia.org/wiki/Albert_Hibbs) published *Quantum Mechanics and Path Integrals*
 - 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Character of Physical Law*
 - 1965 CE: [Norman Borlaug](https://en.wikipedia.org/wiki/Norman_Borlaug) planted dwarf spring wheat in South Asia
-- 1965 CE: Donald Knuth published *On the translation of languages from left to right*
+- 1965 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *On the translation of languages from left to right*
 - 1965 CE: [Ralph Nader](https://en.wikipedia.org/wiki/Ralph_Nader) published [*Unsafe at Any Speed*](https://en.wikipedia.org/wiki/Unsafe_at_Any_Speed)
 - 1965 CE: [Tuzo Wilson](https://en.wikipedia.org/wiki/John_Tuzo_Wilson) published *A new class of faults and their bearing on continental drift*, describing [transform faults](https://en.wikipedia.org/wiki/Transform_fault)
 - 1965 CE: [Teddy Bullard](https://en.wikipedia.org/wiki/Edward_Bullard) showed a computer model [fitting the continents together](https://en.wikipedia.org/wiki/Pangaea) at 914 m below sea level
 - 1966 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Theory of Self-Reproducing Automata*
-- 1967 CE: Lynn Sagan published *On the origin of mitosing cells*
-- 1968 CE: The FCC ruled that "any lawful device" can be connected to the AT&T network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
-- 1968 CE: Motoo Kimura published *Evolutionary rate at the molecular level*
+- 1967 CE: [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) published [*On the origin of mitosing cells*](https://www.sciencedirect.com/science/article/abs/pii/0022519367900793)
+- 1968 CE: The [FCC](https://en.wikipedia.org/wiki/Federal_Communications_Commission) ruled that "any lawful device" can be connected to the [AT&T](https://en.wikipedia.org/wiki/AT&T) network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
+- 1968 CE: [Motoo Kimura](https://en.wikipedia.org/wiki/Motoo_Kimura) published *Evolutionary rate at the molecular level*
 - 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
 - 1968 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Lessons of History*](https://en.wikipedia.org/wiki/The_Lessons_of_History)
 - 1968 CE: [Jack Oliver](https://en.wikipedia.org/wiki/Jack_Oliver_%28scientist%29) published *Seismology and the New Global Tectonics*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
-- 1968 CE: Donald Knuth published *The Art of Computer Programming, volume 1*
+- 1968 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 1*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 
 #### Internet
 - 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
-- 1969 CE: Donald Knuth published *The Art of Computer Programming, volume 2*
+- 1969 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 2*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - 1969 CE: Neil Armstrong & Buzz Aldrin walked on the Moon
 - 1969 CE: R. H. Whittaker published *New concepts of kingdoms of organisms*
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson), [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie), & Rudd Canaday [implemented Unix in assembly for the PDP-7 computer](https://en.wikipedia.org/wiki/History_of_Unix)
@@ -986,22 +986,22 @@ Few descriptions survive, despite many discoveries.
 - 1972 CE: [Nasir Ahmed](https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29) proposed using [discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) for [image compression](https://en.wikipedia.org/wiki/Image_compression)
 - 1972 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the C programming language](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 - 1973 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) [ported Unix to the PHP-11/20 in C](https://en.wikipedia.org/wiki/History_of_Unix)
-- 1973 CE: Donald Knuth published *The Art of Computer Programming, volume 3*
+- 1973 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 3*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - 1974 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published *The UNIX time-sharing system*
 - 1974 CE: [Nasir Ahmed](https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29), T. Natarajan & [K. R. Rao](https://en.wikipedia.org/wiki/K._R._Rao) published [*Discrete Cosine Transform*](https://en.wikipedia.org/wiki/Discrete_cosine_transform), a working [image compression](https://en.wikipedia.org/wiki/Image_compression) algorithm
 - 1974 CE: [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf), [Yogen Dalal](https://en.wikipedia.org/wiki/List_of_Internet_pioneers#Yogen_Dalal) & Carl Sunshine published [RFC 675](https://tools.ietf.org/html/rfc675), specifying [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - 1975 CE: [Endre Szemerédi](https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di) published *On sets of integers containing no k elements in arithmetic progression*
-- 1976 CE: Robert M. May published *Simple mathematical models with very complicated dynamics*
-- 1977 CE: Carl Woese published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*
+- 1976 CE: [Robert M. May](https://en.wikipedia.org/wiki/Robert_May,_Baron_May_of_Oxford) published [*Simple mathematical models with very complicated dynamics*](https://www.nature.com/articles/261459a0), popularizing the [logisitic map](https://en.wikipedia.org/wiki/Logistic_map) and demonstrating [chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)
+- 1977 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*
 - 1978 CE: [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - 1978 CE: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) released the [BSD operating system](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), including [ex](https://en.wikipedia.org/wiki/Ex_%28text_editor%29) and thus [vi](https://en.wikipedia.org/wiki/Vi)
 
 ### 1980s
 - 1984 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Macintosh](https://en.wikipedia.org/wiki/Macintosh)
-- 1984 CE: Donald Knuth published *The TeXbook*
+- 1984 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The TeXbook*
 - 1985 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *QED: The Strange Theory of Light and Matter*
-- 1986 CE: Donald Knuth published *The METAFONTbook*
-- 1986 CE: Leslie Lamport published *The Definitive, Non-Technical Introduction to LaTeX, Professional Typesetting and Scientific Publishing*
+- 1986 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The METAFONTbook*
+- 1986 CE: [Leslie Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport) published *The Definitive, Non-Technical Introduction to [LaTeX](https://en.wikipedia.org/wiki/LaTeX), Professional Typesetting and Scientific Publishing*
 - 1987 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Elementary Particles and the Laws of Physics*
 - 1987 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU C Compiler*](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1987 CE: [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) released the [Perl programming language](https://en.wikipedia.org/wiki/Perl)
@@ -1010,7 +1010,7 @@ Few descriptions survive, despite many discoveries.
 
 ### 1990s
 - 1990 CE: CO₂ exceeded 360 ppm
-- 1990 CE: Woese et al published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
+- 1990 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) et al. published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
 - 1990 CE: [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) released the [Python programming language](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 
 #### World Wide Web
@@ -1026,24 +1026,24 @@ Few descriptions survive, despite many discoveries.
 - 1995 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Lectures on Gravitation*
 - 1997 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
 - 1997 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Search](https://en.wikipedia.org/wiki/Google_Search)
-- 1998 CE: T. Cavalier-Smith published *A revised six-kingdom system of life*
-- 1998 CE: [Netscape](https://en.wikipedia.org/wiki/Netscape) published [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator) as open source software
+- 1998 CE: [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith) published *A revised six-kingdom system of life*
+- 1998 CE: [Netscape](https://en.wikipedia.org/wiki/Netscape) published [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 
 ## 2000s
 - 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29)
 - 2000 CE: CO₂ exceeded 370 ppm
-- 2000 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Feynman Lectures on Computation*
-- 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published [KHTML](https://en.wikipedia.org/wiki/KHTML), the predecessor to WebKit
+- 2000 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published the *Feynman Lectures on Computation*
+- 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published [KHTML](https://en.wikipedia.org/wiki/KHTML), the predecessor to [WebKit](https://en.wikipedia.org/wiki/WebKit)
 - 2000 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) et al. published *Long-range Air Transport of Dioxin from North American Sources to Ecologically Vulnerable Receptors in Nunavut, Arctic Canada*
 - 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 - 2001 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Earth](https://en.wikipedia.org/wiki/Google_Earth)
 - 2003 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Fedora operating system](https://en.wikipedia.org/wiki/Fedora_%28operating_system%29)
 - 2004 CE: [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth) released the [Ubuntu operating system](https://en.wikipedia.org/wiki/Mark_Shuttleworth)
-- 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) published [Markdown](https://en.wikipedia.org/wiki/Markdown) as open source software
+- 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) published [Markdown](https://en.wikipedia.org/wiki/Markdown) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2004 CE: [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) published [*The Ancestor's Tale*](https://en.wikipedia.org/wiki/The_Ancestor%27s_Tale)
-- 2005 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published [Git](https://en.wikipedia.org/wiki/Git) as open source software
+- 2005 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published [Git](https://en.wikipedia.org/wiki/Git) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2005 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)
-- 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) published [WebKit](https://en.wikipedia.org/wiki/WebKit) as open source software
+- 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) published [WebKit](https://en.wikipedia.org/wiki/WebKit) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2006 CE: [Apple switched from PowerPC chips to Intel x86](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
 - 2006 CE: CO₂ exceeded 380 ppm
 - 2006 CE: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) published the [Java Virtual Machine (JVM)](https://en.wikipedia.org/wiki/Java_virtual_machine) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
@@ -1055,11 +1055,11 @@ Few descriptions survive, despite many discoveries.
 ### 2010s
 - 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPad](https://en.wikipedia.org/wiki/IPad), a practical solid-state computer with a relatively large screen
 - 2011 CE: CO₂ exceeded 390 ppm
-- 2011 CE: Donald Knuth published *The Art of Computer Programming, volume 4A*
+- 2011 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 4A*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - 2012 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model S](https://en.wikipedia.org/wiki/Tesla_Model_S), a somewhat expensive, practical electric car
 - 2013 CE: Daily average CO₂ exceeded 400 ppm
-- 2015 CE: T. Cavalier-Smith et al published *A higher level classification of all living organisms*
-- 2015 CE: Anja Spang et al published *Complex archaea that bridge the gap between prokaryotes and eukaryotes*
+- 2015 CE: [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith) et al. published [*A higher level classification of all living organisms*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119248)
+- 2015 CE: Anja Spang et al. published [*Complex archaea that bridge the gap between prokaryotes and eukaryotes*](https://www.nature.com/articles/nature14447)
 - 2015 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [landed an orbital rocket vertically](https://en.wikipedia.org/wiki/Falcon_9_flight_20)
 - 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
 - 2018 CE: Daily average CO₂ exceeded 410 ppm
@@ -1137,6 +1137,7 @@ Few descriptions survive, despite many discoveries.
   - [List of systems of plant taxonomy](https://en.wikipedia.org/wiki/List_of_systems_of_plant_taxonomy)
 
 ### Sources
+- [Catalogue of Life](https://www.catalogueoflife.org/)
 - [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
 - [Fred Smitha: Macrohistory, World History](http://www.fsmitha.com/)
 - [Google Books](https://books.google.com/)
