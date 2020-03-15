@@ -789,6 +789,7 @@ Few descriptions survive, despite many discoveries.
 
 #### Statistics
 - 1878 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Illustrations of the Logic of Science*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
+- 1878 CE: [Eadweard Muybridge](https://en.wikipedia.org/wiki/Eadweard_Muybridge) photographed [*The Horse in Motion*](https://en.wikipedia.org/wiki/The_Horse_in_Motion), the first real-time motion picture sequence
 - 1879 CE: [Emile Berliner](https://en.wikipedia.org/wiki/Emile_Berliner) patented an *Improvement in electrical-contact telephones*, the carbon microphone
 - 1879 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (*concept-script*)
 
@@ -1397,6 +1398,7 @@ Few descriptions survive, despite many discoveries.
   - [History of electronic engineering](https://en.wikipedia.org/wiki/History_of_electronic_engineering)
   - [History of mechanical engineering](https://en.wikipedia.org/wiki/History_of_mechanical_engineering)
   - [History of structural engineering](https://en.wikipedia.org/wiki/History_of_structural_engineering)
+- [History of film technology](https://en.wikipedia.org/wiki/History_of_film_technology)
 - [History of nanotechnology](https://en.wikipedia.org/wiki/History_of_nanotechnology)
 - [History of nuclear weapons](https://en.wikipedia.org/wiki/History_of_nuclear_weapons)
 - [History of optics](https://en.wikipedia.org/wiki/History_of_optics)
