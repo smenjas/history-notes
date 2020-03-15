@@ -329,6 +329,7 @@ Few descriptions survive, despite many discoveries.
 - 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
 - 9650 BCE: [The Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
+- 9000 BCE: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) settled [Jericho](https://en.wikipedia.org/wiki/Jericho)
 - 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea), [wheat](https://en.wikipedia.org/wiki/Wheat), & [rye](https://en.wikipedia.org/wiki/Rye)
 - 9000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated [soybeans](https://en.wikipedia.org/wiki/Soybean)
 - 8600 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated [cattle](https://en.wikipedia.org/wiki/Cattle)
@@ -434,13 +435,13 @@ Few descriptions survive, despite many discoveries.
 - 280 BCE: [Aristarchus of Samos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) wrote [*On the Sizes and Distances (of the Sun and Moon)*](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_%28Aristarchus%29)
 - 260 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Kandahar Bilingual Rock Inscription](https://en.wikipedia.org/wiki/Kandahar_Bilingual_Rock_Inscription)
 - 259 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Minor Rock Edicts](https://en.wikipedia.org/wiki/Minor_Rock_Edicts) with [Brahmi numerals](https://en.wikipedia.org/wiki/Brahmi_numerals), precursors to the [Hindu numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) but lacking [zero](https://en.wikipedia.org/wiki/0)
-- 250 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
-- 250 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) wrote [*On Floating Bodies*](https://en.wikipedia.org/wiki/On_Floating_Bodies), describing [Archimedes' principle](https://en.wikipedia.org/wiki/Archimedes%27_principle)
+- 250 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
+- 250 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) wrote [*On Floating Bodies*](https://en.wikipedia.org/wiki/On_Floating_Bodies), describing [Archimedes' principle](https://en.wikipedia.org/wiki/Archimedes%27_principle)
 - 240 BCE: [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) measured the [Earth's circumference](https://en.wikipedia.org/wiki/Earth's_circumference)
-- 234 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
+- 234 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
 - 230 BCE: [Aristarchus of Samos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) by the time of his death wrote [*Peri megethon kai apostematon* (*On the Sizes and Distances*)](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_%28Aristarchus%29), correctly concluding that the Sun is larger than the Earth, and the Earth orbits the Sun, i.e. [the heliocentric model](https://en.wikipedia.org/wiki/Heliocentrism)
 - 220-150 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) invented the [astrolabe](https://en.wikipedia.org/wiki/Astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
-- 212 BCE: [Archimedes](https://en.wikipedia.org/wiki/Archimedes) wrote many mathematical works including [*Perí sfaíras kaí kylíndrou* (*On the Sphere & Cylinder*)](https://en.wikipedia.org/wiki/On_the_Sphere_and_Cylinder) which gave the [Archimedean property](https://en.wikipedia.org/wiki/Archimedean_property), and deployed a heat ray by the time of his death
+- 212 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) wrote many mathematical works including [*Perí sfaíras kaí kylíndrou* (*On the Sphere & Cylinder*)](https://en.wikipedia.org/wiki/On_the_Sphere_and_Cylinder) which gave the [Archimedean property](https://en.wikipedia.org/wiki/Archimedean_property), and deployed a heat ray by the time of his death
 - 200 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) wrote *Conics* and other works on mathematics
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
 - 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar.
@@ -457,14 +458,14 @@ Few descriptions survive, despite many discoveries.
 - 77 CE: [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder) wrote [*Naturalis Historia* (*Natural History*)](https://en.wikipedia.org/wiki/Natural_History_%28Pliny%29)
 - 95 CE: [Quintillian](https://en.wikipedia.org/wiki/Quintilian) wrote [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria): his aim was "the education of the perfect orator", and he taught Pliny the Younger [rhetoric](https://en.wikipedia.org/wiki/Rhetoric)
 - 99 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) wrote the first book of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
-- 108 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) wrote [*Discourses of Epictetus*](https://en.wikipedia.org/wiki/Discourses_of_Epictetus)
+- 108 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Discourses of Epictetus*](https://en.wikipedia.org/wiki/Discourses_of_Epictetus)
 - 109 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) wrote the first 9 books of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
 - 111 CE: [Ban Biao](https://en.wikipedia.org/wiki/Ban_Biao)'s children wrote [*The Book of Han*](https://en.wikipedia.org/wiki/Book_of_Han), a [history of China](https://en.wikipedia.org/wiki/History_of_China)
-- 125 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) wrote [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
-- 131 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) wrote [*Periplus of the Euxine Sea*](https://en.wikipedia.org/wiki/Periplus_of_the_Euxine_Sea)
-- 137 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) wrote *Techne Taktike*, on [Roman military tactics](https://en.wikipedia.org/wiki/Roman_infantry_tactics)
+- 125 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
+- 131 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Periplus of the Euxine Sea*](https://en.wikipedia.org/wiki/Periplus_of_the_Euxine_Sea)
+- 137 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote *Techne Taktike*, on [Roman military tactics](https://en.wikipedia.org/wiki/Roman_infantry_tactics)
 - 150 CE: [Claudius Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) wrote the [Almagest](https://en.wikipedia.org/wiki/Almagest), an influential work on [astronomy](https://en.wikipedia.org/wiki/Astronomy)
-- 160 CE: [Arrian](https://en.wikipedia.org/wiki/Arrian) wrote [*Alexándrou Anábasis* (*The Anabasis of Alexander*)](https://en.wikipedia.org/wiki/The_Anabasis_of_Alexander), [*Indica*](https://en.wikipedia.org/wiki/Indica_%28Arrian%29), *Ta met' Alexandron* (*Events after Alexander*), *Kynēgetikos* (*On Hunting*), and many other books by the time he died
+- 160 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Alexándrou Anábasis* (*The Anabasis of Alexander*)](https://en.wikipedia.org/wiki/The_Anabasis_of_Alexander), [*Indica*](https://en.wikipedia.org/wiki/Indica_%28Arrian%29), *Ta met' Alexandron* (*Events after Alexander*), *Kynēgetikos* (*On Hunting*), and many other books by the time he died
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
 - 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote *Lives and Opinions of Eminent Philosophers*
@@ -1224,6 +1225,7 @@ Few descriptions survive, despite many discoveries.
   - [Timeline of mathematics](https://en.wikipedia.org/wiki/Timeline_of_mathematics)
     - [Timeline of algorithms](https://en.wikipedia.org/wiki/Timeline_of_algorithms)
     - [Timeline of manifolds](https://en.wikipedia.org/wiki/Timeline_of_manifolds)
+    - [Timeline of mathematical logic](https://en.wikipedia.org/wiki/Timeline_of_mathematical_logic)
     - [Timeline of numerical analysis after 1945](https://en.wikipedia.org/wiki/Timeline_of_numerical_analysis_after_1945)
   - [Timeline of scientific computing](https://en.wikipedia.org/wiki/Timeline_of_scientific_computing)
   - [Timeline of scientific discoveries](https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries)
@@ -1340,7 +1342,12 @@ Few descriptions survive, despite many discoveries.
 - [History of entropy](https://en.wikipedia.org/wiki/History_of_entropy)
 - [History of materials science](https://en.wikipedia.org/wiki/History_of_materials_science)
 - [History of mathematics](https://en.wikipedia.org/wiki/History_of_mathematics)
+  - [History of logic](https://en.wikipedia.org/wiki/History_of_logic)
+    - [History of abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning#History)
+    - [History of deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning#History)
+    - [History of inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning#History)
   - [History of mathematical notation](https://en.wikipedia.org/wiki/History_of_mathematical_notation)
+  - [History of the function concept](https://en.wikipedia.org/wiki/History_of_the_function_concept)
 - [History of medicine](https://en.wikipedia.org/wiki/History_of_medicine)
   - [Germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
 - [History of physics](https://en.wikipedia.org/wiki/History_of_physics)
