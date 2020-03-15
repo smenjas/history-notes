@@ -313,7 +313,6 @@ Few descriptions survive, despite many discoveries.
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 100m below present
 - 15-13 kya: [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial), first pronounced warming since LGM
 - 14.5 kya: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
-- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 80m below present
 
 ### Dogs
 - 14.2 kya: [Dogs lived with humans](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog#Bonn%E2%80%93Oberkassel_dog) along the [Rhine River](https://en.wikipedia.org/wiki/Rhine)
@@ -321,6 +320,7 @@ Few descriptions survive, despite many discoveries.
 
 ### Agriculture
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
+- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 80m below present
 - 13.5 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Abu Hureyra](https://en.wikipedia.org/wiki/Tell_Abu_Hureyra) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates): a few hundred people lived there year-round, the largest settlement of people anywhere at the time
 - 13 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) brewed [beer](https://en.wikipedia.org/wiki/Beer) at [Raqefet Cave](https://en.wikipedia.org/wiki/Raqefet_Cave), Israel
 - 12.9-11.7 kya: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
