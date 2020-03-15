@@ -837,7 +837,7 @@ Few descriptions survive, despite many discoveries.
   - *On the Electrodynamics of Moving Bodies* (introduced special relativity)
   - *Does the Inertia of a Body Depend Upon Its Energy Content?* (showed the equivalence of matter and energy, i.e. E=mc²)
   - *A new determination of molecular dimensions*
-- 1905 CE: Konstantin Mereschkowski published *The nature and origins of chromatophores in the plant kingdom*
+- 1905 CE: [Konstantin Mereschkowski](https://en.wikipedia.org/wiki/Konstantin_Mereschkowski) published *The nature and origins of chromatophores in the plant kingdom*
 - 1905 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) published [*The Protestant Ethic and the Spirit of Capitalism*](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)
 - 1905 CE: [William Bateson](https://en.wikipedia.org/wiki/William_Bateson) coined the term ["genetics"](https://en.wikipedia.org/wiki/Genetics)
 - 1906 CE: [Daniel Barringer](https://en.wikipedia.org/wiki/Daniel_Barringer_%28geologist%29) & [Benjamin Chew Tilghman](https://en.wikipedia.org/wiki/Benjamin_Chew_Tilghman) presented *Coon Mountain and its Crater*, arguing that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
@@ -847,10 +847,10 @@ Few descriptions survive, despite many discoveries.
 #### Assembly Line
 - 1908 CE: Ford Motor Company first sold the Model T automobile, horses greatly outnumbered them
 - 1908 CE: [Georgy Voronoy](https://en.wikipedia.org/wiki/Georgy_Voronoy) published *Nouvelles applications des paramètres continus à la théorie de formes quadratiques* (*New applications of continuous parameters to the theory of quadratic forms*), formally defining [Voronoi diagrams](https://en.wikipedia.org/wiki/Voronoi_diagram)
-- 1909 CE: E. M. Forster published *The Machine Stops*
+- 1909 CE: [E. M. Forster](https://en.wikipedia.org/wiki/E._M._Forster) published [*The Machine Stops*](https://en.wikipedia.org/wiki/The_Machine_Stops)
 
 ### 1910s
-- 1910 CE: Konstantin Mereschkowski published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms.*
+- 1910 CE: [Konstantin Mereschkowski](https://en.wikipedia.org/wiki/Konstantin_Mereschkowski) published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms*
 - 1911 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *On the Influence of Gravitation on the Propagation of Light*, allowing general relativity to be tested
 - 1911 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Association of Lead with Uranium in Rock-Minerals, and Its Application to the Measurement of Geological Time*, describing the first accurate [uranium-lead radiometric dating](https://en.wikipedia.org/wiki/Uranium%E2%80%93lead_dating)
 - 1912 CE: Automobiles roughly equaled the number of horses on U.S. streets
@@ -874,11 +874,11 @@ Few descriptions survive, despite many discoveries.
 - 1922 CE: [Gago Coutinho](https://en.wikipedia.org/wiki/Carlos_Viegas_Gago_Coutinho) modified the [sextant](https://en.wikipedia.org/wiki/Sextant) for [aeronautical](https://en.wikipedia.org/wiki/Aeronautics) [navigation](https://en.wikipedia.org/wiki/Navigation)
 - 1922 CE: [Alexander Friedmann](https://en.wikipedia.org/wiki/Alexander_Friedmann) published *Über die Krümmung des Raumes* (*On the curvature of space*), hypothesizing that [the universe is expanding](https://en.wikipedia.org/wiki/Expansion_of_the_universe)
 - 1923 CE: [Harry Ricardo](https://en.wikipedia.org/wiki/Harry_Ricardo) published *The Internal Combustion Engine*
-- 1923 CE: John von Neumann published *On the introduction of transfinite numbers*
+- 1923 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *On the introduction of transfinite numbers*
 - 1923 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published *Tract on Monetray Reform*
 - 1924 CE: [Alexander Friedmann](https://en.wikipedia.org/wiki/Alexander_Friedmann) published *Über die Möglichkeit einer Welt mit konstanter negativer Krümmung des Raumes* (*On the possibility of a world with constant negative curvature of space*), proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
-- 1925 CE: É. Chatton published *Pansporella perplexa*
-- 1925 CE: John von Neumann published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
+- 1925 CE: [Édouard Chatton](https://en.wikipedia.org/wiki/%C3%89douard_Chatton) published *Pansporella perplex: Reflections on the Biology and Phylogeny of the Protozoa*, distinguishing [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote) from [prokaryotes](https://en.wikipedia.org/wiki/Prokaryote)
+- 1925 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
 - 1927 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Variationsrechnung* (*Calculus of Variations*)
 - 1927 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *A Geological Comparison of South America with South Africa*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
 - 1927 CE: [Georges Lemaître](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre) published *Un Univers homogène de masse constante et de rayon croissant rendant compte de la vitesse radiale des nébuleuses extra-galactiques* (*A homogeneous universe of constant mass and increasing radius accounting for the radial speed of extra-galactic nebulae*), hypothesizing that [the universe is expanding](https://en.wikipedia.org/wiki/Expansion_of_the_universe), and describing what would become [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law)
@@ -886,42 +886,42 @@ Few descriptions survive, despite many discoveries.
 
 ### 1930s
 - 1930 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*A Treatise on Money*](https://en.wikipedia.org/wiki/A_Treatise_on_Money)
-- 1931 CE: Kurt Gödel published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
+- 1931 CE: [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
 - 1931 CE: [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski) published *A Non-Aristotelian System and its Necessity for Rigour in Mathematics and Physics* coining ["A map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
 - 1931 CE: [Georges Lemaître](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre) published *The Beginning of the World from the Point of View of Quantum Theory*, proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
-- 1932 CE: John von Neumann published *Mathematical Foundations of Quantum Mechanics*
+- 1932 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Mathematical Foundations of Quantum Mechanics*
 - 1935 CE: [Boris Choubert](https://en.wikipedia.org/wiki/Boris_Choubert) published *Recherches sur la genèse des chaînes paléolithiques et antécambriennes* (*Research on the genesis of the Palaeolithic and Antecambrian chains*, showing how the continents had previously fit together to form the supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 - 1935-1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 
 #### Turing Machine
-- 1936 CE: Alan Turing published *On Computable Numbers, with an Application to the Entscheidungsproblem*
-- 1936 CE: Theodore P. Wright published *Factors affecting the costs of airplanes*
-- 1936 CE: Alonzo Church published *An unsolvable problem of elementary number theory*
-- 1936 CE: Dale Carnegie published *How to Win Friends and Influence People*
-- 1936 CE: Rosser published *Extensions of some theorems of Gödel and Church*
+- 1936 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *On Computable Numbers, with an Application to the Entscheidungsproblem*
+- 1936 CE: [Theodore P. Wright](https://en.wikipedia.org/wiki/Theodore_Paul_Wright) published *Factors affecting the costs of airplanes*
+- 1936 CE: [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) published *An unsolvable problem of elementary number theory*
+- 1936 CE: [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) published [*How to Win Friends and Influence People*](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
+- 1936 CE: [J. Barkley Rosser](https://en.wikipedia.org/wiki/J._Barkley_Rosser) published *Extensions of some theorems of Gödel and Church*
 - 1936 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The General Theory of Employment, Interest and Money*](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money), an influential book on [macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
-- 1937 CE: John von Neumann published *Continuous geometries with a transition probability*
+- 1937 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Continuous geometries with a transition probability*
 - 1937 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *Our Wandering Continents*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
-- 1938 CE: H. Copeland published *The kingdoms of organisms*
-- 1938 CE: Kurt Gödel published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
+- 1938 CE: [Herbert Copeland](https://en.wikipedia.org/wiki/Herbert_Copeland) published *The kingdoms of organisms*
+- 1938 CE: [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
 - 1938 CE: [Alfred O. C. Nier](https://en.wikipedia.org/wiki/Alfred_O._C._Nier) published measurements of the relative abundance of the isotopes of uranium
-- 1939 CE: Linus Pauling published *The Nature of the Chemical Bond*
+- 1939 CE: [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *The Nature of the Chemical Bond*
 - 1939 CE: [The Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
 - 1939 CE: [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) & [Otto Robert Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) published *Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction*, describing [nuclear fission](https://en.wikipedia.org/wiki/Nuclear_fission)
 
 ### 1940s
 - 1940 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*How to Pay for the War*](https://en.wikipedia.org/wiki/How_to_Pay_for_the_War), discussing [price controls](https://en.wikipedia.org/wiki/Price_controls)
-- 1942 CE: Richard Feynman published *The Principle of Least Action in Quantum Mechanics*
+- 1942 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Principle of Least Action in Quantum Mechanics*
 - 1942 CE: [John Vincent Atanasoff](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff) & [Clifford Berry](https://en.wikipedia.org/wiki/Clifford_Berry) demonstrated the [Atanasoff–Berry computer (ABC)](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer), the first [digital electronic computer](https://en.wikipedia.org/wiki/Digital_electronic_computer), and used it to solve [linear equations](https://en.wikipedia.org/wiki/Linear_equation)
-- 1943 CE: British codebreakers invent the Colossus: the first programmable electronic digital computer
-- 1944 CE: John von Neumann published *First Draft of a Report on the EDVAC*
+- 1943 CE: British [codebreakers](https://en.wikipedia.org/wiki/Cryptanalysis) invent the [Colossus](https://en.wikipedia.org/wiki/Colossus_computer): the first programmable electronic digital computer
+- 1944 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *First Draft of a Report on the EDVAC*
 - 1944 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *Principles of Physical Geology*, promoting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
-- 1945 CE: Vannevar Bush published *As We May Think*
-- 1947 CE: Kathleen Booth published *General considerations in the design of an all purpose electronic digital computer (Coding for the ARC, 2nd ed)*, introducing assembly language
+- 1945 CE: [Vannevar Bush](https://en.wikipedia.org/wiki/Vannevar_Bush) published [*As We May Think*](https://en.wikipedia.org/wiki/As_We_May_Think), anticipating [information society](https://en.wikipedia.org/wiki/Information_society)
+- 1947 CE: [Kathleen Booth](https://en.wikipedia.org/wiki/Kathleen_Booth) published *General considerations in the design of an all purpose electronic digital computer (Coding for the ARC, 2nd ed)*, introducing [assembly language](https://en.wikipedia.org/wiki/Assembly_language)
 - 1947 CE: [Marjory Stoneman Douglas](https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas) published [*The Everglades: River of Grass*](https://en.wikipedia.org/wiki/The_Everglades:_River_of_Grass)
 - 1947 CE: [Paul Samuelson](https://en.wikipedia.org/wiki/Paul_Samuelson) published [*Foundations of Economic Analysis*](https://en.wikipedia.org/wiki/Foundations_of_Economic_Analysis)
-- 1948 CE: Claude Shannon published *A Mathematical Theory of Communication*
-- 1948 CE: John von Neumann published *The general and logical theory of automata*
+- 1948 CE: [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) published [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication), founding [information theory](https://en.wikipedia.org/wiki/Information_theory)
+- 1948 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *The general and logical theory of automata*
 - 1948 CE: [Paul Samuelson](https://en.wikipedia.org/wiki/Paul_Samuelson) & [William Nordhaus](https://en.wikipedia.org/wiki/William_Nordhaus) published [*Economics: An Introductory Analysis*](https://en.wikipedia.org/wiki/Economics_%28textbook%29)
 - 1949 CE: [Keith Runcorn](https://en.wikipedia.org/wiki/Keith_Runcorn) published *Investigations relating to the main geomagnetic field*, proposing [paleomagnetism](https://en.wikipedia.org/wiki/Paleomagnetism)
 
@@ -932,36 +932,35 @@ Few descriptions survive, despite many discoveries.
 - 1955 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) announced the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine), developed and tested since 1947
 - 1956 CE: [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States)
 - 1957 CE: [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp) & [Bruce C. Heezen](https://en.wikipedia.org/wiki/Bruce_C._Heezen) published a physiographic map of the North Atlantic Ocean, showing the [Mid-Atlantic Ridge](https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge)
-- 1958 CE: [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29) developed the [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_%28programming_language%29)
 - 1958 CE: [Samuel Warren Carey](https://en.wikipedia.org/wiki/Samuel_Warren_Carey) published *The tectonic approach to continental drift*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
-- 1959 CE: Karl Popper published *The Logic of Scientific Discovery*
-- 1959 CE: Richard Feynman presented *There's Plenty of Room at the Bottom*
+- 1959 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*The Logic of Scientific Discovery*](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
+- 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *There's Plenty of Room at the Bottom*
 
 ### 1960s
 - 1960 CE: [François Jacob](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacob), Perrin, Sánchez, & [Jacques Monod](https://en.wikipedia.org/wiki/Jacques_Monod) published *L'opéron: groupe de gènes à expression coordonnée par un opérateur* (*Operon: a group of genes with the expression coordinated by an operator*), describing genetic feedback loops
-- 1960 CE: John McCarthy published *Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I*
-- 1960 CE: John von Neumann published *Continuous geometry*
+- 1960 CE: [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29) published *Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I*, describing the [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_%28programming_language%29)
+- 1960 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Continuous geometry*
 - 1960 CE: [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) and [Alfréd Rényi](https://en.wikipedia.org/wiki/Alfr%C3%A9d_R%C3%A9nyi) published *On the evolution of random graphs*
 - 1960 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *Nature of great oceanic ridges*, describing [mid-ocean ridges](https://en.wikipedia.org/wiki/Mid-ocean_ridge)
 - 1960 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *Evolution of ocean basins*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1960 CE: [Gene Shoemaker](https://en.wikipedia.org/wiki/Eugene_Merle_Shoemaker) published *First Natural Occurrence of Coesite*, proving that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
-- 1961 CE: Richard Feynman presented *Theory of Fundamental Processes*
-- 1961 CE: Richard Feynman presented *Quantum Electrodynamics*
+- 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Theory of Fundamental Processes*
+- 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Quantum Electrodynamics*
 - 1961 CE: [Robert S. Dietz](https://en.wikipedia.org/wiki/Robert_S._Dietz) published *Continent and Ocean Basin Evolution by Spreading of the Sea Floor*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1962 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *History of Ocean Basins*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
-- 1962 CE: Émile Zuckerkandl & Linus Pauling published *Molecular disease, evolution, and genic heterogeneity*
+- 1962 CE: [Émile Zuckerkandl](https://en.wikipedia.org/wiki/Emile_Zuckerkandl) & [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *Molecular disease, evolution, and genic heterogeneity*
 - 1962 CE: [L. R. Ford, Jr.](https://en.wikipedia.org/wiki/L._R._Ford_Jr.) & [D. R. Fulkerson](https://en.wikipedia.org/wiki/D._R._Fulkerson) published *Network Flows and General Matchings*
-- 1962 CE: Thomas S. Kuhn published *The Structure of Scientific Revolutions*
+- 1962 CE: [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn) published [*The Structure of Scientific Revolutions*](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions), introducing the term ["paradigm shift"](https://en.wikipedia.org/wiki/Paradigm_shift)
 - 1962 CE: [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson) published [*Silent Spring*](https://en.wikipedia.org/wiki/Silent_Spring)
-- 1964 CE: Richard Feynman published *The Feynman Lectures on Physics*
-- 1965 CE: Richard Feynman & Albert Hibbs published *Quantum Mechanics and Path Integrals*
-- 1965 CE: Richard Feynman published *The Character of Physical Law*
-- 1965 CE: Norman Borlaug planted dwarf spring wheat in South Asia
+- 1964 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Feynman Lectures on Physics*
+- 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) & [Albert Hibbs](https://en.wikipedia.org/wiki/Albert_Hibbs) published *Quantum Mechanics and Path Integrals*
+- 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Character of Physical Law*
+- 1965 CE: [Norman Borlaug](https://en.wikipedia.org/wiki/Norman_Borlaug) planted dwarf spring wheat in South Asia
 - 1965 CE: Donald Knuth published *On the translation of languages from left to right*
 - 1965 CE: [Ralph Nader](https://en.wikipedia.org/wiki/Ralph_Nader) published [*Unsafe at Any Speed*](https://en.wikipedia.org/wiki/Unsafe_at_Any_Speed)
 - 1965 CE: [Tuzo Wilson](https://en.wikipedia.org/wiki/John_Tuzo_Wilson) published *A new class of faults and their bearing on continental drift*, describing [transform faults](https://en.wikipedia.org/wiki/Transform_fault)
 - 1965 CE: [Teddy Bullard](https://en.wikipedia.org/wiki/Edward_Bullard) showed a computer model [fitting the continents together](https://en.wikipedia.org/wiki/Pangaea) at 914 m below sea level
-- 1966 CE: John von Neumann published *Theory of Self-Reproducing Automata*
+- 1966 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Theory of Self-Reproducing Automata*
 - 1967 CE: Lynn Sagan published *On the origin of mitosing cells*
 - 1968 CE: The FCC ruled that "any lawful device" can be connected to the AT&T network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
 - 1968 CE: Motoo Kimura published *Evolutionary rate at the molecular level*
@@ -983,7 +982,7 @@ Few descriptions survive, despite many discoveries.
 - 1970 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) ported Unix to the PHP-11/20 in assembly
 - 1971 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published the [*UNIX Programmer's Manual*](https://en.wikipedia.org/wiki/Man_page)
 - 1971 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) published *The Closing Circle*
-- 1972 CE: Richard Feynman published *Statistical Mechanics*
+- 1972 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Statistical Mechanics*
 - 1972 CE: [Nasir Ahmed](https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29) proposed using [discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) for [image compression](https://en.wikipedia.org/wiki/Image_compression)
 - 1972 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the C programming language](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 - 1973 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) [ported Unix to the PHP-11/20 in C](https://en.wikipedia.org/wiki/History_of_Unix)
@@ -1000,10 +999,10 @@ Few descriptions survive, despite many discoveries.
 ### 1980s
 - 1984 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Macintosh](https://en.wikipedia.org/wiki/Macintosh)
 - 1984 CE: Donald Knuth published *The TeXbook*
-- 1985 CE: Richard Feynman published *QED: The Strange Theory of Light and Matter*
+- 1985 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *QED: The Strange Theory of Light and Matter*
 - 1986 CE: Donald Knuth published *The METAFONTbook*
 - 1986 CE: Leslie Lamport published *The Definitive, Non-Technical Introduction to LaTeX, Professional Typesetting and Scientific Publishing*
-- 1987 CE: Richard Feynman published *Elementary Particles and the Laws of Physics*
+- 1987 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Elementary Particles and the Laws of Physics*
 - 1987 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU C Compiler*](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1987 CE: [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) released the [Perl programming language](https://en.wikipedia.org/wiki/Perl)
 - 1988 CE: CO₂ exceeded 350 ppm
@@ -1024,8 +1023,8 @@ Few descriptions survive, despite many discoveries.
 - 1994 CE: [Apple switched from Motorola 68k chips to PowerPC](https://en.wikipedia.org/wiki/Power_Macintosh)
 - 1995 CE: [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) created [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - 1995 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Red Hat Linux operating system](https://en.wikipedia.org/wiki/Red_Hat_Linux)
-- 1995 CE: Richard Feynman posthumously published *Lectures on Gravitation*
-- 1997 CE: Richard Feynman posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
+- 1995 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Lectures on Gravitation*
+- 1997 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
 - 1997 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Search](https://en.wikipedia.org/wiki/Google_Search)
 - 1998 CE: T. Cavalier-Smith published *A revised six-kingdom system of life*
 - 1998 CE: [Netscape](https://en.wikipedia.org/wiki/Netscape) published [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator) as open source software
@@ -1033,7 +1032,7 @@ Few descriptions survive, despite many discoveries.
 ## 2000s
 - 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29)
 - 2000 CE: CO₂ exceeded 370 ppm
-- 2000 CE: Richard Feynman posthumously published *Feynman Lectures on Computation*
+- 2000 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Feynman Lectures on Computation*
 - 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published [KHTML](https://en.wikipedia.org/wiki/KHTML), the predecessor to WebKit
 - 2000 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) et al. published *Long-range Air Transport of Dioxin from North American Sources to Ecologically Vulnerable Receptors in Nunavut, Arctic Canada*
 - 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
