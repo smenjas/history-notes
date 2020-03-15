@@ -404,18 +404,20 @@ Few descriptions survive, despite many discoveries.
 - 399 BCE: [The city of Athens tried Socrates for moral corruption and impiety](https://en.wikipedia.org/wiki/Trial_of_Socrates)
 - 387 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) founded his [Academy](https://en.wikipedia.org/wiki/Platonic_Academy)
 - 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29), an influential work on [philosophy](https://en.wikipedia.org/wiki/Philosophy) & [political theory](https://en.wikipedia.org/wiki/Political_philosophy)
-- 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Apology of Socrates to the Jury*](https://en.wikipedia.org/wiki/Apology_%28Xenophon%29)
-- 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Memorabilia*](https://en.wikipedia.org/wiki/Memorabilia_%28Xenophon%29), a collection of [Socratic dialogues](https://en.wikipedia.org/wiki/Socratic_dialogue)
-- 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Lacedaemonion Politeia* (*Spartan Constitution*)](https://en.wikipedia.org/wiki/Constitution_of_the_Lacedaemonians)
-- 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Anabasis* (*Expedition*)](https://en.wikipedia.org/wiki/Anabasis_%28Xenophon%29)
 
 ### Medicine
 - 370 BCE: [Hippocrates](https://en.wikipedia.org/wiki/Hippocrates) by the time of his death had written or inspired the [Hippocratic Corpus](https://en.wikipedia.org/wiki/Hippocratic_Corpus), [establishing medicine](https://en.wikipedia.org/wiki/History_of_medicine) and coining the [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath)
-- 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Cyropaedia*](https://en.wikipedia.org/wiki/Cyropaedia)
+- 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote:
+  - [*Apology of Socrates to the Jury*](https://en.wikipedia.org/wiki/Apology_%28Xenophon%29)
+  - [*Memorabilia*](https://en.wikipedia.org/wiki/Memorabilia_%28Xenophon%29), a collection of [Socratic dialogues](https://en.wikipedia.org/wiki/Socratic_dialogue)
+  - [*Lacedaemonion Politeia* (*Spartan Constitution*)](https://en.wikipedia.org/wiki/Constitution_of_the_Lacedaemonians)
+  - [*Anabasis* (*Expedition*)](https://en.wikipedia.org/wiki/Anabasis_%28Xenophon%29)
+  - [*Cyropaedia*](https://en.wikipedia.org/wiki/Cyropaedia)
 - 362 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Hellenica*](https://en.wikipedia.org/wiki/Hellenica), describing the last 7 years of the [Peloponnesian War](https://en.wikipedia.org/wiki/Peloponnesian_War), following [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
 - 361 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Oeconomicus* (*Economics*)](https://en.wikipedia.org/wiki/Oeconomicus), a [Socratic dialogue](https://en.wikipedia.org/wiki/Socratic_dialogue) on agriculture and managing a household
-- 360 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Symposium*](https://en.wikipedia.org/wiki/Symposium_%28Xenophon%29)
-- 360 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Agesilaus*](https://en.wikipedia.org/wiki/Agesilaus_%28Xenophon%29)
+- 360 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote:
+  - [*Symposium*](https://en.wikipedia.org/wiki/Symposium_%28Xenophon%29)
+  - [*Agesilaus*](https://en.wikipedia.org/wiki/Agesilaus_%28Xenophon%29)
 - 360 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Timaeus*](https://en.wikipedia.org/wiki/Timaeus_%28dialogue%29)
 - 355 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Ways and Means*](https://en.wikipedia.org/wiki/Ways_and_Means_%28Xenophon%29)
 - 354 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*On Horsemanship*](https://en.wikipedia.org/wiki/On_Horsemanship), [*Hipparchicus*](https://en.wikipedia.org/wiki/Hipparchicus), & [*Cynegeticus* (*On Hunting*)](https://en.wikipedia.org/wiki/Cynegeticus) by the time he died
