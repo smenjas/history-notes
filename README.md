@@ -895,6 +895,7 @@ Few descriptions survive, despite many discoveries.
 - 1934 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) & [David Dodd](https://en.wikipedia.org/wiki/David_Dodd) published [*Security Analysis*](https://en.wikipedia.org/wiki/Security_Analysis_%28book%29), founding [value investing](https://en.wikipedia.org/wiki/Value_investing)
 - 1935 CE: [Boris Choubert](https://en.wikipedia.org/wiki/Boris_Choubert) published *Recherches sur la genèse des chaînes paléolithiques et antécambriennes* (*Research on the genesis of the Palaeolithic and Antecambrian chains*, showing how the continents had previously fit together to form the supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 - 1935-1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
+- 1937 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published *The Interpretation of Financial Statements*, an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
 
 #### Turing Machine
 - 1936 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *On Computable Numbers, with an Application to the Entscheidungsproblem*
