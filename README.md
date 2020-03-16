@@ -926,6 +926,7 @@ Few descriptions survive, despite many discoveries.
 - 1948 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *The general and logical theory of automata*
 - 1948 CE: [Paul Samuelson](https://en.wikipedia.org/wiki/Paul_Samuelson) & [William Nordhaus](https://en.wikipedia.org/wiki/William_Nordhaus) published [*Economics: An Introductory Analysis*](https://en.wikipedia.org/wiki/Economics_%28textbook%29)
 - 1949 CE: [Keith Runcorn](https://en.wikipedia.org/wiki/Keith_Runcorn) published *Investigations relating to the main geomagnetic field*, proposing [paleomagnetism](https://en.wikipedia.org/wiki/Paleomagnetism)
+- 1949 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published [*The Intelligent Investor*](https://en.wikipedia.org/wiki/The_Intelligent_Investor), an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
 
 ### 1950s
 - 1951 CE: [Fritz Houtermans](https://en.wikipedia.org/wiki/Fritz_Houtermans) published *Über ein neues Verfahren zur Durchführung chemischer Altersbestimmungen nach der Blei-Methode* (*About a new method for carrying out chemical age determinations using the lead method*)
