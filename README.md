@@ -416,9 +416,7 @@ Few descriptions survive, despite many discoveries.
   - [*Cyropaedia*](https://en.wikipedia.org/wiki/Cyropaedia)
 - 362 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Hellenica*](https://en.wikipedia.org/wiki/Hellenica), describing the last 7 years of the [Peloponnesian War](https://en.wikipedia.org/wiki/Peloponnesian_War), following [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
 - 361 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Oeconomicus* (*Economics*)](https://en.wikipedia.org/wiki/Oeconomicus), a [Socratic dialogue](https://en.wikipedia.org/wiki/Socratic_dialogue) on agriculture and managing a household
-- 360 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote:
-  - [*Symposium*](https://en.wikipedia.org/wiki/Symposium_%28Xenophon%29)
-  - [*Agesilaus*](https://en.wikipedia.org/wiki/Agesilaus_%28Xenophon%29)
+- 360 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Symposium*](https://en.wikipedia.org/wiki/Symposium_%28Xenophon%29) & [*Agesilaus*](https://en.wikipedia.org/wiki/Agesilaus_%28Xenophon%29)
 - 360 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Timaeus*](https://en.wikipedia.org/wiki/Timaeus_%28dialogue%29)
 - 355 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Ways and Means*](https://en.wikipedia.org/wiki/Ways_and_Means_%28Xenophon%29)
 - 354 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*On Horsemanship*](https://en.wikipedia.org/wiki/On_Horsemanship), [*Hipparchicus*](https://en.wikipedia.org/wiki/Hipparchicus), & [*Cynegeticus* (*On Hunting*)](https://en.wikipedia.org/wiki/Cynegeticus) by the time he died
@@ -977,7 +975,7 @@ Few descriptions survive, despite many discoveries.
 - 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
 - 1969 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 2*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - 1969 CE: [NASA's Apollo 11 mission](https://en.wikipedia.org/wiki/Apollo_11) landed 2 people on the Moon, and returned them to the Earth alive
-- 1969 CE: [Robert Whittaker](https://en.wikipedia.org/wiki/Robert_Whittaker) published *New concepts of kingdoms of organisms*
+- 1969 CE: [Robert Whittaker](https://en.wikipedia.org/wiki/Robert_Whittaker) published [*New Concepts of Kingdoms of Organisms*](https://science.sciencemag.org/content/163/3863/150)
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson), [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie), & Rudd Canaday [implemented Unix in assembly for the PDP-7 computer](https://en.wikipedia.org/wiki/History_of_Unix)
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the B programming language](https://en.wikipedia.org/wiki/B_%28programming_language%29)
 
@@ -1148,6 +1146,7 @@ Few descriptions survive, despite many discoveries.
 - [Fred Smitha: Macrohistory, World History](http://www.fsmitha.com/)
 - [Google Books](https://books.google.com/)
 - [Google Patents](https://patents.google.com/)
+- [Google Scholar](https://scholar.google.com/)
 - [Hyperhistory Online](https://www.hyperhistory.com/)
 - [Internet Archive](https://archive.org/)
 - [Librivox](https://librivox.org/)
