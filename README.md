@@ -1070,11 +1070,11 @@ Few descriptions survive, despite many discoveries.
 - 2006 CE: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) published the [Java Virtual Machine (JVM)](https://en.wikipedia.org/wiki/Java_virtual_machine) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 3* (GPLv3)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Street View](https://en.wikipedia.org/wiki/Google_Street_View)
-- 2007 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPhone](https://en.wikipedia.org/wiki/IPhone), popularizing multitouch displays
+- 2007 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPhone](https://en.wikipedia.org/wiki/IPhone) a practical [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics) [tablet computer](https://en.wikipedia.org/wiki/Tablet_computer) with a [capacitive touchscreen](https://en.wikipedia.org/wiki/Touchscreen#Capacitive), popularizing [multitouch displays](https://en.wikipedia.org/wiki/Multi-touch)
 - 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released the [Android operating system](https://en.wikipedia.org/wiki/Android_%28operating_system%29)
 
 ### 2010s
-- 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPad](https://en.wikipedia.org/wiki/IPad), a practical solid-state computer with a relatively large screen
+- 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPad](https://en.wikipedia.org/wiki/IPad), a practical [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics) [tablet computer](https://en.wikipedia.org/wiki/Tablet_computer) with a [capacitive touchscreen](https://en.wikipedia.org/wiki/Touchscreen#Capacitive), popularizing [multitouch displays](https://en.wikipedia.org/wiki/Multi-touch)
 - 2011 CE: CO₂ exceeded 390 ppm
 - 2011 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 4A*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - 2012 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model S](https://en.wikipedia.org/wiki/Tesla_Model_S), a somewhat expensive, practical electric car
