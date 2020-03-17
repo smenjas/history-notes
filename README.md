@@ -611,7 +611,7 @@ Few descriptions survive, despite many discoveries.
 - 1734 CE: [René Antoine Ferchault de Réaumur](https://en.wikipedia.org/wiki/Ren%C3%A9_Antoine_Ferchault_de_R%C3%A9aumur) published *Mémoires pour servir à l'histoire des insectes* (*Memories to serve in the history of insects*)
 - 1735 CE: [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus) published [Systema Naturae](https://en.wikipedia.org/wiki/Systema_Naturae) 1st edition
 - 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Mechanica*](https://en.wikipedia.org/wiki/Mechanica)
-- 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Solutio problematis ad geometriam situs pertinentis*, founding [graph theory](https://en.wikipedia.org/wiki/Graph_theory)
+- 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Solutio problematis ad geometriam situs pertinentis* (*Solution to the geometry of position*), founding [graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 - 1736 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) demonstrated H1, the first marine chronometer, helpful for finding [longitude](https://en.wikipedia.org/wiki/Longitude) and thus [navigation](https://en.wikipedia.org/wiki/Navigation)
 - 1744 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Methodus inveniendi lineas curvas* (*A method for finding curved lines*)
 - 1745 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the automated loom
@@ -881,6 +881,7 @@ Few descriptions survive, despite many discoveries.
 - 1924 CE: [Alexander Friedmann](https://en.wikipedia.org/wiki/Alexander_Friedmann) published *Über die Möglichkeit einer Welt mit konstanter negativer Krümmung des Raumes* (*On the possibility of a world with constant negative curvature of space*), proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
 - 1925 CE: [Édouard Chatton](https://en.wikipedia.org/wiki/%C3%89douard_Chatton) published *Pansporella perplex: Reflections on the Biology and Phylogeny of the Protozoa*, distinguishing [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote) from [prokaryotes](https://en.wikipedia.org/wiki/Prokaryote)
 - 1925 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
+- 1926 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published [*The Story of Philosophy*](https://en.wikipedia.org/wiki/The_Story_of_Philosophy)
 - 1927 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Variationsrechnung* (*Calculus of Variations*)
 - 1927 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *A Geological Comparison of South America with South Africa*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
 - 1927 CE: [Georges Lemaître](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre) published *Un Univers homogène de masse constante et de rayon croissant rendant compte de la vitesse radiale des nébuleuses extra-galactiques* (*A homogeneous universe of constant mass and increasing radius accounting for the radial speed of extra-galactic nebulae*), hypothesizing that [the universe is expanding](https://en.wikipedia.org/wiki/Expansion_of_the_universe), and describing what would become [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law)
@@ -894,7 +895,7 @@ Few descriptions survive, despite many discoveries.
 - 1932 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Mathematical Foundations of Quantum Mechanics*
 - 1934 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) & [David Dodd](https://en.wikipedia.org/wiki/David_Dodd) published [*Security Analysis*](https://en.wikipedia.org/wiki/Security_Analysis_%28book%29), founding [value investing](https://en.wikipedia.org/wiki/Value_investing)
 - 1935 CE: [Boris Choubert](https://en.wikipedia.org/wiki/Boris_Choubert) published *Recherches sur la genèse des chaînes paléolithiques et antécambriennes* (*Research on the genesis of the Palaeolithic and Antecambrian chains*, showing how the continents had previously fit together to form the supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
-- 1935-1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
+- 1935 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *Our Oriental Heritage*, the 1st volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1937 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published *The Interpretation of Financial Statements*, an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
 
 #### Turing Machine
@@ -912,6 +913,7 @@ Few descriptions survive, despite many discoveries.
 - 1939 CE: [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *The Nature of the Chemical Bond*
 - 1939 CE: [The Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
 - 1939 CE: [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) & [Otto Robert Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) published *Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction*, describing [nuclear fission](https://en.wikipedia.org/wiki/Nuclear_fission)
+- 1939 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Life of Greece*, the 2nd volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 
 ### 1940s
 - 1940 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*How to Pay for the War*](https://en.wikipedia.org/wiki/How_to_Pay_for_the_War), discussing [price controls](https://en.wikipedia.org/wiki/Price_controls)
@@ -920,6 +922,7 @@ Few descriptions survive, despite many discoveries.
 - 1943 CE: British [codebreakers](https://en.wikipedia.org/wiki/Cryptanalysis) invent the [Colossus](https://en.wikipedia.org/wiki/Colossus_computer): the first programmable electronic digital computer
 - 1944 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *First Draft of a Report on the EDVAC*
 - 1944 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *Principles of Physical Geology*, promoting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
+- 1944 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *Caesar and Christ*, the 3rd volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1945 CE: [Vannevar Bush](https://en.wikipedia.org/wiki/Vannevar_Bush) published [*As We May Think*](https://en.wikipedia.org/wiki/As_We_May_Think), anticipating [information society](https://en.wikipedia.org/wiki/Information_society)
 - 1947 CE: [Kathleen Booth](https://en.wikipedia.org/wiki/Kathleen_Booth) published *General considerations in the design of an all purpose electronic digital computer (Coding for the ARC, 2nd ed)*, introducing [assembly language](https://en.wikipedia.org/wiki/Assembly_language)
 - 1947 CE: [Marjory Stoneman Douglas](https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas) published [*The Everglades: River of Grass*](https://en.wikipedia.org/wiki/The_Everglades:_River_of_Grass)
@@ -931,12 +934,15 @@ Few descriptions survive, despite many discoveries.
 - 1949 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published [*The Intelligent Investor*](https://en.wikipedia.org/wiki/The_Intelligent_Investor), an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
 
 ### 1950s
+- 1950 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Age of Faith*, the 4th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1951 CE: [Fritz Houtermans](https://en.wikipedia.org/wiki/Fritz_Houtermans) published *Über ein neues Verfahren zur Durchführung chemischer Altersbestimmungen nach der Blei-Methode* (*About a new method for carrying out chemical age determinations using the lead method*)
 - 1952 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) tested the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine)
 - 1953 CE: [Maurice Karnaugh](https://en.wikipedia.org/wiki/Maurice_Karnaugh) published *The Map Method for Synthesis of Combinational Logic Circuits*, introducing the [Karnaugh map](https://en.wikipedia.org/wiki/Karnaugh_map), a method of simplifying [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) expressions
+- 1953 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Renaissance*, the 5th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1955 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) announced the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine), developed and tested since 1947
 - 1956 CE: [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States)
 - 1957 CE: [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp) & [Bruce C. Heezen](https://en.wikipedia.org/wiki/Bruce_C._Heezen) published a physiographic map of the North Atlantic Ocean, showing the [Mid-Atlantic Ridge](https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge)
+- 1957 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Reformation*, the 6th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1958 CE: [Samuel Warren Carey](https://en.wikipedia.org/wiki/Samuel_Warren_Carey) published *The tectonic approach to continental drift*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1959 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*The Logic of Scientific Discovery*](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
 - 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented [*There's Plenty of Room at the Bottom*](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom)
@@ -952,11 +958,13 @@ Few descriptions survive, despite many discoveries.
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Theory of Fundamental Processes*
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Quantum Electrodynamics*
 - 1961 CE: [Robert S. Dietz](https://en.wikipedia.org/wiki/Robert_S._Dietz) published *Continent and Ocean Basin Evolution by Spreading of the Sea Floor*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
+- 1961 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Reason Begins*, the 7th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1962 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *History of Ocean Basins*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1962 CE: [Émile Zuckerkandl](https://en.wikipedia.org/wiki/Emile_Zuckerkandl) & [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *Molecular disease, evolution, and genic heterogeneity*
 - 1962 CE: [L. R. Ford, Jr.](https://en.wikipedia.org/wiki/L._R._Ford_Jr.) & [D. R. Fulkerson](https://en.wikipedia.org/wiki/D._R._Fulkerson) published *Network Flows and General Matchings*
 - 1962 CE: [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn) published [*The Structure of Scientific Revolutions*](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions), introducing the term ["paradigm shift"](https://en.wikipedia.org/wiki/Paradigm_shift)
 - 1962 CE: [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson) published [*Silent Spring*](https://en.wikipedia.org/wiki/Silent_Spring)
+- 1963 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Louis XIV*, the 8th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1964 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Feynman Lectures on Physics*
 - 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) & [Albert Hibbs](https://en.wikipedia.org/wiki/Albert_Hibbs) published *Quantum Mechanics and Path Integrals*
 - 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Character of Physical Law*
@@ -965,14 +973,17 @@ Few descriptions survive, despite many discoveries.
 - 1965 CE: [Ralph Nader](https://en.wikipedia.org/wiki/Ralph_Nader) published [*Unsafe at Any Speed*](https://en.wikipedia.org/wiki/Unsafe_at_Any_Speed)
 - 1965 CE: [Tuzo Wilson](https://en.wikipedia.org/wiki/John_Tuzo_Wilson) published *A new class of faults and their bearing on continental drift*, describing [transform faults](https://en.wikipedia.org/wiki/Transform_fault)
 - 1965 CE: [Teddy Bullard](https://en.wikipedia.org/wiki/Edward_Bullard) showed a computer model [fitting the continents together](https://en.wikipedia.org/wiki/Pangaea) at 914 m below sea level
+- 1965 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Voltaire*, the 9th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1966 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Theory of Self-Reproducing Automata*
 - 1967 CE: [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) published [*On the origin of mitosing cells*](https://www.sciencedirect.com/science/article/abs/pii/0022519367900793)
+- 1967 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *Rousseau and Revolution*, the 10th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1968 CE: The [FCC](https://en.wikipedia.org/wiki/Federal_Communications_Commission) ruled that "any lawful device" can be connected to the [AT&T](https://en.wikipedia.org/wiki/AT&T) network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
 - 1968 CE: [Motoo Kimura](https://en.wikipedia.org/wiki/Motoo_Kimura) published *Evolutionary rate at the molecular level*
 - 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
 - 1968 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Lessons of History*](https://en.wikipedia.org/wiki/The_Lessons_of_History)
 - 1968 CE: [Jack Oliver](https://en.wikipedia.org/wiki/Jack_Oliver_%28scientist%29) published *Seismology and the New Global Tectonics*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1968 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 1*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+- 1968 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Lessons of History*](https://en.wikipedia.org/wiki/The_Lessons_of_History)
 
 #### Internet
 - 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
@@ -996,6 +1007,7 @@ Few descriptions survive, despite many discoveries.
 - 1974 CE: [Nasir Ahmed](https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29), T. Natarajan & [K. R. Rao](https://en.wikipedia.org/wiki/K._R._Rao) published [*Discrete Cosine Transform*](https://en.wikipedia.org/wiki/Discrete_cosine_transform), a working [image compression](https://en.wikipedia.org/wiki/Image_compression) algorithm
 - 1974 CE: [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf), [Yogen Dalal](https://en.wikipedia.org/wiki/List_of_Internet_pioneers#Yogen_Dalal) & Carl Sunshine published [RFC 675](https://tools.ietf.org/html/rfc675), specifying [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - 1975 CE: [Endre Szemerédi](https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di) published *On sets of integers containing no k elements in arithmetic progression*
+- 1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Napoleon*, the 11th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1976 CE: [Robert M. May](https://en.wikipedia.org/wiki/Robert_May,_Baron_May_of_Oxford) published [*Simple mathematical models with very complicated dynamics*](https://www.nature.com/articles/261459a0), popularizing the [logisitic map](https://en.wikipedia.org/wiki/Logistic_map) and demonstrating [chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)
 - 1977 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*
 - 1978 CE: [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language)
@@ -1044,6 +1056,7 @@ Few descriptions survive, despite many discoveries.
 - 2000 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) et al. published *Long-range Air Transport of Dioxin from North American Sources to Ecologically Vulnerable Receptors in Nunavut, Arctic Canada*
 - 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 - 2001 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Earth](https://en.wikipedia.org/wiki/Google_Earth)
+- 2001 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) posthumously published [*Heroes of History*](https://en.wikipedia.org/wiki/Heroes_of_History)
 - 2003 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Fedora operating system](https://en.wikipedia.org/wiki/Fedora_%28operating_system%29)
 - 2004 CE: [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth) released the [Ubuntu operating system](https://en.wikipedia.org/wiki/Mark_Shuttleworth)
 - 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) published [Markdown](https://en.wikipedia.org/wiki/Markdown) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
