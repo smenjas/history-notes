@@ -88,9 +88,9 @@ Few descriptions survive, despite many discoveries.
 ---
 
 ## The Big Bang
-- 13.8 bya: [The Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
-- 13.5 bya: [First stars](https://en.wikipedia.org/wiki/Reionization) formed
-- 13.51 bya: [The Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
+- 13.80 bya: The [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) occurred, and 370,000 years later produced the [cosmic microwave background radiation (CMBR)](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
+- 13.5 bya: The [first stars](https://en.wikipedia.org/wiki/Reionization) formed
+- 13.51 bya: The [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
 
 ## < 10 Billion Years Ago
 - 4.603 bya: [The Sun](https://en.wikipedia.org/wiki/Sun) formed
@@ -835,10 +835,10 @@ Few descriptions survive, despite many discoveries.
 - 1903 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-3* (*Treatises-3*)
 - 1903 CE: [Nicholas Johannsen](https://en.wikipedia.org/wiki/Nicholas_Johannsen) published *Der Kreislauf des Geldes und Mechanismus des Sozial-Lebens* (*The Circuit Theory of Money*), an early work in [monetary circuit theory](https://en.wikipedia.org/wiki/Monetary_circuit_theory)
 - 1905 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published 5 papers:
-  - *On a Heuristic Viewpoint Concerning the Production and Transformation of Light* (suggested quanta)
-  - *On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat* (proved atomic theory)
-  - *On the Electrodynamics of Moving Bodies* (introduced special relativity)
-  - *Does the Inertia of a Body Depend Upon Its Energy Content?* (showed the equivalence of matter and energy, i.e. E=mc²)
+  - [*On a Heuristic Viewpoint Concerning the Production and Transformation of Light*](https://en.wikisource.org/?curid=59468) suggested [quanta](https://en.wikipedia.org/wiki/Quantum)
+  - *On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat* proved [atomic theory](https://en.wikipedia.org/wiki/Atomic_theory)
+  - [*On the Electrodynamics of Moving Bodies*](https://en.wikisource.org/wiki/On_the_Electrodynamics_of_Moving_Bodies) introduced [special relativity](https://en.wikipedia.org/wiki/Special_relativity)
+  - *Does the Inertia of a Body Depend Upon Its Energy Content?* showed the [equivalence of matter and energy, i.e. E=mc²](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)
   - *A new determination of molecular dimensions*
 - 1905 CE: [Konstantin Mereschkowski](https://en.wikipedia.org/wiki/Konstantin_Mereschkowski) published *The nature and origins of chromatophores in the plant kingdom*
 - 1905 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) published [*The Protestant Ethic and the Spirit of Capitalism*](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)
@@ -858,14 +858,15 @@ Few descriptions survive, despite many discoveries.
 - 1911 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Association of Lead with Uranium in Rock-Minerals, and Its Application to the Measurement of Geological Time*, describing the first accurate [uranium-lead radiometric dating](https://en.wikipedia.org/wiki/Uranium%E2%80%93lead_dating)
 - 1912 CE: Automobiles roughly equaled the number of horses on U.S. streets
 - 1913 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Age of the Earth*
-- 1915 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Die Feldgleichungen der Gravitation* (*The Field Equations of Gravitation*)
+- 1915 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Die Feldgleichungen der Gravitation* (*The Field Equations of Gravitation*)](https://en.wikisource.org/wiki/Translation:The_Field_Equations_of_Gravitation)
 - 1915 CE: [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener) published *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*), developing the theory of [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
 - 1916 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Näherungsweise Integration der Feldgleichungen der Gravitation* (*Approximate Integration of the Gravitational Field Equations*)
 - 1916 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Die Grundlage der allgemeinen Relativitätstheorie* (*The basis of General Relativity*)
+- 1916 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Über die spezielle und die allgemeine Relativitätstheorie* (*Relativity: The Special and the General Theory*)](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory)
 - 1916 CE: [Gustav Cassel](https://en.wikipedia.org/wiki/Gustav_Cassel) published *The Present Situation of the Foreign Trade*, describing [purchasing power parity](https://en.wikipedia.org/wiki/Purchasing_power_parity)
 - 1917 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
-- 1918 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Gravitationswellen* (*On Gravitational Waves*)
+- 1918 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Gravitationswellen* (*On Gravitational Waves*)](https://einsteinpapers.press.princeton.edu/vol7-trans/25), on [gravitational waves](https://en.wikipedia.org/wiki/Gravitational_wave)
 - 1919 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The Economic Consequences of the Peace*](https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace)
 
 ### 1920s
@@ -946,7 +947,7 @@ Few descriptions survive, despite many discoveries.
 - 1957 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Reformation*, the 6th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1958 CE: [Samuel Warren Carey](https://en.wikipedia.org/wiki/Samuel_Warren_Carey) published *The tectonic approach to continental drift*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1959 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*The Logic of Scientific Discovery*](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
-- 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented [*There's Plenty of Room at the Bottom*](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom)
+- 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented [*There's Plenty of Room at the Bottom*](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
 
 ### 1960s
 - 1960 CE: [François Jacob](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacob), Perrin, Sánchez, & [Jacques Monod](https://en.wikipedia.org/wiki/Jacques_Monod) published *L'opéron: groupe de gènes à expression coordonnée par un opérateur* (*Operon: a group of genes with the expression coordinated by an operator*), describing genetic feedback loops
@@ -984,7 +985,6 @@ Few descriptions survive, despite many discoveries.
 - 1968 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Lessons of History*](https://en.wikipedia.org/wiki/The_Lessons_of_History)
 - 1968 CE: [Jack Oliver](https://en.wikipedia.org/wiki/Jack_Oliver_%28scientist%29) published *Seismology and the New Global Tectonics*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1968 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 1*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
-- 1968 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Lessons of History*](https://en.wikipedia.org/wiki/The_Lessons_of_History)
 
 #### Internet
 - 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
@@ -1151,6 +1151,7 @@ Few descriptions survive, despite many discoveries.
   - [List of important publications in medicine](https://en.wikipedia.org/wiki/List_of_important_publications_in_medicine)
   - [List of important publications in philosophy](https://en.wikipedia.org/wiki/List_of_important_publications_in_philosophy)
   - [List of important publications in physics](https://en.wikipedia.org/wiki/List_of_important_publications_in_physics)
+    - [Einstein's thought experiments](https://en.wikipedia.org/wiki/Einstein%27s_thought_experiments)
     - [List of scientific publications by Albert Einstein](https://en.wikipedia.org/wiki/List_of_scientific_publications_by_Albert_Einstein)
   - [List of important publications in psychology](https://en.wikipedia.org/wiki/List_of_important_publications_in_psychology)
   - [List of important publications in statistics](https://en.wikipedia.org/wiki/List_of_important_publications_in_statistics)
