@@ -219,9 +219,10 @@ Few descriptions survive, despite many discoveries.
 ### Thumb
 - 70 mya: [Primates evolved thumbs](https://en.wikipedia.org/wiki/Thumb#Human_Evolution)
 - 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
+- 66.7 mya: [A recent common ancestor of chickens and ducks existed](https://www.cam.ac.uk/stories/wonderchicken)
 - 66 mya: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
-- 55 mya: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO₂, global temperatures increased by 5-8 °C.
+- 55 mya: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO₂, global temperatures increased by 5-8 °C
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
 - 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
 - 40 mya: O₂ dropped to 0.23 atm
@@ -248,8 +249,9 @@ Few descriptions survive, despite many discoveries.
 - 3.3 mya: [Large stone tools made in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
 - 2.8 mya: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) emerged
 - 1.9 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) emerged
+- 1.89 mya: Humans began to run long distances, and sweat, and lose body hair
 - 1.25-0.7 mya: [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition), glacial cycles switched from 41 ka to 100 ka
-- 1.07 mya: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana.
+- 1.07 mya: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana
 
 ### Fire
 - 1.0 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) [controlled fire](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans) in [Wonderwerk Cave](https://en.wikipedia.org/wiki/Wonderwerk_Cave), in the Asbestos Mountains of South Africa
@@ -422,7 +424,7 @@ Few descriptions survive, despite many discoveries.
 - 354 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*On Horsemanship*](https://en.wikipedia.org/wiki/On_Horsemanship), [*Hipparchicus*](https://en.wikipedia.org/wiki/Hipparchicus), & [*Cynegeticus* (*On Hunting*)](https://en.wikipedia.org/wiki/Cynegeticus) by the time he died
 - 350 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*On the Heavens*](https://en.wikipedia.org/wiki/On_the_Heavens)
 - 334 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_%28Classical%29)
-- 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) wrote *Aṣṭādhyāyī* on Sanskrit grammar.
+- 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) wrote *Aṣṭādhyāyī* on Sanskrit grammar
 
 ### Mathematics
 - 300 BCE: [Euclid](https://en.wikipedia.org/wiki/Euclid) wrote [*Elements*](https://en.wikipedia.org/wiki/Euclid%27s_Elements), beginning formal mathematics
@@ -442,7 +444,7 @@ Few descriptions survive, despite many discoveries.
 - 212 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) wrote many mathematical works including [*Perí sfaíras kaí kylíndrou* (*On the Sphere & Cylinder*)](https://en.wikipedia.org/wiki/On_the_Sphere_and_Cylinder) which gave the [Archimedean property](https://en.wikipedia.org/wiki/Archimedean_property), and deployed a heat ray by the time of his death
 - 200 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) wrote *Conics* and other works on mathematics
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
-- 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar.
+- 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar
 - 100 BCE: [The Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
 - 56 BCE: [Lucretius](https://en.wikipedia.org/wiki/Lucretius) wrote [*De rerum natura* (*On the Nature of Things*)](https://en.wikipedia.org/wiki/De_rerum_natura), stating that the world contained "seeds" that can sicken you if inhaled or ingested
 - 46 BCE: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) proposed the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
@@ -1070,7 +1072,7 @@ Few descriptions survive, despite many discoveries.
 - 2006 CE: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) published the [Java Virtual Machine (JVM)](https://en.wikipedia.org/wiki/Java_virtual_machine) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 3* (GPLv3)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Street View](https://en.wikipedia.org/wiki/Google_Street_View)
-- 2007 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPhone](https://en.wikipedia.org/wiki/IPhone) a practical [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics) [tablet computer](https://en.wikipedia.org/wiki/Tablet_computer) with a [capacitive touchscreen](https://en.wikipedia.org/wiki/Touchscreen#Capacitive), popularizing [multitouch displays](https://en.wikipedia.org/wiki/Multi-touch)
+- 2007 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPhone](https://en.wikipedia.org/wiki/IPhone), a practical [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics) [tablet computer](https://en.wikipedia.org/wiki/Tablet_computer) with a [capacitive touchscreen](https://en.wikipedia.org/wiki/Touchscreen#Capacitive), popularizing [multitouch displays](https://en.wikipedia.org/wiki/Multi-touch)
 - 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released the [Android operating system](https://en.wikipedia.org/wiki/Android_%28operating_system%29)
 
 ### 2010s
@@ -1272,7 +1274,7 @@ Few descriptions survive, despite many discoveries.
   - [Timeline of heat engine technology](https://en.wikipedia.org/wiki/Timeline_of_heat_engine_technology)
     - [Timeline of motor and engine technology](https://en.wikipedia.org/wiki/Timeline_of_motor_and_engine_technology)
     - [Timeline of steam power](https://en.wikipedia.org/wiki/Timeline_of_steam_power)
-  - [Timeline of historic inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
+  - [Timeline of historic inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions)
   - [Timeline of lighting technology](https://en.wikipedia.org/wiki/Timeline_of_lighting_technology)
   - [Timeline of low-temperature technology](https://en.wikipedia.org/wiki/Timeline_of_low-temperature_technology)
   - [Timeline of materials technology](https://en.wikipedia.org/wiki/Timeline_of_materials_technology)
