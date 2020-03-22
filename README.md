@@ -110,6 +110,7 @@ Few descriptions survive, despite many discoveries.
 - 2.7-2.4 bya: Nickel deposits, necessary for chemosynthetic [methane producers](https://en.wikipedia.org/wiki/Methanogen), decreased dramatically
 - 2.45 bya: O₂ production started, practically no atmospheric O₂ prior to this, with the possible exception of shallow oceans
 - 2.45-2.22 bya: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen
+- 2.4 bya: An asteroid impacted Earth, creating the [Suavjärvi crater](https://en.wikipedia.org/wiki/Suavjärvi_crater) which is 3 km in diameter
 - 2.4-2.05 bya: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
 - ? bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
 - 2.1-1.5 bya: [The supercontinent Columbia](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
@@ -117,7 +118,9 @@ Few descriptions survive, despite many discoveries.
 ### Mitochondria
 - 2.1-1.7 bya: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
 - 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
+- 2.023 bya: An asteroid impacted Earth, creating the [Vredefort crater](https://en.wikipedia.org/wiki/Vredefort_crater) which is 160 km in diameter
 - 1.85 bya: O₂ reached 0.03 atm, but most was aborbed into oceans and seabed rock
+- 1.849 bya: A comet impacted Earth, creating the [Sudbury Basin](https://en.wikipedia.org/wiki/Sudbury_Basin) which is 130 km in diameter
 
 ### Chloroplasts
 - 1.4 bya: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
@@ -160,6 +163,8 @@ Few descriptions survive, despite many discoveries.
 ### Spine
 - 615 mya: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
 - 600 mya: O₂ exceeded 0.1 atm
+- 600 mya: An asteroid impacted Earth, creating the [Beaverhead crater](https://en.wikipedia.org/wiki/Beaverhead_crater) which is 60 km in diameter
+- 580 mya: An asteroid impacted Earth, creating the [Acraman crater](https://en.wikipedia.org/wiki/Acraman_crater) which is 90 km in diameter
 - 579 mya: [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340 ka
 - 575 mya: [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion), producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
 - 542 mya: [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction)
@@ -185,7 +190,7 @@ Few descriptions survive, despite many discoveries.
 - 400 mya: O₂ exceeded 0.15 atm
 - 400 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
 - 385 mya: [Wattieza](https://en.wikipedia.org/wiki/Wattieza), an early tree, existed
-- 380 mya: [Elpistostege](https://en.wikipedia.org/wiki/Elpistostege) had [digits](https://news.flinders.edu.au/blog/2020/03/19/ancient-fossil-reveals-origin-of-the-human-hand/), small bones that would eventually become fingers
+- 380 mya: [Elpistostege](https://en.wikipedia.org/wiki/Elpistostege), an early tetrapod that was basically a fish with arms, had [digits](https://news.flinders.edu.au/blog/2020/03/19/ancient-fossil-reveals-origin-of-the-human-hand/), small bones that would eventually become fingers
 - 375 mya: [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction), 75% of species lost
 - 360-345 mya: [Archaeopteris](https://en.wikipedia.org/wiki/Archaeopteris), an early tree, existed
 - 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
@@ -199,13 +204,15 @@ Few descriptions survive, despite many discoveries.
 - 273 mya: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction)
 - 252 mya: [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 96% of species lost to volcanoes, O₂ fell to 0.15 atm
 - 245-202 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) split from [Gymnosperms ("naked seeds", a.k.a. seed-producing plants)](https://en.wikipedia.org/wiki/Gymnosperm)
-- 201.3 mya: [Permian–Jurassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 80% of species lost
+- 214 mya: An asteroid impacted Earth, creating the [Manicouagan crater](https://en.wikipedia.org/wiki/Manicouagan_Reservoir) which is 85 km in diameter
+- 201.3 mya: [Triassic–Jurassic extinction event](https://en.wikipedia.org/wiki/Triassic%E2%80%Jurassic_extinction_event), 80% of species lost
 - 200 mya: O₂ exceeded 0.2 atm
 - 200-150 mya: CO₂ > 3000 ppm
 - 183 mya: [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover)
 - 177 mya: [Mammaliaformes](https://en.wikipedia.org/wiki/Mammaliaformes) ("mammal shaped", from Latin mamma for breast) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
 - 159 mya: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
 - 150 mya: O₂ exceeded 0.26 atm
+- 145 mya: An asteroid impacted Earth, creating the [Morokweng crater](https://en.wikipedia.org/wiki/Morokweng_crater) which is 70 km in diameter
 - 129-125 mya: [Poaceae, a.k.a. Gramineae or grasses](https://en.wikipedia.org/wiki/Poaceae) evolved
 - 116 mya: [Aptian extinction event](https://en.wikipedia.org/wiki/Aptian_extinction)
 - 105 mya: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
@@ -217,24 +224,27 @@ Few descriptions survive, despite many discoveries.
 - 88 mya: [Euarchonta](https://en.wikipedia.org/wiki/Euarchonta) ("true ancestors") split from [Glires](https://en.wikipedia.org/wiki/Glires) (dormice), maybe
 - 86.2 mya: [Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha) split from [Scandentia (tree shrews)](https://en.wikipedia.org/wiki/Treeshrew)
 - 79.6 mya: [Primates](https://en.wikipedia.org/wiki/Primate) split from [Dermoptera (gliding mammals)](https://en.wikipedia.org/wiki/Colugo)
+- 70.3 mya: An asteroid impacted Earth, creating the [Kara crater](https://en.wikipedia.org/wiki/Kara_crater) which is 65 km in diameter
 
 ### Thumb
 - 70 mya: [Primates evolved thumbs](https://en.wikipedia.org/wiki/Thumb#Human_Evolution)
 - 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
 - 66.7 mya: [The first known bird existed: a recent common ancestor of chickens and ducks](https://www.cam.ac.uk/stories/wonderchicken)
+- 66 mya: An asteroid impacted Earth, creating the [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater) which is 150 km in diameter
 - 66 mya: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
 - 55 mya: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO₂, global temperatures increased by 5-8 °C
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
 - 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
 - 40 mya: O₂ dropped to 0.23 atm
+- 35 mya: An asteroid impacted Earth, creating the [Popigai crater](https://en.wikipedia.org/wiki/Popigai_crater) which is 90 km in diameter
 
 ### Color Vision
 - 29 mya: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
 - 25 mya: O₂ dropped to 0.21 atm
-- 20 mya: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
 
 ### No Tail
+- 20 mya: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
 - 15.7 mya: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
 - 14 mya: [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption), extinctions related to cooling
 
@@ -1165,6 +1175,7 @@ Few descriptions survive, despite many discoveries.
 ### Sources
 - [Catalogue of Life](https://www.catalogueoflife.org/)
 - [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
+- [Earth Impact Database](http://www.passc.net/EarthImpactDatabase/New%20website_05-2018/Diametersort.html)
 - [Fred Smitha: Macrohistory, World History](http://www.fsmitha.com/)
 - [Google Books](https://books.google.com/)
 - [Google Patents](https://patents.google.com/)
