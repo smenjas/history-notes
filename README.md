@@ -1052,11 +1052,11 @@ Few descriptions survive, despite many discoveries.
 - 1992 CE: [William](https://en.wikipedia.org/wiki/William_Jolitz) & [Lynne Jolitz](https://en.wikipedia.org/wiki/Lynne_Jolitz) released [386BSD](https://en.wikipedia.org/wiki/386BSD)
 - 1992 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1992 CE: [K. Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler) published *Nanosystems: Molecular Machinery, Manufacturing and Computation*
-- 1993 CE: Some hackers released [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD)
-- 1993 CE: [Ian Murdock](https://en.wikipedia.org/wiki/Ian_Murdock) released the [Debian operating system](https://en.wikipedia.org/wiki/Debian)
+- 1993 CE: Some hackers released [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 1993 CE: [Ian Murdock](https://en.wikipedia.org/wiki/Ian_Murdock) released the [Debian operating system](https://en.wikipedia.org/wiki/Debian) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1994 CE: [Apple switched from Motorola 68k chips to PowerPC](https://en.wikipedia.org/wiki/Power_Macintosh)
 - 1995 CE: [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) created [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- 1995 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Red Hat Linux operating system](https://en.wikipedia.org/wiki/Red_Hat_Linux)
+- 1995 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Red Hat Linux operating system](https://en.wikipedia.org/wiki/Red_Hat_Linux) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1995 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Lectures on Gravitation*
 - 1997 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
 - 1997 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Search](https://en.wikipedia.org/wiki/Google_Search)
@@ -1064,7 +1064,7 @@ Few descriptions survive, despite many discoveries.
 - 1998 CE: [Netscape](https://en.wikipedia.org/wiki/Netscape) published [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 
 ## 2000s
-- 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29)
+- 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2000 CE: CO₂ exceeded 370 ppm
 - 2000 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published the *Feynman Lectures on Computation*
 - 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published [KHTML](https://en.wikipedia.org/wiki/KHTML), the predecessor to [WebKit](https://en.wikipedia.org/wiki/WebKit)
@@ -1072,8 +1072,9 @@ Few descriptions survive, despite many discoveries.
 - 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 - 2001 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Earth](https://en.wikipedia.org/wiki/Google_Earth)
 - 2001 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) posthumously published [*Heroes of History*](https://en.wikipedia.org/wiki/Heroes_of_History)
-- 2003 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Fedora operating system](https://en.wikipedia.org/wiki/Fedora_%28operating_system%29)
-- 2004 CE: [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth) released the [Ubuntu operating system](https://en.wikipedia.org/wiki/Mark_Shuttleworth)
+- 2003 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Fedora operating system](https://en.wikipedia.org/wiki/Fedora_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2003 CE: [Vikram Adve](https://en.wikipedia.org/wiki/Vikram_Adve), [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), and others released [LLVM](https://en.wikipedia.org/wiki/LLVM) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2004 CE: [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth) released the [Ubuntu operating system](https://en.wikipedia.org/wiki/Mark_Shuttleworth) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) published [Markdown](https://en.wikipedia.org/wiki/Markdown) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2004 CE: [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) published [*The Ancestor's Tale*](https://en.wikipedia.org/wiki/The_Ancestor%27s_Tale)
 - 2005 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published [Git](https://en.wikipedia.org/wiki/Git) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
@@ -1085,6 +1086,7 @@ Few descriptions survive, despite many discoveries.
 - 2007 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 3* (GPLv3)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Street View](https://en.wikipedia.org/wiki/Google_Street_View)
 - 2007 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPhone](https://en.wikipedia.org/wiki/IPhone), a practical [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics) [tablet computer](https://en.wikipedia.org/wiki/Tablet_computer) with a [capacitive touchscreen](https://en.wikipedia.org/wiki/Touchscreen#Capacitive), popularizing [multitouch displays](https://en.wikipedia.org/wiki/Multi-touch)
+- 2007 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released [Clang](https://en.wikipedia.org/wiki/Clang), created by [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released the [Android operating system](https://en.wikipedia.org/wiki/Android_%28operating_system%29)
 
 ### 2010s
@@ -1096,6 +1098,8 @@ Few descriptions survive, despite many discoveries.
 - 2015 CE: [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith) et al. published [*A higher level classification of all living organisms*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119248)
 - 2015 CE: Anja Spang et al. published [*Complex archaea that bridge the gap between prokaryotes and eukaryotes*](https://www.nature.com/articles/nature14447)
 - 2015 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [landed an orbital rocket vertically](https://en.wikipedia.org/wiki/Falcon_9_flight_20)
+- 2015 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Swift programming language](https://en.wikipedia.org/wiki/Swift_%28programming_language%29), created by [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2015 CE: [Mozilla](https://en.wikipedia.org/wiki/Mozilla) released version 1.0 of the [Rust programming language](https://en.wikipedia.org/wiki/Rust_%28programming_language%29), created by Graydon Hoare, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
 - 2018 CE: Daily average CO₂ exceeded 410 ppm
 
