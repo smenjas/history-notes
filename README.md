@@ -93,6 +93,7 @@ Few descriptions survive, despite many discoveries.
 - 13.51 bya: The [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
 
 ## < 10 Billion Years Ago
+- 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements.](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/)
 - 4.603 bya: [The Sun](https://en.wikipedia.org/wiki/Sun) formed
 - 4.543 bya: [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
 - 4.51 bya: [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth](https://en.wikipedia.org/wiki/Earth) & [Moon](https://en.wikipedia.org/wiki/Moon) formed from the debris
