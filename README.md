@@ -93,7 +93,7 @@ Few descriptions survive, despite many discoveries.
 - 13.51 bya: The [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
 
 ## < 10 Billion Years Ago
-- 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements.](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/)
+- 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/)
 - 4.603 bya: [The Sun](https://en.wikipedia.org/wiki/Sun) formed
 - 4.543 bya: [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
 - 4.51 bya: [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth](https://en.wikipedia.org/wiki/Earth) & [Moon](https://en.wikipedia.org/wiki/Moon) formed from the debris
@@ -845,6 +845,7 @@ Few descriptions survive, despite many discoveries.
 ## 1900s
 - 1900 CE: [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) published *Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum* (*On the Theory of the Energy Distribution Law of the Normal Spectrum*), originating [quantum theory](https://en.wikipedia.org/wiki/Quantum_mechanics)
 - 1900 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Folgerungen aus den Capillaritätserscheinungen* (*Conclusions Drawn from the Phenomena of Capillarity*)
+- 1901 CE: [Carl Edvard Johansson](https://en.wikipedia.org/wiki/Carl_Edvard_Johansson) patented *Gauge Block Sets for Precision Measurement*, a.k.a. ["Jo blocks"](https://en.wikipedia.org/wiki/Gauge_block), allowing precise measurements
 - 1902 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Transcendenten* (*Theory of Abelian Transcendents*)
 - 1903 CE: [Konstantin Tsіolkovskіy](https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky) published *Exploration of Outer Space with Reaction Devices*, describing his [rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
 - 1903 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-3* (*Treatises-3*)
