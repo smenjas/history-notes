@@ -1016,6 +1016,7 @@ Few descriptions survive, despite many discoveries.
 ### 1970s
 - 1970 CE: [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) published *A [Relational Model](https://en.wikipedia.org/wiki/Relational_model) of Data for Large Shared Data Banks*
 - 1970 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) ported Unix to the PHP-11/20 in assembly
+- 1970 CE: [Wayne R. Moore](https://en.wikipedia.org/wiki/Wayne_Moore_%28swimmer%29) published *Foundations of Mechanical Accuracy*
 - 1971 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published the [*UNIX Programmer's Manual*](https://en.wikipedia.org/wiki/Man_page)
 - 1971 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) published *The Closing Circle*
 - 1972 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Statistical Mechanics*
