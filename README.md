@@ -121,12 +121,12 @@ Few descriptions survive, despite many discoveries.
 
 ### Mitochondria
 - 2.1-1.7 bya: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
-- 2.1-1.5 bya: [The supercontinent Nuna](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
 - 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
 - 2.023 bya: An asteroid impacted Earth, creating the [Vredefort crater](https://en.wikipedia.org/wiki/Vredefort_crater) which is 160 km in diameter
 - 1.9-1.0 bya: [The supercontinent Atlantica](https://en.wikipedia.org/wiki/Arctica) existed
 - 1.85 bya: O₂ reached 0.03 atm, but most was aborbed into oceans and seabed rock
 - 1.849 bya: A comet impacted Earth, creating the [Sudbury Basin](https://en.wikipedia.org/wiki/Sudbury_Basin) which is 130 km in diameter
+- 1.8-1.4 bya: [The supercontinent Nuna](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
 
 ### Chloroplasts
 - 1.4 bya: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
@@ -164,7 +164,7 @@ Few descriptions survive, despite many discoveries.
 - 676 mya: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
 - 662 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
 - 650-635 mya: [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
-- 633-573 mya: [The supercontinent Pannotia existed](https://en.wikipedia.org/wiki/Pannotia) at the South Pole
+- 633-573 mya: [The supercontinent Pannotia](https://en.wikipedia.org/wiki/Pannotia) existed at the South Pole
 
 ### Spine
 - 615 mya: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
@@ -208,7 +208,7 @@ Few descriptions survive, despite many discoveries.
 - 300 mya: [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) existed
 - 300 mya: O₂ peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
 - 273 mya: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction)
-- 252 mya: [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), 96% of species lost to volcanoes, O₂ fell to 0.15 atm
+- 252 mya: [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), i.e. "The Great Dying", 96% of species lost to volcanoes, O₂ fell to 0.15 atm
 - 245-202 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) split from [Gymnosperms ("naked seeds", a.k.a. seed-producing plants)](https://en.wikipedia.org/wiki/Gymnosperm)
 - 214 mya: An asteroid impacted Earth, creating the [Manicouagan crater](https://en.wikipedia.org/wiki/Manicouagan_Reservoir) which is 85 km in diameter
 - 201.3 mya: [Triassic–Jurassic extinction event](https://en.wikipedia.org/wiki/Triassic%E2%80%Jurassic_extinction_event), 80% of species lost
@@ -320,7 +320,7 @@ Few descriptions survive, despite many discoveries.
 
 ### Clothing
 - 83 kya: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
-- 75 kya: [Toba volcano supereruption](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
+- 73 kya: [Toba volcano supereruption](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
 - 70 kya: Gene mutations that allow abstract thinking emerged
 - 70-50 kya: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
 - 50-40 kya: [Explosion of innovation: tools and cultures become more sophisticated](https://en.wikipedia.org/wiki/Behavioral_modernity)
@@ -393,6 +393,7 @@ Few descriptions survive, despite many discoveries.
 - 1800-1450 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Linear A](https://en.wikipedia.org/wiki/Linear_A), descended from Cretan hieroglyphs
 - 1754 BCE: [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) enacted the [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 - 1700 BCE: [King Anitta](https://en.wikipedia.org/wiki/Anitta) who wrote the oldest known [Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages) text in [Hittite](https://en.wikipedia.org/wiki/Hittite_language), burned [Hattusa](https://en.wikipedia.org/wiki/Hattusa)
+- 1600 BCE: The [Thera volcano erupted](https://en.wikipedia.org/wiki/Minoan_eruption) on the island now called [Santorini](https://en.wikipedia.org/wiki/Santorini), destroying the [Minoan](https://en.wikipedia.org/wiki/Minoan_civilization) settlement [Akrotiri](https://en.wikipedia.org/wiki/Akrotiri_%28prehistoric_city%29)
 - 1450-1200 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) wrote [Linear B](https://en.wikipedia.org/wiki/Linear_B), descended from Linear A
 - 1300 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) made [concrete](https://en.wikipedia.org/wiki/Concrete) floors in the royal palace of [Tiryns](https://en.wikipedia.org/wiki/Tiryns) on the [Peloponnese peninsula](https://en.wikipedia.org/wiki/Peloponnese)
 - 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu), China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
@@ -457,6 +458,7 @@ Few descriptions survive, despite many discoveries.
 - 250 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) wrote [*On Floating Bodies*](https://en.wikipedia.org/wiki/On_Floating_Bodies), describing [Archimedes' principle](https://en.wikipedia.org/wiki/Archimedes%27_principle)
 - 240 BCE: [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) measured the [Earth's circumference](https://en.wikipedia.org/wiki/Earth's_circumference)
 - 234 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
+- 233 BCE: The [Taupo volcano erupted](https://en.wikipedia.org/wiki/Hatepe_eruption) on New Zealand's North Island
 - 230 BCE: [Aristarchus of Samos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) by the time he died wrote [*Peri megethon kai apostematon* (*On the Sizes and Distances*)](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_%28Aristarchus%29), correctly concluding that the Sun is larger than the Earth, and the Earth orbits the Sun, i.e. [the heliocentric model](https://en.wikipedia.org/wiki/Heliocentrism)
 - 220-150 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) invented the [astrolabe](https://en.wikipedia.org/wiki/Astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 212 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) wrote many mathematical works including [*Perí sfaíras kaí kylíndrou* (*On the Sphere & Cylinder*)](https://en.wikipedia.org/wiki/On_the_Sphere_and_Cylinder) which gave the [Archimedean property](https://en.wikipedia.org/wiki/Archimedean_property), and deployed a heat ray by the time he died
@@ -516,6 +518,7 @@ Few descriptions survive, despite many discoveries.
 - 893 CE: [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script) developed, based on Greek [uncial script](https://en.wikipedia.org/wiki/Uncial_script) & Glagolitic script
 - 900 CE: [Arab navigators](https://en.wikipedia.org/wiki/Geography_and_cartography_in_medieval_Islam) originated the [kamal](https://en.wikipedia.org/wiki/Kamal_%28navigation%29), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 915 CE: [Al-Tabari](https://en.wikipedia.org/wiki/Al-Tabari) wrote his [*History of the Prophets and Kings*](https://en.wikipedia.org/wiki/History_of_the_Prophets_and_Kings), a detailed and comprehensive chronicle of Mediterranean and Middle Eastern history
+- 946 CE: The [Paektu volcano erupted](https://en.wikipedia.org/wiki/946_eruption_of_Paektu_Mountain) in [Manchuria](https://en.wikipedia.org/wiki/Manchuria)
 - 947 CE: [Al-Masudi](https://en.wikipedia.org/wiki/Al-Masudi) wrote the first edition of [*Murūj aḏ-Ḏahab wa-Maʿādin al-Jawhar* (*Meadows of Gold and Mines of Gems*)](https://en.wikipedia.org/wiki/The_Meadows_of_Gold), a book on [world history](https://en.wikipedia.org/wiki/World_history), the first to combine history and [scientific](https://en.wikipedia.org/wiki/Science) [geography](https://en.wikipedia.org/wiki/Geography) in a large-scale work
 - 976 CE: The [*Codex Vigilanus* (*Watchful Manuscript*)](https://en.wikipedia.org/wiki/Codex_Vigilanus) introduced [Arabic numerals](https://en.wikipedia.org/wiki/Arabic_numerals) (except zero) to [the West](https://en.wikipedia.org/wiki/Western_world)
 - 977 CE: [Muhammad ibn Ahmad al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Ahmad_al-Khwarizmi) compiled *Mafātīḥ al-ʿulūm* (*The Keys of the Sciences*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia), stating that if no number appears in the place of tens in a calculation, a little circle (called a ṣifr) should be used "to keep the rows"
@@ -535,6 +538,7 @@ Few descriptions survive, despite many discoveries.
 - 1240 CE: [Bartholomeus Anglicus (Bartholomew of England)](https://en.wikipedia.org/wiki/Bartholomeus_Anglicus) compiled *De proprietatibus rerum* (*On the Properties of Things*), a widely translated [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1247 CE: [Qin Jiushao](https://en.wikipedia.org/wiki/Qin_Jiushao) wrote [*Mathematical Treatise in Nine Sections*](https://en.wikipedia.org/wiki/Mathematical_Treatise_in_Nine_Sections), the oldest surviving [Chinese mathematical](https://en.wikipedia.org/wiki/Chinese_mathematics) text using a round symbol for [zero](https://en.wikipedia.org/wiki/0)
 - 1250 CE: [Tata-tonga](https://en.wikipedia.org/wiki/Tata-tonga) introduced the [Old Uyghur alphabet](https://en.wikipedia.org/wiki/Old_Uyghur_alphabet) to [Genghis Khan](https://en.wikipedia.org/wiki/Genghis_Khan), and adapted it into [Mongolian script](https://en.wikipedia.org/wiki/Mongolian_script)
+- 1257 CE: The [Samalas volcano erupted](https://en.wikipedia.org/wiki/1815_eruption_of_Mount_Tambora) in present day [Indonesia](https://en.wikipedia.org/wiki/Indonesia), and may have contributed to the [Little Ice Age](https://en.wikipedia.org/wiki/Little_Ice_Age)
 - 1258 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) rescued about 400,000 manuscripts from the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library before [Hulagu Khan sacked Baghdad](https://en.wikipedia.org/wiki/Siege_of_Baghdad_%281258%29)
 - 1259 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) convinced [Hulagu Khan](https://en.wikipedia.org/wiki/Hulagu_Khan) to build the [Maragheh observatory](https://en.wikipedia.org/wiki/Maragheh_observatory)
 - 1274 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) wrote many works on astronomy, biology, chemistry, logic, and mathematics, establishing [trigonometry](https://en.wikipedia.org/wiki/Trigonometry) as a separate discipline from astronomy by the time he died
@@ -704,6 +708,7 @@ Few descriptions survive, despite many discoveries.
 - 1814 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) invented the modern [spectroscope](https://en.wikipedia.org/wiki/Spectroscope)
 - 1815 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Practical and Historical Treatise on Consumptive Diseases*
 - 1815 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published [*A Delineation of the Strata of England and Walse with part of Scotland*](https://commons.wikimedia.org/wiki/File:Geological_map_Britain_William_Smith_1815.jpg), an influential [geological map](https://en.wikipedia.org/wiki/Geologic_map)
+- 1815 CE: The [Mount Tambora volcano erupted](https://en.wikipedia.org/wiki/1815_eruption_of_Mount_Tambora) in present day [Indonesia](https://en.wikipedia.org/wiki/Indonesia), causing the [Year Without a Summer](https://en.wikipedia.org/wiki/Year_Without_a_Summer) in 1816
 - 1816 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Der binomische Lehrsatz* (*The binomial theorem*)
 - 1817 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Rein analytischer Beweis* (*Purely analytical proof*), rigorously defining [mathematical limits](https://en.wikipedia.org/wiki/Limit_of_a_function)
 - 1817 CE: [David Ricardo](https://en.wikipedia.org/wiki/David_Ricardo) published [*On the Principles of Political Economy and Taxation*](https://en.wikipedia.org/wiki/On_the_Principles_of_Political_Economy_and_Taxation), advancing a [labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value) and describing [comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage)
@@ -1167,12 +1172,18 @@ Few descriptions survive, despite many discoveries.
   - [List of largest empires](https://en.wikipedia.org/wiki/List_of_largest_empires)
 - [List of experiments](https://en.wikipedia.org/wiki/List_of_experiments)
 - [List of firsts in aviation](https://en.wikipedia.org/wiki/List_of_firsts_in_aviation)
+- [List of geomagnetic reversals](https://en.wikipedia.org/wiki/List_of_geomagnetic_reversals)
 - [List of Internet pioneers](https://en.wikipedia.org/wiki/List_of_Internet_pioneers)
 - [List of languages by first written accounts](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
+- [List of large volcanic eruptions](https://en.wikipedia.org/wiki/List_of_large_volcanic_eruptions)
+  - [List of largest volcanic eruptions](https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions)
+- [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
 - [List of numeral systems](https://en.wikipedia.org/wiki/List_of_numeral_systems)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 - [List of people considered father or mother of a scientific field](https://en.wikipedia.org/wiki/List_of_people_considered_father_or_mother_of_a_scientific_field)
 - [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+- [List of supercontinents](https://en.wikipedia.org/wiki/List_of_supercontinents)
+- [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
 - [Lists of etymologies](https://en.wikipedia.org/wiki/Lists_of_etymologies)
 - [Lists of important publications in science](https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science)
   - [Bibliography of anthropology](https://en.wikipedia.org/wiki/Bibliography_of_anthropology)
