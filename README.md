@@ -94,7 +94,7 @@ Few descriptions survive, despite many discoveries.
 
 ## < 10 Billion Years Ago
 - 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/)
-- 4.603 bya: [The Sun](https://en.wikipedia.org/wiki/Sun) formed
+- 4.603 bya: The [Sun](https://en.wikipedia.org/wiki/Sun) formed
 - 4.543 bya: [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
 - 4.51 bya: [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth](https://en.wikipedia.org/wiki/Earth) & [Moon](https://en.wikipedia.org/wiki/Moon) formed from the debris
 - 4.4 bya: Liquid water and an atmosphere existed on Earth
@@ -102,17 +102,17 @@ Few descriptions survive, despite many discoveries.
 - ? bya: [Purine](https://en.wikipedia.org/wiki/Purine) (precursor to adenine and guanine) existed
 - ? bya: [RNA](https://en.wikipedia.org/wiki/RNA) existed
 - ? bya: [DNA](https://en.wikipedia.org/wiki/DNA) existed
-- 4.29-3.48 bya: [Last universal common ancestor (LUCA)](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) lived
+- 4.29-3.48 bya: Our [last universal common ancestor (LUCA)](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) lived
 - 3.8 bya: [Archaeal](https://en.wikipedia.org/wiki/Archaea) [lipids](https://en.wikipedia.org/wiki/Lipid) existed
-- 3.6-2.7 bya: [The supercontinent Vaalbara](https://en.wikipedia.org/wiki/Vaalbara) existed
+- 3.6-2.7 bya: The supercontinent [Vaalbara](https://en.wikipedia.org/wiki/Vaalbara) existed
 - 3.5 bya: Earliest oxygen production in shallow oceans, absorbed by the sea and sea bed
 - 3.5 bya: [Single celled life](https://en.wikipedia.org/wiki/Unicellular_organism) existed
 - ? bya: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis) among other things, existed
 - ? bya: The [cell nucleus](https://en.wikipedia.org/wiki/Cell_nucleus) (present in archaea & eukaryotes, but not eubacteria) existed
-- 2.8-2.4 bya: [The supercontinent Ur](https://en.wikipedia.org/wiki/Ur_%continent%29) existed
-- 2.7-2.5 bya: [The supercontinent Kenorland](https://en.wikipedia.org/wiki/Kenorland) existed
+- 2.8-2.4 bya: The supercontinent [Ur](https://en.wikipedia.org/wiki/Ur_%continent%29) existed
+- 2.7-2.5 bya: The supercontinent [Kenorland](https://en.wikipedia.org/wiki/Kenorland) existed
 - 2.7-2.4 bya: Nickel deposits, necessary for chemosynthetic [methane producers](https://en.wikipedia.org/wiki/Methanogen), decreased dramatically
-- 2.5-2.0 bya: [The supercontinent Arctica](https://en.wikipedia.org/wiki/Arctica) existed
+- 2.5-2.0 bya: The supercontinent [Arctica](https://en.wikipedia.org/wiki/Arctica) existed
 - 2.45 bya: O₂ production started, practically no atmospheric O₂ prior to this, with the possible exception of shallow oceans
 - 2.45-2.22 bya: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen
 - 2.4 bya: An asteroid impacted Earth, creating the [Suavjärvi crater](https://en.wikipedia.org/wiki/Suavjärvi_crater) which is 3 km in diameter
@@ -123,10 +123,10 @@ Few descriptions survive, despite many discoveries.
 - 2.1-1.7 bya: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
 - 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
 - 2.023 bya: An asteroid impacted Earth, creating the [Vredefort crater](https://en.wikipedia.org/wiki/Vredefort_crater) which is 160 km in diameter
-- 1.9-1.0 bya: [The supercontinent Atlantica](https://en.wikipedia.org/wiki/Arctica) existed
+- 1.9-1.0 bya: The supercontinent [Atlantica](https://en.wikipedia.org/wiki/Arctica) existed
 - 1.85 bya: O₂ reached 0.03 atm, but most was aborbed into oceans and seabed rock
 - 1.849 bya: A comet impacted Earth, creating the [Sudbury Basin](https://en.wikipedia.org/wiki/Sudbury_Basin) which is 130 km in diameter
-- 1.8-1.4 bya: [The supercontinent Nuna](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
+- 1.8-1.4 bya: The supercontinent [Nuna](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
 
 ### Chloroplasts
 - 1.4 bya: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
@@ -136,7 +136,7 @@ Few descriptions survive, despite many discoveries.
 - ? bya: [Podiata](https://en.wikipedia.org/wiki/Podiata) split from [Malawimonas](https://en.wikipedia.org/wiki/Malawimonas)
 - ? bya: [Amorphea (a.k.a. Unikonts](https://en.wikipedia.org/wiki/Unikont), "one pole", i.e. a flagellum) split from [CRuMs](https://en.wikipedia.org/wiki/CRuMs) ([heterotrophic](https://en.wikipedia.org/wiki/Heterotroph) protists)
 - ? bya: [Obazoa](https://en.wikipedia.org/wiki/Obazoa) split from [Amoebozoa](https://en.wikipedia.org/wiki/Amoebozoa) (amoeboid protists)
-- 1.23-0.825 bya: [The supercontinent Rodinia](https://en.wikipedia.org/wiki/Rodinia) existed
+- 1.23-0.825 bya: The supercontinent [Rodinia](https://en.wikipedia.org/wiki/Rodinia) existed
 - 1.1 bya: [Opisthokonts](https://en.wikipedia.org/wiki/Opisthokont) ("rear pole", i.e. a flagellum) split from [Apusomonadida](https://en.wikipedia.org/wiki/Apusomonadida) (protozoan zooflagellates)
 - 1.1 bya: [Holozoa](https://en.wikipedia.org/wiki/Holozoa) split from [Holomycota](https://en.wikipedia.org/wiki/Holomycota) (fungi, slime molds, & amoebae)
 - ? ybp: [Filozoa](https://en.wikipedia.org/wiki/Filozoa) ("thread animals") split from [Pluriformea](https://en.wikipedia.org/wiki/Pluriformea) ("many shapes")
@@ -158,37 +158,37 @@ Few descriptions survive, despite many discoveries.
 
 ### Gut
 - 797 mya: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
-- 717 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
+- 717 mya: The [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
 - 684 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
 - 684 mya: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
 - 676 mya: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
-- 662 mya: [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
-- 650-635 mya: [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
-- 633-573 mya: [The supercontinent Pannotia](https://en.wikipedia.org/wiki/Pannotia) existed at the South Pole
+- 662 mya: The [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
+- 650-635 mya: The [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
+- 633-573 mya: The supercontinent [Pannotia](https://en.wikipedia.org/wiki/Pannotia) existed at the South Pole
 
 ### Spine
 - 615 mya: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
 - 600 mya: O₂ exceeded 0.1 atm
 - 600 mya: An asteroid impacted Earth, creating the [Beaverhead crater](https://en.wikipedia.org/wiki/Beaverhead_crater) which is 60 km in diameter
 - 580 mya: An asteroid impacted Earth, creating the [Acraman crater](https://en.wikipedia.org/wiki/Acraman_crater) which is 90 km in diameter
-- 579 mya: [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340 ka
-- 575 mya: [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion), producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
-- 542 mya: [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction)
+- 579 mya: The [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340 ka
+- 575 mya: The [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion) occurred, producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
+- 542 mya: The [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction) occurred
 
 ### Eye
-- 541 mya: [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion), CO₂ was 4000 ppm, O₂ was 0.12 atm
-- 517 mya: [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction)
-- 502 mya: [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian)
+- 541 mya: The [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion) occurred, CO₂ was 4000 ppm, O₂ was 0.12 atm
+- 517 mya: The [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction) occurred
+- 502 mya: The [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian) occurred
 - 490 mya: [Green algae](https://en.wikipedia.org/wiki/Green_algae) evolved into [Embryophyta (land plants)](https://en.wikipedia.org/wiki/Embryophyte)
-- 485.4 mya: [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event)
+- 485.4 mya: The [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event) occurred
 
 ### Jaw
 - 473 mya: [Gnathostomata](https://en.wikipedia.org/wiki/Gnathostomata) ("jaw mouth", a.k.a. jawed fish) split from [Osteostraci](https://en.wikipedia.org/wiki/Osteostraci) ("bony shields") & [Pituriaspida](https://en.wikipedia.org/wiki/Pituriaspida) ("pituri shield")
-- 440 mya: [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events), 86% of species lost
+- 440 mya: The [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events) occurred, 86% of species lost
 
 ### Lungs
 - 435 mya: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
-- 424 mya: [Lau extinction event](https://en.wikipedia.org/wiki/Lau_event)
+- 424 mya: The [Lau extinction event](https://en.wikipedia.org/wiki/Lau_event) occurred
 - 420 mya: [Elegestolepis](https://en.wikipedia.org/wiki/Elegestolepis), a primitive [shark](https://en.wikipedia.org/wiki/Shark), existed
 
 ### Limbs
@@ -197,35 +197,35 @@ Few descriptions survive, despite many discoveries.
 - 400 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
 - 385 mya: [Wattieza](https://en.wikipedia.org/wiki/Wattieza), an early tree, existed
 - 380 mya: [Elpistostege](https://en.wikipedia.org/wiki/Elpistostege), an early tetrapod that was basically a fish with arms, had [digits](https://news.flinders.edu.au/blog/2020/03/19/ancient-fossil-reveals-origin-of-the-human-hand/), small bones that would eventually become fingers
-- 375 mya: [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction), 75% of species lost
+- 375 mya: The [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction) occurred, 75% of species lost
 - 360-345 mya: [Archaeopteris](https://en.wikipedia.org/wiki/Archaeopteris), an early tree, existed
 - 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
 - 350 mya: O₂ exceeded 0.2 atm
 
 ### Amniotic Sac
 - 312 mya: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
-- 305 mya: [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse)
+- 305 mya: The [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse) occurred
 - 300 mya: [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) existed
 - 300 mya: O₂ peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
-- 273 mya: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction)
-- 252 mya: [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), i.e. "The Great Dying", 96% of species lost to volcanoes, O₂ fell to 0.15 atm
+- 273 mya: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction) occurred
+- 252 mya: The [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), i.e. "The Great Dying" occurred, 96% of species lost to volcanoes, O₂ fell to 0.15 atm
 - 245-202 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) split from [Gymnosperms ("naked seeds", a.k.a. seed-producing plants)](https://en.wikipedia.org/wiki/Gymnosperm)
 - 214 mya: An asteroid impacted Earth, creating the [Manicouagan crater](https://en.wikipedia.org/wiki/Manicouagan_Reservoir) which is 85 km in diameter
-- 201.3 mya: [Triassic–Jurassic extinction event](https://en.wikipedia.org/wiki/Triassic%E2%80%Jurassic_extinction_event), 80% of species lost
+- 201.3 mya: The [Triassic–Jurassic extinction event](https://en.wikipedia.org/wiki/Triassic%E2%80%Jurassic_extinction_event) occurred, 80% of species lost
 - 200 mya: O₂ exceeded 0.2 atm
 - 200-150 mya: CO₂ > 3000 ppm
-- 183 mya: [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover)
+- 183 mya: The [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover) occurred
 - 177 mya: [Synapsida](https://en.wikipedia.org/wiki/Synapsid) ("fused arch", e.g. mammals) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
 - 159 mya: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
 - 150 mya: O₂ exceeded 0.26 atm
 - 145 mya: An asteroid impacted Earth, creating the [Morokweng crater](https://en.wikipedia.org/wiki/Morokweng_crater) which is 70 km in diameter
 - 129-125 mya: [Poaceae, a.k.a. Gramineae or grasses](https://en.wikipedia.org/wiki/Poaceae) evolved
-- 116 mya: [Aptian extinction event](https://en.wikipedia.org/wiki/Aptian_extinction)
+- 116 mya: The [Aptian extinction event](https://en.wikipedia.org/wiki/Aptian_extinction) occurred
 - 105 mya: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
 
 ## < 100 Million Years Ago
 - 96 mya: [Boreoeutheria](https://en.wikipedia.org/wiki/Boreoeutheria) ("northern true beasts") split from [Atlantogenata](https://en.wikipedia.org/wiki/Atlantogenata) (elephants, sloths, etc.)
-- 94 mya: [Cenomanian-Turonian anoxic event](https://en.wikipedia.org/wiki/Cenomanian-Turonian_boundary_event)
+- 94 mya: The [Cenomanian-Turonian anoxic event](https://en.wikipedia.org/wiki/Cenomanian-Turonian_boundary_event), a mass extinction, occurred
 - 90 mya: [Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires) (Supraprimates) split from [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria) (dogs, cats, giraffes, whales, etc.)
 - 88 mya: [Euarchonta](https://en.wikipedia.org/wiki/Euarchonta) ("true ancestors") split from [Glires](https://en.wikipedia.org/wiki/Glires) (dormice), maybe
 - 86.2 mya: [Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha) split from [Scandentia (tree shrews)](https://en.wikipedia.org/wiki/Treeshrew)
@@ -235,11 +235,11 @@ Few descriptions survive, despite many discoveries.
 ### Thumb
 - 70 mya: [Primates evolved thumbs](https://en.wikipedia.org/wiki/Thumb#Human_Evolution)
 - 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
-- 66.7 mya: [The first known bird existed: a recent common ancestor of chickens and ducks](https://www.cam.ac.uk/stories/wonderchicken)
+- 66.7 mya: The [first known bird](https://www.cam.ac.uk/stories/wonderchicken) existed: a recent common ancestor of chickens and ducks
 - 66 mya: An asteroid impacted Earth, creating the [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater) which is 150 km in diameter
-- 66 mya: [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), 76% of species lost
+- 66 mya: The [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) occurred, 76% of species lost
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
-- 55 mya: [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum): Volcanoes released CO₂, global temperatures increased by 5-8 °C
+- 55 mya: The [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) occurred: volcanoes released CO₂, global temperatures increased by 5-8 °C
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
 - 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
 - 40 mya: O₂ dropped to 0.23 atm
@@ -252,33 +252,33 @@ Few descriptions survive, despite many discoveries.
 ### No Tail
 - 20 mya: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
 - 15.7 mya: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
-- 14 mya: [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption), extinctions related to cooling
+- 14 mya: The [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption) occurred, extinctions related to cooling
 
 ## < 10 Million Years Ago
 - 9 mya: [Homininae](https://en.wikipedia.org/wiki/Homininae) [split](https://en.wikipedia.org/wiki/Orangutan%E2%80%93human_last_common_ancestor) from [orangutans](https://en.wikipedia.org/wiki/Orangutan)
 - 8 mya: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
 - 7 mya: [Hominina](https://en.wikipedia.org/wiki/Human_taxonomy#Hominina) [split](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor) from [Panina](https://en.wikipedia.org/wiki/Pan_%28genus%29), i.e. [chimpanzees](https://en.wikipedia.org/wiki/Chimpanzee) and [bonobos](https://en.wikipedia.org/wiki/Bonobo)
-- 5.96-5.33 mya: [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
+- 5.96-5.33 mya: The [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
 - 4.2-3.8 mya: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) emerged in Ethiopia & Kenya
 - 4 mya: [Early humans evolved to walk on two legs (bipedalism)](https://en.wikipedia.org/wiki/Human_skeletal_changes_due_to_bipedalism)
 
 ### Tools
-- 3.4 mya: [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in Ethiopia, near Gona)
-- 3.3 mya: [Large stone tools made in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
+- 3.4 mya: The [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in Ethiopia, near Gona)
+- 3.3 mya: [Early humans made large stone tools in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
 - 2.8 mya: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) emerged
 - 1.9 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) emerged
 - 1.89 mya: Humans began to run long distances, and sweat, and lose body hair
-- 1.25-0.7 mya: [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition), glacial cycles switched from 41 ka to 100 ka
+- 1.25-0.7 mya: The [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition) occurred, glacial cycles switched from 41 ka to 100 ka
 - 1.07 mya: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana
 
 ### Fire
 - 1.0 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) [controlled fire](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans) in [Wonderwerk Cave](https://en.wikipedia.org/wiki/Wonderwerk_Cave), in the Asbestos Mountains of South Africa
 
 ## < 1 Million Years Ago
-- 990-950 kya: [Jaramillo reversal](https://en.wikipedia.org/wiki/Jaramillo_reversal) of Earth's magnetic field
+- 990-950 kya: The [Jaramillo reversal](https://en.wikipedia.org/wiki/Jaramillo_reversal) of Earth's magnetic field occurred
 - 800 kya: CO₂ dipped below 190 ppm, global temp -9 °C from present
 - 790 kya: CO₂ peaked around 260 ppm, global temp -1 °C from present
-- 781 kya: [Brunhes-Matuyama reversal](https://en.wikipedia.org/wiki/Brunhes%E2%80%93Matuyama_reversal) of Earth's magnetic field
+- 781 kya: The [Brunhes-Matuyama reversal](https://en.wikipedia.org/wiki/Brunhes%E2%80%93Matuyama_reversal) of Earth's magnetic field occurred
 - 750 kya: CO₂ dipped below 180 ppm, global temp -9 °C from present
 - 740 kya: CO₂ peaked around 210 ppm, global temp -4 °C from present
 - 720 kya: CO₂ dipped below 190 ppm, global temp -9 °C from present
@@ -294,7 +294,7 @@ Few descriptions survive, despite many discoveries.
 - 530 kya: CO₂ dipped below 200 ppm, global temp -8 °C from present
 - 490 kya: CO₂ peaked around 250 ppm, global temp -1 °C from present
 - 440 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
-- 415 kya: [Controlled use of fire in Suffolk, England](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
+- 415 kya: [Early humans controlled fire in Suffolk, England](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 400 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present
 - 350 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 320 kya: CO₂ peaked around 300 ppm, global temp +4 °C from present
@@ -312,42 +312,42 @@ Few descriptions survive, despite many discoveries.
 ### Anatomically Modern Humans
 - 140-110 kya: [Anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved a larger fore-brain, smaller teeth, and longer distal bones
 - 131 kya: North African/Near Eastern wildcats split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
-- 128 kya: [Homo cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
+- 128 kya: [Early humans cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 120 kya: CO₂ peaked around 280 ppm, global temp +5 °C from present
-- 115 kya: [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
+- 115 kya: The [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
 
 ## < 100 Thousand Years Ago
 
 ### Clothing
 - 83 kya: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
-- 73 kya: [Toba volcano supereruption](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
+- 73 kya: The [Toba volcano erupted](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
 - 70 kya: Gene mutations that allow abstract thinking emerged
 - 70-50 kya: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
-- 50-40 kya: [Explosion of innovation: tools and cultures become more sophisticated](https://en.wikipedia.org/wiki/Behavioral_modernity)
+- 50-40 kya: [Early human tools and cultures become more sophisticated](https://en.wikipedia.org/wiki/Behavioral_modernity) in an explosion of innovation
 - 50-30 kya: ["Gracile" anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) emerged
 - 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
-- 26.5-20 kya: [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum), CO₂ dipped to 180 ppm, global temp -9 °C from present, dust exceeded 1.6 ppm
+- 26.5-20 kya: The [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum) occurred, CO₂ dipped to 180 ppm, global temp -9 °C from present, dust exceeded 1.6 ppm
 - 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, sea level 120m below present
-- 17-15 kya: [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas), global temperatures declined sharply
+- 17-15 kya: The [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas) occurred, global temperatures declined sharply
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 100m below present
-- 15-13 kya: [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial), first pronounced warming since LGM
-- 14.5 kya: [Bread made at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
+- 15-13 kya: The [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial) occurred, first pronounced warming since LGM
+- 14.5 kya: [Humans made bread at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
 
 ### Dogs
 - 14.2 kya: [Dogs lived with humans](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog#Bonn%E2%80%93Oberkassel_dog) along the [Rhine River](https://en.wikipedia.org/wiki/Rhine)
-- 14.2-14.1 kya: [Older Dryas](https://en.wikipedia.org/wiki/Older_Dryas), global temperatures declined sharply
+- 14.2-14.1 kya: The [Older Dryas](https://en.wikipedia.org/wiki/Older_Dryas) occurred, global temperatures declined sharply
 
 ### Agriculture
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
 - 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 80m below present
 - 13.5 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Abu Hureyra](https://en.wikipedia.org/wiki/Tell_Abu_Hureyra) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates): a few hundred people lived there year-round, the largest settlement of people anywhere at the time
 - 13 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) brewed [beer](https://en.wikipedia.org/wiki/Beer) at [Raqefet Cave](https://en.wikipedia.org/wiki/Raqefet_Cave), Israel
-- 12.9-11.7 kya: [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas), global temperatures declined sharply
+- 12.9-11.7 kya: The [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas) occurred, global temperatures declined sharply
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ exceeded 250 ppm
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
 - 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
-- 9650 BCE: [The Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
+- 9650 BCE: The [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
 - 9000 BCE: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) settled [Jericho](https://en.wikipedia.org/wiki/Jericho)
 - 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea), [wheat](https://en.wikipedia.org/wiki/Wheat), & [rye](https://en.wikipedia.org/wiki/Rye)
@@ -378,16 +378,16 @@ Few descriptions survive, despite many discoveries.
 - 3500 BCE: People in [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) domesticated the [horse](https://en.wikipedia.org/wiki/Horse)
 
 ### Writing
-- 3300 BCE: [The Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
+- 3300 BCE: The [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
 - 3300 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Uruk](https://en.wikipedia.org/wiki/Uruk) on the ancient channel of the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) wrote [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3300 BCE: People in the [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) wrote the [Indus script](https://en.wikipedia.org/wiki/Indus_script)
-- 3200 BCE: [The Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
+- 3200 BCE: The [Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3000 BCE: Many modern artifacts existed in the Indus Valley ([sanitation](https://en.wikipedia.org/wiki/Sanitation), [distillation](https://en.wikipedia.org/wiki/Distillation), [levee](https://en.wikipedia.org/wiki/Levee), [scales](https://en.wikipedia.org/wiki/Weighing_scale), etc.)
 - 3000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
 - 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
 - 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
-- 1900 BCE: [Iron smelted and smithed](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
+- 1900 BCE: [People smelted and smithed iron](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
 - 1850 BCE: People near Wadi El-Hol, Egypt wrote [Proto-Sinaitic script](https://en.wikipedia.org/wiki/Proto-Sinaitic_script)
 - 1800 BCE: Assyrians from [Assur](https://en.wikipedia.org/wiki/Assur) on the [Tigris River](https://en.wikipedia.org/wiki/Tigris) introduced [cuneiform](https://en.wikipedia.org/wiki/Cuneiform) to [Hattusa, Turkey](https://en.wikipedia.org/wiki/Hattusa), the capital of the [Hittite Empire](https://en.wikipedia.org/wiki/Hittites)
 - 1800-1450 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Linear A](https://en.wikipedia.org/wiki/Linear_A), descended from Cretan hieroglyphs
@@ -397,12 +397,12 @@ Few descriptions survive, despite many discoveries.
 - 1450-1200 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) wrote [Linear B](https://en.wikipedia.org/wiki/Linear_B), descended from Linear A
 - 1300 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) made [concrete](https://en.wikipedia.org/wiki/Concrete) floors in the royal palace of [Tiryns](https://en.wikipedia.org/wiki/Tiryns) on the [Peloponnese peninsula](https://en.wikipedia.org/wiki/Peloponnese)
 - 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu), China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
-- 1200-1150 BCE: [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse)
+- 1200-1150 BCE: The [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) occurred
 - 1050 BCE: [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) wrote using the [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet), descended from Linear B
 - 900 BCE: [Olmecs](https://en.wikipedia.org/wiki/Olmecs) carved characters into the [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block)
-- 800 BCE: [The Greek alphabet](https://en.wikipedia.org/wiki/Archaic_Greek_alphabets) descended from the Phoenician alphabet, introducing vowels
-- 800 BCE: [The Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet) descended from the Phoenician alphabet
-- 800 BCE: [The Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet) descended from the Aramaic alphabet
+- 800 BCE: The [Greek alphabet](https://en.wikipedia.org/wiki/Archaic_Greek_alphabets) descended from the Phoenician alphabet, introducing vowels
+- 800 BCE: The [Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet) descended from the Phoenician alphabet
+- 800 BCE: The [Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet) descended from the Aramaic alphabet
 - 700 BCE: [Etruscans](https://en.wikipedia.org/wiki/Etruscan_civilization) wrote using the [Etruscan alphabet](https://en.wikipedia.org/wiki/Etruscan_alphabet), descended from the Greek alphabet
 - 700 BCE: [Nabatean](https://en.wikipedia.org/wiki/Nabataean_Kingdom) traders discovered [hydraulic lime](https://en.wikipedia.org/wiki/Hydraulic_lime) and pioneered [concrete](https://en.wikipedia.org/wiki/Concrete), using it to make waterproof underground [cisterns](https://en.wikipedia.org/wiki/Cistern) in the desert
 - 688 BCE: The [Assyrian](https://en.wikipedia.org/wiki/Assyria) [Jerwan](https://en.wikipedia.org/wiki/Jerwan) [Aqueduct](https://en.wikipedia.org/wiki/Aqueduct_%28water_supply%29) used waterproof [concrete](https://en.wikipedia.org/wiki/Concrete)
@@ -421,9 +421,9 @@ Few descriptions survive, despite many discoveries.
 - 430 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus), or someone else, wrote [Prometheus Bound](https://en.wikipedia.org/wiki/Prometheus_Bound) by this time
 - 420 BCE: [Democritus](https://en.wikipedia.org/wiki/Democritus) & [Leucippus](https://en.wikipedia.org/wiki/Leucippus) formulated the [atomic theory](https://en.wikipedia.org/wiki/Atomic_theory) at [Abdera, Thrace](https://en.wikipedia.org/wiki/Abdera,_Thrace)
 - 420 BCE: The "Old Oligarch" wrote the [*Athenaion Politeia* (*Athenian Constitution*)](https://en.wikipedia.org/wiki/Constitution_of_the_Athenians_%28Pseudo-Xenophon%29)
-- 403 BCE: [Athens](https://en.wikipedia.org/wiki/Athens) officially adopted the standard 24-letter [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
+- 403 BCE: The city of [Athens](https://en.wikipedia.org/wiki/Athens) officially adopted the standard 24-letter [Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
 - 400 BCE: [Laozi](https://en.wikipedia.org/wiki/Laozi) wrote the [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching)
-- 399 BCE: [The city of Athens tried Socrates for moral corruption and impiety](https://en.wikipedia.org/wiki/Trial_of_Socrates)
+- 399 BCE: The city of [Athens tried Socrates for moral corruption and impiety](https://en.wikipedia.org/wiki/Trial_of_Socrates)
 - 387 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) founded his [Academy](https://en.wikipedia.org/wiki/Platonic_Academy)
 - 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29), an influential work on [philosophy](https://en.wikipedia.org/wiki/Philosophy) & [political theory](https://en.wikipedia.org/wiki/Political_philosophy)
 
@@ -465,7 +465,7 @@ Few descriptions survive, despite many discoveries.
 - 200 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) wrote *Conics* and other works on mathematics
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
 - 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar
-- 100 BCE: [The Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
+- 100 BCE: [Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
 - 56 BCE: [Lucretius](https://en.wikipedia.org/wiki/Lucretius) wrote [*De rerum natura* (*On the Nature of Things*)](https://en.wikipedia.org/wiki/De_rerum_natura), stating that the world contained "seeds" that can sicken you if inhaled or ingested
 - 46 BCE: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) proposed the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
 - 44 BCE: The [Palmyrene alphabet](https://en.wikipedia.org/wiki/Palmyrene_alphabet) descended from cursive versions of the Aramaic alphabet
@@ -492,7 +492,7 @@ Few descriptions survive, despite many discoveries.
 - 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote *Lives and Opinions of Eminent Philosophers*
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) wrote commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art), demonstrating [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 313 CE: The [Sogdian alphabet](https://en.wikipedia.org/wiki/Sogdian_alphabet) descended from the Syriac alphabet
-- 400 CE: [The Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
+- 400 CE: The [Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
 - 400 CE: [Joannes Stobaeus](https://en.wikipedia.org/wiki/Stobaeus) compiled *Eklogon, apophthegmaton, hypothekon biblia tessara* (*Four Books of Extracts, Sayings and Precepts*) an [anthology](https://en.wikipedia.org/wiki/Anthology) of [classical Greek](https://en.wikipedia.org/wiki/Classical_Greece) literature including the [Delphic maxims](https://en.wikipedia.org/wiki/Delphic_maxims), e.g. ["Know thyself"](https://en.wikipedia.org/wiki/Know_thyself)
 - 500 CE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) developed the [Hindu numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
 - 510 CE: [Aryabhata](https://en.wikipedia.org/wiki/Aryabhata) wrote [Aryabhatiya](https://en.wikipedia.org/wiki/Aryabhatiya), which states "sthānāt sthānaṁ daśaguṇaṁ syāt" ("from place to place each is ten times the preceding"), originating the modern decimal-based place value notation
@@ -950,7 +950,7 @@ Few descriptions survive, despite many discoveries.
 - 1938 CE: [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
 - 1938 CE: [Alfred O. C. Nier](https://en.wikipedia.org/wiki/Alfred_O._C._Nier) published measurements of the relative abundance of the isotopes of uranium
 - 1939 CE: [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *The Nature of the Chemical Bond*
-- 1939 CE: [The Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
+- 1939 CE: The [Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
 - 1939 CE: [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) & [Otto Robert Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) published *Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction*, describing [nuclear fission](https://en.wikipedia.org/wiki/Nuclear_fission)
 - 1939 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Life of Greece*, the 2nd volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 
