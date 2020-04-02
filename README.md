@@ -500,7 +500,7 @@ Few descriptions survive, despite many discoveries.
 - 732 CE: [Bede](https://en.wikipedia.org/wiki/Bede) wrote the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People), popularizing the *Anno Domini* era
 
 ### Algebra
-- 820 CE: [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of algebra
+- 820 CE: [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of [algebra](https://en.wikipedia.org/wiki/Algebra)
 - 825 CE: [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote *On the Calculation with Hindu Numerals*, including an explanation of [zero](https://en.wikipedia.org/wiki/0)
 - 830 CE: [Al-Kindi](https://en.wikipedia.org/wiki/Al-Kindi) wrote *On the Use of the Hindu Numerals*
 - 830 CE: [Rabanus Maurus](https://en.wikipedia.org/wiki/Rabanus_Maurus) wrote *De rerum naturis* (*On the nature of things*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) based on [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville)'s [*Etymologiae*](https://en.wikipedia.org/wiki/Etymologiae)
@@ -514,7 +514,8 @@ Few descriptions survive, despite many discoveries.
 - 987 CE: [Ibn al-Nadim](https://en.wikipedia.org/wiki/Ibn_al-Nadim) wrote *Kitāb al-Fihrist* (*The Book Catalogue*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: Soudas wrote the [Suda](https://en.wikipedia.org/wiki/Suda), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote [*al-Athar al-Baqqiya 'an al-Qorun al-Khaliyya* (*The remaining traces of past centuries*)](https://en.wikipedia.org/wiki/The_Remaining_Signs_of_Past_Centuries)
-- 1025 CE: [Ibn Sina](https://en.wikipedia.org/wiki/Ibn_Sina) wrote [*The Canon of Medicine*](https://en.wikipedia.org/wiki/The_Canon_of_Medicine)
+- 1025 CE: [Avicenna](https://en.wikipedia.org/wiki/Avicenna) wrote [*The Canon of Medicine*](https://en.wikipedia.org/wiki/The_Canon_of_Medicine)
+- 1027 CE: [Avicenna](https://en.wikipedia.org/wiki/Avicenna) wrote [*The Book of Healing*](https://en.wikipedia.org/wiki/The_Book_of_Healing)
 - 1030 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) completed his *Tārīkh al-Hind* (*History of India*)
 - 1036 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) listed *Kitab al-saydala fi al-tibb* (*Book on the [Pharmacopoeia](https://en.wikipedia.org/wiki/Pharmacopoeia) of Medicine*) among 103 titles he had written on astrology, astronomy, geography, geology, history, mathematics, medicine, physics, psychology, sociology, and theology
 - 1037 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote *Codex Masudicus*, noting that Eurasia only covers 2/5 of the Earth's surface and another continent must exist on the other side of the planet
@@ -525,6 +526,8 @@ Few descriptions survive, despite many discoveries.
 - 1240 CE: [Bartholomeus Anglicus (Bartholomew of England)](https://en.wikipedia.org/wiki/Bartholomeus_Anglicus) compiled *De proprietatibus rerum* (*On the Properties of Things*), a widely translated [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1247 CE: [Qin Jiushao](https://en.wikipedia.org/wiki/Qin_Jiushao) wrote [*Mathematical Treatise in Nine Sections*](https://en.wikipedia.org/wiki/Mathematical_Treatise_in_Nine_Sections), the oldest surviving [Chinese mathematical](https://en.wikipedia.org/wiki/Chinese_mathematics) text using a round symbol for [zero](https://en.wikipedia.org/wiki/0)
 - 1250 CE: [Tata-tonga](https://en.wikipedia.org/wiki/Tata-tonga) introduced the [Old Uyghur alphabet](https://en.wikipedia.org/wiki/Old_Uyghur_alphabet) to [Genghis Khan](https://en.wikipedia.org/wiki/Genghis_Khan), and adapted it into [Mongolian script](https://en.wikipedia.org/wiki/Mongolian_script)
+- 1259 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) convinced [Hulagu Khan](https://en.wikipedia.org/wiki/Hulagu_Khan) to build the [Maragheh observatory]https://en.wikipedia.org/wiki/Maragheh_observatory)
+- 1274 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) wrote many works on astronomy, logic, mathematics, biology, and chemistry, establishing [trigonometry](https://en.wikipedia.org/wiki/Trigonometry) as a separate discipline from astronomy
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1300 CE: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) & [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa) wrote [*Livres des Merveilles du Monde* (*Books of the Wonders of the World*)](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo)
 - 1315-1329 CE: [Abu'l-Fida](https://en.wikipedia.org/wiki/Abu%27l-Fida) wrote [*Tarikhu 'al-Mukhtasar fi Akhbar al-Bashar* (*The Concise History of Humanity or Chronicles*)](https://en.wikipedia.org/wiki/Concise_History_of_Humanity), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
@@ -845,7 +848,7 @@ Few descriptions survive, despite many discoveries.
 ## 1900s
 - 1900 CE: [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) published *Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum* (*On the Theory of the Energy Distribution Law of the Normal Spectrum*), originating [quantum theory](https://en.wikipedia.org/wiki/Quantum_mechanics)
 - 1900 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Folgerungen aus den Capillaritätserscheinungen* (*Conclusions Drawn from the Phenomena of Capillarity*)
-- 1901 CE: [Carl Edvard Johansson](https://en.wikipedia.org/wiki/Carl_Edvard_Johansson) patented *Gauge Block Sets for Precision Measurement*, a.k.a. ["Jo blocks"](https://en.wikipedia.org/wiki/Gauge_block), allowing precise measurements
+- 1901 CE: [Carl Edvard Johansson](https://en.wikipedia.org/wiki/Carl_Edvard_Johansson) patented *Gauge Block Sets for Precision Measurement*, a.k.a. ["Jo blocks"](https://en.wikipedia.org/wiki/Gauge_block), allowing precise measurements and standardizing the inch to 25.4 mm
 - 1902 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Transcendenten* (*Theory of Abelian Transcendents*)
 - 1903 CE: [Konstantin Tsіolkovskіy](https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky) published *Exploration of Outer Space with Reaction Devices*, describing his [rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
 - 1903 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-3* (*Treatises-3*)
@@ -1443,6 +1446,7 @@ Few descriptions survive, despite many discoveries.
 - [History of film technology](https://en.wikipedia.org/wiki/History_of_film_technology)
 - [History of nanotechnology](https://en.wikipedia.org/wiki/History_of_nanotechnology)
 - [History of nuclear weapons](https://en.wikipedia.org/wiki/History_of_nuclear_weapons)
+- [History of numerical control](https://en.wikipedia.org/wiki/History_of_numerical_control)
 - [History of optics](https://en.wikipedia.org/wiki/History_of_optics)
 - [History of radio](https://en.wikipedia.org/wiki/History_of_radio)
 - [History of telecommunication](https://en.wikipedia.org/wiki/History_of_telecommunication)
