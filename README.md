@@ -499,7 +499,7 @@ Few descriptions survive, despite many discoveries.
 - 661 CE: [Muawiyah I](https://en.wikipedia.org/wiki/Muawiyah_I) founded the [Umayyad Caliphate](https://en.wikipedia.org/wiki/Umayyad_Caliphate), and the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library in [Damascus](https://en.wikipedia.org/wiki/Damascus)
 - 700 CE: The [Old Uyghur alphabet](https://en.wikipedia.org/wiki/Old_Uyghur_alphabet) descended from the Sogdian alphabet, in [Turpan](https://en.wikipedia.org/wiki/Turpan)
 - 732 CE: [Bede](https://en.wikipedia.org/wiki/Bede) wrote the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People), popularizing the *Anno Domini* era
-- 786 CE: [Harun al-Rashid](https://en.wikipedia.org/wiki/Harun_al-Rashid) reestablished the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library in [Baghdad](https://en.wikipedia.org/wiki/Baghdad), the capital of the [Umayyad Caliphate](https://en.wikipedia.org/wiki/Umayyad_Caliphate)
+- 786 CE: [Harun al-Rashid](https://en.wikipedia.org/wiki/Harun_al-Rashid) reestablished the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library in [Baghdad](https://en.wikipedia.org/wiki/Baghdad), the capital of the [Abbasid Caliphate](https://en.wikipedia.org/wiki/Abbasid_Caliphate)
 - 813 CE: [Al-Ma'mun](https://en.wikipedia.org/wiki/Al-Ma'mun) expanded the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library in [Baghdad](https://en.wikipedia.org/wiki/Baghdad)
 
 ### Algebra
