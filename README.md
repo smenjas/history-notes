@@ -599,6 +599,7 @@ Few descriptions survive, despite many discoveries.
 - 1658 CE: [Athanasius Kircher](https://en.wikipedia.org/wiki/Athanasius_Kircher) wrote *Scrutinium pestis physico-medicum*, inventing the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
 - 1659 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published *De vi centrifuga*, describing [centripetal force](https://en.wikipedia.org/wiki/Centripetal_force)
 - 1660 CE: Joost van Breen invented the spiegelboog ("mirror bow"), a [reflecting](https://en.wikipedia.org/wiki/Reflecting_instrument) [cross staff](https://en.wikipedia.org/wiki/Jacob%27s_staff), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
+- 1661 CE: [Robert Boyle](https://en.wikipedia.org/wiki/Robert_Boyle) published [*The Sceptical Chymist*](https://en.wikipedia.org/wiki/The_Sceptical_Chymist)
 
 ### Cell Biology
 - 1665 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) published [*Micrographia*](https://en.wikipedia.org/wiki/Micrographia), coining the biological term [cell](https://en.wikipedia.org/wiki/Cell_%28biology%29)
