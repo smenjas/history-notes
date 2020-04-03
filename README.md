@@ -687,7 +687,7 @@ Few descriptions survive, despite many discoveries.
 - 1788 CE: [Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) published [*Mécanique analytique* (*Analytical mechanics*)](https://en.wikipedia.org/wiki/M%C3%A9canique_analytique)
 - 1793 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) explained [how the human eye focuses on objects at different distances](https://en.wikipedia.org/wiki/Accommodation_%28eye%29)
 - 1796 CE: Renatus Gotthelf Löbel edited the [*Conversations-Lexikon* (*Conversation Dictionary*)](https://en.wikipedia.org/wiki/Conversations-Lexikon_mit_vorz%C3%BCglicher_R%C3%BCcksicht_auf_die_gegenw%C3%A4rtigen_Zeiten), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) later called the [*Brockhaus Enzyklopädie*](https://en.wikipedia.org/wiki/Brockhaus_Enzyklop%C3%A4die)
-- 1798 CE: [Edward Jenner](https://en.wikipedia.org/wiki/Edward_Jenner) published *Inquiry into the Variolae vaccinae known as the Cow Pox*
+- 1798 CE: [Edward Jenner](https://en.wikipedia.org/wiki/Edward_Jenner) published *Inquiry into the Variolae vaccinae known as the Cow Pox*, describing the [smallpox vaccine](https://en.wikipedia.org/wiki/Smallpox)
 - 1798 CE: [Thomas Robert Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus) published [*An Essay on the Principle of Population*](https://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population)
 
 ## 1800s
@@ -703,20 +703,24 @@ Few descriptions survive, despite many discoveries.
 - 1805 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *An Essay on the Cohesion of Fluids*
 - 1807 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Course of Lectures on Natural Philosophy and the Mechanical Arts*
 - 1807 CE: [François Budan de Boislaurent](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Budan_de_Boislaurent) published a *Nouvelle méthode pour la résolution des équations numériques* (*New method for solving numerical equations*), formulating [Budan's theorem](https://en.wikipedia.org/wiki/Budan's_theorem)
+- 1807 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Essay on the Geography of Plants*
 - 1808 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Functions of the Heart and Arteries*
 
 ### 1810s
 - 1810 CE: [George Cayley](https://en.wikipedia.org/wiki/George_Cayley) published *On Aerial Navigation*
 - 1810 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Beyträge zu einer begründeteren Darstellung der Mathematik* (*Contributions to a more justified representation of mathematics*)
+- 1810 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Vues des cordillères et monuments des peuples indigènes de l'Amerique* (*Views of the cordilleras and monuments of the indigenous peoples of America*)
 - 1811 CE: [Georges Cuvier](https://en.wikipedia.org/wiki/Georges_Cuvier) & [Alexandre Brongniart](https://en.wikipedia.org/wiki/Alexandre_Brongniart) published *Description Geologiques des Environs de Paris* (*Geological Description of the Surroundings of Paris*)
 - 1811 CE: [Amedeo Avogadro](https://en.wikipedia.org/wiki/Amedeo_Avogadro) published *Essai d'une manière de déterminer les masses relatives des molécules élémentaires des corps, et les proportions selon lesquelles elles entrent dans ces combinaisons* (*Essay on a manner of Determining the Relative Masses of the Elementary Molecules of Bodies and the Proportions by Which They Enter These Combinations*), which contains [Avogadro's law](https://en.wikipedia.org/wiki/Avogadro%27s_law)
 - 1811 CE: [Caspar Wistar](https://en.wikipedia.org/wiki/Caspar_Wistar_%28physician%29) published *A System of Anatomy*
+- 1811 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published his *Essai politique sur le royaume de la Nouvelle Espagne* (*Political Essay on the Kingdom of New Spain*)
 - 1813 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) introduced the term [Indo-European language](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 1813 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *System of Practical Nosology*
 - 1814 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) invented the modern [spectroscope](https://en.wikipedia.org/wiki/Spectroscope)
 - 1815 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Practical and Historical Treatise on Consumptive Diseases*
 - 1815 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published [*A Delineation of the Strata of England and Walse with part of Scotland*](https://commons.wikimedia.org/wiki/File:Geological_map_Britain_William_Smith_1815.jpg), an influential [geological map](https://en.wikipedia.org/wiki/Geologic_map)
 - 1815 CE: The [Mount Tambora volcano erupted](https://en.wikipedia.org/wiki/1815_eruption_of_Mount_Tambora) in present day [Indonesia](https://en.wikipedia.org/wiki/Indonesia), causing the [Year Without a Summer](https://en.wikipedia.org/wiki/Year_Without_a_Summer) in 1816
+- 1815 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Personal narrative of travels to the equinoctial regions of America, during the years 1799–1804*
 - 1816 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Der binomische Lehrsatz* (*The binomial theorem*)
 - 1817 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Rein analytischer Beweis* (*Purely analytical proof*), rigorously defining [mathematical limits](https://en.wikipedia.org/wiki/Limit_of_a_function)
 - 1817 CE: [David Ricardo](https://en.wikipedia.org/wiki/David_Ricardo) published [*On the Principles of Political Economy and Taxation*](https://en.wikipedia.org/wiki/On_the_Principles_of_Political_Economy_and_Taxation), advancing a [labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value) and describing [comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage)
@@ -742,6 +746,7 @@ Few descriptions survive, despite many discoveries.
 - 1829 CE: [Peter Gustav Lejeune Dirichlet](https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet) published *Sur la convergence des séries trigonométriques qui servent à représenter une fonction arbitraire entre des limites données* (*On the convergence of trigonometric series that serve to represent an arbitrary function between given limits*) showing for which functions the convergence of the [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) holds, under [certain conditions](https://en.wikipedia.org/wiki/Dirichlet_conditions), and giving the modern definition of a [function](https://en.wikipedia.org/wiki/Function_%28mathematics%29)
 
 ### 1830s
+- 1831 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Fragments de géologie et de climatologie asiatiques* (*Fragments of Asian geology and climatology*)
 - 1833 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Principles of Geology*](https://en.wikipedia.org/wiki/Principles_of_Geology)
 - 1835 CE: [Jacques Charles François Sturm](https://en.wikipedia.org/wiki/Jacques_Charles_Fran%C3%A7ois_Sturm) published *Mémoire sur la résolution des équations numériques* (*Memoir on the solution of equations with numerical coefficients*)
 - 1837 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published his *Wissenschaftslehre* (*Theory of Science*)
@@ -758,6 +763,7 @@ Few descriptions survive, despite many discoveries.
 - 1842 CE: [Edwin Chadwick](https://en.wikipedia.org/wiki/Edwin_Chadwick) published his *Report on The Sanitary Condition of the Labouring Population of Great Britain*, an influential work on [sanitation](https://en.wikipedia.org/wiki/Sanitation) and [public health](https://en.wikipedia.org/wiki/Public_health)
 - 1843 CE: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) published [*A System of Logic*](https://en.wikipedia.org/wiki/A_System_of_Logic), describing [Mill's Methods](https://en.wikipedia.org/wiki/Mill%27s_Methods) of [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 - 1844 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published *Die Lineale Ausdehnungslehre* (*The Theory of Linear Extension*), introducing [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+- 1845 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published [*Kosmos – Entwurf einer physischen Weltbeschreibung* (*Cosmos: A Sketch of a Physical Description of the Universe*)](https://en.wikipedia.org/wiki/Cosmos_%28Humboldt%29), volume 1
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 
@@ -767,9 +773,11 @@ Few descriptions survive, despite many discoveries.
 - 1848 CE: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) published [*Principles of Political Economy*](https://en.wikipedia.org/wiki/Principles_of_Political_Economy)
 - 1849 CE: [John Snow](https://en.wikipedia.org/wiki/John_Snow) published *On the Mode of Communication of Cholera*, a key event in [epidemiology](https://en.wikipedia.org/wiki/Epidemiology)
 - 1849 CE: [Crawford Long](https://en.wikipedia.org/wiki/Crawford_Long) published *An account of the first use of Sulphuric Ether by Inhalation as an Anaesthetic in Surgical Operations*, describing [anesthesia](https://en.wikipedia.org/wiki/Anesthetic)
+- 1849 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Aspects of nature, in different lands and different climates with scientific elucidations*
 
 ### 1850s
 - 1850 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *Ueber die bewegende Kraft der Wärme* (*On the Moving Force of Heat*)
+- 1850 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Views of nature, or, Contemplations on the sublime phenomena of creation: with scientific illustrations (1850)*
 - 1851 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) invented the [ophthalmoscope](https://en.wikipedia.org/wiki/Ophthalmoscope)
 - 1851 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published [*Paradoxien des Unendlichen* (*The Paradoxes of the Infinite*)](https://en.wikipedia.org/wiki/The_Paradoxes_of_the_Infinite)
 - 1851 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the dynamical theory of heat; with numerical results deduced from Mr. Joule's equivalent of a thermal unit and M. Regnault's observations on steam*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
