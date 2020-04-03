@@ -683,10 +683,15 @@ Few descriptions survive, despite many discoveries.
 - 1770 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutionum calculi integralis*](https://en.wikipedia.org/wiki/Institutionum_calculi_integralis)
 - 1776 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*Wealth of Nations*](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
 - 1785 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) invented the first man-made [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
+- 1785 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published *A System of Vegetables*
+- 1787 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published *The Families of Plants*
 - 1788 CE: [James Hutton](https://en.wikipedia.org/wiki/James_Hutton) published [*Theory of the Earth*](https://en.wikipedia.org/wiki/Theory_of_the_Earth), showing that the Earth is the product of natural forces, laying the foundations for modern [geology](https://en.wikipedia.org/wiki/Geology)
 - 1788 CE: [Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) published [*Mécanique analytique* (*Analytical mechanics*)](https://en.wikipedia.org/wiki/M%C3%A9canique_analytique)
+- 1789 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) anonymously published [*The Loves of the Plants*](https://en.wikipedia.org/wiki/The_Botanic_Garden#The_Loves_of_the_Plants)
+- 1791 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published [*The Botanic Garden*](https://en.wikipedia.org/wiki/The_Botanic_Garden)
 - 1793 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) explained [how the human eye focuses on objects at different distances](https://en.wikipedia.org/wiki/Accommodation_%28eye%29)
 - 1796 CE: Renatus Gotthelf Löbel edited the [*Conversations-Lexikon* (*Conversation Dictionary*)](https://en.wikipedia.org/wiki/Conversations-Lexikon_mit_vorz%C3%BCglicher_R%C3%BCcksicht_auf_die_gegenw%C3%A4rtigen_Zeiten), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) later called the [*Brockhaus Enzyklopädie*](https://en.wikipedia.org/wiki/Brockhaus_Enzyklop%C3%A4die)
+- 1796 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published [*Zoonomia*](https://en.wikipedia.org/wiki/Zoonomia)
 - 1798 CE: [Edward Jenner](https://en.wikipedia.org/wiki/Edward_Jenner) published *Inquiry into the Variolae vaccinae known as the Cow Pox*, describing the [smallpox vaccine](https://en.wikipedia.org/wiki/Smallpox)
 - 1798 CE: [Thomas Robert Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus) published [*An Essay on the Principle of Population*](https://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population)
 
@@ -696,6 +701,7 @@ Few descriptions survive, despite many discoveries.
 - 1801 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published *Delineation of the Strata of England*
 - 1801 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *On the mechanics of the eye*, describing [astigmatism](https://en.wikipedia.org/wiki/Astigmatism) for the first time
 - 1802 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Bakerian Lecture: On the Theory of Light and Colours*, hypothesizing that colour perception depends on 3 kinds of nerve fibers in the [retina](https://en.wikipedia.org/wiki/Retina)
+- 1803 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) posthumously published *The Temple of Nature*
 - 1803 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) demonstrated the [double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
 - 1804 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Experiments and Calculations Relative to Physical Optics*
 - 1804 CE: [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard) invented the [Jacquard Loom](https://en.wikipedia.org/wiki/Jacquard_machine)
