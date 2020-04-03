@@ -682,6 +682,7 @@ Few descriptions survive, despite many discoveries.
 - 1769 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) accurately calculated the distance from the Earth to the Sun to be 93 million miles, based on observing the [transit of Venus](https://en.wikipedia.org/wiki/Transit_of_Venus)
 - 1770 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutionum calculi integralis*](https://en.wikipedia.org/wiki/Institutionum_calculi_integralis)
 - 1776 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*Wealth of Nations*](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
+- 1776 CE: [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine) published [*Common Sense*](https://en.wikipedia.org/wiki/Common_Sense), advocating independence from Britain
 - 1785 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) invented the first man-made [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1785 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published *A System of Vegetables*
 - 1787 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published *The Families of Plants*
@@ -691,12 +692,17 @@ Few descriptions survive, despite many discoveries.
 - 1789 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) anonymously published [*The Loves of the Plants*](https://en.wikipedia.org/wiki/The_Botanic_Garden#The_Loves_of_the_Plants)
 - 1790 CE: [Mary Wollstonecraft](https://en.wikipedia.org/wiki/Mary_Wollstonecraft) published [*A Vindication of the Rights of Men*](https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Men), advocating [republicanism](https://en.wikipedia.org/wiki/Republicanism)
 - 1791 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published [*The Botanic Garden*](https://en.wikipedia.org/wiki/The_Botanic_Garden)
+- 1791 CE: [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine) published [*Rights of Man*](https://en.wikipedia.org/wiki/Rights_of_Man), advocating [republicanism](https://en.wikipedia.org/wiki/Republicanism)
 - 1792 CE: [Mary Wollstonecraft](https://en.wikipedia.org/wiki/Mary_Wollstonecraft) published [*A Vindication of the Rights of Woman*](https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman), an early work of [feminist philosophy](https://en.wikipedia.org/wiki/Feminist_philosophy)
 - 1793 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) explained [how the human eye focuses on objects at different distances](https://en.wikipedia.org/wiki/Accommodation_%28eye%29)
+- 1794 CE: [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine) published [*The Age of Reason*](https://en.wikipedia.org/wiki/The_Age_of_Reason), promoting [natural theology](https://en.wikipedia.org/wiki/Natural_theology)
 - 1796 CE: Renatus Gotthelf Löbel edited the [*Conversations-Lexikon* (*Conversation Dictionary*)](https://en.wikipedia.org/wiki/Conversations-Lexikon_mit_vorz%C3%BCglicher_R%C3%BCcksicht_auf_die_gegenw%C3%A4rtigen_Zeiten), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) later called the [*Brockhaus Enzyklopädie*](https://en.wikipedia.org/wiki/Brockhaus_Enzyklop%C3%A4die)
 - 1796 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published [*Zoonomia*](https://en.wikipedia.org/wiki/Zoonomia)
+- 1796 CE: [Priscilla Wakefield](https://en.wikipedia.org/wiki/Priscilla_Wakefield) published *An Introduction to Botany, in a Series of Familiar Letters*
+- 1797 CE: [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine) published [*Agrarian Justice*](https://en.wikipedia.org/wiki/Agrarian_Justice), advocating for a [basic income](https://en.wikipedia.org/wiki/Basic_income)
 - 1798 CE: [Edward Jenner](https://en.wikipedia.org/wiki/Edward_Jenner) published *Inquiry into the Variolae vaccinae known as the Cow Pox*, describing the [smallpox vaccine](https://en.wikipedia.org/wiki/Smallpox)
 - 1798 CE: [Thomas Robert Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus) published [*An Essay on the Principle of Population*](https://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population)
+- 1798 CE: [Priscilla Wakefield](https://en.wikipedia.org/wiki/Priscilla_Wakefield) published *Reflection on the Present Condition of the Female Sex; with Suggestions for its Improvement*, promoting [feminist economics](https://en.wikipedia.org/wiki/Feminist_economics)
 
 ## 1800s
 - 1800 CE: [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) published a description of an [electric battery](https://en.wikipedia.org/wiki/History_of_the_battery)
@@ -731,6 +737,7 @@ Few descriptions survive, despite many discoveries.
 - 1815 CE: The [Mount Tambora volcano erupted](https://en.wikipedia.org/wiki/1815_eruption_of_Mount_Tambora) in present day [Indonesia](https://en.wikipedia.org/wiki/Indonesia), causing the [Year Without a Summer](https://en.wikipedia.org/wiki/Year_Without_a_Summer) in 1816
 - 1815 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Personal narrative of travels to the equinoctial regions of America, during the years 1799–1804*
 - 1816 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Der binomische Lehrsatz* (*The binomial theorem*)
+- 1816 CE: [Priscilla Wakefield](https://en.wikipedia.org/wiki/Priscilla_Wakefield) published *An Introduction to the Natural History and Classification of Insects, in a Series of Letters*
 - 1817 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Rein analytischer Beweis* (*Purely analytical proof*), rigorously defining [mathematical limits](https://en.wikipedia.org/wiki/Limit_of_a_function)
 - 1817 CE: [David Ricardo](https://en.wikipedia.org/wiki/David_Ricardo) published [*On the Principles of Political Economy and Taxation*](https://en.wikipedia.org/wiki/On_the_Principles_of_Political_Economy_and_Taxation), advancing a [labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value) and describing [comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage)
 - 1818 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) deposited *Mémoire sur la diffraction de la lumière* (*Memoir on the diffraction of light*)
