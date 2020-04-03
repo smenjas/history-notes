@@ -56,7 +56,7 @@ Few descriptions survive, despite many discoveries.
   [Cats](#cats), [Writing](#writing), [History](#history),
   [Medicine](#medicine), [Mathematics](#mathematics)
 - [Common Era](#common-era):
-  [Zero](#zero), [Algebra](#algebra), [Printing](#printing)
+  [Zero](#zero), [Algebra](#algebra), [Soap](#soap), [Printing](#printing)
 - [1500s](#1500s)
 - [1600s](#1600s):
   [Cell Biology](#cell-biology), [Calculus](#calculus), [Principia](#principia)
@@ -519,6 +519,9 @@ Few descriptions survive, despite many discoveries.
 - 893 CE: [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script) developed, based on Greek [uncial script](https://en.wikipedia.org/wiki/Uncial_script) & Glagolitic script
 - 900 CE: [Arab navigators](https://en.wikipedia.org/wiki/Geography_and_cartography_in_medieval_Islam) originated the [kamal](https://en.wikipedia.org/wiki/Kamal_%28navigation%29), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 915 CE: [Al-Tabari](https://en.wikipedia.org/wiki/Al-Tabari) wrote his [*History of the Prophets and Kings*](https://en.wikipedia.org/wiki/History_of_the_Prophets_and_Kings), a detailed and comprehensive chronicle of Mediterranean and Middle Eastern history
+
+### Soap
+- 932 CE: [Al-Razi, a.k.a. Rhazes](https://en.wikipedia.org/wiki/Muhammad_ibn_Zakariya_al-Razi) wrote [*Al-Hawi* (*The Comprehensive Book on Medicine*)](https://en.wikipedia.org/wiki/Al-Hawi), and many other books on medicine, philosophy, and chemistry, describing the modern recipe for [soap](https://en.wikipedia.org/wiki/Soap) by the time he died
 - 946 CE: The [Paektu volcano erupted](https://en.wikipedia.org/wiki/946_eruption_of_Paektu_Mountain) in [Manchuria](https://en.wikipedia.org/wiki/Manchuria)
 - 947 CE: [Al-Masudi](https://en.wikipedia.org/wiki/Al-Masudi) wrote the first edition of [*Murūj aḏ-Ḏahab wa-Maʿādin al-Jawhar* (*Meadows of Gold and Mines of Gems*)](https://en.wikipedia.org/wiki/The_Meadows_of_Gold), a book on [world history](https://en.wikipedia.org/wiki/World_history), the first to combine history and [scientific](https://en.wikipedia.org/wiki/Science) [geography](https://en.wikipedia.org/wiki/Geography) in a large-scale work
 - 976 CE: The [*Codex Vigilanus* (*Watchful Manuscript*)](https://en.wikipedia.org/wiki/Codex_Vigilanus) introduced [Arabic numerals](https://en.wikipedia.org/wiki/Arabic_numerals) (except zero) to [the West](https://en.wikipedia.org/wiki/Western_world)
@@ -543,6 +546,7 @@ Few descriptions survive, despite many discoveries.
 - 1258 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) rescued about 400,000 manuscripts from the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library before [Hulagu Khan sacked Baghdad](https://en.wikipedia.org/wiki/Siege_of_Baghdad_%281258%29)
 - 1259 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) convinced [Hulagu Khan](https://en.wikipedia.org/wiki/Hulagu_Khan) to build the [Maragheh observatory](https://en.wikipedia.org/wiki/Maragheh_observatory)
 - 1274 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) wrote many works on astronomy, biology, chemistry, logic, and mathematics, establishing [trigonometry](https://en.wikipedia.org/wiki/Trigonometry) as a separate discipline from astronomy by the time he died
+- 1279 CE: [Faraj ben Salim](https://en.wikipedia.org/wiki/Faraj_ben_Salim) translated [Al-Razi](https://en.wikipedia.org/wiki/Muhammad_ibn_Zakariya_al-Razi)'s [*Al-Hawi* (*The Comprehensive Book on Medicine*)](https://en.wikipedia.org/wiki/Al-Hawi) into Latin, introducing [soap](https://en.wikipedia.org/wiki/Soap) to Europe
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1300 CE: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) & [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa) wrote [*Livres des Merveilles du Monde* (*Books of the Wonders of the World*)](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo)
 - 1315-1329 CE: [Abu'l-Fida](https://en.wikipedia.org/wiki/Abu%27l-Fida) wrote [*Tarikhu 'al-Mukhtasar fi Akhbar al-Bashar* (*The Concise History of Humanity or Chronicles*)](https://en.wikipedia.org/wiki/Concise_History_of_Humanity), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
