@@ -937,12 +937,14 @@ Few descriptions survive, despite many discoveries.
 - 1917 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
 - 1918 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Gravitationswellen* (*On Gravitational Waves*)](https://einsteinpapers.press.princeton.edu/vol7-trans/25), on [gravitational waves](https://en.wikipedia.org/wiki/Gravitational_wave)
+- 1918 CE: [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether) published *Invariante Variationsprobleme*, describing [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem) which explains the connection between [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28physics%29) and [conservation laws](https://en.wikipedia.org/wiki/Conservation_law)
 - 1919 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The Economic Consequences of the Peace*](https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace)
 
 ### 1920s
 - 1920 CE: [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells) published [*The Outline of History*](https://en.wikipedia.org/wiki/The_Outline_of_History)
 - 1920 CE: [Frank Watson Dyson](https://en.wikipedia.org/wiki/Frank_Watson_Dyson), [Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington) & C. R. Davidson published *A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Solar eclipse of May 29, 1919*, confirming Einstein's [general theory of relativity](https://en.wikipedia.org/wiki/General_relativity)
 - 1920 CE: [Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington) published *The Internal Constitution of the Stars*, anticipating the discovery of [nuclear fusion](https://en.wikipedia.org/wiki/Nuclear_fusion)
+- 1921 CE: [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether) published *Idealtheorie in Ringbereichen* (*Theory of Ideals in Ring Domains*), contributing to [abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
 - 1921 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) posthumously published [*Economy and Society*](https://en.wikipedia.org/wiki/Economy_and_Society)
 - 1921 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*A Treatise on Probability*](https://en.wikipedia.org/wiki/A_Treatise_on_Probability), contributing to [probability theory](https://en.wikipedia.org/wiki/Probability_theory)
 - 1922 CE: [Gago Coutinho](https://en.wikipedia.org/wiki/Carlos_Viegas_Gago_Coutinho) modified the [sextant](https://en.wikipedia.org/wiki/Sextant) for [aeronautical](https://en.wikipedia.org/wiki/Aeronautics) [navigation](https://en.wikipedia.org/wiki/Navigation)
@@ -964,6 +966,7 @@ Few descriptions survive, despite many discoveries.
 ### 1930s
 - 1930 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*A Treatise on Money*](https://en.wikipedia.org/wiki/A_Treatise_on_Money)
 - 1930 CE: [Henry Ford](https://en.wikipedia.org/wiki/Henry_Ford) & [Samuel Crowther](https://en.wikipedia.org/wiki/Samuel_Crowther_%28journalist%29) published *Moving Forward*
+- 1930 CE: [Bartel Leendert van der Waerden](https://en.wikipedia.org/wiki/Bartel_Leendert_van_der_Waerden) published [*Moderne Algebra*](https://en.wikipedia.org/wiki/Moderne_Algebra), an influential textbook on [abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra) based on lectures by [Emil Artin](https://en.wikipedia.org/wiki/Emil_Artin) & [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether)
 - 1931 CE: [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) published *On Formally Undecidable Propositions of Principia Mathematica and Related Systems I*
 - 1931 CE: [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski) published *A Non-Aristotelian System and its Necessity for Rigour in Mathematics and Physics* coining ["A map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
 - 1931 CE: [Georges Lemaître](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre) published *The Beginning of the World from the Point of View of Quantum Theory*, proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
