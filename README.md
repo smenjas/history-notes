@@ -1121,6 +1121,8 @@ Few descriptions survive, despite many discoveries.
 - 1995 CE: [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) created [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - 1995 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Red Hat Linux operating system](https://en.wikipedia.org/wiki/Red_Hat_Linux) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1995 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Lectures on Gravitation*
+- 1995 CE: [MySQL AB](https://en.wikipedia.org/wiki/MySQL_AB) published the [MySQL](https://en.wikipedia.org/wiki/MySQL) [relational database](https://en.wikipedia.org/wiki/Relational_database) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+- 1996 CE: [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker), Andrew Yu, & Jolly Chen published the [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) [relational database](https://en.wikipedia.org/wiki/Relational_database) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1997 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
 - 1997 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Search](https://en.wikipedia.org/wiki/Google_Search)
 - 1998 CE: [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith) published *A revised six-kingdom system of life*
@@ -1130,11 +1132,13 @@ Few descriptions survive, despite many discoveries.
 - 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2000 CE: CO₂ exceeded 370 ppm
 - 2000 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published the *Feynman Lectures on Computation*
-- 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published the [KHTML web browser](https://en.wikipedia.org/wiki/KHTML), the predecessor to [WebKit](https://en.wikipedia.org/wiki/WebKit)
+- 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published the [KHTML web browser](https://en.wikipedia.org/wiki/KHTML), the predecessor to [WebKit](https://en.wikipedia.org/wiki/WebKit) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2000 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) et al. published *Long-range Air Transport of Dioxin from North American Sources to Ecologically Vulnerable Receptors in Nunavut, Arctic Canada*
+- 2000 CE: [D. Richard Hipp](https://en.wikipedia.org/wiki/D._Richard_Hipp) released the [SQLite](https://en.wikipedia.org/wiki/SQLite) [relational database](https://en.wikipedia.org/wiki/Relational_database), based on [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), into the [public domain](https://en.wikipedia.org/wiki/Public_domain)
 - 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 - 2001 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Earth](https://en.wikipedia.org/wiki/Google_Earth)
 - 2001 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) posthumously published [*Heroes of History*](https://en.wikipedia.org/wiki/Heroes_of_History)
+- 2001 CE: The [Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikimedia_Foundation) [MediaWiki](https://en.wikipedia.org/wiki/MediaWiki) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2003 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Fedora operating system](https://en.wikipedia.org/wiki/Fedora_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2003 CE: [Vikram Adve](https://en.wikipedia.org/wiki/Vikram_Adve), [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), and others released [LLVM](https://en.wikipedia.org/wiki/LLVM) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2004 CE: [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth) released the [Ubuntu operating system](https://en.wikipedia.org/wiki/Mark_Shuttleworth) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
@@ -1143,6 +1147,7 @@ Few descriptions survive, despite many discoveries.
 - 2005 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published [Git](https://en.wikipedia.org/wiki/Git) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2005 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)
 - 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) published the [WebKit web browser](https://en.wikipedia.org/wiki/WebKit) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2005 CE: [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson) published [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2006 CE: [Apple switched from PowerPC chips to Intel x86](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
 - 2006 CE: CO₂ exceeded 380 ppm
 - 2006 CE: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) published the [Java Virtual Machine (JVM)](https://en.wikipedia.org/wiki/Java_virtual_machine) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
@@ -1152,6 +1157,7 @@ Few descriptions survive, despite many discoveries.
 - 2007 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released [Clang](https://en.wikipedia.org/wiki/Clang), created by [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released the [Android operating system](https://en.wikipedia.org/wiki/Android_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released the [Chromium web browser](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29), based on [WebKit](https://en.wikipedia.org/wiki/WebKit), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2009 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Node.js](https://en.wikipedia.org/wiki/Node.js) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 
 ### 2010s
 - 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPad](https://en.wikipedia.org/wiki/IPad), a practical [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics) [tablet computer](https://en.wikipedia.org/wiki/Tablet_computer) with a [capacitive touchscreen](https://en.wikipedia.org/wiki/Touchscreen#Capacitive), popularizing [multitouch displays](https://en.wikipedia.org/wiki/Multi-touch)
