@@ -824,6 +824,7 @@ Few descriptions survive, despite many discoveries.
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) & [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) demonstrated [color photography](https://en.wikipedia.org/wiki/Color_photography)
 - 1861 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*On Physical Lines of Force*](https://en.wikipedia.org/wiki/On_Physical_Lines_of_Force)
 - 1861 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Notes on Nursing for the Labouring Classes*](https://archive.org/stream/notesonnursingf00nighgoog#page/n9/mode/1up)
+- 1861 CE: [Ignaz Semmelweis](https://en.wikipedia.org/wiki/Ignaz_Semmelweis) published [*Etiology, Concept and Prophylaxis of Childbed Fever*](https://en.wikipedia.org/wiki/Etiology,_Concept_and_Prophylaxis_of_Childbed_Fever) on [obstetrics](https://en.wikipedia.org/wiki/Obstetrics), promoting [hand washing](https://en.wikipedia.org/wiki/Hand_washing)
 - 1862 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) set out the first [axiomatic](https://en.wikipedia.org/wiki/Axiomatic_system) presentation of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic), using [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction)
 - 1863 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Geological Evidences of the Antiquity of Man*](https://en.wikipedia.org/wiki/Geological_Evidences_of_the_Antiquity_of_Man)
 - 1863 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published [*Sensations of Tone*](https://en.wikipedia.org/wiki/Sensations_of_Tone)
@@ -853,7 +854,7 @@ Few descriptions survive, despite many discoveries.
 - 1876 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *On the Limits of the Optical Capacity of the Microscope*
 - 1877 CE: [Ulisse Dini](https://en.wikipedia.org/wiki/Ulisse_Dini) published *Fondamenti per la teoria delle funzioni di variabili reali* (*Foundations for the Theory of Functions of Real Variables*), contributing to [real analysis](https://en.wikipedia.org/wiki/Real_analysis)
 - 1878 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) coined the term "energy" in its modern usage
-- 1878 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Les Microbes organisés, leur rôle dans la Fermentation, la Putréfaction et la Contagion* (*Microbes organized, their role in fermentation, putrefaction and the Contagion*)
+- 1878 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Les Microbes organisés, leur rôle dans la Fermentation, la Putréfaction et la Contagion* (*Organized Microbes, their role in Fermentation, Putrefaction, and Contagion*), confirming the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
 
 #### Statistics
 - 1878 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Illustrations of the Logic of Science*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
