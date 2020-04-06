@@ -6,7 +6,7 @@ branch along the path of [human
 evolution](https://en.wikipedia.org/wiki/Human_evolution).  The branch leading
 to humans is on the left.
 
-Environmental data provides context.  Atmospheric oxygen (O₂) tells the
+Environmental data provide context.  Atmospheric oxygen (O₂) tells the
 [eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story.  [Carbon dioxide
 (CO₂)](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
 tells temperature's story. [Sea level
