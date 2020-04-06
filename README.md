@@ -579,7 +579,7 @@ Few descriptions survive, despite many discoveries.
 ## 1600s
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomia nova* (*New Astronomy*), the foundation of planetary motion
-- 1608 CE: [Hans Lipperhey]() filed a patent for a [refracting telescope](https://en.wikipedia.org/wiki/Refracting_telescope)
+- 1608 CE: [Hans Lipperhey](https://en.wikipedia.org/wiki/Hans_Lipperhey) filed a patent for a [refracting telescope](https://en.wikipedia.org/wiki/Refracting_telescope)
 - 1609 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [telescope](https://en.wikipedia.org/wiki/Telescope) to be useful
 - 1610 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Sidereus Nuncius* (*Starry Messenger*)](https://en.wikipedia.org/wiki/Sidereus_Nuncius)
 - 1611 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) invented the [Keplerian telescope](https://en.wikipedia.org/wiki/Refracting_telescope#Keplerian_telescope)
