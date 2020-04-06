@@ -1,26 +1,29 @@
-# History Notes
+# History Notes on Science & Technology
 
-This is a chronology of humanity, a.k.a. ["Big
-History"](https://en.wikipedia.org/wiki/Big_History). I've shown each known
+This is a chronology of humanity spanning the Big Bang to the present, or ["Big
+History"](https://en.wikipedia.org/wiki/Big_History).  I've shown each known
 branch along the path of [human
-evolution](https://en.wikipedia.org/wiki/Human_evolution). The branch leading
+evolution](https://en.wikipedia.org/wiki/Human_evolution).  The branch leading
 to humans is on the left.
 
-Atmospheric oxygen (O₂) tells the
-[eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story. [Carbon dioxide
+Environmental data provides context.  Atmospheric oxygen (O₂) tells the
+[eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story.  [Carbon dioxide
 (CO₂)](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
 tells temperature's story. [Sea level
 varies](https://en.wikipedia.org/wiki/Past_sea_level) with temperature.
 
 In [the Holocene epoch](https://en.wikipedia.org/wiki/Holocene), temperature
 has varied < ±2 °C, CO₂ has steadily increased from about 260 ppm, and dust
-levels have stayed below 0.1 ppm. Dust levels only exceed 0.4 ppm when the
+levels have stayed below 0.1 ppm.  Dust levels only exceed 0.4 ppm when the
 global average temperature drops more than 6 °C below the Holocene average,
-during major [glaciations](https://en.wikipedia.org/wiki/Glacial_period). The
+during major [glaciations](https://en.wikipedia.org/wiki/Glacial_period).  The
 air becomes cold and dry.
 
 Once history begins, I've focused on reproducible publications, patents, and
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
+In other words, I avoid rulers, wars, religion, and politics, except where they
+interact with science, technology, and civilization.  That said, I've included
+some events that are not strictly scientific to provide context.
 
 We need both discovery and communication to [stand on the shoulders of
 giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
