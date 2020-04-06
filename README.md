@@ -573,13 +573,17 @@ Few descriptions survive, despite many discoveries.
 - 1543 CE: [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) published [*De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)
 - 1546 CE: [Girolamo Fracastoro](https://en.wikipedia.org/wiki/Girolamo_Fracastoro) published *De Contagione et Contagiosis Morbis* (*The contamination and contagious sickness*), proposing that epidemic diseases are caused by transferable seed-like entities (seminaria morbi) that transmit infection by direct or indirect contact, or even without contact over long distances, and categorizing diseases based on how they were transmitted and how long they could lie dormant
 - 1570 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published [*Theatrum Orbis Terrarum* (*Theatre of the Orb of the World*)](https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum), the first modern [atlas](https://en.wikipedia.org/wiki/Atlas)
+- 1573 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De nova stella* (*The new star*)
 - 1582 CE: [Pope Gregory XIII](https://en.wikipedia.org/wiki/Pope_Gregory_XIII) introduced the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
+- 1588 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De Mundi Aetherei Recentioribus Phaenomenis Liber Secundus* (*Second Book About Recent Phenomena in the Celestial World*)
 - 1593 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the modern [thermometer](https://en.wikipedia.org/wiki/Thermometer)
 - 1596 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published a new edition of *Thesaurus geographicus* (*Geographic treasure*), and proposed [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
 - 1598 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [military compass](https://en.wikipedia.org/wiki/Sector_%28instrument%29)
+- 1598 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *Astronomiae instauratae mechanica* or *Instruments for the restoration of astronomy*
 - 1599 CE: [Nurhaci](https://en.wikipedia.org/wiki/Nurhaci) adapted [Mongolian script](https://en.wikipedia.org/wiki/Mongolian_script) into the [Manchu alphabet](https://en.wikipedia.org/wiki/Manchu_alphabet)
 
 ## 1600s
+- 1603 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) posthumously published *Astronomiae Instauratae Progymnasmata* (*Introduction to the New Astronomy*)
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomia nova* (*New Astronomy*), the foundation of planetary motion
 - 1608 CE: [Hans Lipperhey](https://en.wikipedia.org/wiki/Hans_Lipperhey) filed a patent for a [refracting telescope](https://en.wikipedia.org/wiki/Refracting_telescope)
@@ -590,6 +594,7 @@ Few descriptions survive, despite many discoveries.
 - 1620 CE: [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) published [*Novum Organum* (*New Organ*)](https://en.wikipedia.org/wiki/Novum_Organum), describing the [Baconian method](https://en.wikipedia.org/wiki/Baconian_method), establishing the modern [scientific method](https://en.wikipedia.org/wiki/Scientific_method)
 - 1624 CE: [Vincent of Beauvais](https://en.wikipedia.org/wiki/Vincent_of_Beauvais) published the *Speculum Maius* (*Great Mirror*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1624 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [compound microscope](https://en.wikipedia.org/wiki/Optical_microscope#Compound_microscope)
+- 1627 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published the [*Rudolphine Tables*](https://en.wikipedia.org/wiki/Rudolphine_Tables), a [star catalogue](https://en.wikipedia.org/wiki/Star_catalogue) containing observations by [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe)
 - 1632 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published his [*Dialogue Concerning the Two Chief World Systems*](https://en.wikipedia.org/wiki/Dialogue_Concerning_the_Two_Chief_World_Systems)
 - 1636 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) published *Methodus ad disquirendam maximam et minimam et de tangentibus linearum curvarum* (*A method for discussing maximum and minimum and the tangents of curves*)
 - 1637 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Discourse on the Method*](https://en.wikipedia.org/wiki/Discourse_on_the_Method)
