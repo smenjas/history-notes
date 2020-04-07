@@ -876,6 +876,7 @@ Few descriptions survive, despite many discoveries.
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra) with One Constant*
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Logic of Number*, describing [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A Theory of Probable Inference*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
+- 1881 CE: [Simon Newcomb](https://en.wikipedia.org/wiki/Simon_Newcomb) published [*Note on the frequency of use of the different digits in natural numbers*](https://www.semanticscholar.org/paper/Note-on-the-Frequency-of-Use-of-the-Different-in-Newcomb/4136337f95c88d446a5577d9331c8fc0309c11af), discovering [Benford's law](https://en.wikipedia.org/wiki/Benford's_law)
 - 1882 CE: [Robert Koch](https://en.wikipedia.org/wiki/Robert_Koch) published *Die Aetiologie der Tuberculose* (*The Etiology of Tuberculosis*)
 - 1883 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Ueber unendliche, lineare Punktmannichfaltigkeiten (5)* (*About infinite, linear point manifolds (5)*), later republished as *Grundlagen einer allgemeinen Mannigfaltigkeitslehre* (*Basics of a general theory of diversity*)
 - 1883 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Über die Entwicklung der Chlorophyllkörner und Farbkörper* (*On the development of chlorophyll grains and color bodies*)
@@ -985,7 +986,6 @@ Few descriptions survive, despite many discoveries.
 - 1934 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) & [David Dodd](https://en.wikipedia.org/wiki/David_Dodd) published [*Security Analysis*](https://en.wikipedia.org/wiki/Security_Analysis_%28book%29), founding [value investing](https://en.wikipedia.org/wiki/Value_investing)
 - 1935 CE: [Boris Choubert](https://en.wikipedia.org/wiki/Boris_Choubert) published *Recherches sur la genèse des chaînes paléolithiques et antécambriennes* (*Research on the genesis of the Palaeolithic and Antecambrian chains*, showing how the continents had previously fit together to form the supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 - 1935 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *Our Oriental Heritage*, the 1st volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
-- 1937 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published *The Interpretation of Financial Statements*, an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
 
 #### Turing Machine
 - 1936 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *On Computable Numbers, with an Application to the Entscheidungsproblem*
@@ -996,9 +996,11 @@ Few descriptions survive, despite many discoveries.
 - 1936 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The General Theory of Employment, Interest and Money*](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money), an influential book on [macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
 - 1937 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Continuous geometries with a transition probability*
 - 1937 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *Our Wandering Continents*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
+- 1937 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published *The Interpretation of Financial Statements*, an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
 - 1938 CE: [Herbert Copeland](https://en.wikipedia.org/wiki/Herbert_Copeland) published *The kingdoms of organisms*
 - 1938 CE: [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
 - 1938 CE: [Alfred O. C. Nier](https://en.wikipedia.org/wiki/Alfred_O._C._Nier) published measurements of the relative abundance of the isotopes of uranium
+- 1938 CE: [Frank Benford](https://en.wikipedia.org/wiki/Frank_Benford) published *The law of anomalous numbers*, generalizing [Benford's law](https://en.wikipedia.org/wiki/Benford's_law)
 - 1939 CE: [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *The Nature of the Chemical Bond*
 - 1939 CE: The [Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
 - 1939 CE: [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) & [Otto Robert Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) published *Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction*, describing [nuclear fission](https://en.wikipedia.org/wiki/Nuclear_fission)
