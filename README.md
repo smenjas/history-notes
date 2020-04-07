@@ -926,6 +926,7 @@ Few descriptions survive, despite many discoveries.
 - 1905 CE: [Max Weber](https://en.wikipedia.org/wiki/Max_Weber) published [*The Protestant Ethic and the Spirit of Capitalism*](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)
 - 1905 CE: [William Bateson](https://en.wikipedia.org/wiki/William_Bateson) coined the term ["genetics"](https://en.wikipedia.org/wiki/Genetics)
 - 1906 CE: [Daniel Barringer](https://en.wikipedia.org/wiki/Daniel_Barringer_%28geologist%29) & [Benjamin Chew Tilghman](https://en.wikipedia.org/wiki/Benjamin_Chew_Tilghman) presented *Coon Mountain and its Crater*, arguing that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
+- 1906 CE: [Orville & Wilbur Wright](https://en.wikipedia.org/wiki/Wright_brothers) patented their [Flying-machine](https://patents.google.com/patent/US821393)
 - 1907 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle)
 - 1907 CE: [Bertram Boltwood](https://en.wikipedia.org/wiki/Bertram_Boltwood) published *On the Ultimate Disintegration Products of the Radio-active Elements. Part II. The disintegration products of uranium*, describing [radiometric dating](https://en.wikipedia.org/wiki/Radiometric_dating)
 
