@@ -211,6 +211,7 @@ Few descriptions survive, despite many discoveries.
 - 300 mya: [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) existed
 - 300 mya: O₂ peaked at 0.2-0.35 atm, insects grew large and fed reptiles and amphibians
 - 273 mya: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction) occurred
+- 260 mya: The [Capitanian extinction event](https://en.wikipedia.org/wiki/Capitanian_mass_extinction_event) occurred, 35% of species lost
 - 252 mya: The [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), i.e. "The Great Dying" occurred, 96% of species lost to volcanoes, O₂ fell to 0.15 atm
 - 245-202 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) split from [Gymnosperms ("naked seeds", a.k.a. seed-producing plants)](https://en.wikipedia.org/wiki/Gymnosperm)
 - 214 mya: An asteroid impacted Earth, creating the [Manicouagan crater](https://en.wikipedia.org/wiki/Manicouagan_Reservoir) which is 85 km in diameter
