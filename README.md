@@ -1,7 +1,7 @@
 # History Notes on Science & Technology
 
-This is a chronology of humanity spanning the Big Bang to the present, or ["Big
-History"](https://en.wikipedia.org/wiki/Big_History).  I've shown each known
+This is a chronology of humanity spanning the Big Bang to the present, or [big
+history](https://en.wikipedia.org/wiki/Big_History).  I've shown each known
 branch along the path of [human
 evolution](https://en.wikipedia.org/wiki/Human_evolution).  The branch leading
 to humans is on the left.
@@ -22,8 +22,8 @@ air becomes cold and dry.
 Once history begins, I've focused on reproducible publications, patents, and
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
 In other words, I avoid rulers, wars, religion, and politics, except where they
-interact with science, technology, and civilization.  That said, I've included
-some events that are not strictly scientific to provide context.
+interact with science and technology.  That said, I've included some events
+that are not strictly scientific to provide context.
 
 We need both discovery and communication to [stand on the shoulders of
 giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
@@ -183,7 +183,7 @@ Few descriptions survive, despite many discoveries.
 - 517 mya: The [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction) occurred
 - 502 mya: The [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian) occurred
 - 490 mya: [Green algae](https://en.wikipedia.org/wiki/Green_algae) evolved into [Embryophyta (land plants)](https://en.wikipedia.org/wiki/Embryophyte)
-- 485.4 mya: The [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event) occurred
+- 488 mya: The [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event) occurred
 
 ### Jaw
 - 473 mya: [Gnathostomata](https://en.wikipedia.org/wiki/Gnathostomata) ("jaw mouth", a.k.a. jawed fish) split from [Osteostraci](https://en.wikipedia.org/wiki/Osteostraci) ("bony shields") & [Pituriaspida](https://en.wikipedia.org/wiki/Pituriaspida) ("pituri shield")
@@ -1037,6 +1037,7 @@ Few descriptions survive, despite many discoveries.
 - 1956 CE: [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States)
 - 1957 CE: [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp) & [Bruce C. Heezen](https://en.wikipedia.org/wiki/Bruce_C._Heezen) published a physiographic map of the North Atlantic Ocean, showing the [Mid-Atlantic Ridge](https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge)
 - 1957 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Reformation*, the 6th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
+- 1957 CE: [Margaret Burbidge](https://en.wikipedia.org/wiki/Margaret_Burbidge) et al. published *Synthesis of the Elements in Stars*, describing [stellar nucleosynthesis](https://en.wikipedia.org/wiki/Stellar_nucleosynthesis)
 - 1958 CE: [Bjørn Aage Ibsen](https://en.wikipedia.org/wiki/Bj%C3%B8rn_Aage_Ibsen) published *Arbejdet på en Anæsthesiologisk Observationsafdeling* (*The Work in an Anaesthesiologic Observation Unit*)
 - 1958 CE: [Samuel Warren Carey](https://en.wikipedia.org/wiki/Samuel_Warren_Carey) published *The tectonic approach to continental drift*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1959 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*The Logic of Scientific Discovery*](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
