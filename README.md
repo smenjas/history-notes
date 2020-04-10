@@ -892,6 +892,7 @@ Few descriptions survive, despite many discoveries.
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Transmitting and recording sounds by radiant energy*
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Reproducing sounds from phonograph records*
 - 1889 CE: [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) published [*Arithmetices principia, nova methodo exposita* (*principles of arithmetic, presented by a new method*)](https://en.wikipedia.org/wiki/Arithmetices_principia,_nova_methodo_exposita), simplifying earlier work to formulate [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
+- 1889 CE: [William Stewart Halsted](https://en.wikipedia.org/wiki/William_Stewart_Halsted) asked [Goodyear](https://en.wikipedia.org/wiki/Goodyear_Tire_and_Rubber_Company) to make [rubber gloves](https://en.wikipedia.org/wiki/Rubber_glove), to prevent [dermatitis](https://en.wikipedia.org/wiki/Dermatitis) from [antiseptics](https://en.wikipedia.org/wiki/Antiseptic)
 
 ### 1890s
 - 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
@@ -1246,6 +1247,7 @@ Few descriptions survive, despite many discoveries.
 - [List of large volcanic eruptions](https://en.wikipedia.org/wiki/List_of_large_volcanic_eruptions)
   - [List of largest volcanic eruptions](https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions)
 - [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+- [List of Nobel laureates](https://en.wikipedia.org/wiki/List_of_Nobel_laureates)
 - [List of numeral systems](https://en.wikipedia.org/wiki/List_of_numeral_systems)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 - [List of people considered father or mother of a scientific field](https://en.wikipedia.org/wiki/List_of_people_considered_father_or_mother_of_a_scientific_field)
