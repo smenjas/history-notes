@@ -1147,6 +1147,7 @@ Few descriptions survive, despite many discoveries.
 - 1997 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Search](https://en.wikipedia.org/wiki/Google_Search)
 - 1998 CE: [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith) published *A revised six-kingdom system of life*
 - 1998 CE: [Netscape](https://en.wikipedia.org/wiki/Netscape) published [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 1998 CE: [Duncan J. Watts](https://en.wikipedia.org/wiki/Duncan_J._Watts) & [Steven Strogatz](https://en.wikipedia.org/wiki/Steven_Strogatz) published [*Collective dynamics of 'small-world' networks*](https://www.nature.com/articles/30918), describing [small-world networks](https://en.wikipedia.org/wiki/Small-world_network)
 
 ## 2000s
 - 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
