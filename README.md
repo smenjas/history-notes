@@ -19,11 +19,12 @@ global average temperature drops more than 6 °C below the Holocene average,
 during major [glaciations](https://en.wikipedia.org/wiki/Glacial_period).  The
 air becomes cold and dry.
 
-Once history begins, I've focused on reproducible publications, patents, and
+Once history begins, I've focused on reproducible ideas in publications,
+patents, and
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
-In other words, I avoid rulers, wars, religion, and politics, except where they
-interact with science and technology.  That said, I've included some events
-that are not strictly scientific to provide context.
+I'm particularly interested in alphabets, number systems, printing, and the
+written word, especially accessible explanations. My goal is a [universal
+history](https://en.wikipedia.org/wiki/Universal_history).
 
 We need both discovery and communication to [stand on the shoulders of
 giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
@@ -689,6 +690,7 @@ Few descriptions survive, despite many discoveries.
 - 1762 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Émile, ou De l’éducation* (*Emile, or On Education*)](https://en.wikipedia.org/wiki/Emile,_or_On_Education)
 - 1765 CE: [James Watt](https://en.wikipedia.org/wiki/James_Watt) increased the efficiency of the [steam engine](https://en.wikipedia.org/wiki/Watt_steam_engine) with a condenser and steam jacket
 - 1765 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Vollständige Anleitung zur Algebra*
+- 1765 CE: [Suzuki Harunobu](https://en.wikipedia.org/wiki/Suzuki_Harunobu) produced [*Nishiki-e* ("brocade picture")](https://en.wikipedia.org/wiki/Nishiki-e), full-color [woodblock prints](https://en.wikipedia.org/wiki/Woodblock_printing_in_Japan)
 - 1768 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Letters to a German Princess*](https://en.wikipedia.org/wiki/Letters_to_a_German_Princess)
 - 1768 CE: [William Smellie](https://en.wikipedia.org/wiki/William_Smellie_%28encyclopedist%29) edited the [Encyclopædia Britannica 1st edition](https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica_First_Edition)
 - 1769 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) accurately calculated the distance from the Earth to the Sun to be 93 million miles, based on observing the [transit of Venus](https://en.wikipedia.org/wiki/Transit_of_Venus)
