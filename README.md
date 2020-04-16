@@ -476,6 +476,7 @@ Few descriptions survive, despite many discoveries.
 - 44 BCE: The [Palmyrene alphabet](https://en.wikipedia.org/wiki/Palmyrene_alphabet) descended from cursive versions of the Aramaic alphabet
 - 40 BCE: [Andronicus of Rhodes](https://en.wikipedia.org/wiki/Andronicus_of_Rhodes) wrote Aristotle's [*Organon*](https://en.wikipedia.org/wiki/Organon) (*Instrument*)
 - 36 BCE: [Marcus Terentius Varro](https://en.wikipedia.org/wiki/Marcus_Terentius_Varro) wrote *Rerum rusticarum libri III* (*Three Books on Agriculture*), which states "Precautions must also be taken in the neighborhood of swamps […] because there are bred certain minute creatures which cannot be seen by the eyes, which float in the air and enter the body through the mouth and nose and there cause serious diseases."
+- 36 BCE: [Diodorus of Sicily](https://en.wikipedia.org/wiki/Diodorus_Siculus) wrote [*Bibliotheca historica*](https://en.wikipedia.org/wiki/Bibliotheca_historica), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
 - ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
 
 ## Common Era
@@ -490,7 +491,7 @@ Few descriptions survive, despite many discoveries.
 - 125 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
 - 131 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Periplus of the Euxine Sea*](https://en.wikipedia.org/wiki/Periplus_of_the_Euxine_Sea)
 - 137 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote *Techne Taktike*, on [Roman military tactics](https://en.wikipedia.org/wiki/Roman_infantry_tactics)
-- 150 CE: [Claudius Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) wrote the [Almagest](https://en.wikipedia.org/wiki/Almagest), an influential work on [astronomy](https://en.wikipedia.org/wiki/Astronomy)
+- 150 CE: [Claudius Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) wrote the [*Almagest*](https://en.wikipedia.org/wiki/Almagest) on [astronomy](https://en.wikipedia.org/wiki/Astronomy), and [*Geography*](https://en.wikipedia.org/wiki/Geography_%28Ptolemy%29) on [cartography](https://en.wikipedia.org/wiki/Cartography)
 - 160 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Alexándrou Anábasis* (*The Anabasis of Alexander*)](https://en.wikipedia.org/wiki/The_Anabasis_of_Alexander), [*Indica*](https://en.wikipedia.org/wiki/Indica_%28Arrian%29), *Ta met' Alexandron* (*Events after Alexander*), *Kynēgetikos* (*On Hunting*), and many other books by the time he died
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
