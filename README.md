@@ -333,10 +333,11 @@ Few descriptions survive, despite many discoveries.
 - 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
 - 26.5-20 kya: The [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum) occurred, CO₂ dipped to 180 ppm, global temp -9 °C from present, dust exceeded 1.6 ppm
-- 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, sea level 120m below present
+- 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) 120m below present
 - 17-15 kya: The [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas) occurred, global temperatures declined sharply
-- 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 100m below present
+- 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was >100m below present
 - 15-13 kya: The [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial) occurred, first pronounced warming since LGM
+- 14.7-13.5 kya: [Meltwater pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A) occurred, and the [sea level](https://en.wikipedia.org/wiki/Past_sea_level) rose from >100m to <80m below present
 - 14.5 kya: [Humans made bread at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
 
 ### Dogs
@@ -345,15 +346,15 @@ Few descriptions survive, despite many discoveries.
 
 ### Agriculture
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
-- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 80m below present
+- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was around 80m below present
 - 13.5 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Abu Hureyra](https://en.wikipedia.org/wiki/Tell_Abu_Hureyra) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates): a few hundred people lived there year-round, the largest settlement of people anywhere at the time
 - 13 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) brewed [beer](https://en.wikipedia.org/wiki/Beer) at [Raqefet Cave](https://en.wikipedia.org/wiki/Raqefet_Cave), Israel
 - 12.9-11.7 kya: The [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas) occurred, global temperatures declined sharply
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ exceeded 250 ppm
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
-- 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
 - 9650 BCE: The [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
+- 9000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
 - 9000 BCE: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) settled [Jericho](https://en.wikipedia.org/wiki/Jericho)
 - 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea), [wheat](https://en.wikipedia.org/wiki/Wheat), & [rye](https://en.wikipedia.org/wiki/Rye)
 - 9000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated [soybeans](https://en.wikipedia.org/wiki/Soybean)
