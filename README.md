@@ -1192,6 +1192,7 @@ Few descriptions survive, despite many discoveries.
 - 2011 CE: CO₂ exceeded 390 ppm
 - 2011 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 4A*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - 2012 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model S](https://en.wikipedia.org/wiki/Tesla_Model_S), a somewhat expensive, practical electric car
+- 2012 CE: Cassan et al. published [One or more bound planets per Milky Way star from microlensing observations](https://arxiv.org/abs/1202.0903)
 - 2013 CE: Daily average CO₂ exceeded 400 ppm
 - 2015 CE: [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith) et al. published [*A higher level classification of all living organisms*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119248)
 - 2015 CE: Anja Spang et al. published [*Complex archaea that bridge the gap between prokaryotes and eukaryotes*](https://www.nature.com/articles/nature14447)
