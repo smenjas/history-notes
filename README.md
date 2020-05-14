@@ -419,6 +419,7 @@ Few descriptions survive, despite many discoveries.
 - 530 BCE: [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) founded a school at [Croton](https://en.wikipedia.org/wiki/Crotone)
 - 500 BCE: [Darius I](https://en.wikipedia.org/wiki/Darius_the_Great) standardized the [Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet), descended from the Phoenician alphabet
 - 500 BCE: [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) wrote [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War)
+- 476 BCE: [Hecataeus of Miletus](https://en.wikipedia.org/wiki/Hecataeus_of_Miletus) wrote *Περίοδος γῆς* (*Periodos ges*, *Journey round the Earth* or *World Survey*), and *Γενεαλογίαι* (*Genealogiai*) or the *Ἱστορία* (*Historia*) by the time he died
 - 472 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)' [tragedy](https://en.wikipedia.org/wiki/Greek_tragedy) [*The Persians*](https://en.wikipedia.org/wiki/The_Persians) won first prize in the Athens City [Dionysia festival](https://en.wikipedia.org/wiki/Dionysia)
 - 458 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)' [tragedy](https://en.wikipedia.org/wiki/Greek_tragedy) [*The Oresteia*](https://en.wikipedia.org/wiki/Oresteia) won first prize in the Athens City [Dionysia festival](https://en.wikipedia.org/wiki/Dionysia)
 
