@@ -668,6 +668,8 @@ Few descriptions survive, despite many discoveries.
 - 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Mechanica*](https://en.wikipedia.org/wiki/Mechanica)
 - 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Solutio problematis ad geometriam situs pertinentis* (*Solution to the geometry of position*), founding [graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 - 1736 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) demonstrated H1, the first marine chronometer, helpful for finding [longitude](https://en.wikipedia.org/wiki/Longitude) and thus [navigation](https://en.wikipedia.org/wiki/Navigation)
+- 1738 CE: [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) published *Hydrodynamica*, describing [conservation of energy](https://en.wikipedia.org/wiki/Conservation_of_energy)
+- 1738 CE: [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) published *Specimen theoriae novae de mensura sortis* (*Exposition of a New Theory on the Measurement of Risk*)
 - 1744 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Methodus inveniendi lineas curvas* (*A method for finding curved lines*)
 - 1745 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the automated loom
 - 1746 CE: [Pierre Bouguer](https://en.wikipedia.org/wiki/Pierre_Bouguer) published *Traité du navire* (*Ship Treaty*), becoming the "father of [naval architecture](https://en.wikipedia.org/wiki/Naval_architecture)"
@@ -695,6 +697,7 @@ Few descriptions survive, despite many discoveries.
 - 1765 CE: [James Watt](https://en.wikipedia.org/wiki/James_Watt) increased the efficiency of the [steam engine](https://en.wikipedia.org/wiki/Watt_steam_engine) with a condenser and steam jacket
 - 1765 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Vollständige Anleitung zur Algebra*
 - 1765 CE: [Suzuki Harunobu](https://en.wikipedia.org/wiki/Suzuki_Harunobu) produced [*Nishiki-e* ("brocade picture")](https://en.wikipedia.org/wiki/Nishiki-e), full-color [woodblock prints](https://en.wikipedia.org/wiki/Woodblock_printing_in_Japan)
+- 1766 CE: [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) published *An attempt at a new analysis of the mortality caused by smallpox and of the advantages of inoculation to prevent it*
 - 1768 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Letters to a German Princess*](https://en.wikipedia.org/wiki/Letters_to_a_German_Princess)
 - 1768 CE: [William Smellie](https://en.wikipedia.org/wiki/William_Smellie_%28encyclopedist%29) edited the [Encyclopædia Britannica 1st edition](https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica_First_Edition)
 - 1769 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) accurately calculated the distance from the Earth to the Sun to be 93 million miles, based on observing the [transit of Venus](https://en.wikipedia.org/wiki/Transit_of_Venus)
@@ -913,6 +916,7 @@ Few descriptions survive, despite many discoveries.
 #### Radio
 - 1896 CE: [Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi) patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
 - 1896 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Studies in the theory of Public Finance*
+- 1896 CE: [Scipione Riva-Rocci](https://en.wikipedia.org/wiki/Scipione_Riva-Rocci) invented the [sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer), a noninvasive method for measuring blood pressure
 - 1897 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 2* (*Contributions to the foundation of the transfinite set theory 2*)
 - 1898 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Pflanzengeographie auf physiologischer Grundlage* (*Plant geography on a physiological basis*)
 - 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
