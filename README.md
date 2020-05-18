@@ -1043,6 +1043,7 @@ Few descriptions survive, despite many discoveries.
 ### 1950s
 - 1950 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Age of Faith*, the 4th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1951 CE: [Fritz Houtermans](https://en.wikipedia.org/wiki/Fritz_Houtermans) published *Über ein neues Verfahren zur Durchführung chemischer Altersbestimmungen nach der Blei-Methode* (*About a new method for carrying out chemical age determinations using the lead method*)
+- 1951 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) published *A duplex theory of pitch perception*
 - 1952 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) tested the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine)
 - 1952 CE: [Bjørn Aage Ibsen](https://en.wikipedia.org/wiki/Bj%C3%B8rn_Aage_Ibsen) published *The Anaesthetist's Viewpoint on the Treatment of Respiratory Complications in Poliomyelitis during the Epidemics in Copenhagen*, founding [intensive care medicine](https://en.wikipedia.org/wiki/Intensive_care_medicine)
 - 1953 CE: [Maurice Karnaugh](https://en.wikipedia.org/wiki/Maurice_Karnaugh) published *The Map Method for Synthesis of Combinational Logic Circuits*, introducing the [Karnaugh map](https://en.wikipedia.org/wiki/Karnaugh_map), a method of simplifying [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) expressions
@@ -1066,6 +1067,7 @@ Few descriptions survive, despite many discoveries.
 - 1960 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *Nature of great oceanic ridges*, describing [mid-ocean ridges](https://en.wikipedia.org/wiki/Mid-ocean_ridge)
 - 1960 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *Evolution of ocean basins*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1960 CE: [Gene Shoemaker](https://en.wikipedia.org/wiki/Eugene_Merle_Shoemaker) published *First Natural Occurrence of Coesite*, proving that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
+- 1960 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) published [*Man-Computer Symbiosis*](https://en.wikipedia.org/wiki/Man-Computer_Symbiosis)
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Theory of Fundamental Processes*
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Quantum Electrodynamics*
 - 1961 CE: [Robert S. Dietz](https://en.wikipedia.org/wiki/Robert_S._Dietz) published *Continent and Ocean Basin Evolution by Spreading of the Sea Floor*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
@@ -1076,6 +1078,7 @@ Few descriptions survive, despite many discoveries.
 - 1962 CE: [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn) published [*The Structure of Scientific Revolutions*](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions), introducing the term ["paradigm shift"](https://en.wikipedia.org/wiki/Paradigm_shift)
 - 1962 CE: [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson) published [*Silent Spring*](https://en.wikipedia.org/wiki/Silent_Spring)
 - 1963 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Louis XIV*, the 8th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
+- 1963 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) published a memo addressed to "Members and Affiliates of the [Intergalactic Computer Network](https://en.wikipedia.org/wiki/Intergalactic_Computer_Network)", describing the [Internet](https://en.wikipedia.org/wiki/Internet)
 - 1964 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Feynman Lectures on Physics*
 - 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) & [Albert Hibbs](https://en.wikipedia.org/wiki/Albert_Hibbs) published *Quantum Mechanics and Path Integrals*
 - 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Character of Physical Law*
@@ -1094,6 +1097,7 @@ Few descriptions survive, despite many discoveries.
 - 1968 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Lessons of History*](https://en.wikipedia.org/wiki/The_Lessons_of_History)
 - 1968 CE: [Jack Oliver](https://en.wikipedia.org/wiki/Jack_Oliver_%28scientist%29) published *Seismology and the New Global Tectonics*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1968 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 1*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+- 1968 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) & [Bob Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29) published *The Computer as a Communication Device*, describing [online communities](https://en.wikipedia.org/wiki/Online_community)
 
 #### Internet
 - 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
