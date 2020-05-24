@@ -704,6 +704,7 @@ Few descriptions survive, despite many discoveries.
 - 1770 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutionum calculi integralis*](https://en.wikipedia.org/wiki/Institutionum_calculi_integralis)
 - 1776 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*Wealth of Nations*](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
 - 1776 CE: [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine) published [*Common Sense*](https://en.wikipedia.org/wiki/Common_Sense), advocating independence from Britain
+- 1781 CE: [Charles Messier](https://en.wikipedia.org/wiki/Charles_Messier) published his *Catalogue des Nébuleuses & des amas d'Étoiles* (*Catalog of Nebulae & Star Clusters*), an [astronomical catalog](https://en.wikipedia.org/wiki/Astronomical_catalog) of what we now call the [Messier objects](https://en.wikipedia.org/wiki/Messier_object)
 - 1785 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) invented the first man-made [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1785 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published *A System of Vegetables*
 - 1787 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published *The Families of Plants*
