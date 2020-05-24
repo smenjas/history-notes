@@ -987,10 +987,12 @@ Few descriptions survive, despite many discoveries.
 - 1925 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
 - 1926 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published [*The Story of Philosophy*](https://en.wikipedia.org/wiki/The_Story_of_Philosophy)
 - 1926 CE: [Henry Ford](https://en.wikipedia.org/wiki/Henry_Ford) & [Samuel Crowther](https://en.wikipedia.org/wiki/Samuel_Crowther_%28journalist%29) published *Today and Tomorrow*
+- 1926 CE: [Edwin Hubble](https://en.wikipedia.org/wiki/Edwin_Hubble) published *Extragalactic nebulae*, providing evidence that the Universe is larger than our galaxy
 - 1927 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Variationsrechnung* (*Calculus of Variations*)
 - 1927 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *A Geological Comparison of South America with South Africa*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
 - 1927 CE: [Georges Lemaître](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre) published *Un Univers homogène de masse constante et de rayon croissant rendant compte de la vitesse radiale des nébuleuses extra-galactiques* (*A homogeneous universe of constant mass and increasing radius accounting for the radial speed of extra-galactic nebulae*), hypothesizing that [the universe is expanding](https://en.wikipedia.org/wiki/Expansion_of_the_universe), and describing what would become [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law)
 - 1928 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *Radioactivity and Earth movements*, proposing [mantle convection](https://en.wikipedia.org/wiki/Mantle_convection)
+- 1929 CE: [Edwin Hubble](https://en.wikipedia.org/wiki/Edwin_Hubble) published *A relation between distance and radial velocity among extra-galactic nebulae*, providing evidence for [Georges Lemaître](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre)'s hypothesis that [the universe is expanding](https://en.wikipedia.org/wiki/Expansion_of_the_universe), and describing [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law)
 
 ### 1930s
 - 1930 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*A Treatise on Money*](https://en.wikipedia.org/wiki/A_Treatise_on_Money)
