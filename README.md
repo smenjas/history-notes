@@ -922,6 +922,7 @@ Few descriptions survive, despite many discoveries.
 - 1898 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Pflanzengeographie auf physiologischer Grundlage* (*Plant geography on a physiological basis*)
 - 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
 - 1898 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Geldzins und Güterpreise* (*Interest and Prices*)
+- 1898 CE: [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie) published *sur une nouvelle substance fortement redio-active, contenue dans la pechblende* (*on a new strongly radio-active substance, contained in pitchblende*, describing the discovery of [radium](https://en.wikipedia.org/wiki/Radium) and coining the term [radioactivity](https://en.wikipedia.org/wiki/Radioactive_decay)
 - 1899 CE: [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert) published *Grundlagen der Geometrie* (*Foundations of Geometry*)
 
 ## 1900s
