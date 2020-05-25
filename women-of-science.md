@@ -6,6 +6,7 @@ Women are underrepresented in the history of science, due to
 Notable women include:
 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
 - [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie)
+- [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt)
 - [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether)
 - [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner)
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
