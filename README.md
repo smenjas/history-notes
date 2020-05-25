@@ -391,10 +391,12 @@ Few descriptions survive, despite many discoveries.
 - 3300 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Uruk](https://en.wikipedia.org/wiki/Uruk) on the ancient channel of the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) wrote [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3300 BCE: People in the [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) wrote the [Indus script](https://en.wikipedia.org/wiki/Indus_script)
 - 3200 BCE: The [Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
+- 3100 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Kish](https://en.wikipedia.org/wiki/Kish_%28Sumer%29)
 - 3000 BCE: Many modern artifacts existed in the Indus Valley ([sanitation](https://en.wikipedia.org/wiki/Sanitation), [distillation](https://en.wikipedia.org/wiki/Distillation), [levee](https://en.wikipedia.org/wiki/Levee), [scales](https://en.wikipedia.org/wiki/Weighing_scale), etc.)
 - 3000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
 - 2500 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) [fried food](https://en.wikipedia.org/wiki/Frying)
+- 2500 BCE: The [*Instructions of Shuruppak*](https://en.wikipedia.org/wiki/Instructions_of_Shuruppak), an example of [Sumerian](https://en.wikipedia.org/wiki/Sumer) [wisdom literature](https://en.wikipedia.org/wiki/Wisdom_literature), existed by this time
 - 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
 - 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
 - 1900 BCE: [People smelted and smithed iron](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
@@ -926,7 +928,7 @@ Few descriptions survive, despite many discoveries.
 - 1898 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Pflanzengeographie auf physiologischer Grundlage* (*Plant geography on a physiological basis*)
 - 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
 - 1898 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Geldzins und Güterpreise* (*Interest and Prices*)
-- 1898 CE: [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie) published *sur une nouvelle substance fortement redio-active, contenue dans la pechblende* (*on a new strongly radio-active substance, contained in pitchblende*, describing the discovery of [radium](https://en.wikipedia.org/wiki/Radium) and coining the term [radioactivity](https://en.wikipedia.org/wiki/Radioactive_decay)
+- 1898 CE: [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie) published *sur une nouvelle substance fortement redio-active, contenue dans la pechblende* (*on a new strongly radio-active substance, contained in pitchblende*), describing the discovery of [radium](https://en.wikipedia.org/wiki/Radium) and coining the term [radioactive](https://en.wikipedia.org/wiki/Radioactive_decay)
 - 1899 CE: [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert) published *Grundlagen der Geometrie* (*Foundations of Geometry*)
 
 ## 1900s
