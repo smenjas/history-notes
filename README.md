@@ -1221,9 +1221,12 @@ Few descriptions survive, despite many discoveries.
 - 2015 CE: Anja Spang et al. published [*Complex archaea that bridge the gap between prokaryotes and eukaryotes*](https://www.nature.com/articles/nature14447)
 - 2015 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [landed an orbital rocket vertically](https://en.wikipedia.org/wiki/Falcon_9_flight_20)
 - 2015 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Swift programming language](https://en.wikipedia.org/wiki/Swift_%28programming_language%29), created by [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
-- 2015 CE: [Mozilla](https://en.wikipedia.org/wiki/Mozilla) released version 1.0 of the [Rust programming language](https://en.wikipedia.org/wiki/Rust_%28programming_language%29), created by Graydon Hoare, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2015 CE: [Mozilla](https://en.wikipedia.org/wiki/Mozilla) released version 1.0 of the [Rust programming language](https://en.wikipedia.org/wiki/Rust_%28programming_language%29), designed by Graydon Hoare, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
 - 2018 CE: Daily average CO₂ exceeded 410 ppm
+
+### 2020s
+- 2020 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [launched the first non-government crewed orbital flight, and landed the first stage](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2)
 
 ---
 
