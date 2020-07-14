@@ -150,8 +150,8 @@ Few descriptions survive, despite many discoveries.
 - 950? mya: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
 - 952 mya: [Animalia](https://en.wikipedia.org/wiki/Animal) (a.k.a. Metazoa) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
 - 948 mya: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
-- 900 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) emerged
-- 896? mya: [Chordates](https://en.wikipedia.org/wiki/Chordate) emerged
+- 900 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) evolved
+- 896? mya: [Chordates](https://en.wikipedia.org/wiki/Chordate) evolved
 - 850 mya: O₂ was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
 
 ### [Hox](https://en.wikipedia.org/wiki/Hox_gene)
@@ -246,7 +246,7 @@ Few descriptions survive, despite many discoveries.
 - 66 mya: The [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) occurred, 76% of species lost
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
 - 55 mya: The [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) occurred: volcanoes released CO₂, global temperatures increased by 5-8 °C
-- 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) transitioned from land to sea animals
+- 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) evolved from land mammals back into sea mammals
 - 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
 - 40 mya: O₂ dropped to 0.23 atm
 - 35 mya: An asteroid impacted Earth, creating the [Popigai crater](https://en.wikipedia.org/wiki/Popigai_crater) which is 90 km in diameter
@@ -265,14 +265,14 @@ Few descriptions survive, despite many discoveries.
 - 8 mya: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
 - 7 mya: [Hominina](https://en.wikipedia.org/wiki/Human_taxonomy#Hominina) [split](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor) from [Panina](https://en.wikipedia.org/wiki/Pan_%28genus%29), i.e. [chimpanzees](https://en.wikipedia.org/wiki/Chimpanzee) and [bonobos](https://en.wikipedia.org/wiki/Bonobo)
 - 5.96-5.33 mya: The [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
-- 4.2-3.8 mya: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) emerged in Ethiopia & Kenya
+- 4.2-3.8 mya: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) evolved in Ethiopia & Kenya
 - 4 mya: [Early humans evolved to walk on two legs (bipedalism)](https://en.wikipedia.org/wiki/Human_skeletal_changes_due_to_bipedalism)
 
 ### Tools
 - 3.4 mya: The [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in Ethiopia, near Gona)
 - 3.3 mya: [Early humans made large stone tools in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
-- 2.8 mya: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) emerged
-- 1.9 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) emerged
+- 2.8 mya: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) evolved
+- 1.9 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) evolved
 - 1.89 mya: Humans began to run long distances, and sweat, and lose body hair
 - 1.25-0.7 mya: The [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition) occurred, glacial cycles switched from 41 ka to 100 ka
 - 1.07 mya: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana
@@ -304,13 +304,13 @@ Few descriptions survive, despite many discoveries.
 - 400 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present
 - 350 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 320 kya: CO₂ peaked around 300 ppm, global temp +4 °C from present
-- 315 kya: [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens) emerged
+- 315 kya: [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens) evolved
 - 300 kya: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
 - 270 kya: [Y-chromosomal Adam](https://en.wikipedia.org/wiki/Y-chromosomal_Adam) lived ([Y-DNA haplogroup A](https://en.wikipedia.org/wiki/Haplogroup_A_%28Y-DNA%29)00)
 - 260 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
-- 250 kya: [Homo neanderthalensis](https://en.wikipedia.org/wiki/Neanderthal) emerged
+- 250 kya: [Homo neanderthalensis](https://en.wikipedia.org/wiki/Neanderthal) evolved
 - 240 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present
-- 200 kya: [Homo sapiens sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) emerged, 6 other homo species existed
+- 200 kya: [Homo sapiens sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) evolved, 6 other homo species existed
 - 173 kya: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
 - 160 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 150 kya: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
@@ -327,10 +327,10 @@ Few descriptions survive, despite many discoveries.
 ### Clothing
 - 83 kya: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
 - 73 kya: The [Toba volcano erupted](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
-- 70 kya: Gene mutations that allow abstract thinking emerged
+- 70 kya: Gene mutations that allow abstract thinking evolved
 - 70-50 kya: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
 - 50-40 kya: [Early human tools and cultures become more sophisticated](https://en.wikipedia.org/wiki/Behavioral_modernity) in an explosion of innovation
-- 50-30 kya: ["Gracile" anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) emerged
+- 50-30 kya: ["Gracile" anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved
 - 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
 - 26.5-20 kya: The [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum) occurred, CO₂ dipped to 180 ppm, global temp -9 °C from present, dust exceeded 1.6 ppm
