@@ -480,6 +480,7 @@ Few descriptions survive, despite many discoveries.
 - 200 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) wrote *Conics* and other works on mathematics
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
 - 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar
+- 107 BCE: [Roman tribunes](https://en.wikipedia.org/wiki/Ballot_laws_of_the_Roman_Republic) required [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot)
 - 100 BCE: [Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
 - 56 BCE: [Lucretius](https://en.wikipedia.org/wiki/Lucretius) wrote [*De rerum natura* (*On the Nature of Things*)](https://en.wikipedia.org/wiki/De_rerum_natura), stating that the world contained "seeds" that can sicken you if inhaled or ingested
 - 46 BCE: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) proposed the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
@@ -726,6 +727,7 @@ Few descriptions survive, despite many discoveries.
 - 1792 CE: [Mary Wollstonecraft](https://en.wikipedia.org/wiki/Mary_Wollstonecraft) published [*A Vindication of the Rights of Woman*](https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman), an early work of [feminist philosophy](https://en.wikipedia.org/wiki/Feminist_philosophy)
 - 1793 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) explained [how the human eye focuses on objects at different distances](https://en.wikipedia.org/wiki/Accommodation_%28eye%29)
 - 1794 CE: [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine) published [*The Age of Reason*](https://en.wikipedia.org/wiki/The_Age_of_Reason), promoting [natural theology](https://en.wikipedia.org/wiki/Natural_theology)
+- 1795 CE: The [*Constitution of the Year III*](https://en.wikipedia.org/wiki/Constitution_of_the_Year_III) of the French Revolution states that "All elections are to be held by [secret ballot](https://en.wikipedia.org/wiki/Secret_ballot)"
 - 1796 CE: Renatus Gotthelf Löbel edited the [*Conversations-Lexikon* (*Conversation Dictionary*)](https://en.wikipedia.org/wiki/Conversations-Lexikon_mit_vorz%C3%BCglicher_R%C3%BCcksicht_auf_die_gegenw%C3%A4rtigen_Zeiten), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) later called the [*Brockhaus Enzyklopädie*](https://en.wikipedia.org/wiki/Brockhaus_Enzyklop%C3%A4die)
 - 1796 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published [*Zoonomia*](https://en.wikipedia.org/wiki/Zoonomia)
 - 1796 CE: [Priscilla Wakefield](https://en.wikipedia.org/wiki/Priscilla_Wakefield) published *An Introduction to Botany, in a Series of Familiar Letters*
@@ -836,11 +838,13 @@ Few descriptions survive, despite many discoveries.
 - 1855 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the peristaltic induction of electric currents in submarine telegraph wires*
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
 - 1855 CE: [John Snow](https://en.wikipedia.org/wiki/John_Snow) published *On the Mode of Communication of Cholera* 2nd edition, a key event in [epidemiology](https://en.wikipedia.org/wiki/Epidemiology)
+- 1855 CE: [William Nicholson](https://en.wikipedia.org/wiki/William_Nicholson_%28Australian_politician%29) proposes using [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot) in Victoria, Australia
 
 #### Telegraph
 - 1856 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphs*](https://patents.google.com/patent/US14917A)
 - 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian functions*)
 - 1856 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the thermal effects of fluids in motion*, describing the [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect) and promoting the [kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases)
+- 1856 CE: [Henry Samuel Chapman](https://en.wikipedia.org/wiki/Henry_Samuel_Chapman) drafted the "Victorian" or "Australian" voting system using [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot)
 - 1857 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Experiments on Colour, as perceived by the Eye, with Remarks on Colour-Blindness*
 - 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On integrals of the hydrodynamic equations, which correspond to the vortex movements*), introducing [Helmholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
 - 1859 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*On the Origin of Species*](https://en.wikipedia.org/wiki/On_the_Origin_of_Species), describing his theories of [common descent](https://en.wikipedia.org/wiki/Common_descent) and [natural selection](https://en.wikipedia.org/wiki/Natural_selection)
@@ -879,6 +883,7 @@ Few descriptions survive, despite many discoveries.
 - 1871 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Introductory Notes on Lying-In Institutions*](https://archive.org/stream/introductorynot00nighgoog#page/n6/mode/2up)
 - 1871 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published his [thermodynamic relations](https://en.wikipedia.org/wiki/Maxwell_relations)
 - 1871 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Descent of Man, and Selection in Relation to Sex*](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex)
+- 1872 CE: The [Ballot Act 1872](https://en.wikipedia.org/wiki/Ballot_Act_1872) required [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot) for [UK parliamentary and local government elections](https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom)
 - 1872 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On the Theory of Colour Vision*
 - 1873 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Treatise on Electricity and Magnetism*](https://en.wikipedia.org/wiki/A_Treatise_on_Electricity_and_Magnetism)
 - 1874 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published [*Ueber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen* (*On a Property of the Collection of All Real Algebraic Numbers*)](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article), founding [set theory](https://en.wikipedia.org/wiki/Set_theory)
