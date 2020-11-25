@@ -1238,6 +1238,7 @@ Few descriptions survive, despite many discoveries.
 
 ### 2020s
 - 2020 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [launched the first non-government crewed orbital flight, and landed the first stage](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2)
+- 2020 CE: [Apple switched from Intel x86 chips to a custom ARM design](https://en.wikipedia.org/wiki/Apple_M1)
 
 ---
 
