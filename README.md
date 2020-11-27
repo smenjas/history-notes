@@ -1025,7 +1025,7 @@ Few descriptions survive, despite many discoveries.
 
 #### Turing Machine
 - 1936 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *On Computable Numbers, with an Application to the Entscheidungsproblem*
-- 1936 CE: [Theodore P. Wright](https://en.wikipedia.org/wiki/Theodore_Paul_Wright) published *Factors affecting the costs of airplanes*
+- 1936 CE: [Theodore P. Wright](https://en.wikipedia.org/wiki/Theodore_Paul_Wright) published *Factors affecting the costs of airplanes* describing [Wright's Law](https://en.wikipedia.org/wiki/Experience_curve_effects)
 - 1936 CE: [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) published *An unsolvable problem of elementary number theory*
 - 1936 CE: [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) published [*How to Win Friends and Influence People*](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
 - 1936 CE: [J. Barkley Rosser](https://en.wikipedia.org/wiki/J._Barkley_Rosser) published *Extensions of some theorems of Gödel and Church*
