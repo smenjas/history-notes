@@ -1033,6 +1033,7 @@ Few descriptions survive, despite many discoveries.
 - 1937 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Continuous geometries with a transition probability*
 - 1937 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *Our Wandering Continents*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
 - 1937 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published *The Interpretation of Financial Statements*, an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
+- 1937 CE: [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) published [*A Symbolic Analysis of Relay and Switching Circuits*](https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits), showing how [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) could simplify [digital circuit](https://en.wikipedia.org/wiki/Circuit_%28computer_science%29) design
 - 1938 CE: [Herbert Copeland](https://en.wikipedia.org/wiki/Herbert_Copeland) published *The kingdoms of organisms*
 - 1938 CE: [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) published *Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory*
 - 1938 CE: [Alfred O. C. Nier](https://en.wikipedia.org/wiki/Alfred_O._C._Nier) published measurements of the relative abundance of the isotopes of uranium
