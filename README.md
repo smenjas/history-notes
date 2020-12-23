@@ -1065,6 +1065,7 @@ Few descriptions survive, despite many discoveries.
 ### 1950s
 - 1950 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Age of Faith*, the 4th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1950 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published [*Computing Machinery and Intelligence*](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence), introducing the [Turing test](https://en.wikipedia.org/wiki/Turing_test)
+- 1950 CE: [Zhou Youguang](https://en.wikipedia.org/wiki/Zhou_Youguang) published *Hànyǔ pīnyīn cíhuì* (*Chinese phonetic alphabet glossary*)
 - 1951 CE: [Fritz Houtermans](https://en.wikipedia.org/wiki/Fritz_Houtermans) published *Über ein neues Verfahren zur Durchführung chemischer Altersbestimmungen nach der Blei-Methode* (*About a new method for carrying out chemical age determinations using the lead method*)
 - 1951 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) published *A duplex theory of pitch perception*
 - 1952 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) tested the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine)
