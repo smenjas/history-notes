@@ -1344,6 +1344,7 @@ Few descriptions survive, despite many discoveries.
 - [Internet Archive](https://archive.org/)
 - [Librivox](https://librivox.org/)
 - [Project Gutenberg](https://www.gutenberg.org/)
+- [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 - [ScienceDirect](https://www.sciencedirect.com/)
 - [The Collected Works of Florence Nightingale](https://cwfn.uoguelph.ca/)
 - [TimeTree: The timescale of life](http://www.timetree.org/)
