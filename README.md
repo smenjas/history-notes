@@ -606,6 +606,7 @@ Few descriptions survive, despite many discoveries.
 - 1610 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Sidereus Nuncius* (*Starry Messenger*)](https://en.wikipedia.org/wiki/Sidereus_Nuncius)
 - 1611 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) invented the [Keplerian telescope](https://en.wikipedia.org/wiki/Refracting_telescope#Keplerian_telescope)
 - 1613 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Letters on Sunspots*](https://en.wikipedia.org/wiki/Letters_on_Sunspots)
+- 1614 CE: [Simon Marius](https://en.wikipedia.org/wiki/Simon_Marius) published *Mundus Iovialis* (*The Jovian World*), describing the planet Jupiter and naming its four largest moons
 - 1619 CE: [Willem Boreel](https://en.wikipedia.org/wiki/Willem_Boreel) described [Cornelis Drebbel](https://en.wikipedia.org/wiki/Cornelis_Drebbel)'s [compound microscope](https://en.wikipedia.org/wiki/Optical_microscope#Compound_microscope)
 - 1620 CE: [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) published [*Novum Organum* (*New Organ*)](https://en.wikipedia.org/wiki/Novum_Organum), describing the [Baconian method](https://en.wikipedia.org/wiki/Baconian_method), establishing the modern [scientific method](https://en.wikipedia.org/wiki/Scientific_method)
 - 1624 CE: [Vincent of Beauvais](https://en.wikipedia.org/wiki/Vincent_of_Beauvais) published the *Speculum Maius* (*Great Mirror*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
