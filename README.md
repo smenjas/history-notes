@@ -1152,9 +1152,11 @@ Few descriptions survive, despite many discoveries.
 - 1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Napoleon*, the 11th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1975 CE: [Steven Sasson](https://en.wikipedia.org/wiki/Steven_Sasson) invented the first self-contained digital camera
 - 1976 CE: [Robert M. May](https://en.wikipedia.org/wiki/Robert_May,_Baron_May_of_Oxford) published [*Simple mathematical models with very complicated dynamics*](https://www.nature.com/articles/261459a0), popularizing the [logisitic map](https://en.wikipedia.org/wiki/Logistic_map) and demonstrating [chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)
+- 1976 CE: [Whitfield Diffie](https://en.wikipedia.org/wiki/Whitfield_Diffie) & [Martin Hellman](https://en.wikipedia.org/wiki/Martin_Hellman) published *New Directions in Cryptography*, describing [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), one of the first [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) protocols
 - 1977 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*
 - 1978 CE: [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - 1978 CE: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) released the [BSD operating system](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), including [ex](https://en.wikipedia.org/wiki/Ex_%28text_editor%29) and thus [vi](https://en.wikipedia.org/wiki/Vi)
+- 1978 CE: [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) published *Secure Communications Over Insecure Channels*, describing [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
 ### 1980s
 - 1984 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Macintosh](https://en.wikipedia.org/wiki/Macintosh)
