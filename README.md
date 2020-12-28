@@ -1133,6 +1133,7 @@ Few descriptions survive, despite many discoveries.
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson), [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie), & Rudd Canaday [implemented Unix in assembly for the PDP-7 computer](https://en.wikipedia.org/wiki/History_of_Unix)
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the B programming language](https://en.wikipedia.org/wiki/B_%28programming_language%29)
 - 1969 CE: [Willard Boyle](https://en.wikipedia.org/wiki/Willard_Boyle) & [George E. Smith](https://en.wikipedia.org/wiki/George_E._Smith) invented the [charge-coupled device (CCD)](https://en.wikipedia.org/wiki/Charge-coupled_device)
+- 1969 CE: [James H. Ellis](https://en.wikipedia.org/wiki/James_H._Ellis), [Clifford Cocks](https://en.wikipedia.org/wiki/Clifford_Cocks), and [Malcolm J. Williamson](https://en.wikipedia.org/wiki/Malcolm_J._Williamson) of [GCHQ](https://en.wikipedia.org/wiki/GCHQ) published *The Possibility of Secure Non-Secret Digital Encryption*, proposing public-key [cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
 ### 1970s
 - 1970 CE: [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) published *A [Relational Model](https://en.wikipedia.org/wiki/Relational_model) of Data for Large Shared Data Banks*
