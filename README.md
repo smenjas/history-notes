@@ -1234,6 +1234,7 @@ Few descriptions survive, despite many discoveries.
 - 2007 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released [Clang](https://en.wikipedia.org/wiki/Clang), created by [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released the [Android operating system](https://en.wikipedia.org/wiki/Android_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released the [Chromium web browser](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29), based on [WebKit](https://en.wikipedia.org/wiki/WebKit), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2008 CE: [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) published *Bitcoin: A Peer-to-Peer Electronic Cash System*, describing a [digital currency](https://en.wikipedia.org/wiki/Digital_currency) based on [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - 2009 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Node.js](https://en.wikipedia.org/wiki/Node.js) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 
 ### 2010s
