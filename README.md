@@ -1094,6 +1094,7 @@ Few descriptions survive, despite many discoveries.
 - 1960 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *Evolution of ocean basins*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1960 CE: [Gene Shoemaker](https://en.wikipedia.org/wiki/Eugene_Merle_Shoemaker) published *First Natural Occurrence of Coesite*, proving that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
 - 1960 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) published [*Man-Computer Symbiosis*](https://en.wikipedia.org/wiki/Man-Computer_Symbiosis)
+- 1960 CE: [Eric Lenneberg](https://en.wikipedia.org/wiki/Eric_Lenneberg) published *The Capacity of Language Acquisition*
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Theory of Fundamental Processes*
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Quantum Electrodynamics*
 - 1961 CE: [Robert S. Dietz](https://en.wikipedia.org/wiki/Robert_S._Dietz) published *Continent and Ocean Basin Evolution by Spreading of the Sea Floor*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
@@ -1103,6 +1104,7 @@ Few descriptions survive, despite many discoveries.
 - 1962 CE: [L. R. Ford, Jr.](https://en.wikipedia.org/wiki/L._R._Ford_Jr.) & [D. R. Fulkerson](https://en.wikipedia.org/wiki/D._R._Fulkerson) published *Network Flows and General Matchings*
 - 1962 CE: [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn) published [*The Structure of Scientific Revolutions*](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions), introducing the term ["paradigm shift"](https://en.wikipedia.org/wiki/Paradigm_shift)
 - 1962 CE: [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson) published [*Silent Spring*](https://en.wikipedia.org/wiki/Silent_Spring)
+- 1962 CE: [Eric Lenneberg](https://en.wikipedia.org/wiki/Eric_Lenneberg) published *Understanding Language Without Ability to Speak*
 - 1963 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Louis XIV*, the 8th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1963 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) published a memo addressed to "Members and Affiliates of the [Intergalactic Computer Network](https://en.wikipedia.org/wiki/Intergalactic_Computer_Network)", describing the [Internet](https://en.wikipedia.org/wiki/Internet)
 - 1964 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Feynman Lectures on Physics*
@@ -1117,6 +1119,7 @@ Few descriptions survive, despite many discoveries.
 - 1966 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Theory of Self-Reproducing Automata*
 - 1967 CE: [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) published [*On the origin of mitosing cells*](https://www.sciencedirect.com/science/article/abs/pii/0022519367900793)
 - 1967 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *Rousseau and Revolution*, the 10th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
+- 1967 CE: [Eric Lenneberg](https://en.wikipedia.org/wiki/Eric_Lenneberg) published *Biological Foundations of Language*
 - 1968 CE: The [FCC](https://en.wikipedia.org/wiki/Federal_Communications_Commission) ruled that "any lawful device" can be connected to the [AT&T](https://en.wikipedia.org/wiki/AT&T) network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
 - 1968 CE: [Motoo Kimura](https://en.wikipedia.org/wiki/Motoo_Kimura) published *Evolutionary rate at the molecular level*
 - 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
