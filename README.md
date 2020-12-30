@@ -1193,11 +1193,11 @@ Few descriptions survive, despite many discoveries.
 ### 1990s
 - 1990 CE: CO₂ exceeded 360 ppm
 - 1990 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) et al. published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
-- 1990 CE: [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) released the [Python programming language](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 
 #### World Wide Web
 - 1991 CE: [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) invented the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web), a [hypertext](https://en.wikipedia.org/wiki/Hypertext) [information system](https://en.wikipedia.org/wiki/Information_system) on the [Internet](https://en.wikipedia.org/wiki/Internet)
 - 1991 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 2* (GPLv2)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+- 1991 CE: [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) released the [Python programming language](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 - 1991 CE: Stuart Haber & W. Scott Stornetta published *How to time-stamp a digital document*, describing a cryptographically secured chain of blocks, or [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - 1992 CE: Stuart Haber, W. Scott Stornetta, & [Dave Bayer](https://en.wikipedia.org/wiki/Dave_Bayer) published *Improving the Efficiency and Reliability of Digital Time-Stamping*, incorporating [Merkle trees](https://en.wikipedia.org/wiki/Merkle_tree) into their [blockchain](https://en.wikipedia.org/wiki/Blockchain) protocol
 - 1992 CE: [William](https://en.wikipedia.org/wiki/William_Jolitz) & [Lynne Jolitz](https://en.wikipedia.org/wiki/Lynne_Jolitz) released [386BSD](https://en.wikipedia.org/wiki/386BSD)
