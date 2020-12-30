@@ -593,6 +593,7 @@ Few descriptions survive, despite many discoveries.
 - 1588 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De Mundi Aetherei Recentioribus Phaenomenis Liber Secundus* (*Second Book About Recent Phenomena in the Celestial World*)
 - 1593 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the modern [thermometer](https://en.wikipedia.org/wiki/Thermometer)
 - 1596 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published a new edition of *Thesaurus geographicus* (*Geographic treasure*), and proposed [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
+- 1596 CE: [John Harington](https://en.wikipedia.org/wiki/John_Harington_%28writer%29) published *A New Discourse of a Stale Subject, Called the Metamorphosis of Ajax*, describing an early [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet)
 - 1598 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [military compass](https://en.wikipedia.org/wiki/Sector_%28instrument%29)
 - 1598 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *Astronomiae instauratae mechanica* or *Instruments for the restoration of astronomy*
 - 1599 CE: [Nurhaci](https://en.wikipedia.org/wiki/Nurhaci) adapted [Mongolian script](https://en.wikipedia.org/wiki/Mongolian_script) into the [Manchu alphabet](https://en.wikipedia.org/wiki/Manchu_alphabet)
