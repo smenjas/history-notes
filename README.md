@@ -64,7 +64,7 @@ Few descriptions survive, despite many discoveries.
 - [1500s](#1500s)
 - [1600s](#1600s):
   [Cell Biology](#cell-biology), [Calculus](#calculus), [Principia](#principia)
-- [1700s](#1700s): [Metal Lathe](#metal-lathe), [Flush Toilet](#toilet)
+- [1700s](#1700s): [Metal Lathe](#metal-lathe), [Flush Toilet](#flush-toilet)
 - [1800s](#1800s)
   - [1810s](#1810s)
   - [1820s](#1820s)
@@ -839,6 +839,7 @@ Few descriptions survive, despite many discoveries.
 - 1851 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published [*Paradoxien des Unendlichen* (*The Paradoxes of the Infinite*)](https://en.wikipedia.org/wiki/The_Paradoxes_of_the_Infinite)
 - 1851 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the dynamical theory of heat; with numerical results deduced from Mr. Joule's equivalent of a thermal unit and M. Regnault's observations on steam*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
 - 1852 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published *Cassandra*, an influential work on [feminism](https://en.wikipedia.org/wiki/Feminism)
+- 1852 CE: [George Jennings](https://en.wikipedia.org/wiki/George_Jennings) patented improvements to the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet), including a one-piece pan and [trap](https://en.wikipedia.org/wiki/Trap_%28plumbing%29)
 - 1853 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published a theory of how colors mix, still taught as [Grassmann's law](https://en.wikipedia.org/wiki/Grassmann%27s_laws_%28color_science%29)
 - 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought), founding [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 - 1854 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Zur Theorie der Abelschen Funktionen* (*The theory of Abelian functions*)
