@@ -64,7 +64,7 @@ Few descriptions survive, despite many discoveries.
 - [1500s](#1500s)
 - [1600s](#1600s):
   [Cell Biology](#cell-biology), [Calculus](#calculus), [Principia](#principia)
-- [1700s](#1700s): [Metal Lathe](#metal-lathe)
+- [1700s](#1700s): [Metal Lathe](#metal-lathe), [Flush Toilet](#toilet)
 - [1800s](#1800s)
   - [1810s](#1810s)
   - [1820s](#1820s)
@@ -715,9 +715,12 @@ Few descriptions survive, despite many discoveries.
 - 1769 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) accurately calculated the distance from the Earth to the Sun to be 93 million miles, based on observing the [transit of Venus](https://en.wikipedia.org/wiki/Transit_of_Venus)
 - 1770 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutionum calculi integralis*](https://en.wikipedia.org/wiki/Institutionum_calculi_integralis)
 - 1770 CE: [Alexander Cumming](https://en.wikipedia.org/wiki/Alexander_Cumming) invented the [microtome](https://en.wikipedia.org/wiki/Microtome), and [John Hill](https://en.wikipedia.org/wiki/John_Hill_%28botanist%29) published *The Construction of Timber from its Early Growth* describing the device, which cuts thin slices of material for microscopy
+
+### Flush Toilet
 - 1775 CE: [Alexander Cumming](https://en.wikipedia.org/wiki/Alexander_Cumming) patented improvements to the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet), including the [S-bend](https://en.wikipedia.org/wiki/Trap_%28plumbing%29) to prevent odor, and a mechanism to flush and refill with one handle
 - 1776 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*Wealth of Nations*](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
 - 1776 CE: [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine) published [*Common Sense*](https://en.wikipedia.org/wiki/Common_Sense), advocating independence from Britain
+- 1778 CE: [Joseph Bramah](https://en.wikipedia.org/wiki/Joseph_Bramah) patented improvements to the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet), including a hinged flap to prevent water from freezing, and a float valve system for the flush tank
 - 1781 CE: [Charles Messier](https://en.wikipedia.org/wiki/Charles_Messier) published his *Catalogue des Nébuleuses & des amas d'Étoiles* (*Catalog of Nebulae & Star Clusters*), an [astronomical catalog](https://en.wikipedia.org/wiki/Astronomical_catalog) of what we now call the [Messier objects](https://en.wikipedia.org/wiki/Messier_object)
 - 1785 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) invented the first man-made [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1785 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published *A System of Vegetables*
