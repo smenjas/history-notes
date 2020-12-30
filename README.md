@@ -904,6 +904,7 @@ Few descriptions survive, despite many discoveries.
 - 1879 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (*concept-script*)
 
 ### 1880s
+- 1880 CE: [Thomas Crapper](https://en.wikipedia.org/wiki/Thomas_Crapper) invented the [U-bend](https://en.wikipedia.org/wiki/Trap_%28plumbing%29) which does not jam, unlike the S-bend, improving the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet)
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra) with One Constant*
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Logic of Number*, describing [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A Theory of Probable Inference*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
