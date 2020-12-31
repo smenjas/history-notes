@@ -1131,6 +1131,7 @@ Few descriptions survive, despite many discoveries.
 - 1967 CE: [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) published [*On the origin of mitosing cells*](https://www.sciencedirect.com/science/article/abs/pii/0022519367900793)
 - 1967 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *Rousseau and Revolution*, the 10th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1967 CE: [Eric Lenneberg](https://en.wikipedia.org/wiki/Eric_Lenneberg) published *Biological Foundations of Language*
+- 1967 CE: [Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) published [*How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension*](https://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension), describing what he coined [fractals](https://en.wikipedia.org/wiki/Fractal) in 1975
 - 1968 CE: The [FCC](https://en.wikipedia.org/wiki/Federal_Communications_Commission) ruled that "any lawful device" can be connected to the [AT&T](https://en.wikipedia.org/wiki/AT&T) network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
 - 1968 CE: [Motoo Kimura](https://en.wikipedia.org/wiki/Motoo_Kimura) published *Evolutionary rate at the molecular level*
 - 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
@@ -1170,6 +1171,7 @@ Few descriptions survive, despite many discoveries.
 - 1976 CE: [Whitfield Diffie](https://en.wikipedia.org/wiki/Whitfield_Diffie) & [Martin Hellman](https://en.wikipedia.org/wiki/Martin_Hellman) published *New Directions in Cryptography*, describing [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), one of the first [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) protocols
 - 1977 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*
 - 1977 CE: [Stephen Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) published *Some issues relating to the monitor model*, proposing the [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
+- 1977 CE: [Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) published *[Fractals](https://en.wikipedia.org/wiki/Fractal): Form, Chance and Dimension*
 - 1978 CE: [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - 1978 CE: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) released the [BSD operating system](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), including [ex](https://en.wikipedia.org/wiki/Ex_%28text_editor%29) and thus [vi](https://en.wikipedia.org/wiki/Vi)
 - 1978 CE: [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) published *Secure Communications Over Insecure Channels*, describing [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
@@ -1178,6 +1180,7 @@ Few descriptions survive, despite many discoveries.
 ### 1980s
 - 1982 CE: [David Chaum](https://en.wikipedia.org/wiki/David_Chaum) published *Computer Systems Established, Maintained, and Trusted by Mutually Suspicious Groups*, proposing cryptographically linked record keeping, a.k.a. [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - 1982 CE: [Stephen Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) published *Principles and practice in second language acquisition*, developing the [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
+- 1982 CE: [Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) published [*The Fractal Geometry of Nature*](https://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature)
 - 1984 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Macintosh](https://en.wikipedia.org/wiki/Macintosh)
 - 1984 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The TeXbook*
 - 1985 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *QED: The Strange Theory of Light and Matter*
