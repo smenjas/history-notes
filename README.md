@@ -1231,6 +1231,7 @@ Few descriptions survive, despite many discoveries.
 - 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published the [KHTML web browser](https://en.wikipedia.org/wiki/KHTML), the predecessor to [WebKit](https://en.wikipedia.org/wiki/WebKit) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2000 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) et al. published *Long-range Air Transport of Dioxin from North American Sources to Ecologically Vulnerable Receptors in Nunavut, Arctic Canada*
 - 2000 CE: [D. Richard Hipp](https://en.wikipedia.org/wiki/D._Richard_Hipp) released the [SQLite](https://en.wikipedia.org/wiki/SQLite) [relational database](https://en.wikipedia.org/wiki/Relational_database), based on [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), into the [public domain](https://en.wikipedia.org/wiki/Public_domain)
+- 2000 CE: [Jesse James Garrett](https://en.wikipedia.org/wiki/Jesse_James_Garrett) published *The Elements of [User Experience](https://en.wikipedia.org/wiki/User_experience)*
 - 2001 CE: [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) & [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) released [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 - 2001 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Earth](https://en.wikipedia.org/wiki/Google_Earth)
 - 2001 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) posthumously published [*Heroes of History*](https://en.wikipedia.org/wiki/Heroes_of_History)
@@ -1245,6 +1246,7 @@ Few descriptions survive, despite many discoveries.
 - 2005 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)
 - 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) published the [WebKit web browser](https://en.wikipedia.org/wiki/WebKit) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2005 CE: [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson) published [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2005 CE: [Jesse James Garrett](https://en.wikipedia.org/wiki/Jesse_James_Garrett) published *[Ajax](https://en.wikipedia.org/wiki/Ajax_%28programming%29): A New Approach to Web Applications*
 - 2006 CE: [Apple switched from PowerPC chips to Intel x86](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
 - 2006 CE: CO₂ exceeded 380 ppm
 - 2006 CE: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) published the [Java Virtual Machine (JVM)](https://en.wikipedia.org/wiki/Java_virtual_machine) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
