@@ -1235,6 +1235,7 @@ Few descriptions survive, despite many discoveries.
 - 2001 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Earth](https://en.wikipedia.org/wiki/Google_Earth)
 - 2001 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) posthumously published [*Heroes of History*](https://en.wikipedia.org/wiki/Heroes_of_History)
 - 2001 CE: The [Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikimedia_Foundation) published [MediaWiki](https://en.wikipedia.org/wiki/MediaWiki) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+- 2002 CE: [Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford) specified [JSON](https://en.wikipedia.org/wiki/JSON), an open standard data interchange format
 - 2003 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Fedora operating system](https://en.wikipedia.org/wiki/Fedora_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2003 CE: [Vikram Adve](https://en.wikipedia.org/wiki/Vikram_Adve), [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), and others released [LLVM](https://en.wikipedia.org/wiki/LLVM) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2004 CE: [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth) released the [Ubuntu operating system](https://en.wikipedia.org/wiki/Mark_Shuttleworth) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
