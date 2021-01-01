@@ -1152,7 +1152,7 @@ Few descriptions survive, despite many discoveries.
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the B programming language](https://en.wikipedia.org/wiki/B_%28programming_language%29)
 - 1969 CE: [Willard Boyle](https://en.wikipedia.org/wiki/Willard_Boyle) & [George E. Smith](https://en.wikipedia.org/wiki/George_E._Smith) invented the [charge-coupled device (CCD)](https://en.wikipedia.org/wiki/Charge-coupled_device)
 - 1969 CE: [James H. Ellis](https://en.wikipedia.org/wiki/James_H._Ellis), [Clifford Cocks](https://en.wikipedia.org/wiki/Clifford_Cocks), and [Malcolm J. Williamson](https://en.wikipedia.org/wiki/Malcolm_J._Williamson) of [GCHQ](https://en.wikipedia.org/wiki/GCHQ) published *The Possibility of Secure Non-Secret Digital Encryption*, proposing public-key [cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
-- 1969 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) Edward Mosher, & Raymond Lorie developed [Generalized Markup Language (GML)](https://en.wikipedia.org/wiki/IBM_Generalized_Markup_Language), the first markup language
+- 1969 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb), Edward Mosher, & Raymond Lorie developed [Generalized Markup Language (GML)](https://en.wikipedia.org/wiki/IBM_Generalized_Markup_Language), the first markup language
 
 ### 1970s
 - 1970 CE: [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) published *A [Relational Model](https://en.wikipedia.org/wiki/Relational_model) of Data for Large Shared Data Banks*
@@ -1183,6 +1183,7 @@ Few descriptions survive, despite many discoveries.
 - 1979 CE: [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) patented his [*Method of providing digital signatures*](https://patents.google.com/patent/US4309569), a.k.a. a hash tree or [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
 
 ### 1980s
+- 1981 CE: [Brian Reid](https://en.wikipedia.org/wiki/Brian_Reid_%28computer_scientist%29) presented *[Scribe](https://en.wikipedia.org/wiki/Scribe_%28markup_language%29): A Document Specification Language and its Compiler* at the Conference on Research and Trends in Document Preparation Systems at Lausanne, Switzerland, where [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) presented [Generalized Markup Language (GML)](https://en.wikipedia.org/wiki/IBM_Generalized_Markup_Language)
 - 1982 CE: [David Chaum](https://en.wikipedia.org/wiki/David_Chaum) published *Computer Systems Established, Maintained, and Trusted by Mutually Suspicious Groups*, proposing cryptographically linked record keeping, a.k.a. [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - 1982 CE: [Stephen Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) published *Principles and practice in second language acquisition*, developing the [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
 - 1982 CE: [Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) published [*The Fractal Geometry of Nature*](https://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature)
@@ -1192,6 +1193,7 @@ Few descriptions survive, despite many discoveries.
 - 1986 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The METAFONTbook*
 - 1986 CE: [Leslie Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport) published *The Definitive, Non-Technical Introduction to [LaTeX](https://en.wikipedia.org/wiki/LaTeX), Professional Typesetting and Scientific Publishing*
 - 1986 CE: [K. Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler) published [*Engines of Creation*](https://en.wikipedia.org/wiki/Engines_of_Creation), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
+- 1986 CE: [Standard Generalized Markup Language (SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) became [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) standard 8879
 - 1987 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Elementary Particles and the Laws of Physics*
 - 1987 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU C Compiler*](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1987 CE: [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) released the [Perl programming language](https://en.wikipedia.org/wiki/Perl)
@@ -1201,7 +1203,7 @@ Few descriptions survive, despite many discoveries.
 ### 1990s
 - 1990 CE: CO₂ exceeded 360 ppm
 - 1990 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) et al. published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
-- 1990 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) published *The [SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) Handbook*
+- 1990 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) published *The [SGML](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) Handbook*
 
 #### World Wide Web
 - 1991 CE: [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) invented the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web), a [hypertext](https://en.wikipedia.org/wiki/Hypertext) [information system](https://en.wikipedia.org/wiki/Information_system) on the [Internet](https://en.wikipedia.org/wiki/Internet)
