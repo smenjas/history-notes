@@ -1152,6 +1152,7 @@ Few descriptions survive, despite many discoveries.
 - 1969 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the B programming language](https://en.wikipedia.org/wiki/B_%28programming_language%29)
 - 1969 CE: [Willard Boyle](https://en.wikipedia.org/wiki/Willard_Boyle) & [George E. Smith](https://en.wikipedia.org/wiki/George_E._Smith) invented the [charge-coupled device (CCD)](https://en.wikipedia.org/wiki/Charge-coupled_device)
 - 1969 CE: [James H. Ellis](https://en.wikipedia.org/wiki/James_H._Ellis), [Clifford Cocks](https://en.wikipedia.org/wiki/Clifford_Cocks), and [Malcolm J. Williamson](https://en.wikipedia.org/wiki/Malcolm_J._Williamson) of [GCHQ](https://en.wikipedia.org/wiki/GCHQ) published *The Possibility of Secure Non-Secret Digital Encryption*, proposing public-key [cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
+- 1969 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) Edward Mosher, & Raymond Lorie developed [Generalized Markup Language (GML)](https://en.wikipedia.org/wiki/IBM_Generalized_Markup_Language), the first markup language
 
 ### 1970s
 - 1970 CE: [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) published *A [Relational Model](https://en.wikipedia.org/wiki/Relational_model) of Data for Large Shared Data Banks*
@@ -1167,6 +1168,7 @@ Few descriptions survive, despite many discoveries.
 - 1974 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published *The UNIX time-sharing system*
 - 1974 CE: [Nasir Ahmed](https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29), T. Natarajan & [K. R. Rao](https://en.wikipedia.org/wiki/K._R._Rao) published [*Discrete Cosine Transform*](https://en.wikipedia.org/wiki/Discrete_cosine_transform), a working [image compression](https://en.wikipedia.org/wiki/Image_compression) algorithm
 - 1974 CE: [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf), [Yogen Dalal](https://en.wikipedia.org/wiki/List_of_Internet_pioneers#Yogen_Dalal) & Carl Sunshine published [RFC 675](https://tools.ietf.org/html/rfc675), specifying [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+- 1974 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) developed [Standard Generalized Markup Language (SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language), the forerunner of [HTML](https://en.wikipedia.org/wiki/HTML)
 - 1975 CE: [Endre Szemerédi](https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di) published *On sets of integers containing no k elements in arithmetic progression*
 - 1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Napoleon*, the 11th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1975 CE: [Steven Sasson](https://en.wikipedia.org/wiki/Steven_Sasson) invented the first self-contained digital camera
@@ -1199,6 +1201,7 @@ Few descriptions survive, despite many discoveries.
 ### 1990s
 - 1990 CE: CO₂ exceeded 360 ppm
 - 1990 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) et al. published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
+- 1990 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) published *The [SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) Handbook*
 
 #### World Wide Web
 - 1991 CE: [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) invented the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web), a [hypertext](https://en.wikipedia.org/wiki/Hypertext) [information system](https://en.wikipedia.org/wiki/Information_system) on the [Internet](https://en.wikipedia.org/wiki/Internet)
