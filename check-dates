@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+
+# Check that dates are in chronological order.
+#
+# Input:
+# - a Markdown (*.md) file, that contains a chronology in list format
+# - a line matches if it has these characters, in order:
+#   - a hyphen (-)
+#   - a space ( )
+#   - some digits, possibly with a decimal point (e.g.: 1984)
+#   - a suffix, e.g.: bya, mya, kya, BCE, CE
+#   - a colon (:)
+#
+# Copyright 2020 Benjamin Thornton.  Released as open source software under the
+# ISC License: https://github.com/smenjas/history-notes/blob/master/LICENSE
+
+# Which file do we want to check?
+target="README.md"
+
+# Where shall we store our temporary files?
+tmp_dir="tmp"
+if [ ! -d "$tmp_dir" ]; then
+    mkdir "$tmp_dir"
+fi
+
+# Extract a list of dates to analyze.
+dates_path="$tmp_dir/dates.txt"
+#if [ ! -e "$dates_path" ]; then # Uncomment to cache output.
+    echo "Writing all dates to: $dates_path"
+    # Search for the pattern described above, cut the date and suffix,
+    # remove the trailing colon, and write the output to a file.
+    egrep -o '^- [0-9\.,]+ [A-Za-z]+:' "$target" \
+        | cut -d ' ' -f 2,3 \
+        | sed 's/:$//' \
+        > "$dates_path"
+#fi # Uncomment to cache output.
+
+# Which suffixes are these dates using?
+suffixes=$(cat tmp/dates.txt | cut -d ' ' -f 2 | uniq)
+for suffix in $suffixes; do
+    suffix_path="${tmp_dir}/${suffix}.txt"
+    #if [ ! -e "$dates_path" ]; then # Uncomment to cache output.
+        echo "Writing dates ending in $suffix to: $suffix_path"
+        grep "$suffix" "$dates_path" > "$suffix_path"
+    #fi # Uncomment to cache output.
+    head -n 3 "$suffix_path"
+    tail -n 3 "$suffix_path"
+done
+
