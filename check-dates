@@ -7,7 +7,7 @@
 # - a line matches if it has these characters, in order:
 #   - a hyphen (-)
 #   - a space ( )
-#   - some digits, possibly with a decimal point (e.g.: 1984)
+#   - some digits, possibly with a decimal point, e.g.: 13.8, 1984
 #   - a suffix, e.g.: bya, mya, kya, BCE, CE
 #   - a colon (:)
 #
@@ -41,9 +41,13 @@ for suffix in $suffixes; do
     suffix_path="${tmp_dir}/${suffix}.txt"
     #if [ ! -e "$dates_path" ]; then # Uncomment to cache output.
         echo "Writing dates ending in $suffix to: $suffix_path"
-        grep "$suffix" "$dates_path" > "$suffix_path"
+        grep -w "$suffix" "$dates_path" > "$suffix_path"
     #fi # Uncomment to cache output.
-    head -n 3 "$suffix_path"
-    tail -n 3 "$suffix_path"
+    # TODO: Sort and compare.
+    echo -n "$suffix_path 1: "
+    head -n 1 "$suffix_path"
+    num_lines=$(cat "$suffix_path" | wc -l | xargs)
+    echo -n "$suffix_path $num_lines: "
+    tail -n 1 "$suffix_path"
 done
 
