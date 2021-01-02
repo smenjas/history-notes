@@ -893,6 +893,7 @@ Few descriptions survive, despite many discoveries.
 - 1871 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Introductory Notes on Lying-In Institutions*](https://archive.org/stream/introductorynot00nighgoog#page/n6/mode/2up)
 - 1871 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published his [thermodynamic relations](https://en.wikipedia.org/wiki/Maxwell_relations)
 - 1871 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Descent of Man, and Selection in Relation to Sex*](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex)
+- 1871 CE: [Friedrich Miescher](https://en.wikipedia.org/wiki/Friedrich_Miescher) published *Ueber die chemische Zusammensetzung der Eiterzellen* (*On the chemical composition of pus cells*), describing [nucleic acids](https://en.wikipedia.org/wiki/Nucleic_acid)
 - 1872 CE: The [Ballot Act 1872](https://en.wikipedia.org/wiki/Ballot_Act_1872) required [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot) for [UK parliamentary and local government elections](https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom)
 - 1872 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On the Theory of Colour Vision*
 - 1873 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Treatise on Electricity and Magnetism*](https://en.wikipedia.org/wiki/A_Treatise_on_Electricity_and_Magnetism)
