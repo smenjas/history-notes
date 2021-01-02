@@ -94,8 +94,8 @@ Few descriptions survive, despite many discoveries.
 
 ## The Big Bang
 - 13.80 bya: The [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) occurred, and 370,000 years later produced the [cosmic microwave background radiation (CMBR)](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
-- 13.5 bya: The [first stars](https://en.wikipedia.org/wiki/Reionization) formed
 - 13.51 bya: The [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
+- 13.4 bya: The [first stars](https://en.wikipedia.org/wiki/Reionization) formed
 
 ## < 10 Billion Years Ago
 - 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/)
