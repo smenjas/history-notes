@@ -33,21 +33,49 @@ dates_path="$tmp_dir/dates.txt"
         | cut -d ' ' -f 2,3 \
         | sed 's/:$//' \
         > "$dates_path"
-#fi # Uncomment to cache output.
+#fi
 
 # Which suffixes are these dates using?
 suffixes=$(cat tmp/dates.txt | cut -d ' ' -f 2 | uniq)
+echo "Found these suffixes:"
+echo "$suffixes"
+echo
+
 for suffix in $suffixes; do
+    # Split up the list according to suffix.
     suffix_path="${tmp_dir}/${suffix}.txt"
-    #if [ ! -e "$dates_path" ]; then # Uncomment to cache output.
-        echo "Writing dates ending in $suffix to: $suffix_path"
+    #if [ ! -e "$suffix_path" ]; then # Uncomment to cache output.
+        echo "Copying dates ending in $suffix to: $suffix_path"
         grep -w "$suffix" "$dates_path" > "$suffix_path"
-    #fi # Uncomment to cache output.
-    # TODO: Sort and compare.
-    echo -n "$suffix_path 1: "
-    head -n 1 "$suffix_path"
+    #fi
+
+    # Display the first and last date for this suffix, for context.
+    first=$(head -n 1 "$suffix_path")
+    last=$(tail -n 1 "$suffix_path")
     num_lines=$(cat "$suffix_path" | wc -l | xargs)
-    echo -n "$suffix_path $num_lines: "
-    tail -n 1 "$suffix_path"
+    echo "$suffix_path 1: $first"
+    echo "$suffix_path $num_lines: $last"
+
+    # Sort the list, and save both for comparison.
+    sorted_path="${tmp_dir}/${suffix}-sorted.txt"
+    #if [ ! -e "$sorted_path" ]; then # Uncomment to cache output.
+        echo "Sorting dates ending in $suffix to: $sorted_path"
+        first_num=$(echo "$first" | cut -d ' ' -f 1)
+        last_num=$(echo "$last" | cut -d ' ' -f 1)
+        if (( $(echo "$first_num < $last_num" | bc -l) )); then
+            echo "$first_num < $last_num"
+            reverse=""
+        else
+            echo "$first_num > $last_num: Sorting in reverse"
+            reverse="r"
+        fi
+        sort -n$reverse "$suffix_path" > "$sorted_path"
+    #fi
+
+    # Compare the original list with the sorted list.
+    echo -n "diff $suffix_path $sorted_path | wc -l: "
+    diff "$suffix_path" "$sorted_path" | wc -l | xargs
+    diff "$suffix_path" "$sorted_path" | head
+    echo
 done
 
