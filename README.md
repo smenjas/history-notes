@@ -822,6 +822,7 @@ Few descriptions survive, despite many discoveries.
 - 1843 CE: [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) published [*Sketch of The Analytical Engine, with notes upon the Memoir by the Translator*](http://www.fourmilab.ch/babbage/sketch.html), translating [Luigi Menabrea](https://en.wikipedia.org/wiki/Luigi_Federico_Menabrea)'s description of [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage)'s [Analytical Engine](https://en.wikipedia.org/wiki/Analytical_Engine) and adding copious detailed notes, including the first [computer algorithm](https://en.wikipedia.org/wiki/Algorithm)
 - 1844 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published *Die Lineale Ausdehnungslehre* (*The Theory of Linear Extension*), introducing [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 - 1845 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published [*Kosmos – Entwurf einer physischen Weltbeschreibung* (*Cosmos: A Sketch of a Physical Description of the Universe*)](https://en.wikipedia.org/wiki/Cosmos_%28Humboldt%29), volume 1
+- 1846 CE: Julius Bodo Unger published *Das Guanin und seine Verbindungen* (*[Guanine](https://en.wikipedia.org/wiki/Guanine) and its compounds*)
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 
@@ -906,6 +907,7 @@ Few descriptions survive, despite many discoveries.
 #### Statistics
 - 1878 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Illustrations of the Logic of Science*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
 - 1878 CE: [Eadweard Muybridge](https://en.wikipedia.org/wiki/Eadweard_Muybridge) photographed [*The Horse in Motion*](https://en.wikipedia.org/wiki/The_Horse_in_Motion), the first real-time motion picture sequence
+- 1878 CE: [Albrecht Kossel](https://en.wikipedia.org/wiki/Albrecht_Kossel) & Albert Neumann published *Ueber das Thymin, ein Spaltungsproduct der Nucleïnsäure* (*On [thymine](https://en.wikipedia.org/wiki/Thymine), a cleavage product of [nucleic acid](https://en.wikipedia.org/wiki/Nucleic_acid)*)
 - 1879 CE: [Emile Berliner](https://en.wikipedia.org/wiki/Emile_Berliner) patented an *Improvement in electrical-contact telephones*, the carbon microphone
 - 1879 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (*concept-script*)
 
@@ -924,6 +926,7 @@ Few descriptions survive, despite many discoveries.
 - 1884 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) & [Joseph Jastrow](https://en.wikipedia.org/wiki/Joseph_Jastrow) published *On Small Differences in Sensation*, introducing [blinded](https://en.wikipedia.org/wiki/Blinded_experiment), [randomized controlled experiments](https://en.wikipedia.org/wiki/Randomized_controlled_trial) with [repeated measures design](https://en.wikipedia.org/wiki/Repeated_measures_design)
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Algebra of Logic: A Contribution to the Philosophy of Notation*
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) wrote a letter to [Allan Marquand](https://en.wikipedia.org/wiki/Allan_Marquand) describing how Boolean calculations could be carried via electrical switches
+- 1885 CE: [Albrecht Kossel](https://en.wikipedia.org/wiki/Albrecht_Kossel) published *Ueber eine neue Base aus dem Thierkörper* (*On a new base from the animal body*), describing [adenine](https://en.wikipedia.org/wiki/Adenine)
 - 1886 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Traitement de la Rage* (*Treatment of Rabies*)
 
 #### Telephone
@@ -938,6 +941,7 @@ Few descriptions survive, despite many discoveries.
 - 1894 CE: [Heinrich Hertz](https://en.wikipedia.org/wiki/Heinrich_Hertz) published *The Principles of Mechanics Presented in a New Form*
 - 1894 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-1* (*Treatises-1*)
 - 1894 CE: [William Bateson](https://en.wikipedia.org/wiki/William_Bateson) published *Materials for the Study of Variation*, describing [homeotic mutations](https://en.wikipedia.org/wiki/Homeosis), in which an expected body-part has been replaced by another
+- 1894 CE: [Albrecht Kossel](https://en.wikipedia.org/wiki/Albrecht_Kossel) & Albert Neumann published *Darstellung und Spaltungsprodukte der Nucleïnsäure (Adenylsäure)* (*Preparation and cleavage products of [nucleic acids](https://en.wikipedia.org/wiki/Nucleic_acid) (adenic acid)*), describing [cytosine](https://en.wikipedia.org/wiki/Cytosine)
 - 1895 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-2* (*Treatises-2*)
 - 1895 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 1* (*Contributions to the foundation of the transfinite set theory 1*)
 
@@ -955,6 +959,7 @@ Few descriptions survive, despite many discoveries.
 ## 1900s
 - 1900 CE: [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) published *Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum* (*On the Theory of the Energy Distribution Law of the Normal Spectrum*), originating [quantum theory](https://en.wikipedia.org/wiki/Quantum_mechanics)
 - 1900 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Folgerungen aus den Capillaritätserscheinungen* (*Conclusions Drawn from the Phenomena of Capillarity*)
+- 1900 CE: [Alberto Ascoli](https://en.wikipedia.org/wiki/Alberto_Ascoli) published *Ueber ein neues Spaltungsprodukt des Hefenucleins* (*On a new cleavage product of [nucleic acid](https://en.wikipedia.org/wiki/Nucleic_acid) from yeast*), describing [uracil](https://en.wikipedia.org/wiki/Uracil)
 - 1901 CE: [Carl Edvard Johansson](https://en.wikipedia.org/wiki/Carl_Edvard_Johansson) patented *Gauge Block Sets for Precision Measurement*, a.k.a. ["Jo blocks"](https://en.wikipedia.org/wiki/Gauge_block), allowing precise measurements and standardizing the inch to 25.4 mm
 - 1902 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Transcendenten* (*Theory of Abelian Transcendents*)
 - 1903 CE: [Konstantin Tsіolkovskіy](https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky) published *Exploration of Outer Space with Reaction Devices*, describing his [rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
