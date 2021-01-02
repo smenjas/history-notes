@@ -125,8 +125,8 @@ Few descriptions survive, despite many discoveries.
 - ? bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
 
 ### Mitochondria
-- 2.1-1.7 bya: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), becoming the first eukaryote via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
-- 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things")
+- 2.1-1.7 bya: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
+- 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things"), possibly evolving the [nuclear envelope](https://en.wikipedia.org/wiki/Nuclear_envelope) to protect the genome from [reactive oxygen species (ROS)](https://en.wikipedia.org/wiki/Reactive_oxygen_species) produced by the cells' pre-mitochondria
 - 2.023 bya: An asteroid impacted Earth, creating the [Vredefort crater](https://en.wikipedia.org/wiki/Vredefort_crater) which is 160 km in diameter
 - 1.9-1.0 bya: The supercontinent [Atlantica](https://en.wikipedia.org/wiki/Arctica) existed
 - 1.85 bya: O₂ reached 0.03 atm, but most was aborbed into oceans and seabed rock
