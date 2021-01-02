@@ -1160,6 +1160,7 @@ Few descriptions survive, despite many discoveries.
 - 1970 CE: [Wayne R. Moore](https://en.wikipedia.org/wiki/Wayne_Moore_%28swimmer%29) published *Foundations of Mechanical Accuracy*
 - 1971 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published the [*UNIX Programmer's Manual*](https://en.wikipedia.org/wiki/Man_page)
 - 1971 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) published *The Closing Circle*
+- 1971 CE: [Kjell Kleppe](https://en.wikipedia.org/wiki/Kjell_Kleppe) et al. published *Studies on polynucleotides. XCVI. Repair replications of short synthetic DNA's as catalyzed by DNA polymerases*, describing [polymerase chain reaction (PCR)](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)
 - 1972 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Statistical Mechanics*
 - 1972 CE: [Nasir Ahmed](https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29) proposed using [discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) for [image compression](https://en.wikipedia.org/wiki/Image_compression)
 - 1972 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the C programming language](https://en.wikipedia.org/wiki/C_%28programming_language%29)
@@ -1190,6 +1191,7 @@ Few descriptions survive, despite many discoveries.
 - 1984 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Macintosh](https://en.wikipedia.org/wiki/Macintosh)
 - 1984 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The TeXbook*
 - 1985 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *QED: The Strange Theory of Light and Matter*
+- 1985 CE: [Kary Mullis](https://en.wikipedia.org/wiki/Kary_Mullis), Randall Saiki, & Henry Erlich published *Enzymatic Amplification of β-globin Genomic Sequences and Restriction Site Analysis for Diagnosis of Sickle Cell Anemia*, describing [polymerase chain reaction (PCR)](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)
 - 1986 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The METAFONTbook*
 - 1986 CE: [Leslie Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport) published *The Definitive, Non-Technical Introduction to [LaTeX](https://en.wikipedia.org/wiki/LaTeX), Professional Typesetting and Scientific Publishing*
 - 1986 CE: [K. Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler) published [*Engines of Creation*](https://en.wikipedia.org/wiki/Engines_of_Creation), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
