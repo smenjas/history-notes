@@ -94,8 +94,8 @@ Few descriptions survive, despite many discoveries.
 
 ## The Big Bang
 - 13.80 bya: The [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) occurred, and 370,000 years later produced the [cosmic microwave background radiation (CMBR)](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
-- 13.51 bya: The [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
-- 13.4 bya: The [first stars](https://en.wikipedia.org/wiki/Reionization) formed
+- 13.53 bya: The [first stars](https://en.wikipedia.org/wiki/Reionization) formed
+- 13.2 bya: The [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
 
 ## < 10 Billion Years Ago
 - 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/)
@@ -982,7 +982,12 @@ Few descriptions survive, despite many discoveries.
 #### Assembly Line
 - 1908 CE: [Ford Motor Company](https://en.wikipedia.org/wiki/Ford_Motor_Company) first sold the [Model T automobile](https://en.wikipedia.org/wiki/Ford_Model_T), horses greatly outnumbered them
 - 1908 CE: [Georgy Voronoy](https://en.wikipedia.org/wiki/Georgy_Voronoy) published *Nouvelles applications des paramètres continus à la théorie de formes quadratiques* (*New applications of continuous parameters to the theory of quadratic forms*), formally defining [Voronoi diagrams](https://en.wikipedia.org/wiki/Voronoi_diagram)
+- 1908 CE: [Phoebus Levene](https://en.wikipedia.org/wiki/Phoebus_Levene) & J. A. Mandel published *Über die konstitution der thymo-nucleinsäure*, describing the components of [DNA](https://en.wikipedia.org/wiki/DNA)
 - 1909 CE: [E. M. Forster](https://en.wikipedia.org/wiki/E._M._Forster) published [*The Machine Stops*](https://en.wikipedia.org/wiki/The_Machine_Stops)
+- 1909 CE: [Phoebus Levene](https://en.wikipedia.org/wiki/Phoebus_Levene) & [Walter Abraham Jacobs](https://en.wikipedia.org/wiki/Walter_Abraham_Jacobs) published papers describing the components of [RNA](https://en.wikipedia.org/wiki/RNA):
+  - *Über Inosinsäure* (*On inosic acid*)
+  - *Über die Pentose in den Nucleinsäuren* (*On the pentose in the nucleic acids*)
+  - *Über die Hefe-Nucleinsäure* (*On the yeast nucleic acid*)
 
 ### 1910s
 - 1910 CE: [Konstantin Mereschkowski](https://en.wikipedia.org/wiki/Konstantin_Mereschkowski) published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms*
