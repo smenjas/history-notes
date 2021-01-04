@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+if [ ! "$(which write-good)" ]; then
+    npm install -g write-good
+fi
+
+write-good --no-tooWordy --no-adverb *.md | less
+
