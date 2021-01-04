@@ -14,21 +14,21 @@ varies](https://en.wikipedia.org/wiki/Past_sea_level) with temperature.
 
 In [the Holocene epoch](https://en.wikipedia.org/wiki/Holocene), temperature
 has varied < ±2 °C, CO₂ has steadily increased from about 260 ppm, and dust
-levels have stayed below 0.1 ppm.  Dust levels only exceed 0.4 ppm when the
-global average temperature drops more than 6 °C below the Holocene average,
-during major [glaciations](https://en.wikipedia.org/wiki/Glacial_period).  The
-air becomes cold and dry.
+levels have stayed below 0.1 ppm.  Dust levels exceed 0.4 ppm when the global
+average temperature drops more than 6 °C below the Holocene average, during
+major [glaciations](https://en.wikipedia.org/wiki/Glacial_period).  The air
+becomes cold and dry.
 
 Once history begins, I've focused on reproducible ideas in publications,
 patents, and
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
-I'm particularly interested in alphabets, number systems, printing, and the
-written word, especially accessible explanations. My goal is a [universal
+I'm interested in alphabets, number systems, printing, the written word, and
+accessible explanations. My goal is a [universal
 history](https://en.wikipedia.org/wiki/Universal_history).
 
-We need both discovery and communication to [stand on the shoulders of
+Discoveries can be fleeting, but meaningful descriptions let us [stand on the
+shoulders of
 giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
-Few descriptions survive, despite many discoveries.
 
 ---
 
@@ -112,13 +112,13 @@ Few descriptions survive, despite many discoveries.
 - 3.6-2.7 bya: The supercontinent [Vaalbara](https://en.wikipedia.org/wiki/Vaalbara) existed
 - 3.5 bya: Earliest oxygen production in shallow oceans, absorbed by the sea and sea bed
 - 3.5 bya: [Single celled life](https://en.wikipedia.org/wiki/Unicellular_organism) existed
-- ? bya: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis) among other things, existed
+- ? bya: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis), existed
 - ? bya: The [cell nucleus](https://en.wikipedia.org/wiki/Cell_nucleus) (present in archaea & eukaryotes, but not eubacteria) existed
 - 2.8-2.4 bya: The supercontinent [Ur](https://en.wikipedia.org/wiki/Ur_%continent%29) existed
 - 2.7-2.5 bya: The supercontinent [Kenorland](https://en.wikipedia.org/wiki/Kenorland) existed
 - 2.7-2.4 bya: Nickel deposits, necessary for chemosynthetic [methane producers](https://en.wikipedia.org/wiki/Methanogen), decreased dramatically
 - 2.5-2.0 bya: The supercontinent [Arctica](https://en.wikipedia.org/wiki/Arctica) existed
-- 2.45 bya: O₂ production started, practically no atmospheric O₂ prior to this, with the possible exception of shallow oceans
+- 2.45 bya: O₂ production started, practically no atmospheric O₂ before this, with the possible exception of shallow oceans
 - 2.45-2.22 bya: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen
 - 2.4 bya: An asteroid impacted Earth, creating the [Suavjärvi crater](https://en.wikipedia.org/wiki/Suavjärvi_crater) which is 3 km in diameter
 - 2.4-2.05 bya: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
@@ -129,7 +129,7 @@ Few descriptions survive, despite many discoveries.
 - 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things"), possibly evolving the [nuclear envelope](https://en.wikipedia.org/wiki/Nuclear_envelope) to protect the genome from [reactive oxygen species (ROS)](https://en.wikipedia.org/wiki/Reactive_oxygen_species) produced by the cells' pre-mitochondria
 - 2.023 bya: An asteroid impacted Earth, creating the [Vredefort crater](https://en.wikipedia.org/wiki/Vredefort_crater) which is 160 km in diameter
 - 1.9-1.0 bya: The supercontinent [Atlantica](https://en.wikipedia.org/wiki/Arctica) existed
-- 1.85 bya: O₂ reached 0.03 atm, but most was aborbed into oceans and seabed rock
+- 1.85 bya: O₂ reached 0.03 atm, but oceans and seabed rock absorbed most of it
 - 1.849 bya: A comet impacted Earth, creating the [Sudbury Basin](https://en.wikipedia.org/wiki/Sudbury_Basin) which is 130 km in diameter
 - 1.8-1.4 bya: The supercontinent [Nuna](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
 
@@ -152,7 +152,7 @@ Few descriptions survive, despite many discoveries.
 - 948 mya: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
 - 900 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) evolved
 - 896? mya: [Chordates](https://en.wikipedia.org/wiki/Chordate) evolved
-- 850 mya: O₂ was still 0.03 atm, but escaped the oceans and was absorbed by land, atmospheric levels started to rise quickly
+- 850 mya: O₂ was still 0.03 atm, but escaped the oceans and absorbed into land, then atmospheric levels rose quickly
 
 ### [Hox](https://en.wikipedia.org/wiki/Hox_gene)
 - ? mya: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
@@ -570,7 +570,7 @@ Few descriptions survive, despite many discoveries.
 - 1315-1329 CE: [Abu'l-Fida](https://en.wikipedia.org/wiki/Abu%27l-Fida) wrote [*Tarikhu 'al-Mukhtasar fi Akhbar al-Bashar* (*The Concise History of Humanity or Chronicles*)](https://en.wikipedia.org/wiki/Concise_History_of_Humanity), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
 - 1345 CE: [Tommaso del Garbo](https://en.wikipedia.org/wiki/Tommaso_del_Garbo) mentioned Galen's "seeds of plague" in his work *Commentaria non-parum utilia in libros Galeni* (*Helpful commentaries on the books of Galen*)
 - 1354 CE: [Ibn Battuta](https://en.wikipedia.org/wiki/Ibn_Battuta) & [Ibn Juzayy](https://en.wikipedia.org/wiki/Ibn_Juzayy) wrote *الرحلة* (*Rihla* or *The Travels*), describing the [medieval](https://en.wikipedia.org/wiki/Middle_Ages) [Islamic world](https://en.wikipedia.org/wiki/Muslim_world)
-- 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesized that infectious diseases were caused by "minute bodies" and described how they can be transmitted through garments, vessels and earrings
+- 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesized that "minute bodies" cause infectious diseases, and described how garments, vessels, and earrings can transmit them
 - 1377 CE: [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) wrote the [*Muqaddimah* (*Prolegomena* or *Introduction*)](https://en.wikipedia.org/wiki/Muqaddimah), the first book of the *Kitāb al-ʻIbar* (*Book of Lessons*): an early view of [universal history](https://en.wikipedia.org/wiki/Universal_history) that introduced the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to the [social sciences](https://en.wikipedia.org/wiki/Social_science), and included an outline of the labor [theory of value](https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29), an early example of [political economy](https://en.wikipedia.org/wiki/Political_economy)
 
 ### Printing
@@ -586,7 +586,7 @@ Few descriptions survive, despite many discoveries.
 - 1532 CE: [Niccolò Machiavelli's](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) published
 - 1543 CE: [Andreas Vesalius](https://en.wikipedia.org/wiki/Andreas_Vesalius) published [*De humani corporis fabrica* (*On the fabric of the human body*)](https://en.wikipedia.org/wiki/De_humani_corporis_fabrica)
 - 1543 CE: [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) published [*De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)](https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium), promoting [heliocentrism](https://en.wikipedia.org/wiki/Heliocentrism)
-- 1546 CE: [Girolamo Fracastoro](https://en.wikipedia.org/wiki/Girolamo_Fracastoro) published *De Contagione et Contagiosis Morbis* (*The contamination and contagious sickness*), proposing that epidemic diseases are caused by transferable seed-like entities (seminaria morbi) that transmit infection by direct or indirect contact, or even without contact over long distances, and categorizing diseases based on how they were transmitted and how long they could lie dormant
+- 1546 CE: [Girolamo Fracastoro](https://en.wikipedia.org/wiki/Girolamo_Fracastoro) published *De Contagione et Contagiosis Morbis* (*The contamination and contagious sickness*), proposing that transferable seed-like entities (seminaria morbi) cause epidemic diseases, and can infect by direct or indirect contact, even over long distances; also categorizing diseases based on how they were transmitted and how long they could lie dormant
 - 1570 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published [*Theatrum Orbis Terrarum* (*Theatre of the Orb of the World*)](https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum), the first modern [atlas](https://en.wikipedia.org/wiki/Atlas)
 - 1573 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De nova stella* (*The new star*)
 - 1582 CE: [Pope Gregory XIII](https://en.wikipedia.org/wiki/Pope_Gregory_XIII) introduced the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
@@ -652,7 +652,7 @@ Few descriptions survive, despite many discoveries.
 - 1689 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Two Treatises of Government*](https://en.wikipedia.org/wiki/Two_Treatises_of_Government)
 - 1690 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*An Essay Concerning Human Understanding*](https://en.wikipedia.org/wiki/An_Essay_Concerning_Human_Understanding)
 - 1690 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) published [*Traité de la Lumière* (*Treatise on Light*)](https://en.wikipedia.org/wiki/Treatise_on_Light)
-- 1690 CE: [Nicholas Barbon](https://en.wikipedia.org/wiki/Nicholas_Barbon) published *A Discourse of Trade*, criticizing [mercantilism](https://en.wikipedia.org/wiki/Mercantilism) and laying the foundation for [classical economics](https://en.wikipedia.org/wiki/Classical_economics) by describing [supply and demand](https://en.wikipedia.org/wiki/Supply_and_demand) among other things
+- 1690 CE: [Nicholas Barbon](https://en.wikipedia.org/wiki/Nicholas_Barbon) published *A Discourse of Trade*, criticizing [mercantilism](https://en.wikipedia.org/wiki/Mercantilism) and laying the foundation for [classical economics](https://en.wikipedia.org/wiki/Classical_economics) by describing [supply and demand](https://en.wikipedia.org/wiki/Supply_and_demand)
 - 1693 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Some Thoughts Concerning Education*](https://en.wikipedia.org/wiki/Some_Thoughts_Concerning_Education)
 - 1693 CE: [Edmond Halley](https://en.wikipedia.org/wiki/Edmond_Halley) published *An Estimate of the Degrees of the Mortality of Mankind*, an article on [life annuities](https://en.wikipedia.org/wiki/Life_annuity) that influenced [actuarial science](https://en.wikipedia.org/wiki/Actuarial_science) & [demography](https://en.wikipedia.org/wiki/Demography)
 - 1696 CE: [Nicholas Barbon](https://en.wikipedia.org/wiki/Nicholas_Barbon) published *A Discourse Concerning Coining the New Money Lighter*, advocating the use of [paper money](https://en.wikipedia.org/wiki/Banknote) and [credit](https://en.wikipedia.org/wiki/Credit_theory_of_money)
@@ -925,7 +925,7 @@ Few descriptions survive, despite many discoveries.
 - 1884 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*The Foundations of Arithmetic*](https://en.wikipedia.org/wiki/The_Foundations_of_Arithmetic)
 - 1884 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) & [Joseph Jastrow](https://en.wikipedia.org/wiki/Joseph_Jastrow) published *On Small Differences in Sensation*, introducing [blinded](https://en.wikipedia.org/wiki/Blinded_experiment), [randomized controlled experiments](https://en.wikipedia.org/wiki/Randomized_controlled_trial) with [repeated measures design](https://en.wikipedia.org/wiki/Repeated_measures_design)
 - 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Algebra of Logic: A Contribution to the Philosophy of Notation*
-- 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) wrote a letter to [Allan Marquand](https://en.wikipedia.org/wiki/Allan_Marquand) describing how Boolean calculations could be carried via electrical switches
+- 1885 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) wrote a letter to [Allan Marquand](https://en.wikipedia.org/wiki/Allan_Marquand) describing how electrical switches could carry Boolean calculations
 - 1885 CE: [Albrecht Kossel](https://en.wikipedia.org/wiki/Albrecht_Kossel) published *Ueber eine neue Base aus dem Thierkörper* (*On a new base from the animal body*), describing [adenine](https://en.wikipedia.org/wiki/Adenine)
 - 1886 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Traitement de la Rage* (*Treatment of Rabies*)
 
@@ -1162,7 +1162,7 @@ Few descriptions survive, despite many discoveries.
 - 1967 CE: [Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) published [*How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension*](https://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension), describing what he coined [fractals](https://en.wikipedia.org/wiki/Fractal) in 1975
 - 1967 CE: [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) published [*Fundamental Concepts in Programming Languages*](https://en.wikipedia.org/wiki/Fundamental_Concepts_in_Programming_Languages)
 - 1967 CE: [Thomas D. Brock](https://en.wikipedia.org/wiki/Thomas_D._Brock) published *Life at High Temperatures*, describing [*Thermus aquaticus*](https://en.wikipedia.org/wiki/Thermus_aquaticus), a [hyperthermophile](https://en.wikipedia.org/wiki/Hyperthermophile)
-- 1968 CE: The [FCC](https://en.wikipedia.org/wiki/Federal_Communications_Commission) ruled that "any lawful device" can be connected to the [AT&T](https://en.wikipedia.org/wiki/AT&T) network, i.e. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
+- 1968 CE: The [FCC](https://en.wikipedia.org/wiki/Federal_Communications_Commission) ruled that customers can connect "any lawful device" to [AT&T](https://en.wikipedia.org/wiki/AT&T)'s network, a.k.a. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
 - 1968 CE: [Motoo Kimura](https://en.wikipedia.org/wiki/Motoo_Kimura) published *Evolutionary rate at the molecular level*
 - 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
 - 1968 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published [*The Lessons of History*](https://en.wikipedia.org/wiki/The_Lessons_of_History)
