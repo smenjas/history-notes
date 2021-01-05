@@ -891,6 +891,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 ### 1870s
 - 1870 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Logic of Relatives*, extending the [theory of relations](https://en.wikipedia.org/wiki/Finitary_relation)
+- 1870 CE: [Benjamin Peirce](https://en.wikipedia.org/wiki/Benjamin_Peirce) published [*Linear Associative Algebra*](http://legacy-www.math.harvard.edu/history/peirce_algebra/), coining the terms [idempotent](https://en.wikipedia.org/wiki/Idempotence) and [nilpotent](https://en.wikipedia.org/wiki/Nilpotent)
 - 1871 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Introductory Notes on Lying-In Institutions*](https://archive.org/stream/introductorynot00nighgoog#page/n6/mode/2up)
 - 1871 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published his [thermodynamic relations](https://en.wikipedia.org/wiki/Maxwell_relations)
 - 1871 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Descent of Man, and Selection in Relation to Sex*](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex)
