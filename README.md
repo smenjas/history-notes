@@ -1,4 +1,4 @@
-# The History of Nature, Science, & Technology
+# A Chronicle of Nature, Science, & Technology
 
 This is a chronology of humanity spanning the Big Bang to the present, or [big
 history](https://en.wikipedia.org/wiki/Big_History).  I've shown each known
