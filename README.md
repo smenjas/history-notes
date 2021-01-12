@@ -1,8 +1,8 @@
 # A Chronicle of Nature, Science, & Technology
 
-This is a chronology of humanity spanning the Big Bang to the present, or [big
-history](https://en.wikipedia.org/wiki/Big_History).  I've shown each known
-branch along the path of [human
+This is a chronicle of humanity, and [everything that led up to
+us](https://en.wikipedia.org/wiki/Big_History).  I've shown each known branch
+along the path of [human
 evolution](https://en.wikipedia.org/wiki/Human_evolution).  The branch leading
 to humans is on the left.
 
