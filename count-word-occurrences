@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+
+# What command is this?
+basename="$(basename "$0")"
+
+# Check for required arguments, if not present explain usage.
+if [ $# -lt 1 ]; then
+    >&2 echo "usage: $basename <filename> [minimum]"
+    exit 1
+fi
+
+# Optionally filter out words below a minimum number of occurrences.
+if [ $# -gt 1 ]; then
+    min_count="$2"
+else
+    min_count=1
+fi
+
+# Can we access the given filename?
+filename="$1"
+if [ ! -f "$filename" ]; then
+    >&2 echo "fatal: file '$filename' does not exist"
+    exit 2
+fi
+if [ ! -r "$filename" ]; then
+    >&2 echo "fatal: cannot read file '$filename'"
+    exit 3
+fi
+
+words=$(cat /usr/share/dict/words | tr '[:upper:]' '[:lower:]' | uniq)
+
+for word in $words; do
+    ocrncs="$(grep -ciw "$word" "$filename")"
+    if [ "$ocrncs" -ge "$min_count" ]; then
+        echo "$word: $ocrncs"
+    fi
+done
+
