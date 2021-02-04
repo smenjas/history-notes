@@ -36,7 +36,7 @@ dates_path="$tmp_dir/dates.txt"
 #fi
 
 # Which suffixes are these dates using?
-suffixes=$(cat tmp/dates.txt | cut -d ' ' -f 2 | uniq)
+suffixes=$(cat "$dates_path" | cut -d ' ' -f 2 | uniq)
 echo "Found these suffixes:"
 echo "$suffixes"
 echo
