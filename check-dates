@@ -1,0 +1,81 @@
+#!/usr/bin/env bash
+
+# Check that dates are in chronological order.
+#
+# Input:
+# - a Markdown (*.md) file, that contains a chronology in list format
+# - a line matches if it has these characters, in order:
+#   - a hyphen (-)
+#   - a space ( )
+#   - some digits, possibly with a decimal point, e.g.: 13.8, 1984
+#   - a suffix, e.g.: bya, mya, kya, BCE, CE
+#   - a colon (:)
+#
+# Copyright 2020 Benjamin Thornton.  Released as open source software under the
+# ISC License: https://github.com/smenjas/history-notes/blob/master/LICENSE
+
+# Which file do we want to check?
+target="README.md"
+
+# Where shall we store our temporary files?
+tmp_dir="tmp"
+if [ ! -d "$tmp_dir" ]; then
+    mkdir "$tmp_dir"
+fi
+
+# Extract a list of dates to analyze.
+dates_path="$tmp_dir/dates.txt"
+#if [ ! -e "$dates_path" ]; then # Uncomment to cache output.
+    echo "Writing all dates to: $dates_path"
+    # Search for the pattern described above, cut the date and suffix,
+    # remove the trailing colon, and write the output to a file.
+    egrep -o '^- [0-9\.,]+ [A-Za-z]+:' "$target" \
+        | cut -d ' ' -f 2,3 \
+        | sed 's/:$//' \
+        > "$dates_path"
+#fi
+
+# Which suffixes are these dates using?
+suffixes=$(cat tmp/dates.txt | cut -d ' ' -f 2 | uniq)
+echo "Found these suffixes:"
+echo "$suffixes"
+echo
+
+for suffix in $suffixes; do
+    # Split up the list according to suffix.
+    suffix_path="${tmp_dir}/${suffix}.txt"
+    #if [ ! -e "$suffix_path" ]; then # Uncomment to cache output.
+        echo "Copying dates ending in $suffix to: $suffix_path"
+        grep -w "$suffix" "$dates_path" > "$suffix_path"
+    #fi
+
+    # Display the first and last date for this suffix, for context.
+    first=$(head -n 1 "$suffix_path")
+    last=$(tail -n 1 "$suffix_path")
+    num_lines=$(cat "$suffix_path" | wc -l | xargs)
+    echo "$suffix_path 1: $first"
+    echo "$suffix_path $num_lines: $last"
+
+    # Sort the list, and save both for comparison.
+    sorted_path="${tmp_dir}/${suffix}-sorted.txt"
+    #if [ ! -e "$sorted_path" ]; then # Uncomment to cache output.
+        echo "Sorting dates ending in $suffix to: $sorted_path"
+        first_num=$(echo "$first" | cut -d ' ' -f 1)
+        last_num=$(echo "$last" | cut -d ' ' -f 1)
+        if (( $(echo "$first_num < $last_num" | bc -l) )); then
+            echo "$first_num < $last_num"
+            reverse=""
+        else
+            echo "$first_num > $last_num: Sorting in reverse"
+            reverse="r"
+        fi
+        sort -n$reverse "$suffix_path" > "$sorted_path"
+    #fi
+
+    # Compare the original list with the sorted list.
+    echo -n "diff $suffix_path $sorted_path | wc -l: "
+    diff "$suffix_path" "$sorted_path" | wc -l | xargs
+    diff "$suffix_path" "$sorted_path" | head
+    echo
+done
+
