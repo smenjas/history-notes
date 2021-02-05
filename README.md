@@ -398,6 +398,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
 - 2500 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) [fried food](https://en.wikipedia.org/wiki/Frying)
 - 2500 BCE: The [*Instructions of Shuruppak*](https://en.wikipedia.org/wiki/Instructions_of_Shuruppak), an example of [Sumerian](https://en.wikipedia.org/wiki/Sumer) [wisdom literature](https://en.wikipedia.org/wiki/Wisdom_literature), existed by this time
+0 2300 BCE: [Urukagina](https://en.wikipedia.org/wiki/Urukagina) enacted the first known government reforms, to combat corruption
 - 2200 BCE: A major drought, the [4.2-kiloyear event](https://en.wikipedia.org/wiki/4.2-kiloyear_event), may have contributed to the collapse of civilizations across Asia & Africa
 - 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
 - 2050 BCE: [Ur-Nammu](https://en.wikipedia.org/wiki/Ur-Nammu) enacted the [Code of Ur-Nammu](https://en.wikipedia.org/wiki/Code_of_Ur-Nammu)
