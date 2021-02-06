@@ -150,8 +150,6 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 950? mya: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
 - 952 mya: [Animalia](https://en.wikipedia.org/wiki/Animal) (a.k.a. Metazoa) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
 - 948 mya: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
-- 900 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) evolved
-- 896? mya: [Chordates](https://en.wikipedia.org/wiki/Chordate) evolved
 - 850 mya: O₂ was still 0.03 atm, but escaped the oceans and absorbed into land, then atmospheric levels rose quickly
 
 ### [Hox](https://en.wikipedia.org/wiki/Hox_gene)
@@ -1452,7 +1450,6 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - [Art history](https://en.wikipedia.org/wiki/Art_history)
   - [Big History](https://en.wikipedia.org/wiki/Big_History)
   - [Comparative history](https://en.wikipedia.org/wiki/Comparative_history)
-  - [Contemporary history](https://en.wikipedia.org/wiki/Contemporary_history)
   - [Computational history](https://en.wikipedia.org/wiki/Computational_history)
   - [Cultural history](https://en.wikipedia.org/wiki/Cultural_history)
   - [Environmental history](https://en.wikipedia.org/wiki/Environmental_history)
@@ -1460,7 +1457,6 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - [Historical geology](https://en.wikipedia.org/wiki/Historical_geology)
   - [Intellectual history](https://en.wikipedia.org/wiki/Intellectual_history)
   - [Macrohistory](https://en.wikipedia.org/wiki/Macrohistory)
-  - [Maritime history](https://en.wikipedia.org/wiki/Maritime_history)
   - [Natural history](https://en.wikipedia.org/wiki/Natural_history)
   - [Oral history](https://en.wikipedia.org/wiki/Oral_history)
   - [Popular history](https://en.wikipedia.org/wiki/Popular_history)
@@ -1471,7 +1467,6 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - [Transnational history](https://en.wikipedia.org/wiki/Transnational_history)
   - [Universal history](https://en.wikipedia.org/wiki/Universal_history)
   - [World history](https://en.wikipedia.org/wiki/World_history)
-- [Historical linguistics](https://en.wikipedia.org/wiki/Historical_linguistics)
 - [Historiography](https://en.wikipedia.org/wiki/Historiography)
 - [Paleontology](https://en.wikipedia.org/wiki/Paleontology): the study of life in the past, including fossils
 - [Philosophy of history](https://en.wikipedia.org/wiki/Philosophy_of_history)
