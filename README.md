@@ -1077,6 +1077,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 ### 1940s
 - 1940 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*How to Pay for the War*](https://en.wikipedia.org/wiki/How_to_Pay_for_the_War), discussing [price controls](https://en.wikipedia.org/wiki/Price_controls)
+- 1941 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *The Applications of Probability to Cryptography* & *Paper on Statistics of Repetitions*
 - 1942 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Principle of Least Action in Quantum Mechanics*
 - 1942 CE: [John Vincent Atanasoff](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff) & [Clifford Berry](https://en.wikipedia.org/wiki/Clifford_Berry) demonstrated the [Atanasoff–Berry computer (ABC)](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer), the first [digital electronic computer](https://en.wikipedia.org/wiki/Digital_electronic_computer), and used it to solve [linear equations](https://en.wikipedia.org/wiki/Linear_equation)
 - 1943 CE: British [codebreakers](https://en.wikipedia.org/wiki/Cryptanalysis) invent the [Colossus](https://en.wikipedia.org/wiki/Colossus_computer): the first programmable electronic digital computer
