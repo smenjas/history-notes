@@ -308,7 +308,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 260 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 250 kya: [Homo neanderthalensis](https://en.wikipedia.org/wiki/Neanderthal) evolved
 - 240 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present
-- 200 kya: [Homo sapiens sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) evolved, 6 other homo species existed
+- 200 kya: [7 subspecies of early humans, including Homo sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) existed
 - 173 kya: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
 - 160 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 150 kya: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
@@ -325,9 +325,9 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 ### Clothing
 - 83 kya: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
 - 73 kya: The [Toba volcano erupted](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
-- 70 kya: Gene mutations that allow abstract thinking evolved
+- 70 kya: Gene mutations that allow abstract thinking may have evolved
 - 70-50 kya: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
-- 50-40 kya: [Early human tools and cultures become more sophisticated](https://en.wikipedia.org/wiki/Behavioral_modernity) in an explosion of innovation
+- 50-40 kya: [Early human tools and cultures became more sophisticated](https://en.wikipedia.org/wiki/Behavioral_modernity) in an explosion of innovation
 - 50-30 kya: ["Gracile" anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved
 - 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
