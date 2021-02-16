@@ -1394,6 +1394,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - [List of largest unfragmented rivers](https://en.wikipedia.org/wiki/List_of_largest_unfragmented_rivers)
 - [List of supercontinents](https://en.wikipedia.org/wiki/List_of_supercontinents)
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
+- [List of zim files for the Kiwix offline wiki app](https://download.kiwix.org/zim/)
 - [Lists of etymologies](https://en.wikipedia.org/wiki/Lists_of_etymologies)
 - [Lists of important publications in science](https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science)
   - [Bibliography of anthropology](https://en.wikipedia.org/wiki/Bibliography_of_anthropology)
