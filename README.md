@@ -400,6 +400,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 2200 BCE: A major drought, the [4.2-kiloyear event](https://en.wikipedia.org/wiki/4.2-kiloyear_event), may have contributed to the collapse of civilizations across Asia & Africa
 - 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
 - 2050 BCE: [Ur-Nammu](https://en.wikipedia.org/wiki/Ur-Nammu) enacted the [Code of Ur-Nammu](https://en.wikipedia.org/wiki/Code_of_Ur-Nammu)
+- 2050 BCE: The [Sintashta culture](https://en.wikipedia.org/wiki/Sintashta_culture) around the [Ural](https://en.wikipedia.org/wiki/Ural_%28river%29) and [Tobol](https://en.wikipedia.org/wiki/Tobol) rivers invented the light [chariot](https://en.wikipedia.org/wiki/Chariot)
 - 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
 - 2000 BCE: The last [woolly mammoths](https://en.wikipedia.org/wiki/Woolly_mammoth) lived on [Wrangel Island](https://en.wikipedia.org/wiki/Wrangel_Island)
 - 1900 BCE: [People smelted and smithed iron](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
