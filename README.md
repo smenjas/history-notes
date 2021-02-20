@@ -1259,7 +1259,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1992 CE: [William](https://en.wikipedia.org/wiki/William_Jolitz) & [Lynne Jolitz](https://en.wikipedia.org/wiki/Lynne_Jolitz) released [386BSD](https://en.wikipedia.org/wiki/386BSD)
 - 1992 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1992 CE: [K. Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler) published *Nanosystems: Molecular Machinery, Manufacturing and Computation*
-- 1993 CE: Some hackers released [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 1993 CE: [Jordan Hubbard](https://en.wikipedia.org/wiki/Jordan_Hubbard), Nate Williams, & Rodney W. Grimes released [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1993 CE: [Ian Murdock](https://en.wikipedia.org/wiki/Ian_Murdock) released the [Debian operating system](https://en.wikipedia.org/wiki/Debian) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1994 CE: [Apple switched from Motorola 68k chips to PowerPC](https://en.wikipedia.org/wiki/Power_Macintosh)
 - 1995 CE: [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) created [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
