@@ -396,6 +396,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 3000 BCE: Many modern artifacts existed in the Indus Valley ([sanitation](https://en.wikipedia.org/wiki/Sanitation), [distillation](https://en.wikipedia.org/wiki/Distillation), [levee](https://en.wikipedia.org/wiki/Levee), [scales](https://en.wikipedia.org/wiki/Weighing_scale), etc.)
 - 3000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
+- 2600 BCE: [Western Steppe Herders](https://en.wikipedia.org/wiki/Western_Steppe_Herders) migrated across Eurasia, spreading the [Indo-European language family](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 2500 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) [fried food](https://en.wikipedia.org/wiki/Frying)
 - 2500 BCE: The [*Instructions of Shuruppak*](https://en.wikipedia.org/wiki/Instructions_of_Shuruppak), an example of [Sumerian](https://en.wikipedia.org/wiki/Sumer) [wisdom literature](https://en.wikipedia.org/wiki/Wisdom_literature), existed by this time
 - 2300 BCE: [Urukagina](https://en.wikipedia.org/wiki/Urukagina) enacted the first known government reforms, to combat corruption
