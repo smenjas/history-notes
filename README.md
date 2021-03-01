@@ -246,6 +246,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 55 mya: The [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) occurred: volcanoes released CO₂, global temperatures increased by 5-8 °C
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) evolved from land mammals back into sea mammals
 - 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
+- 42 mya: [Caniformia](https://en.wikipedia.org/wiki/Caniformia) ("dog-like" carnivores) split from [Feliformia](https://en.wikipedia.org/wiki/Feliformia)  ("cat-like" carnivores)
 - 40 mya: O₂ dropped to 0.23 atm
 - 35 mya: An asteroid impacted Earth, creating the [Popigai crater](https://en.wikipedia.org/wiki/Popigai_crater) which is 90 km in diameter
 
