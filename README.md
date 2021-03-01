@@ -429,6 +429,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 600 BCE: [Latin script](https://en.wikipedia.org/wiki/Latin_script) originated, descended from the Etruscan alphabet
 - 550 BCE: [Cyrus the Great](https://en.wikipedia.org/wiki/Cyrus_the_Great) founded the [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire), the first historical event as described by [Herodotus](https://en.wikipedia.org/wiki/Herodotus)
 - 546 BCE: [Anaximander](https://en.wikipedia.org/wiki/Anaximander) wrote [*On Nature*](https://en.wikipedia.org/wiki/On_Nature_%28Anaximander%29), describing an early theory of evolution, and other works on science and geometry, including a world map, by the time he died
+- 530 BCE: [Eupalinos](https://en.wikipedia.org/wiki/Eupalinos) engineered the [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos), the first geometrically excavated tunnel, through Mount Kastro in Samos
 - 530 BCE: [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) founded a school at [Croton](https://en.wikipedia.org/wiki/Crotone)
 - 500 BCE: [Darius I](https://en.wikipedia.org/wiki/Darius_the_Great) standardized the [Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet), descended from the Phoenician alphabet
 - 500 BCE: [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) wrote [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War)
