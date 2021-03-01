@@ -403,7 +403,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 2200 BCE: A major drought, the [4.2-kiloyear event](https://en.wikipedia.org/wiki/4.2-kiloyear_event), may have contributed to the collapse of civilizations across Asia & Africa
 - 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
 - 2050 BCE: [Ur-Nammu](https://en.wikipedia.org/wiki/Ur-Nammu) enacted the [Code of Ur-Nammu](https://en.wikipedia.org/wiki/Code_of_Ur-Nammu)
-- 2050 BCE: The [Sintashta culture](https://en.wikipedia.org/wiki/Sintashta_culture) around the [Ural](https://en.wikipedia.org/wiki/Ural_%28river%29) and [Tobol](https://en.wikipedia.org/wiki/Tobol) rivers invented the light [chariot](https://en.wikipedia.org/wiki/Chariot)
+- 2050 BCE: The [Sintashta culture](https://en.wikipedia.org/wiki/Sintashta_culture) near the [Ural](https://en.wikipedia.org/wiki/Ural_%28river%29) and [Tobol](https://en.wikipedia.org/wiki/Tobol) rivers invented the light [chariot](https://en.wikipedia.org/wiki/Chariot)
 - 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
 - 2000 BCE: The last [woolly mammoths](https://en.wikipedia.org/wiki/Woolly_mammoth) lived on [Wrangel Island](https://en.wikipedia.org/wiki/Wrangel_Island)
 - 1900 BCE: [People smelted and smithed iron](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
@@ -480,6 +480,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 234 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
 - 233 BCE: The [Taupo volcano erupted](https://en.wikipedia.org/wiki/Hatepe_eruption) on New Zealand's North Island
 - 230 BCE: [Aristarchus of Samos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) by the time he died wrote [*Peri megethon kai apostematon* (*On the Sizes and Distances*)](https://en.wikipedia.org/wiki/On_the_Sizes_and_Distances_%28Aristarchus%29), calculating that the Sun is larger than the Moon, and having suggested that the planets orbit the Sun
+- 220 BCE: [Li Si](https://en.wikipedia.org/wiki/Li_Si) compiled the [*Cangjiepian* (*Three Chapters*)](https://en.wikipedia.org/wiki/Cangjiepian), standardizing [Small seal script](https://en.wikipedia.org/wiki/Small_seal_script)
 - 220-150 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) invented the [astrolabe](https://en.wikipedia.org/wiki/Astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 212 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) wrote many mathematical works including [*Perí sfaíras kaí kylíndrou* (*On the Sphere & Cylinder*)](https://en.wikipedia.org/wiki/On_the_Sphere_and_Cylinder) which gave the [Archimedean property](https://en.wikipedia.org/wiki/Archimedean_property) by the time he died
 - 200 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) wrote *Conics* and other works on mathematics
@@ -1110,7 +1111,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 ### 1950s
 - 1950 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Age of Faith*, the 4th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1950 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published [*Computing Machinery and Intelligence*](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence), introducing the [Turing test](https://en.wikipedia.org/wiki/Turing_test)
-- 1950 CE: [Zhou Youguang](https://en.wikipedia.org/wiki/Zhou_Youguang) published *Hànyǔ pīnyīn cíhuì* (*Chinese phonetic alphabet glossary*)
+- 1950 CE: [Zhou Youguang](https://en.wikipedia.org/wiki/Zhou_Youguang) published *Hànyǔ pīnyīn cíhuì* (*Chinese phonetic alphabet glossary*), describing how to write Chinese characters using the Latin alphabet, abbreviated [pinyin](https://en.wikipedia.org/wiki/Pinyin)
 - 1951 CE: [Fritz Houtermans](https://en.wikipedia.org/wiki/Fritz_Houtermans) published *Über ein neues Verfahren zur Durchführung chemischer Altersbestimmungen nach der Blei-Methode* (*About a new method for carrying out chemical age determinations using the lead method*)
 - 1951 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) published *A duplex theory of pitch perception*
 - 1952 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) tested the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine)
