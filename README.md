@@ -1305,6 +1305,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 2004 CE: [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth) released the [Ubuntu operating system](https://en.wikipedia.org/wiki/Mark_Shuttleworth) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) published [Markdown](https://en.wikipedia.org/wiki/Markdown) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2004 CE: [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) published [*The Ancestor's Tale*](https://en.wikipedia.org/wiki/The_Ancestor%27s_Tale)
+- 2004 CE: [Scaled Composites Tier One](https://en.wikipedia.org/wiki/Scaled_Composites_Tier_One) launched the first private crewed spaceflight, and recovered both stages, 3 times in a row
 - 2005 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published [Git](https://en.wikipedia.org/wiki/Git) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2005 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)
 - 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) published the [WebKit web browser](https://en.wikipedia.org/wiki/WebKit) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
@@ -1339,7 +1340,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 2018 CE: Daily average CO₂ exceeded 410 ppm
 
 ### 2020s
-- 2020 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [launched the first non-government crewed orbital flight, and landed the first stage](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2)
+- 2020 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [launched the first commercial crewed orbital flight, and landed the first stage](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2)
 - 2020 CE: [Apple switched from Intel x86 chips to a custom ARM design](https://en.wikipedia.org/wiki/Apple_M1)
 
 ---
