@@ -327,7 +327,6 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 ### Clothing
 - 83 kya: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
 - 73 kya: The [Toba volcano erupted](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
-- 70 kya: Gene mutations that allow abstract thinking may have evolved
 - 70-50 kya: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
 - 50-40 kya: [Early human tools and cultures became more sophisticated](https://en.wikipedia.org/wiki/Behavioral_modernity) in an explosion of innovation
 - 50-30 kya: ["Gracile" anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved
