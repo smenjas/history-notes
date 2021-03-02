@@ -331,9 +331,12 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 70-50 kya: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
 - 50-40 kya: [Early human tools and cultures became more sophisticated](https://en.wikipedia.org/wiki/Behavioral_modernity) in an explosion of innovation
 - 50-30 kya: ["Gracile" anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved
+- 43 kya: [Early European Farmers (EEF)](https://en.wikipedia.org/wiki/Early_European_Farmers) split from [Western Hunter-Gatherers (WHG)](https://en.wikipedia.org/wiki/Western_Hunter-Gatherer)
 - 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
 - 26.5-20 kya: The [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum) occurred, CO₂ dipped to 180 ppm, global temp -9 °C from present, dust exceeded 1.6 ppm
+- 23 kya: [Early European Farmers (EEF)](https://en.wikipedia.org/wiki/Early_European_Farmers) split from [Caucasus Hunter-Gatherers (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer)
+- 22 kya: [Ancient North Eurasians (ANE)](https://en.wikipedia.org/wiki/Ancient_North_Eurasian) split from [Western Hunter-Gatherers (WHG)](https://en.wikipedia.org/wiki/Western_Hunter-Gatherer)
 - 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) 120m below present
 - 17-15 kya: The [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas) occurred, global temperatures declined sharply
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was >100m below present
@@ -393,12 +396,13 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 3300 BCE: The [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
 - 3300 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Uruk](https://en.wikipedia.org/wiki/Uruk) on the ancient channel of the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) wrote [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3300 BCE: People in the [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) wrote the [Indus script](https://en.wikipedia.org/wiki/Indus_script)
+- 3300 BCE: [Eastern Hunter-Gatherer (EHG)](https://en.wikipedia.org/wiki/Eastern_Hunter-Gatherer) males mated with [Caucasus Hunter-Gatherer (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer) females to produce [Western Steppe Herders (WSH)](https://en.wikipedia.org/wiki/Western_Steppe_Herders)
 - 3200 BCE: The [Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3100 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Kish](https://en.wikipedia.org/wiki/Kish_%28Sumer%29)
 - 3000 BCE: Many modern artifacts existed in the Indus Valley ([sanitation](https://en.wikipedia.org/wiki/Sanitation), [distillation](https://en.wikipedia.org/wiki/Distillation), [levee](https://en.wikipedia.org/wiki/Levee), [scales](https://en.wikipedia.org/wiki/Weighing_scale), etc.)
 - 3000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
-- 2600 BCE: [Western Steppe Herders](https://en.wikipedia.org/wiki/Western_Steppe_Herders) migrated across Eurasia, spreading the [Indo-European language family](https://en.wikipedia.org/wiki/Indo-European_languages)
+- 2600 BCE: [Western Steppe Herders (WSH)](https://en.wikipedia.org/wiki/Western_Steppe_Herders) migrated across Eurasia, spreading the [Indo-European language family](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 2500 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) [fried food](https://en.wikipedia.org/wiki/Frying)
 - 2500 BCE: The [*Instructions of Shuruppak*](https://en.wikipedia.org/wiki/Instructions_of_Shuruppak), an example of [Sumerian](https://en.wikipedia.org/wiki/Sumer) [wisdom literature](https://en.wikipedia.org/wiki/Wisdom_literature), existed by this time
 - 2300 BCE: [Urukagina](https://en.wikipedia.org/wiki/Urukagina) enacted the first known government reforms, to combat corruption
