@@ -274,6 +274,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 2.8 mya: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) evolved
 - 1.9 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) evolved
 - 1.89 mya: Humans began to run long distances, and sweat, and lose body hair
+- 1.8 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) migrated [out of Africa](https://en.wikipedia.org/wiki/Early_expansions_of_hominins_out_of_Africa) by this time
 - 1.25-0.7 mya: The [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition) occurred, glacial cycles switched from 41 ka to 100 ka
 - 1.07 mya: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana
 
@@ -1311,7 +1312,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 2004 CE: [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth) released the [Ubuntu operating system](https://en.wikipedia.org/wiki/Mark_Shuttleworth) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2004 CE: [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) & [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) published [Markdown](https://en.wikipedia.org/wiki/Markdown) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2004 CE: [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) published [*The Ancestor's Tale*](https://en.wikipedia.org/wiki/The_Ancestor%27s_Tale)
-- 2004 CE: [Scaled Composites Tier One](https://en.wikipedia.org/wiki/Scaled_Composites_Tier_One) launched the first private crewed spaceflight, and recovered both stages, 3 times in a row
+- 2004 CE: [Scaled Composites Tier One](https://en.wikipedia.org/wiki/Scaled_Composites_Tier_One) launched the first private crewed suborbital spaceflight, and recovered both stages, 3 times in a row
 - 2005 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published [Git](https://en.wikipedia.org/wiki/Git) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2005 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Maps](https://en.wikipedia.org/wiki/Google_Maps)
 - 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) published the [WebKit web browser](https://en.wikipedia.org/wiki/WebKit) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
