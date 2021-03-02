@@ -337,6 +337,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 26.5-20 kya: The [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum) occurred, CO₂ dipped to 180 ppm, global temp -9 °C from present, dust exceeded 1.6 ppm
 - 23 kya: [Early European Farmers (EEF)](https://en.wikipedia.org/wiki/Early_European_Farmers) split from [Caucasus Hunter-Gatherers (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer)
 - 22 kya: [Ancient North Eurasians (ANE)](https://en.wikipedia.org/wiki/Ancient_North_Eurasian) split from [Western Hunter-Gatherers (WHG)](https://en.wikipedia.org/wiki/Western_Hunter-Gatherer)
+- 20 kya: [Ancestral Native Americans (ANA)](https://en.wikipedia.org/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas) split from [Ancient Beringians (AB)](https://en.wikipedia.org/wiki/Ancient_Beringian)
 - 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) 120m below present
 - 17-15 kya: The [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas) occurred, global temperatures declined sharply
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was >100m below present
