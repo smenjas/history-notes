@@ -365,17 +365,16 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 9000 BCE: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) settled [Jericho](https://en.wikipedia.org/wiki/Jericho)
 - 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea), [wheat](https://en.wikipedia.org/wiki/Wheat), [rye](https://en.wikipedia.org/wiki/Rye), & [barley](https://en.wikipedia.org/wiki/Barley) which tolerates salty soil better than the others
 - 9000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated [soybeans](https://en.wikipedia.org/wiki/Soybean)
-- 8600 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated [cattle](https://en.wikipedia.org/wiki/Cattle)
 - 8500 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [sheep](https://en.wikipedia.org/wiki/Domestic_sheep)
-- 8500 BCE: People in the [Tigris basin](https://en.wikipedia.org/wiki/Tigris) [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig), perhaps near [Çayönü](https://en.wikipedia.org/wiki/%C3%87ay%C3%B6n%C3%BC)
+- 8500 BCE: People in the [Tigris basin](https://en.wikipedia.org/wiki/Tigris) [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) and [cattle](https://en.wikipedia.org/wiki/Cattle#Domestication_and_husbandry), perhaps near [Çayönü Tepesi](https://en.wikipedia.org/wiki/%C3%87ay%C3%B6n%C3%BC)
 - 8000 BCE: People in [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
-- 8000 BCE: People in [India](https://en.wikipedia.org/wiki/India) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu)
 - 8000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 40m below present
 
 ## < 10 Thousand Years Ago
 ### Cats
 - 7500 BCE: [A farmer lived with a domesticated African wildcat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
 - 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 20m below present
+- 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
 - 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
 - 6000 BCE: People in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) domesticated the [chicken](https://en.wikipedia.org/wiki/Chicken)
 - 6000 BCE: People in [China](https://en.wikipedia.org/wiki/China) independently [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
