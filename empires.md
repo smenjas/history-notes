@@ -46,4 +46,5 @@
 - 1997 CE: The [British Empire](https://en.wikipedia.org/wiki/British_Empire) ended, after 500 years
 
 ## Resources
+
 - [List of largest empires](https://en.wikipedia.org/wiki/List_of_largest_empires)

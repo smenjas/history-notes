@@ -18,7 +18,9 @@
 ---
 
 ## Overview
+
 Philosophy (from Greek φιλοσοφία, philosophia, literally "love of wisdom") is the study of general and fundamental questions about:
+
 - [existence](https://en.wikipedia.org/wiki/Existence)
 - [knowledge](https://en.wikipedia.org/wiki/Knowledge)
 - [values](https://en.wikipedia.org/wiki/Value_%28ethics%29)
@@ -33,6 +35,7 @@ Philosophy (from Greek φιλοσοφία, philosophia, literally "love of wisdo
 - [Structure and agency](https://en.wikipedia.org/wiki/Structure_and_agency)
 
 ## Branches of Philosophy
+
 - [Cosmology](https://en.wikipedia.org/wiki/Cosmology): the study of the origin and evolution of the universe
 - [Metaphilosophy](https://en.wikipedia.org/wiki/Metaphilosophy): the philosophy of philosophy
 - [Practical philosophy](https://en.wikipedia.org/wiki/Practical_philosophy)
@@ -51,12 +54,14 @@ Philosophy (from Greek φιλοσοφία, philosophia, literally "love of wisdo
   - [Philosophy of science](https://en.wikipedia.org/wiki/Philosophy_of_science)
 
 ## [African philosophy](https://en.wikipedia.org/wiki/African_philosophy)
+
 - [Ancient Egyptian philosophy](https://en.wikipedia.org/wiki/Ancient_Egyptian_philosophy)
 - [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
 
 ## [Eastern philosophy](https://en.wikipedia.org/wiki/Eastern_philosophy)
 
 ### [Chinese philosophy](https://en.wikipedia.org/wiki/Chinese_philosophy)
+
 - [Hundred schools of thought](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought)
 - [Agriculturalism](https://en.wikipedia.org/wiki/Agriculturalism)
 - [Confucianism](https://en.wikipedia.org/wiki/Confucianism) (i.e. Ruism)
@@ -70,26 +75,31 @@ Philosophy (from Greek φιλοσοφία, philosophia, literally "love of wisdo
 - [Taoism](https://en.wikipedia.org/wiki/Taoism)
 
 ### [Indian philosophy](https://en.wikipedia.org/wiki/Indian_philosophy)
+
 - [Hindu philosophy](https://en.wikipedia.org/wiki/Hindu_philosophy)
 - [Jain philosophy](https://en.wikipedia.org/wiki/Jain_philosophy)
 - [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
 
 ## [Indigenous American philosophy](https://en.wikipedia.org/wiki/Indigenous_American_philosophy)
+
 - [Yanantin](https://en.wikipedia.org/wiki/Yanantin)
 
 ## [Middle Eastern philosophy](https://en.wikipedia.org/wiki/Middle_Eastern_philosophy)
 
 ### [Abrahamic religions](https://en.wikipedia.org/wiki/Abrahamic_religions)
+
 - [Christian philosophy](https://en.wikipedia.org/wiki/Christian_philosophy)
 - [Islamic philosophy](https://en.wikipedia.org/wiki/Islamic_philosophy)
 - [Jewish philosophy](https://en.wikipedia.org/wiki/Jewish_philosophy)
 
 ### [Iranian philosophy](https://en.wikipedia.org/wiki/Iranian_philosophy)
+
 - [Manichaeism](https://en.wikipedia.org/wiki/Manichaeism)
 - [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
 - [Zurvanism](https://en.wikipedia.org/wiki/Zurvanism)
 
 ## [Western philosophy](https://en.wikipedia.org/wiki/Western_philosophy)
+
 - [Ancient Greek philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
 - [Pre-Socratic philosophy](https://en.wikipedia.org/wiki/Pre-Socratic_philosophy)
 - [Hellenistic philosophy](https://en.wikipedia.org/wiki/Hellenistic_philosophy)
@@ -99,6 +109,7 @@ Philosophy (from Greek φιλοσοφία, philosophia, literally "love of wisdo
 - [Renaissance philosophy](https://en.wikipedia.org/wiki/Renaissance_philosophy)
 
 ### [Modern philosophy](https://en.wikipedia.org/wiki/Modern_philosophy)
+
 - [Renaissance humanism](https://en.wikipedia.org/wiki/Renaissance_humanism)
 - [Humanism](https://en.wikipedia.org/wiki/Humanism)
 - [Rationalism](https://en.wikipedia.org/wiki/Rationalism)
@@ -108,6 +119,7 @@ Philosophy (from Greek φιλοσοφία, philosophia, literally "love of wisdo
 - [Pragmatism](https://en.wikipedia.org/wiki/Pragmatism)
 
 #### [Contemporary philosophy](https://en.wikipedia.org/wiki/Contemporary_philosophy)
+
 - [Analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy)
   - [Logical positivism](https://en.wikipedia.org/wiki/Logical_positivism)
   - [Ordinary language philosophy](https://en.wikipedia.org/wiki/Ordinary_language_philosophy)
@@ -125,6 +137,7 @@ Philosophy (from Greek φιλοσοφία, philosophia, literally "love of wisdo
   - [Social constructionism](https://en.wikipedia.org/wiki/Social_constructionism)
 
 ## Glossary
+
 - [Action](https://en.wikipedia.org/wiki/Action_%28philosophy%29): that which is done by an agent
 - [Agency (philosophy)](https://en.wikipedia.org/wiki/Agency_%28philosophy%29): the capacity to act in a given environment
 - [Agency (sociology)](https://en.wikipedia.org/wiki/Agency_%28sociology%29): the capacity to act independently and make free choices

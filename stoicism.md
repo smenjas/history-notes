@@ -1,6 +1,7 @@
 # [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 
 ## [Stoic Philosophers](https://en.wikipedia.org/wiki/List_of_Stoic_philosophers)
+
 - [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) (332–262 BC), founder of Stoicism and the Stoic Academy) (Stoa) in Athens
   - [Republic](https://en.wikipedia.org/wiki/Republic_%28Zeno%29)
 - [Aristo of Chios](https://en.wikipedia.org/wiki/Aristo_of_Chios) (fl. 260 BC), pupil of Zeno;

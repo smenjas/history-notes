@@ -33,6 +33,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 ---
 
 ## Units
+
 - [bya: 1 billion years ago (10⁹)](https://en.wikipedia.org/wiki/Year#Abbreviations_yr_and_ya)
 - [mya: 1 million years ago (10⁶)](https://en.wikipedia.org/wiki/Year#Abbreviations_yr_and_ya)
 - [kya: 1 thousand years ago (10³)](https://en.wikipedia.org/wiki/Year#Abbreviations_yr_and_ya)
@@ -42,6 +43,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [ppm: parts per million](https://en.wikipedia.org/wiki/Parts-per_notation)
 
 ## Contents
+
 - [The Big Bang](#the-big-bang)
 - [< 10 Billion Years Ago](#-10-billion-years-ago):
   [Mitochondria](#mitochondria), [Chloroplasts](#chloroplasts)
@@ -93,11 +95,13 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 ---
 
 ## The Big Bang
+
 - 13.80 bya: The [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) occurred, and 370,000 years later produced the [cosmic microwave background radiation (CMBR)](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
 - 13.53 bya: The [first stars](https://en.wikipedia.org/wiki/Reionization) formed
 - 13.2 bya: The [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
 
 ## < 10 Billion Years Ago
+
 - 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/)
 - 4.603 bya: The [Sun](https://en.wikipedia.org/wiki/Sun) formed
 - 4.543 bya: [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
@@ -125,6 +129,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - ? bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
 
 ### Mitochondria
+
 - 2.1-1.7 bya: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
 - 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things"), possibly evolving the [nuclear envelope](https://en.wikipedia.org/wiki/Nuclear_envelope) to protect the genome from [reactive oxygen species (ROS)](https://en.wikipedia.org/wiki/Reactive_oxygen_species) produced by the cells' pre-mitochondria
 - 2.023 bya: An asteroid impacted Earth, creating the [Vredefort crater](https://en.wikipedia.org/wiki/Vredefort_crater) which is 160 km in diameter
@@ -134,6 +139,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1.8-1.4 bya: The supercontinent [Nuna](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
 
 ### Chloroplasts
+
 - 1.4 bya: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
 - ? bya: [Orthokaryotes](https://en.wikipedia.org/wiki/Orthokaryotes) split from [Discicristata](https://en.wikipedia.org/wiki/Discicristata)
 - ? bya: [Neokaryotes](https://en.wikipedia.org/wiki/Neokaryotes) (all unikonts & bikonts) split from [Jakobids](https://en.wikipedia.org/wiki/Jakobid) (which have bacteria-like mitochondria)
@@ -147,12 +153,14 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - ? ybp: [Filozoa](https://en.wikipedia.org/wiki/Filozoa) ("thread animals") split from [Pluriformea](https://en.wikipedia.org/wiki/Pluriformea) ("many shapes")
 
 ## < 1 Billion Years Ago
+
 - 950? mya: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
 - 952 mya: [Animalia](https://en.wikipedia.org/wiki/Animal) (a.k.a. Metazoa) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
 - 948 mya: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
 - 850 mya: O₂ was still 0.03 atm, but escaped the oceans and absorbed into land, then atmospheric levels rose quickly
 
 ### [Hox](https://en.wikipedia.org/wiki/Hox_gene)
+
 - ? mya: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
 - 680? mya: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
 - 680? mya: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
@@ -160,6 +168,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 800 mya: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
 
 ### Gut
+
 - 797 mya: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
 - 717 mya: The [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
 - 684 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
@@ -170,6 +179,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 633-573 mya: The supercontinent [Pannotia](https://en.wikipedia.org/wiki/Pannotia) existed at the South Pole
 
 ### Spine
+
 - 615 mya: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
 - 600 mya: O₂ exceeded 0.1 atm
 - 600 mya: An asteroid impacted Earth, creating the [Beaverhead crater](https://en.wikipedia.org/wiki/Beaverhead_crater) which is 60 km in diameter
@@ -179,6 +189,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 542 mya: The [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction) occurred
 
 ### Eye
+
 - 541 mya: The [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion) occurred, CO₂ was 4000 ppm, O₂ was 0.12 atm
 - 517 mya: The [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction) occurred
 - 502 mya: The [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian) occurred
@@ -186,15 +197,18 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 488 mya: The [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event) occurred
 
 ### Jaw
+
 - 473 mya: [Gnathostomata](https://en.wikipedia.org/wiki/Gnathostomata) ("jaw mouth", a.k.a. jawed fish) split from [Osteostraci](https://en.wikipedia.org/wiki/Osteostraci) ("bony shields") & [Pituriaspida](https://en.wikipedia.org/wiki/Pituriaspida) ("pituri shield")
 - 440 mya: The [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events) occurred, 86% of species lost
 
 ### Lungs
+
 - 435 mya: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
 - 424 mya: The [Lau extinction event](https://en.wikipedia.org/wiki/Lau_event) occurred
 - 420 mya: [Elegestolepis](https://en.wikipedia.org/wiki/Elegestolepis), a primitive [shark](https://en.wikipedia.org/wiki/Shark), existed
 
 ### Limbs
+
 - 413 mya: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
 - 400 mya: O₂ exceeded 0.15 atm
 - 400 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
@@ -206,6 +220,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 350 mya: O₂ exceeded 0.2 atm
 
 ### Amniotic Sac
+
 - 312 mya: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
 - 305 mya: The [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse) occurred
 - 300 mya: [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) existed
@@ -228,6 +243,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 105 mya: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
 
 ## < 100 Million Years Ago
+
 - 96 mya: [Boreoeutheria](https://en.wikipedia.org/wiki/Boreoeutheria) ("northern true beasts") split from [Atlantogenata](https://en.wikipedia.org/wiki/Atlantogenata) (elephants, sloths, etc.)
 - 94 mya: The [Cenomanian-Turonian anoxic event](https://en.wikipedia.org/wiki/Cenomanian-Turonian_boundary_event), a mass extinction, occurred
 - 90 mya: [Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires) (Supraprimates) split from [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria) (dogs, cats, giraffes, whales, etc.)
@@ -238,6 +254,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 70.3 mya: An asteroid impacted Earth, creating the [Kara crater](https://en.wikipedia.org/wiki/Kara_crater) which is 65 km in diameter
 
 ### Thumb
+
 - 70 mya: [Primates evolved thumbs](https://en.wikipedia.org/wiki/Thumb#Human_Evolution)
 - 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
 - 66.7 mya: The [first known bird](https://www.cam.ac.uk/stories/wonderchicken) existed: a recent common ancestor of chickens and ducks
@@ -253,15 +270,18 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 35 mya: An asteroid impacted Earth, creating the [Popigai crater](https://en.wikipedia.org/wiki/Popigai_crater) which is 90 km in diameter
 
 ### Color Vision
+
 - 29 mya: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
 - 25 mya: O₂ dropped to 0.21 atm
 
 ### No Tail
+
 - 20 mya: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
 - 15.7 mya: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
 - 14 mya: The [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption) occurred, extinctions related to cooling
 
 ## < 10 Million Years Ago
+
 - 9 mya: [Homininae](https://en.wikipedia.org/wiki/Homininae) [split](https://en.wikipedia.org/wiki/Orangutan%E2%80%93human_last_common_ancestor) from [orangutans](https://en.wikipedia.org/wiki/Orangutan)
 - 8 mya: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
 - 7 mya: [Hominina](https://en.wikipedia.org/wiki/Human_taxonomy#Hominina) [split](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor) from [Panina](https://en.wikipedia.org/wiki/Pan_%28genus%29), i.e. [chimpanzees](https://en.wikipedia.org/wiki/Chimpanzee) and [bonobos](https://en.wikipedia.org/wiki/Bonobo)
@@ -270,6 +290,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 4 mya: [Early humans evolved to walk on two legs (bipedalism)](https://en.wikipedia.org/wiki/Human_skeletal_changes_due_to_bipedalism)
 
 ### Tools
+
 - 3.4 mya: The [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in Ethiopia, near Gona)
 - 3.3 mya: [Early humans made large stone tools in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
 - 2.8 mya: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) evolved
@@ -280,9 +301,11 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1.07 mya: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana
 
 ### Fire
+
 - 1.0 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) [controlled fire](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans) in [Wonderwerk Cave](https://en.wikipedia.org/wiki/Wonderwerk_Cave), in the Asbestos Mountains of South Africa
 
 ## < 1 Million Years Ago
+
 - 990-950 kya: The [Jaramillo reversal](https://en.wikipedia.org/wiki/Jaramillo_reversal) of Earth's magnetic field occurred
 - 800 kya: CO₂ dipped below 190 ppm, global temp -9 °C from present
 - 790 kya: CO₂ peaked around 260 ppm, global temp -1 °C from present
@@ -318,6 +341,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 150 kya: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
 
 ### Anatomically Modern Humans
+
 - 140-110 kya: [Anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved a larger fore-brain, smaller teeth, and longer distal bones
 - 131 kya: [North African/Near Eastern wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
 - 128 kya: [Early humans cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
@@ -327,6 +351,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 ## < 100 Thousand Years Ago
 
 ### Clothing
+
 - 83 kya: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
 - 73 kya: The [Toba volcano erupted](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
 - 70-50 kya: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
@@ -349,10 +374,12 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 14.5 kya: [Humans made bread at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
 
 ### Dogs
+
 - 14.2 kya: [Dogs lived with humans](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog#Bonn%E2%80%93Oberkassel_dog) along the [Rhine River](https://en.wikipedia.org/wiki/Rhine)
 - 14.2-14.1 kya: The [Older Dryas](https://en.wikipedia.org/wiki/Older_Dryas) occurred, global temperatures declined sharply
 
 ### Agriculture
+
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
 - 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was around 80m below present
 - 13.5 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Abu Hureyra](https://en.wikipedia.org/wiki/Tell_Abu_Hureyra) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates): a few hundred people lived there year-round, the largest settlement of people anywhere at the time
@@ -373,7 +400,9 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 8000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 40m below present
 
 ## < 10 Thousand Years Ago
+
 ### Cats
+
 - 7500 BCE: [A farmer lived with a domesticated African wildcat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
 - 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 20m below present
 - 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
@@ -397,6 +426,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 3400 BCE: The [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline) began, with human settlements abandoned permanently, decreased cereal production, and the emergence of communicable diseases such as [pneumonic plague](https://en.wikipedia.org/wiki/Pneumonic_plague)
 
 ### Writing
+
 - 3300 BCE: The [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
 - 3300 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Uruk](https://en.wikipedia.org/wiki/Uruk) on the ancient channel of the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) wrote [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3300 BCE: People in the [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) wrote the [Indus script](https://en.wikipedia.org/wiki/Indus_script)
@@ -448,6 +478,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 458 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)' [tragedy](https://en.wikipedia.org/wiki/Greek_tragedy) [*The Oresteia*](https://en.wikipedia.org/wiki/Oresteia) won first prize in the Athens City [Dionysia festival](https://en.wikipedia.org/wiki/Dionysia)
 
 ### History
+
 - 440 BCE: [Herodotus](https://en.wikipedia.org/wiki/Herodotus) wrote [*The Histories*](https://en.wikipedia.org/wiki/Histories_%28Herodotus%29), establishing [historiography](https://en.wikipedia.org/wiki/Historiography)
 - 431-411 BCE [Thucydides](https://en.wikipedia.org/wiki/Thucydides) wrote the [*History of the Peloponnesian War*](https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War), establishing [scientific history](https://en.wikipedia.org/wiki/Historical_method) and documenting how the [Plague of Athens](https://en.wikipedia.org/wiki/Plague_of_Athens) spread via infection, an important milestone in the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
 - 430 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus), or someone else, wrote [Prometheus Bound](https://en.wikipedia.org/wiki/Prometheus_Bound) by this time
@@ -460,6 +491,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 375 BCE: [Plato](https://en.wikipedia.org/wiki/Plato) wrote the [*Republic*](https://en.wikipedia.org/wiki/Republic_%28Plato%29), an influential work on [philosophy](https://en.wikipedia.org/wiki/Philosophy) & [political theory](https://en.wikipedia.org/wiki/Political_philosophy)
 
 ### Medicine
+
 - 370 BCE: [Hippocrates](https://en.wikipedia.org/wiki/Hippocrates) by the time he died had written or inspired the [Hippocratic Corpus](https://en.wikipedia.org/wiki/Hippocratic_Corpus), [establishing medicine](https://en.wikipedia.org/wiki/History_of_medicine) and coining the [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath)
 - 370 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote:
   - [*Apology of Socrates to the Jury*](https://en.wikipedia.org/wiki/Apology_%28Xenophon%29)
@@ -478,6 +510,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) wrote *Aṣṭādhyāyī* on Sanskrit grammar
 
 ### Mathematics
+
 - 300 BCE: [Euclid](https://en.wikipedia.org/wiki/Euclid) wrote [*Elements*](https://en.wikipedia.org/wiki/Euclid%27s_Elements), beginning formal mathematics
 - 300 BCE: [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) founded [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 - 300 BCE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) wrote the [Bakhshali manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript) around this time, using *shunya-bindu* ("the dot of the empty place") to represent [zero](https://en.wikipedia.org/wiki/0) as a small circle
@@ -509,6 +542,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
 
 ## Common Era
+
 - 12 CE: [Livy](https://en.wikipedia.org/wiki/Livy) wrote [*Ab Urbe Condita Libri CXLII* (*From the Founding of the City in 142 Books*)](https://en.wikipedia.org/wiki/Ab_Urbe_Condita_Libri), a [history of ancient Rome](https://en.wikipedia.org/wiki/History_of_Rome)
 - 50 CE: The [Syriac alphabet](https://en.wikipedia.org/wiki/Syriac_alphabet) descended from the Palmyrene alphabet
 - 77 CE: [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder) wrote [*Naturalis Historia* (*Natural History*)](https://en.wikipedia.org/wiki/Natural_History_%28Pliny%29)
@@ -536,6 +570,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 613 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote *De natura rerum* (*On the Nature of Things*), mentioning "pestifera semina" ("plague-bearing seeds")
 
 ### Zero
+
 - 628 CE: [Brahmagupta](https://en.wikipedia.org/wiki/Brahmagupta) wrote the [Brāhmasphuṭasiddhānta](https://en.wikipedia.org/wiki/Br%C4%81hmasphu%E1%B9%ADasiddh%C4%81nta), demonstrating [zero](https://en.wikipedia.org/wiki/0) and [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 630 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote [*Etymologiae* (*Etymologies*)](https://en.wikipedia.org/wiki/Etymologiae), an influential [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 661 CE: [Muawiyah I](https://en.wikipedia.org/wiki/Muawiyah_I) founded the [Umayyad Caliphate](https://en.wikipedia.org/wiki/Umayyad_Caliphate), and the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library in [Damascus](https://en.wikipedia.org/wiki/Damascus)
@@ -545,6 +580,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 813 CE: [Al-Ma'mun](https://en.wikipedia.org/wiki/Al-Ma'mun) expanded the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library in [Baghdad](https://en.wikipedia.org/wiki/Baghdad)
 
 ### Algebra
+
 - 820 CE: [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote [*Al-jabr*](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) ("reunion of broken parts"), the basis of [algebra](https://en.wikipedia.org/wiki/Algebra)
 - 825 CE: [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote *On the Calculation with Hindu Numerals*, including an explanation of [zero](https://en.wikipedia.org/wiki/0)
 - 830 CE: [Al-Kindi](https://en.wikipedia.org/wiki/Al-Kindi) wrote *On the Use of the Hindu Numerals*
@@ -555,6 +591,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 915 CE: [Al-Tabari](https://en.wikipedia.org/wiki/Al-Tabari) wrote his [*History of the Prophets and Kings*](https://en.wikipedia.org/wiki/History_of_the_Prophets_and_Kings), a detailed and comprehensive chronicle of Mediterranean and Middle Eastern history
 
 ### Soap
+
 - 932 CE: [Al-Razi, a.k.a. Rhazes](https://en.wikipedia.org/wiki/Muhammad_ibn_Zakariya_al-Razi) wrote [*Al-Hawi* (*The Comprehensive Book on Medicine*)](https://en.wikipedia.org/wiki/Al-Hawi), and many other books on medicine, philosophy, and chemistry, describing the modern recipe for [soap](https://en.wikipedia.org/wiki/Soap) by the time he died
 - 946 CE: The [Paektu volcano erupted](https://en.wikipedia.org/wiki/946_eruption_of_Paektu_Mountain) in [Manchuria](https://en.wikipedia.org/wiki/Manchuria)
 - 947 CE: [Al-Masudi](https://en.wikipedia.org/wiki/Al-Masudi) wrote the first edition of [*Murūj aḏ-Ḏahab wa-Maʿādin al-Jawhar* (*Meadows of Gold and Mines of Gems*)](https://en.wikipedia.org/wiki/The_Meadows_of_Gold), a book on [world history](https://en.wikipedia.org/wiki/World_history), the first to combine history and [scientific](https://en.wikipedia.org/wiki/Science) [geography](https://en.wikipedia.org/wiki/Geography) in a large-scale work
@@ -591,6 +628,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1377 CE: [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) wrote the [*Muqaddimah* (*Prolegomena* or *Introduction*)](https://en.wikipedia.org/wiki/Muqaddimah), the first book of the *Kitāb al-ʻIbar* (*Book of Lessons*): an early view of [universal history](https://en.wikipedia.org/wiki/Universal_history) that introduced the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to the [social sciences](https://en.wikipedia.org/wiki/Social_science), and included an outline of the labor [theory of value](https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29), an early example of [political economy](https://en.wikipedia.org/wiki/Political_economy)
 
 ### Printing
+
 - 1440 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) invented the [printing press](https://en.wikipedia.org/wiki/Printing_press)
 - 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
 - 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of the Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
@@ -598,6 +636,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1489 CE: [Poliziano (a.k.a. Politianus)](https://en.wikipedia.org/wiki/Poliziano) published *Miscellanea*, an influential series of discursive essays on philology and [criticism](https://en.wikipedia.org/wiki/Criticism)
 
 ## 1500s
+
 - 1501 CE: [Giorgio Valla](https://en.wikipedia.org/wiki/Giorgio_Valla) published *De expetendis et fugiendis rebus* (*On Desired & Avoided Affairs*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) containing newly discovered and translated [ancient Greek mathematical](https://en.wikipedia.org/wiki/Greek_mathematics) texts
 - 1503 CE: [Gregor Reisch](https://en.wikipedia.org/wiki/Gregor_Reisch%29) published the *Margarita Philosophica*, an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) explaining the [7 liberal arts](https://en.wikipedia.org/wiki/Liberal_arts_education#Seven_liberal_arts)
 - 1532 CE: [Niccolò Machiavelli's](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) published
@@ -616,6 +655,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1599 CE: [Nurhaci](https://en.wikipedia.org/wiki/Nurhaci) adapted [Mongolian script](https://en.wikipedia.org/wiki/Mongolian_script) into the [Manchu alphabet](https://en.wikipedia.org/wiki/Manchu_alphabet)
 
 ## 1600s
+
 - 1603 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) posthumously published *Astronomiae Instauratae Progymnasmata* (*Introduction to the New Astronomy*)
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomia nova* (*New Astronomy*), the foundation of planetary motion
@@ -645,10 +685,12 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1661 CE: [Robert Boyle](https://en.wikipedia.org/wiki/Robert_Boyle) published [*The Sceptical Chymist*](https://en.wikipedia.org/wiki/The_Sceptical_Chymist)
 
 ### Cell Biology
+
 - 1665 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) published [*Micrographia*](https://en.wikipedia.org/wiki/Micrographia), coining the biological term [cell](https://en.wikipedia.org/wiki/Cell_%28biology%29)
 - 1666 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) described a [reflecting instrument](https://en.wikipedia.org/wiki/Reflecting_instrument), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
 
 ### Calculus
+
 - 1667 CE: [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) published *Lectiones Opticae et Geometricae* (*Optics & Geometrics Lessons*), demonstrating the [fundamental theorem of calculus](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus)
 - 1668 CE: [Francesco Redi](https://en.wikipedia.org/wiki/Francesco_Redi) published *Esperienze Intorno alla Generazione degli Insetti* (*Experiments on the Generation of Insects*), disproving [spontaneous generation](https://en.wikipedia.org/wiki/Spontaneous_generation) by an experiment using a sealed jar
 - 1669 CE: [Nicolas Steno](https://en.wikipedia.org/wiki/Nicolas_Steno) published *De solido intra solidum naturaliter contento dissertationis prodromus* (*Preliminary discourse to a dissertation on a solid body naturally contained within a solid*), defining [stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy), and founding [geology](https://en.wikipedia.org/wiki/Geology), [paleontology](https://en.wikipedia.org/wiki/Paleontology), and [crystallography](https://en.wikipedia.org/wiki/Crystallography)
@@ -665,6 +707,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1686 CE: [Edmond Halley](https://en.wikipedia.org/wiki/Edmond_Halley) published *An Historical Account of the Trade Winds, and Monsoons, Observable in the Seas between and Near the Tropicks, with an Attempt to Assign the Phisical Cause of the Said Winds*, identifying solar heating as the cause of atmospheric motions, establishing the relationship between [barometric pressure](https://en.wikipedia.org/wiki/Barometer) and height above sea level, and contributing to the field of [information visualization](https://en.wikipedia.org/wiki/Information_visualization)
 
 ### Principia
+
 - 1687 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [*Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy)*](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica) 1st edition, introducing [Newton's laws of motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion) and [universal gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation), and founding [classical mechanics](https://en.wikipedia.org/wiki/Classical_mechanics)
 - 1689 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*Two Treatises of Government*](https://en.wikipedia.org/wiki/Two_Treatises_of_Government)
 - 1690 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) published [*An Essay Concerning Human Understanding*](https://en.wikipedia.org/wiki/An_Essay_Concerning_Human_Understanding)
@@ -677,6 +720,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1699 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) invented the [octant](https://en.wikipedia.org/wiki/Octant_%28instrument%29), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
 
 ## 1700s
+
 - 1703 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) posthumously published *De motu corporum ex percussione*, describing [elastic collision](https://en.wikipedia.org/wiki/Elastic_collision)
 - 1704 CE: [John Harris](https://en.wikipedia.org/wiki/John_Harris_%28writer%29) published his *Lexicon Technicum* (*Technical Dictionary*), the first alphabetical [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) in English
 - 1704 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published [*Opticks*](https://en.wikipedia.org/wiki/Opticks)
@@ -718,6 +762,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1759 CE: [John Smeaton](https://en.wikipedia.org/wiki/John_Smeaton) completed [Smeaton's Tower](https://en.wikipedia.org/wiki/Smeaton%27s_Tower), reintroducing [hydraulic lime](https://en.wikipedia.org/wiki/Hydraulic_lime) as a building material, previously used by the ancient Greek and Roman civilizations
 
 ### Metal Lathe
+
 - 1760 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the [metal lathe](https://en.wikipedia.org/wiki/Metal_lathe), [photo here](https://artsandculture.google.com/asset/metal-turning-lathe/kwGbpYqKSyzcSg)
 - 1762 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison)'s son demonstrated the H4 on a transatlantic voyage
 - 1762 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Du contrat social* (*The Social Contract*)](https://en.wikipedia.org/wiki/The_Social_Contract)
@@ -734,6 +779,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1770 CE: [Alexander Cumming](https://en.wikipedia.org/wiki/Alexander_Cumming) invented the [microtome](https://en.wikipedia.org/wiki/Microtome), and [John Hill](https://en.wikipedia.org/wiki/John_Hill_%28botanist%29) published *The Construction of Timber from its Early Growth* describing the device, which cuts thin slices of material for microscopy
 
 ### Flush Toilet
+
 - 1775 CE: [Alexander Cumming](https://en.wikipedia.org/wiki/Alexander_Cumming) patented improvements to the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet), including the [S-bend](https://en.wikipedia.org/wiki/Trap_%28plumbing%29) to prevent odor, and a mechanism to flush and refill with one handle
 - 1776 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*Wealth of Nations*](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
 - 1776 CE: [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine) published [*Common Sense*](https://en.wikipedia.org/wiki/Common_Sense), advocating independence from Britain
@@ -763,6 +809,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1798 CE: [Priscilla Wakefield](https://en.wikipedia.org/wiki/Priscilla_Wakefield) published *Reflection on the Present Condition of the Female Sex; with Suggestions for its Improvement*, promoting [feminist economics](https://en.wikipedia.org/wiki/Feminist_economics)
 
 ## 1800s
+
 - 1800 CE: [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) published a description of an [electric battery](https://en.wikipedia.org/wiki/History_of_the_battery)
 - 1801 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published [*Disquisitiones Arithmeticae* (*Arithmetical Investigations*)](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae)
 - 1801 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published *Delineation of the Strata of England*
@@ -780,6 +827,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1808 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Functions of the Heart and Arteries*
 
 ### 1810s
+
 - 1810 CE: [George Cayley](https://en.wikipedia.org/wiki/George_Cayley) published *On Aerial Navigation*
 - 1810 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Beyträge zu einer begründeteren Darstellung der Mathematik* (*Contributions to a more justified representation of mathematics*)
 - 1810 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Vues des cordillères et monuments des peuples indigènes de l'Amerique* (*Views of the cordilleras and monuments of the indigenous peoples of America*)
@@ -804,6 +852,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1819 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published *Strata Identified by Organized Fossils*
 
 ### 1820s
+
 - 1821 CE: [Joseph von Fraunhofer](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) developed a [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1821 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published [*Cours d'Analyse* (*Analysis Course*)](https://en.wikipedia.org/wiki/Cours_d%27Analyse)
 - 1821 CE: [James Mill](https://en.wikipedia.org/wiki/James_Mill) published *Elements of Political Economy*
@@ -822,6 +871,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1829 CE: [Peter Gustav Lejeune Dirichlet](https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet) published *Sur la convergence des séries trigonométriques qui servent à représenter une fonction arbitraire entre des limites données* (*On the convergence of trigonometric series that serve to represent an arbitrary function between given limits*) showing for which functions the convergence of the [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) holds, under [certain conditions](https://en.wikipedia.org/wiki/Dirichlet_conditions), and giving the modern definition of a [function](https://en.wikipedia.org/wiki/Function_%28mathematics%29)
 
 ### 1830s
+
 - 1831 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Fragments de géologie et de climatologie asiatiques* (*Fragments of Asian geology and climatology*)
 - 1833 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Principles of Geology*](https://en.wikipedia.org/wiki/Principles_of_Geology)
 - 1835 CE: [Jacques Charles François Sturm](https://en.wikipedia.org/wiki/Jacques_Charles_Fran%C3%A7ois_Sturm) published *Mémoire sur la résolution des équations numériques* (*Memoir on the solution of equations with numerical coefficients*)
@@ -831,6 +881,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1839 CE: [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) published *Experimental Researches in Electricity*
 
 ### 1840s
+
 - 1840 CE: [Louis Agassiz](https://en.wikipedia.org/wiki/Louis_Agassiz) published *Études sur les glaciers* (*Studies on Glaciers*)
 - 1840 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published *Dioptrische Untersuchungen* (*Dioptric examinations*)
 - 1841 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the uniform motion of heat in homogeneous solid bodies, and its connection with the mathematical theory of electricity*
@@ -846,6 +897,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 
 #### Anesthesia
+
 - 1847 CE: [John Snow](https://en.wikipedia.org/wiki/John_Snow) published *On the Inhalation of the Vapor of Ether*, one of the first studies of [anesthesia](https://en.wikipedia.org/wiki/Anesthetic)
 - 1848 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Mémoire sur la relation qui peut exister entre la forme cristalline et la composition chimique, et sur la cause de la polarisation rotatoire* (*Memoir on the relationship that can exist between crystalline form and chemical composition, and on the cause of rotary polarization*), demonstrating [molecular chirality](https://en.wikipedia.org/wiki/Chirality_%28chemistry%29) and explaining [isomers](https://en.wikipedia.org/wiki/Isomer)
 - 1848 CE: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) published [*Principles of Political Economy*](https://en.wikipedia.org/wiki/Principles_of_Political_Economy)
@@ -854,6 +906,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1849 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Aspects of nature, in different lands and different climates with scientific elucidations*
 
 ### 1850s
+
 - 1850 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *Ueber die bewegende Kraft der Wärme* (*On the Moving Force of Heat*)
 - 1850 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Views of nature, or, Contemplations on the sublime phenomena of creation: with scientific illustrations (1850)*
 - 1850 CE: [August Schleicher](https://en.wikipedia.org/wiki/August_Schleicher) completed *Die Sprachen Europas in systematischer Uebersicht* (*The Languages of Europe in Systematic Perspective*), comparing language evolution with biology
@@ -874,6 +927,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1855 CE: [William Nicholson](https://en.wikipedia.org/wiki/William_Nicholson_%28Australian_politician%29) proposed using [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot) in Victoria, Australia
 
 #### Telegraph
+
 - 1856 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphs*](https://patents.google.com/patent/US14917A)
 - 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian functions*)
 - 1856 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the thermal effects of fluids in motion*, describing the [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect) and promoting the [kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases)
@@ -888,6 +942,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1859 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Notes on Nursing: What Nursing Is, What Nursing is Not*](https://archive.org/stream/notesnursingwhat00nigh#page/n5/mode/2up), establishing the field of [nursing](https://en.wikipedia.org/wiki/Nursing) as a profession, and promoting [hygiene](https://en.wikipedia.org/wiki/Hygiene)
 
 ### 1860s
+
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) invented the [single lens reflex (SLR) camera](https://en.wikipedia.org/wiki/Single-lens_reflex_camera)
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) & [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) demonstrated [color photography](https://en.wikipedia.org/wiki/Color_photography)
 - 1861 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*On Physical Lines of Force*](https://en.wikipedia.org/wiki/On_Physical_Lines_of_Force)
@@ -904,6 +959,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1866 CE: [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) published *Generelle Morphologie der Organismen* (*General morphology of organisms*)
 
 #### Antiseptics
+
 - 1867 CE: [Joseph Lister](https://en.wikipedia.org/wiki/Joseph_Lister) published [*On the Antiseptic Principle in the Practice of Surgery*](https://en.wikipedia.org/wiki/Antiseptic_Principle_of_the_Practice_of_Surgery)
 - 1867 CE: [Rudolf Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) published *The Mechanical Theory of Heat*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics) and coining ["entropy"](https://en.wikipedia.org/wiki/Entropy)
 - 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
@@ -913,6 +969,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1869 CE: [Dmitri Mendeleev](https://en.wikipedia.org/wiki/Dmitri_Mendeleev) presented *The Dependence between the Properties of the Atomic Weights of the Elements*, describing his [periodic table of the elements](https://en.wikipedia.org/wiki/Periodic_table), which he saw in a dream
 
 ### 1870s
+
 - 1870 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Logic of Relatives*, extending the [theory of relations](https://en.wikipedia.org/wiki/Finitary_relation)
 - 1870 CE: [Benjamin Peirce](https://en.wikipedia.org/wiki/Benjamin_Peirce) published [*Linear Associative Algebra*](http://legacy-www.math.harvard.edu/history/peirce_algebra/), coining the terms [idempotent](https://en.wikipedia.org/wiki/Idempotence) and [nilpotent](https://en.wikipedia.org/wiki/Nilpotent)
 - 1871 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Introductory Notes on Lying-In Institutions*](https://archive.org/stream/introductorynot00nighgoog#page/n6/mode/2up)
@@ -929,6 +986,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1878 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Les Microbes organisés, leur rôle dans la Fermentation, la Putréfaction et la Contagion* (*Organized Microbes, their role in Fermentation, Putrefaction, and Contagion*), confirming the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
 
 #### Statistics
+
 - 1878 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Illustrations of the Logic of Science*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
 - 1878 CE: [Eadweard Muybridge](https://en.wikipedia.org/wiki/Eadweard_Muybridge) photographed [*The Horse in Motion*](https://en.wikipedia.org/wiki/The_Horse_in_Motion), the first real-time motion picture sequence
 - 1878 CE: [Albrecht Kossel](https://en.wikipedia.org/wiki/Albrecht_Kossel) & Albert Neumann published *Ueber das Thymin, ein Spaltungsproduct der Nucleïnsäure* (*On [thymine](https://en.wikipedia.org/wiki/Thymine), a cleavage product of [nucleic acid](https://en.wikipedia.org/wiki/Nucleic_acid)*)
@@ -936,6 +994,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1879 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (*concept-script*)
 
 ### 1880s
+
 - 1880 CE: [Thomas Crapper](https://en.wikipedia.org/wiki/Thomas_Crapper) invented the [U-bend](https://en.wikipedia.org/wiki/Trap_%28plumbing%29) which does not jam, unlike the S-bend, improving the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet)
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra) with One Constant*
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Logic of Number*, describing [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
@@ -954,12 +1013,14 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1886 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Traitement de la Rage* (*Treatment of Rabies*)
 
 #### Telephone
+
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Transmitting and recording sounds by radiant energy*
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Reproducing sounds from phonograph records*
 - 1889 CE: [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) published [*Arithmetices principia, nova methodo exposita* (*principles of arithmetic, presented by a new method*)](https://en.wikipedia.org/wiki/Arithmetices_principia,_nova_methodo_exposita), simplifying earlier work to formulate [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1889 CE: [William Stewart Halsted](https://en.wikipedia.org/wiki/William_Stewart_Halsted) asked [Goodyear](https://en.wikipedia.org/wiki/Goodyear_Tire_and_Rubber_Company) to make [rubber gloves](https://en.wikipedia.org/wiki/Rubber_glove), to prevent [dermatitis](https://en.wikipedia.org/wiki/Dermatitis) from [antiseptics](https://en.wikipedia.org/wiki/Antiseptic)
 
 ### 1890s
+
 - 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
 - 1892 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Value, Capital and Rent*
 - 1894 CE: [Heinrich Hertz](https://en.wikipedia.org/wiki/Heinrich_Hertz) published *The Principles of Mechanics Presented in a New Form*
@@ -970,6 +1031,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1895 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 1* (*Contributions to the foundation of the transfinite set theory 1*)
 
 #### Radio
+
 - 1896 CE: [Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi) patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
 - 1896 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Studies in the theory of Public Finance*
 - 1896 CE: [Scipione Riva-Rocci](https://en.wikipedia.org/wiki/Scipione_Riva-Rocci) invented the [sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer), a noninvasive method for measuring blood pressure
@@ -981,6 +1043,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1899 CE: [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert) published *Grundlagen der Geometrie* (*Foundations of Geometry*)
 
 ## 1900s
+
 - 1900 CE: [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) published *Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum* (*On the Theory of the Energy Distribution Law of the Normal Spectrum*), originating [quantum theory](https://en.wikipedia.org/wiki/Quantum_mechanics)
 - 1900 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Folgerungen aus den Capillaritätserscheinungen* (*Conclusions Drawn from the Phenomena of Capillarity*)
 - 1900 CE: [Alberto Ascoli](https://en.wikipedia.org/wiki/Alberto_Ascoli) published *Ueber ein neues Spaltungsprodukt des Hefenucleins* (*On a new cleavage product of [nucleic acid](https://en.wikipedia.org/wiki/Nucleic_acid) from yeast*), describing [uracil](https://en.wikipedia.org/wiki/Uracil)
@@ -1005,6 +1068,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1907 CE: [Bertram Boltwood](https://en.wikipedia.org/wiki/Bertram_Boltwood) published *On the Ultimate Disintegration Products of the Radio-active Elements. Part II. The disintegration products of uranium*, describing [radiometric dating](https://en.wikipedia.org/wiki/Radiometric_dating)
 
 #### Assembly Line
+
 - 1908 CE: [Ford Motor Company](https://en.wikipedia.org/wiki/Ford_Motor_Company) first sold the [Model T automobile](https://en.wikipedia.org/wiki/Ford_Model_T), horses greatly outnumbered them
 - 1908 CE: [Georgy Voronoy](https://en.wikipedia.org/wiki/Georgy_Voronoy) published *Nouvelles applications des paramètres continus à la théorie de formes quadratiques* (*New applications of continuous parameters to the theory of quadratic forms*), formally defining [Voronoi diagrams](https://en.wikipedia.org/wiki/Voronoi_diagram)
 - 1908 CE: [Phoebus Levene](https://en.wikipedia.org/wiki/Phoebus_Levene) & J. A. Mandel published *Über die konstitution der thymo-nucleinsäure*, describing the components of [DNA](https://en.wikipedia.org/wiki/DNA)
@@ -1015,6 +1079,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - *Über die Hefe-Nucleinsäure* (*On the yeast nucleic acid*)
 
 ### 1910s
+
 - 1910 CE: [Konstantin Mereschkowski](https://en.wikipedia.org/wiki/Konstantin_Mereschkowski) published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms*
 - 1911 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *On the Influence of Gravitation on the Propagation of Light*, allowing [general relativity](https://en.wikipedia.org/wiki/General_relativity) to be tested
 - 1911 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Association of Lead with Uranium in Rock-Minerals, and Its Application to the Measurement of Geological Time*, describing the first accurate [uranium-lead radiometric dating](https://en.wikipedia.org/wiki/Uranium%E2%80%93lead_dating)
@@ -1034,6 +1099,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1919 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The Economic Consequences of the Peace*](https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace)
 
 ### 1920s
+
 - 1920 CE: [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells) published [*The Outline of History*](https://en.wikipedia.org/wiki/The_Outline_of_History)
 - 1920 CE: [Frank Watson Dyson](https://en.wikipedia.org/wiki/Frank_Watson_Dyson), [Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington) & C. R. Davidson published *A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Solar eclipse of May 29, 1919*, confirming Einstein's [general theory of relativity](https://en.wikipedia.org/wiki/General_relativity)
 - 1920 CE: [Arthur Eddington](https://en.wikipedia.org/wiki/Arthur_Eddington) published *The Internal Constitution of the Stars*, anticipating the discovery of [nuclear fusion](https://en.wikipedia.org/wiki/Nuclear_fusion)
@@ -1062,6 +1128,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1929 CE: [Alexander Fleming](https://en.wikipedia.org/wiki/Alexander_Fleming) published *On the antibacterial action of cultures of a penicillium, with special reference to their use in the isolation of B. influenzae*
 
 ### 1930s
+
 - 1930 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*A Treatise on Money*](https://en.wikipedia.org/wiki/A_Treatise_on_Money)
 - 1930 CE: [Henry Ford](https://en.wikipedia.org/wiki/Henry_Ford) & [Samuel Crowther](https://en.wikipedia.org/wiki/Samuel_Crowther_%28journalist%29) published *Moving Forward*
 - 1930 CE: [Bartel Leendert van der Waerden](https://en.wikipedia.org/wiki/Bartel_Leendert_van_der_Waerden) published [*Moderne Algebra*](https://en.wikipedia.org/wiki/Moderne_Algebra), an influential textbook on [abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra) based on lectures by [Emil Artin](https://en.wikipedia.org/wiki/Emil_Artin) & [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether)
@@ -1076,6 +1143,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1935 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *Our Oriental Heritage*, the 1st volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 
 #### Turing Machine
+
 - 1936 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *On Computable Numbers, with an Application to the Entscheidungsproblem*, describing [Turing machines](https://en.wikipedia.org/wiki/Turing_machine)
 - 1936 CE: [Theodore P. Wright](https://en.wikipedia.org/wiki/Theodore_Paul_Wright) published *Factors affecting the costs of airplanes* describing [Wright's Law](https://en.wikipedia.org/wiki/Experience_curve_effects)
 - 1936 CE: [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) published *An unsolvable problem of elementary number theory*
@@ -1098,6 +1166,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1939 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Life of Greece*, the 2nd volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 
 ### 1940s
+
 - 1940 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*How to Pay for the War*](https://en.wikipedia.org/wiki/How_to_Pay_for_the_War), discussing [price controls](https://en.wikipedia.org/wiki/Price_controls)
 - 1941 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *The Applications of Probability to Cryptography* & *Paper on Statistics of Repetitions*
 - 1942 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Principle of Least Action in Quantum Mechanics*
@@ -1120,6 +1189,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1949 CE: [Dorothy Crowfoot Hodgkin](https://en.wikipedia.org/wiki/Dorothy_Hodgkin) et al. published *X-ray crystallographic investigation of the structure of penicillin*
 
 ### 1950s
+
 - 1950 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Age of Faith*, the 4th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1950 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published [*Computing Machinery and Intelligence*](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence), introducing the [Turing test](https://en.wikipedia.org/wiki/Turing_test)
 - 1950 CE: [Zhou Youguang](https://en.wikipedia.org/wiki/Zhou_Youguang) published *Hànyǔ pīnyīn cíhuì* (*Chinese phonetic alphabet glossary*), describing how to write Chinese characters using the Latin alphabet, abbreviated [pinyin](https://en.wikipedia.org/wiki/Pinyin)
@@ -1153,6 +1223,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1959 CE: [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) published *[Time Sharing](https://en.wikipedia.org/wiki/Time-sharing) in Large Fast Computers*
 
 ### 1960s
+
 - 1960 CE: [François Jacob](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacob), Perrin, Sánchez, & [Jacques Monod](https://en.wikipedia.org/wiki/Jacques_Monod) published *L'opéron: groupe de gènes à expression coordonnée par un opérateur* (*Operon: a group of genes with the expression coordinated by an operator*), describing genetic feedback loops
 - 1960 CE: [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_%28computer_scientist%29) published *Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I*, describing the [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_%28programming_language%29)
 - 1960 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Continuous geometry*
@@ -1200,6 +1271,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1968 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) & [Bob Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29) published *The Computer as a Communication Device*, describing [online communities](https://en.wikipedia.org/wiki/Online_community)
 
 #### Internet
+
 - 1969 CE: Charley Kline sent the first message across [ARPANET](https://en.wikipedia.org/wiki/ARPANET) from UCLA to SRI: the letters "lo"
 - 1969 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 2*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - 1969 CE: [NASA's Apollo 11 mission](https://en.wikipedia.org/wiki/Apollo_11) landed 2 people on the Moon, and returned them to the Earth alive
@@ -1211,6 +1283,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1969 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb), Edward Mosher, & Raymond Lorie developed [Generalized Markup Language (GML)](https://en.wikipedia.org/wiki/IBM_Generalized_Markup_Language), the first markup language
 
 ### 1970s
+
 - 1970 CE: [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) published *A [Relational Model](https://en.wikipedia.org/wiki/Relational_model) of Data for Large Shared Data Banks*
 - 1970 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) ported Unix to the PHP-11/20 in assembly
 - 1970 CE: [Wayne R. Moore](https://en.wikipedia.org/wiki/Wayne_Moore_%28swimmer%29) published *Foundations of Mechanical Accuracy*
@@ -1245,6 +1318,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1979 CE: [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) patented his [*Method of providing digital signatures*](https://patents.google.com/patent/US4309569), a.k.a. a hash tree or [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
 
 ### 1980s
+
 - 1981 CE: [Brian Reid](https://en.wikipedia.org/wiki/Brian_Reid_%28computer_scientist%29) presented *[Scribe](https://en.wikipedia.org/wiki/Scribe_%28markup_language%29): A Document Specification Language and its Compiler* at the Conference on Research and Trends in Document Preparation Systems at Lausanne, Switzerland, where [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) presented [Generalized Markup Language (GML)](https://en.wikipedia.org/wiki/IBM_Generalized_Markup_Language)
 - 1982 CE: [David Chaum](https://en.wikipedia.org/wiki/David_Chaum) published *Computer Systems Established, Maintained, and Trusted by Mutually Suspicious Groups*, proposing cryptographically linked record keeping, a.k.a. [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - 1982 CE: [Stephen Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) published *Principles and practice in second language acquisition*, developing the [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
@@ -1264,11 +1338,13 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1989 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 1* (GPLv1)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 
 ### 1990s
+
 - 1990 CE: CO₂ exceeded 360 ppm
 - 1990 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) et al. published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
 - 1990 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) published *The [SGML](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) Handbook*
 
 #### World Wide Web
+
 - 1991 CE: [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) invented the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web), a [hypertext](https://en.wikipedia.org/wiki/Hypertext) [information system](https://en.wikipedia.org/wiki/Information_system) on the [Internet](https://en.wikipedia.org/wiki/Internet)
 - 1991 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 2* (GPLv2)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1991 CE: [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) released the [Python programming language](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
@@ -1296,6 +1372,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - [Measurements of Omega and Lambda from 42 High-Redshift Supernovae](https://arxiv.org/abs/astro-ph/9812133)
 
 ## 2000s
+
 - 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2000 CE: CO₂ exceeded 370 ppm
 - 2000 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published the *Feynman Lectures on Computation*
@@ -1332,6 +1409,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 2009 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Node.js](https://en.wikipedia.org/wiki/Node.js) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 
 ### 2010s
+
 - 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPad](https://en.wikipedia.org/wiki/IPad), a practical [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics) [tablet computer](https://en.wikipedia.org/wiki/Tablet_computer) with a [capacitive touchscreen](https://en.wikipedia.org/wiki/Touchscreen#Capacitive), popularizing [multitouch displays](https://en.wikipedia.org/wiki/Multi-touch)
 - 2011 CE: CO₂ exceeded 390 ppm
 - 2011 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 4A*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
@@ -1346,17 +1424,20 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 2015 CE: [Mozilla](https://en.wikipedia.org/wiki/Mozilla) released version 1.0 of the [Rust programming language](https://en.wikipedia.org/wiki/Rust_%28programming_language%29), designed by Graydon Hoare, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 
 #### [Reusable Orbital Rockets](https://en.wikipedia.org/wiki/Reusable_launch_system)
+
 - 2017 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [reused an orbital rocket, and recovered it](https://en.wikipedia.org/wiki/SES-10), economically reusing an orbital launch system for the first time
 - 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
 - 2018 CE: Daily average CO₂ exceeded 410 ppm
 
 ### 2020s
+
 - 2020 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [launched the first commercial crewed orbital flight, and landed the first stage](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2)
 - 2020 CE: [Apple switched from Intel x86 chips to a custom ARM design](https://en.wikipedia.org/wiki/Apple_M1)
 
 ---
 
 ## Resources
+
 - [Definitions](#definitions)
 - [Lists](#lists)
 - [Sources](#sources)
@@ -1372,6 +1453,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - [History of technology](#history-of-technology)
 
 ### Definitions
+
 - [Anthology](https://en.wikipedia.org/wiki/Anthology): a curated collection of literary works
 - [Archaeological record](https://en.wikipedia.org/wiki/Archaeological_record)
 - [Attested language](https://en.wikipedia.org/wiki/Attested_language)
@@ -1387,6 +1469,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [Synchronoptic view](https://en.wikipedia.org/wiki/Synchronoptic_view)
 
 ### Lists
+
 - [Antiquarian science books](https://en.wikipedia.org/wiki/Antiquarian_science_books)
 - [Center of origin](https://en.wikipedia.org/wiki/Center_of_origin)
 - [Editio princeps](https://en.wikipedia.org/wiki/Editio_princeps)
@@ -1441,6 +1524,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - [List of systems of plant taxonomy](https://en.wikipedia.org/wiki/List_of_systems_of_plant_taxonomy)
 
 ### Sources
+
 - [Catalogue of Life](https://www.catalogueoflife.org/)
 - [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
 - [Earth Impact Database](http://www.passc.net/EarthImpactDatabase/New%20website_05-2018/Diametersort.html)
@@ -1464,6 +1548,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [Wikiversity](https://en.wikiversity.org/)
 
 ### Videos
+
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
   - [Extra History: Chronological Order (Pre-History - 1699 CE)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BuNVhOt8Ls82Cr20yo6Y_p)
   - [Extra History: Chronological Order (1700 CE - Present)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BNTUc1fwlXFuodoGo_u6TH)
@@ -1475,6 +1560,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [The History Guy](https://www.youtube.com/channel/UC4sEmXUuWIFlxRIFBRV6VXQ)
 
 ### Subjects
+
 - [Anthropology](https://en.wikipedia.org/wiki/Anthropology): the scientific study of humans
 - [Archaeology](https://en.wikipedia.org/wiki/Archaeology): the study of human activity via [material culture](https://en.wikipedia.org/wiki/Material_culture)
 - [Auxiliary sciences of history](https://en.wikipedia.org/wiki/Auxiliary_sciences_of_history)
@@ -1506,6 +1592,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [Philosophy of history](https://en.wikipedia.org/wiki/Philosophy_of_history)
 
 ### [More Timelines](https://en.wikipedia.org/wiki/List_of_timelines)
+
 - [Chronology of the Universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe)
 - [Detailed logarithmic timeline](https://en.wikipedia.org/wiki/Detailed_logarithmic_timeline)
 - [Science timelines](https://en.wikipedia.org/wiki/Category:Science_timelines)
@@ -1598,7 +1685,9 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - [Timelines of modern history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)
 
 ### More History
+
 #### [History of the world](https://en.wikipedia.org/wiki/History_of_the_world)
+
 - [History of globalization](https://en.wikipedia.org/wiki/History_of_globalization)
 - [History of human sexuality](https://en.wikipedia.org/wiki/History_of_human_sexuality)
 - [History of ideas](https://en.wikipedia.org/wiki/History_of_ideas)
@@ -1607,6 +1696,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [Political history of the world](https://en.wikipedia.org/wiki/Political_history_of_the_world)
 
 #### By Era
+
 - [History of Earth](https://en.wikipedia.org/wiki/History_of_Earth)
 - [Geological history of Earth](https://en.wikipedia.org/wiki/Geological_history_of_Earth)
 - [Evolutionary history of life](https://en.wikipedia.org/wiki/Evolutionary_history_of_life)
@@ -1625,6 +1715,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - [Scientific Revolution](https://en.wikipedia.org/wiki/Scientific_Revolution)
 
 #### [History of communication](https://en.wikipedia.org/wiki/History_of_communication)
+
 - [History of art](https://en.wikipedia.org/wiki/History_of_art)
   - [History of painting](https://en.wikipedia.org/wiki/History_of_painting)
 - [History of language (historical linguistics)](https://en.wikipedia.org/wiki/Historical_linguistics)
@@ -1639,6 +1730,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
   - [History of the Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/History_of_the_Hindu%E2%80%93Arabic_numeral_system)
 
 #### [History of science](https://en.wikipedia.org/wiki/History_of_science)
+
 - [History of biology](https://en.wikipedia.org/wiki/History_of_biology)
 - [History of chemistry](https://en.wikipedia.org/wiki/History_of_chemistry)
   - [History of molecular theory](https://en.wikipedia.org/wiki/History_of_molecular_theory)
@@ -1660,6 +1752,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [History of thermodynamics](https://en.wikipedia.org/wiki/History_of_thermodynamics)
 
 ##### [History of the social sciences](https://en.wikipedia.org/wiki/History_of_the_social_sciences)
+
 - [Economic history of the world](https://en.wikipedia.org/wiki/Economic_history_of_the_world)
 - [History of anthropology](https://en.wikipedia.org/wiki/History_of_anthropology)
   - [Evolution of human intelligence](https://en.wikipedia.org/wiki/Evolution_of_human_intelligence)
@@ -1676,6 +1769,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [History of psychology](https://en.wikipedia.org/wiki/History_of_psychology)
 
 #### [History of technology](https://en.wikipedia.org/wiki/History_of_technology)
+
 - [History of agriculture](https://en.wikipedia.org/wiki/History_of_agriculture)
 - [History of cartography](https://en.wikipedia.org/wiki/History_of_cartography)
 - [History of computing](https://en.wikipedia.org/wiki/History_of_computing)
@@ -1720,4 +1814,3 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [History of the telescope](https://en.wikipedia.org/wiki/History_of_the_telescope)
 - [History of underwater diving](https://en.wikipedia.org/wiki/History_of_underwater_diving)
 - [History of water supply and sanitation](https://en.wikipedia.org/wiki/History_of_water_supply_and_sanitation)
-

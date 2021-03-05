@@ -1,6 +1,7 @@
 # Readiness Levels
 
 ## [Technology readiness levels (TRLs)](https://en.wikipedia.org/wiki/Technology_readiness_level)
+
 - Level 1: Basic Principles Observed and Reported
 - Level 2: Potential Application Validated
 - Level 3: Proof-of-Concept Demonstrated, Analytically and/or Experimentally
@@ -10,6 +11,7 @@
 - Level 7: System Adequacy Validated in Space
 
 ## [Manufacturing readiness levels (MRLs)](https://en.wikipedia.org/wiki/Manufacturing_readiness_level)
+
 - Material solutions analysis
   - Material development decision review
     - 1. Basic manufacturing implications identified

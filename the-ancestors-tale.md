@@ -1,4 +1,5 @@
 # [The Ancestor's Tale](https://en.wikipedia.org/wiki/The_Ancestor%27s_Tale)
+
 by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)
 
 - The Farmer's Tale describes the [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution)
