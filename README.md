@@ -457,7 +457,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1450-1200 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) wrote [Linear B](https://en.wikipedia.org/wiki/Linear_B), descended from Linear A
 - 1300 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) made [concrete](https://en.wikipedia.org/wiki/Concrete) floors in the royal palace of [Tiryns](https://en.wikipedia.org/wiki/Tiryns) on the [Peloponnese peninsula](https://en.wikipedia.org/wiki/Peloponnese)
 - 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu), China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
-- 1200-1150 BCE: The [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) occurred
+- 1200-1150 BCE: The [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) occurred, with invading [Sea Peoples](https://en.wikipedia.org/wiki/Sea_Peoples) introducing iron in large quantities to the eastern Mediterranean
 - 1050 BCE: [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) wrote using the [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet), descended from Linear B
 - 900 BCE: [Olmecs](https://en.wikipedia.org/wiki/Olmecs) carved characters into the [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block)
 - 800 BCE: The [Greek alphabet](https://en.wikipedia.org/wiki/Archaic_Greek_alphabets) descended from the Phoenician alphabet, introducing vowels
