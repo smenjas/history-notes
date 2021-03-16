@@ -1484,6 +1484,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [List of drainage basins by area](https://en.wikipedia.org/wiki/List_of_drainage_basins_by_area)
 - [List of empires](https://en.wikipedia.org/wiki/List_of_empires)
   - [List of largest empires](https://en.wikipedia.org/wiki/List_of_largest_empires)
+- [List of epidemics](https://en.wikipedia.org/wiki/List_of_epidemics)
 - [List of experiments](https://en.wikipedia.org/wiki/List_of_experiments)
 - [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 - [List of firsts in aviation](https://en.wikipedia.org/wiki/List_of_firsts_in_aviation)
