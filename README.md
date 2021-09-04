@@ -1123,7 +1123,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1922 CE: [Henry Ford](https://en.wikipedia.org/wiki/Henry_Ford) & [Samuel Crowther](https://en.wikipedia.org/wiki/Samuel_Crowther_%28journalist%29) published *My Life and Work*
 - 1923 CE: [Harry Ricardo](https://en.wikipedia.org/wiki/Harry_Ricardo) published *The Internal Combustion Engine*
 - 1923 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *On the introduction of transfinite numbers*
-- 1923 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published *Tract on Monetray Reform*
+- 1923 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published *A Tract on Monetary Reform*, arguing against post-World War I deflation policies
 - 1924 CE: [Alexander Friedmann](https://en.wikipedia.org/wiki/Alexander_Friedmann) published *Über die Möglichkeit einer Welt mit konstanter negativer Krümmung des Raumes* (*On the possibility of a world with constant negative curvature of space*), proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
 - 1925 CE: [Édouard Chatton](https://en.wikipedia.org/wiki/%C3%89douard_Chatton) published *Pansporella perplex: Reflections on the Biology and Phylogeny of the Protozoa*, distinguishing [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote) from [prokaryotes](https://en.wikipedia.org/wiki/Prokaryote)
 - 1925 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
