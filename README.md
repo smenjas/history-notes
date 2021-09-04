@@ -1326,6 +1326,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1978 CE: [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - 1978 CE: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) released the [BSD operating system](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), including [ex](https://en.wikipedia.org/wiki/Ex_%28text_editor%29) and thus [vi](https://en.wikipedia.org/wiki/Vi)
 - 1978 CE: [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) published *Secure Communications Over Insecure Channels*, describing [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
+- 1978 CE: [Tim May](https://en.wikipedia.org/wiki/Timothy_C._May) & Murray H. Woods published *A New Physical Mechanism for Soft Errors in Dynamic Memories*, describing [single-event upsets](https://en.wikipedia.org/wiki/Single-event_upset) caused by [alpha radiation](https://en.wikipedia.org/wiki/Alpha_particle)
 - 1979 CE: [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) patented his [*Method of providing digital signatures*](https://patents.google.com/patent/US4309569), a.k.a. a hash tree or [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
 
 ### 1980s
