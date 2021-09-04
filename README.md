@@ -1044,6 +1044,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1896 CE: [Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi) patented *Improvements in Transmitting Electrical impulses and Signals, and in Apparatus therefor*, i.e. [radio](https://en.wikipedia.org/wiki/Radio)
 - 1896 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Studies in the theory of Public Finance*
 - 1896 CE: [Scipione Riva-Rocci](https://en.wikipedia.org/wiki/Scipione_Riva-Rocci) invented the [sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer), a noninvasive method for measuring blood pressure
+- 1896 CE: [Wilhelm Röntgen](https://en.wikipedia.org/wiki/Wilhelm_Röntgen) published *Eine neue Art von Strahlen* (*A New Kind of Rays*), describing [X-rays](https://en.wikipedia.org/wiki/X-ray)
 - 1897 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 2* (*Contributions to the foundation of the transfinite set theory 2*)
 - 1898 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Pflanzengeographie auf physiologischer Grundlage* (*Plant geography on a physiological basis*)
 - 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
