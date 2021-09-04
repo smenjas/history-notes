@@ -1178,6 +1178,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1938 CE: [Alfred O. C. Nier](https://en.wikipedia.org/wiki/Alfred_O._C._Nier) published measurements of the relative abundance of the isotopes of uranium
 - 1938 CE: [Frank Benford](https://en.wikipedia.org/wiki/Frank_Benford) published *The law of anomalous numbers*, generalizing [Benford's law](https://en.wikipedia.org/wiki/Benford's_law)
 - 1938 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published [*Systems of Logic Based on Ordinals*](https://en.wikipedia.org/wiki/Systems_of_Logic_Based_on_Ordinals)
+- 1938 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) & [Leopold Infeld](https://en.wikipedia.org/wiki/Leopold_Infeld) published [*The Evolution of Physics: The Growth of Ideas from Early Concepts to Relativity and Quanta*](https://en.wikipedia.org/wiki/The_Evolution_of_Physics)
 - 1939 CE: [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *The Nature of the Chemical Bond*
 - 1939 CE: The [Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
 - 1939 CE: [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) & [Otto Robert Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) published *Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction*, describing [nuclear fission](https://en.wikipedia.org/wiki/Nuclear_fission)
