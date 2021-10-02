@@ -522,6 +522,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 259 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Minor Rock Edicts](https://en.wikipedia.org/wiki/Minor_Rock_Edicts) with [Brahmi numerals](https://en.wikipedia.org/wiki/Brahmi_numerals), precursors to the [Hindu numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) but lacking [zero](https://en.wikipedia.org/wiki/0)
 - 250 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
 - 250 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) wrote [*On Floating Bodies*](https://en.wikipedia.org/wiki/On_Floating_Bodies), describing [Archimedes' principle](https://en.wikipedia.org/wiki/Archimedes%27_principle)
+- 240 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 240 BCE: [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) measured the [Earth's circumference](https://en.wikipedia.org/wiki/Earth's_circumference)
 - 234 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
 - 233 BCE: The [Taupo volcano erupted](https://en.wikipedia.org/wiki/Hatepe_eruption) on New Zealand's North Island
@@ -531,9 +532,11 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 212 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) wrote many mathematical works including [*Perí sfaíras kaí kylíndrou* (*On the Sphere & Cylinder*)](https://en.wikipedia.org/wiki/On_the_Sphere_and_Cylinder) which gave the [Archimedean property](https://en.wikipedia.org/wiki/Archimedean_property) by the time he died
 - 200 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) wrote *Conics* and other works on mathematics
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
+- 164 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar
 - 107 BCE: [Roman tribunes](https://en.wikipedia.org/wiki/Ballot_laws_of_the_Roman_Republic) required [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot)
 - 100 BCE: [Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
+- 87 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 56 BCE: [Lucretius](https://en.wikipedia.org/wiki/Lucretius) wrote [*De rerum natura* (*On the Nature of Things*)](https://en.wikipedia.org/wiki/De_rerum_natura), stating that the world contained "seeds" that can sicken you if inhaled or ingested
 - 46 BCE: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) proposed the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
 - 44 BCE: The [Palmyrene alphabet](https://en.wikipedia.org/wiki/Palmyrene_alphabet) descended from cursive versions of the Aramaic alphabet
@@ -542,11 +545,13 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 36 BCE: [Diodorus of Sicily](https://en.wikipedia.org/wiki/Diodorus_Siculus) wrote [*Bibliotheca historica*](https://en.wikipedia.org/wiki/Bibliotheca_historica), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
 - 7 BCE: [Strabo](https://en.wikipedia.org/wiki/Strabo) wrote the first edition of his [*Geographica* ("Geography")](https://en.wikipedia.org/wiki/Geographica)
 - ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
+- 12 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 
 ## Common Era
 
 - 12 CE: [Livy](https://en.wikipedia.org/wiki/Livy) wrote [*Ab Urbe Condita Libri CXLII* (*From the Founding of the City in 142 Books*)](https://en.wikipedia.org/wiki/Ab_Urbe_Condita_Libri), a [history of ancient Rome](https://en.wikipedia.org/wiki/History_of_Rome)
 - 50 CE: The [Syriac alphabet](https://en.wikipedia.org/wiki/Syriac_alphabet) descended from the Palmyrene alphabet
+- 66 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 77 CE: [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder) wrote [*Naturalis Historia* (*Natural History*)](https://en.wikipedia.org/wiki/Natural_History_%28Pliny%29)
 - 95 CE: [Quintillian](https://en.wikipedia.org/wiki/Quintilian) wrote [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria): his aim was "the education of the perfect orator", and he taught Pliny the Younger [rhetoric](https://en.wikipedia.org/wiki/Rhetoric)
 - 99 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) wrote the first book of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
@@ -556,6 +561,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 125 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Enchiridion of Epictetus*](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)
 - 131 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Periplus of the Euxine Sea*](https://en.wikipedia.org/wiki/Periplus_of_the_Euxine_Sea)
 - 137 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote *Techne Taktike*, on [Roman military tactics](https://en.wikipedia.org/wiki/Roman_infantry_tactics)
+- 141 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 150 CE: [Claudius Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) wrote the [*Almagest*](https://en.wikipedia.org/wiki/Almagest) on [astronomy](https://en.wikipedia.org/wiki/Astronomy), and [*Geography*](https://en.wikipedia.org/wiki/Geography_%28Ptolemy%29) on [cartography](https://en.wikipedia.org/wiki/Cartography)
 - 160 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Alexándrou Anábasis* (*The Anabasis of Alexander*)](https://en.wikipedia.org/wiki/The_Anabasis_of_Alexander), [*Indica*](https://en.wikipedia.org/wiki/Indica_%28Arrian%29), *Ta met' Alexandron* (*Events after Alexander*), *Kynēgetikos* (*On Hunting*), and many other books by the time he died
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
@@ -563,13 +569,16 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote *Lives and Opinions of Eminent Philosophers*
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) wrote commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art), demonstrating [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 313 CE: The [Sogdian alphabet](https://en.wikipedia.org/wiki/Sogdian_alphabet) descended from the Syriac alphabet
+- 374 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 400 CE: The [Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
 - 400 CE: [Joannes Stobaeus](https://en.wikipedia.org/wiki/Stobaeus) compiled *Eklogon, apophthegmaton, hypothekon biblia tessara* (*Four Books of Extracts, Sayings and Precepts*) an [anthology](https://en.wikipedia.org/wiki/Anthology) of [classical Greek](https://en.wikipedia.org/wiki/Classical_Greece) literature including the [Delphic maxims](https://en.wikipedia.org/wiki/Delphic_maxims), e.g. ["Know thyself"](https://en.wikipedia.org/wiki/Know_thyself)
+- 451 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 500 CE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) developed the [Hindu numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
 - 510 CE: [Aryabhata](https://en.wikipedia.org/wiki/Aryabhata) wrote [Aryabhatiya](https://en.wikipedia.org/wiki/Aryabhatiya), which states "sthānāt sthānaṁ daśaguṇaṁ syāt" ("from place to place each is ten times the preceding"), originating the modern decimal-based place value notation
 - 524 CE: [Boethius](https://en.wikipedia.org/wiki/Boethius) wrote [*The Consolation of Philosophy*](https://en.wikipedia.org/wiki/The_Consolation_of_Philosophy)
 - 525 CE: [Dionysius Exiguus](https://en.wikipedia.org/wiki/Dionysius_Exiguus) invented the [*Anno Domini*](https://en.wikipedia.org/wiki/Anno_Domini) [calendar era](https://en.wikipedia.org/wiki/Calendar_era), an alternative to the [Era of the Martyrs](https://en.wikipedia.org/wiki/Era_of_the_Martyrs)
 - 529 CE: [Justinian I](https://en.wikipedia.org/wiki/Justinian_I) ordered [Tribonian](https://en.wikipedia.org/wiki/Tribonian) to compile the [*Corpus Juris Civilis* (*Body of Civil Law*)](https://en.wikipedia.org/wiki/Corpus_Juris_Civilis), an influential work in [jurisprudence](https://en.wikipedia.org/wiki/Jurisprudence)
+- 607 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 613 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote *De natura rerum* (*On the Nature of Things*), mentioning "pestifera semina" ("plague-bearing seeds")
 
 ### Zero
@@ -577,6 +586,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 628 CE: [Brahmagupta](https://en.wikipedia.org/wiki/Brahmagupta) wrote the [Brāhmasphuṭasiddhānta](https://en.wikipedia.org/wiki/Br%C4%81hmasphu%E1%B9%ADasiddh%C4%81nta), demonstrating [zero](https://en.wikipedia.org/wiki/0) and [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 630 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote [*Etymologiae* (*Etymologies*)](https://en.wikipedia.org/wiki/Etymologiae), an influential [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 661 CE: [Muawiyah I](https://en.wikipedia.org/wiki/Muawiyah_I) founded the [Umayyad Caliphate](https://en.wikipedia.org/wiki/Umayyad_Caliphate), and the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library in [Damascus](https://en.wikipedia.org/wiki/Damascus)
+- 684 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 700 CE: The [Old Uyghur alphabet](https://en.wikipedia.org/wiki/Old_Uyghur_alphabet) descended from the Sogdian alphabet, in [Turpan](https://en.wikipedia.org/wiki/Turpan)
 - 732 CE: [Bede](https://en.wikipedia.org/wiki/Bede) wrote the [*Ecclesiastical History of the English People*](https://en.wikipedia.org/wiki/Ecclesiastical_History_of_the_English_People), popularizing the *Anno Domini* era
 - 782-796 CE: [Alcuin of York](https://en.wikipedia.org/wiki/Alcuin) developed [Carolingian minuscule](https://en.wikipedia.org/wiki/Carolingian_minuscule) from [Roman half uncial](Roman half uncial) & [Irish insular](https://en.wikipedia.org/wiki/Insular_script) scripts, introducing lowercase letters, which improved legibility
@@ -589,9 +599,11 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 825 CE: [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) wrote *On the Calculation with Hindu Numerals*, including an explanation of [zero](https://en.wikipedia.org/wiki/0)
 - 830 CE: [Al-Kindi](https://en.wikipedia.org/wiki/Al-Kindi) wrote *On the Use of the Hindu Numerals*
 - 830 CE: [Rabanus Maurus](https://en.wikipedia.org/wiki/Rabanus_Maurus) wrote *De rerum naturis* (*On the nature of things*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) based on [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville)'s [*Etymologiae*](https://en.wikipedia.org/wiki/Etymologiae)
+- 837 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 863 CE: [Saints Cyril & Methodius](https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius) developed the [Glagolitic script](https://en.wikipedia.org/wiki/Glagolitic_script), derived from medieval cursive [Greek minuscule script](https://en.wikipedia.org/wiki/Greek_minuscule)
 - 893 CE: [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script) developed, based on Greek [uncial script](https://en.wikipedia.org/wiki/Uncial_script) & Glagolitic script
 - 900 CE: [Arab navigators](https://en.wikipedia.org/wiki/Geography_and_cartography_in_medieval_Islam) originated the [kamal](https://en.wikipedia.org/wiki/Kamal_%28navigation%29), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
+- 912 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 915 CE: [Al-Tabari](https://en.wikipedia.org/wiki/Al-Tabari) wrote his [*History of the Prophets and Kings*](https://en.wikipedia.org/wiki/History_of_the_Prophets_and_Kings), a detailed and comprehensive chronicle of Mediterranean and Middle Eastern history
 
 ### Soap
@@ -610,10 +622,13 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1036 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) listed *Kitab al-saydala fi al-tibb* (*Book on the [Pharmacopoeia](https://en.wikipedia.org/wiki/Pharmacopoeia) of Medicine*) among 103 titles he had written on astrology, astronomy, geography, geology, history, mathematics, medicine, physics, psychology, sociology, and theology
 - 1037 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote *Codex Masudicus*, noting that Eurasia only covers 2/5 of the Earth's surface and another continent must exist on the other side of the planet
 - 1065 CE: [Nizam al-Mulk](https://en.wikipedia.org/wiki/Nizam_al-Mulk) established [Al-Nizamiyya of Baghdad](https://en.wikipedia.org/wiki/Al-Nizamiyya_of_Baghdad), the largest university of the Medieval world
+- 1066 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
+- 1145 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1150 CE: [Medieval universities](https://en.wikipedia.org/wiki/Medieval_university) developed [Blackletter, a.k.a. Gothic script](https://en.wikipedia.org/wiki/Blackletter) from [Carolingian minuscule](https://en.wikipedia.org/wiki/Carolingian_minuscule), which was faster for scribes to write and took up less space on the page, though less legible
 - 1154 CE: [Muhammad al-Idrisi](https://en.wikipedia.org/wiki/Muhammad_al-Idrisi) created the [*Nuzhat al-mushtāq fi'khtirāq al-āfāq* (*The book of pleasant journeys into faraway lands*), a.k.a. *Kitab Rujar*, *Tabula Rogeriana*, or *Map of Roger*](https://en.wikipedia.org/wiki/Tabula_Rogeriana), a [world map](https://en.wikipedia.org/wiki/World_map) later used by [Christopher Columbus](https://en.wikipedia.org/wiki/Christopher_Columbus) & [Vasco da Gama](https://en.wikipedia.org/wiki/Vasco_da_Gama)
 - 1200 CE: [Alexander of Villedieu](https://en.wikipedia.org/wiki/Alexander_of_Villedieu) wrote *Carmen de Algorismo* (*Poem about Arithmetic*), demonstrating the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
 - 1202 CE: [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci) wrote [*Liber Abaci* (*The Book of the Abacus*)](https://en.wikipedia.org/wiki/Liber_Abaci), popularizing the [Hindu-Arabic numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) and introducing [zero](https://en.wikipedia.org/wiki/0) to the West
+- 1222 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1225 CE: [Johannes de Sacrobosco](https://en.wikipedia.org/wiki/Johannes_de_Sacrobosco) wrote *Algorismus Vulgaris* (*Common Algorithms*)
 - 1231 CE: [Ali ibn al-Athir](https://en.wikipedia.org/wiki/Ali_ibn_al-Athir) wrote [*al-Kāmil fit-Tārīkh* (*The Complete History*)](https://en.wikipedia.org/wiki/The_Complete_History)
 - 1240 CE: [Bartholomeus Anglicus (Bartholomew of England)](https://en.wikipedia.org/wiki/Bartholomeus_Anglicus) compiled *De proprietatibus rerum* (*On the Properties of Things*), a widely translated [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
@@ -626,17 +641,20 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1279 CE: [Faraj ben Salim](https://en.wikipedia.org/wiki/Faraj_ben_Salim) translated [Al-Razi](https://en.wikipedia.org/wiki/Muhammad_ibn_Zakariya_al-Razi)'s [*Al-Hawi* (*The Comprehensive Book on Medicine*)](https://en.wikipedia.org/wiki/Al-Hawi) into Latin
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1300 CE: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) & [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa) wrote [*Livres des Merveilles du Monde* (*Books of the Wonders of the World*)](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo)
+- 1301 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1315-1329 CE: [Abu'l-Fida](https://en.wikipedia.org/wiki/Abu%27l-Fida) wrote [*Tarikhu 'al-Mukhtasar fi Akhbar al-Bashar* (*The Concise History of Humanity or Chronicles*)](https://en.wikipedia.org/wiki/Concise_History_of_Humanity), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
 - 1345 CE: [Tommaso del Garbo](https://en.wikipedia.org/wiki/Tommaso_del_Garbo) mentioned Galen's "seeds of plague" in his work *Commentaria non-parum utilia in libros Galeni* (*Helpful commentaries on the books of Galen*)
 - 1354 CE: [Ibn Battuta](https://en.wikipedia.org/wiki/Ibn_Battuta) & [Ibn Juzayy](https://en.wikipedia.org/wiki/Ibn_Juzayy) wrote *الرحلة* (*Rihla* or *The Travels*), describing the [medieval](https://en.wikipedia.org/wiki/Middle_Ages) [Islamic world](https://en.wikipedia.org/wiki/Muslim_world)
 - 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesized that "minute bodies" cause infectious diseases, and described how garments, vessels, and earrings can transmit them
 - 1377 CE: [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) wrote the [*Muqaddimah* (*Prolegomena* or *Introduction*)](https://en.wikipedia.org/wiki/Muqaddimah), the first book of the *Kitāb al-ʻIbar* (*Book of Lessons*): an early view of [universal history](https://en.wikipedia.org/wiki/Universal_history) that introduced the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to the [social sciences](https://en.wikipedia.org/wiki/Social_science), and included an outline of the labor [theory of value](https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29), an early example of [political economy](https://en.wikipedia.org/wiki/Political_economy)
+- 1378 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 
 ### Printing
 
 - 1440 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) invented the [printing press](https://en.wikipedia.org/wiki/Printing_press)
 - 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
 - 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of the Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
+- 1456 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1470 CE: Scribes copied [Quintillian](https://en.wikipedia.org/wiki/Quintilian)'s [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria) into [New Latin](https://en.wikipedia.org/wiki/New_Latin), combining two [Koine Greek](https://en.wikipedia.org/wiki/Koine_Greek) words (ἐγκύκλιος παιδεία, "enkyklios paedia") into one: [encyclopaedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1489 CE: [Poliziano (a.k.a. Politianus)](https://en.wikipedia.org/wiki/Poliziano) published *Miscellanea*, an influential series of discursive essays on philology and [criticism](https://en.wikipedia.org/wiki/Criticism)
 
@@ -645,6 +663,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1501 CE: [Giorgio Valla](https://en.wikipedia.org/wiki/Giorgio_Valla) published *De expetendis et fugiendis rebus* (*On Desired & Avoided Affairs*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) containing newly discovered and translated [ancient Greek mathematical](https://en.wikipedia.org/wiki/Greek_mathematics) texts
 - 1503 CE: [Gregor Reisch](https://en.wikipedia.org/wiki/Gregor_Reisch%29) published the *Margarita Philosophica*, an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) explaining the [7 liberal arts](https://en.wikipedia.org/wiki/Liberal_arts_education#Seven_liberal_arts)
 - 1525 CE: [Antonio Pigafetta](https://en.wikipedia.org/wiki/Antonio_Pigafetta) published *Relazione del primo viaggio intorno al mondo* (*Report of the first trip around the world*) & *Regole sull'arte del navigare* (*Rules on the art of sailing*), describing [Ferdinand Magellan's circumnavigation of Earth](https://en.wikipedia.org/wiki/Magellan_expedition)
+- 1531 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1532 CE: [Niccolò Machiavelli's](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) published
 - 1543 CE: [Andreas Vesalius](https://en.wikipedia.org/wiki/Andreas_Vesalius) published [*De humani corporis fabrica* (*On the fabric of the human body*)](https://en.wikipedia.org/wiki/De_humani_corporis_fabrica)
 - 1543 CE: [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) published [*De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)](https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium), promoting [heliocentrism](https://en.wikipedia.org/wiki/Heliocentrism)
@@ -665,6 +684,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1603 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) posthumously published *Astronomiae Instauratae Progymnasmata* (*Introduction to the New Astronomy*)
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomia nova* (*New Astronomy*), the foundation of planetary motion
+- 1607 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1608 CE: [Hans Lipperhey](https://en.wikipedia.org/wiki/Hans_Lipperhey) filed a patent for a [refracting telescope](https://en.wikipedia.org/wiki/Refracting_telescope)
 - 1609 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [telescope](https://en.wikipedia.org/wiki/Telescope) to be useful
 - 1610 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Sidereus Nuncius* (*Starry Messenger*)](https://en.wikipedia.org/wiki/Sidereus_Nuncius)
@@ -705,7 +725,8 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1677 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [spermatozoa](https://en.wikipedia.org/wiki/Spermatozoon)
 - 1679 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) posthumously published *Ad Locos Planos et Solidos Isagoge* (*Introduction to Plane and Solid Loci)*
 - 1681 CE: [Thomas Burnet](https://en.wikipedia.org/wiki/Thomas_Burnet) published *Sacred Theory of the Earth*
-- 1682 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered the banded pattern of [muscular fibers](https://en.wikipedia.org/wiki/Muscle), in 1682
+- 1682 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
+- 1682 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered the banded pattern of [muscular fibers](https://en.wikipedia.org/wiki/Muscle)
 - 1683 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [bacteria](https://en.wikipedia.org/wiki/Bacteria)
 - 1683 CE: [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) published *Lectiones Mathematicae* (*Mathematics Lessons*)
 - 1684 CE: [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) published [*Nova Methodus pro Maximis et Minimis*](https://en.wikipedia.org/wiki/Nova_Methodus_pro_Maximis_et_Minimis)
@@ -731,6 +752,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1704 CE: [John Harris](https://en.wikipedia.org/wiki/John_Harris_%28writer%29) published his *Lexicon Technicum* (*Technical Dictionary*), the first alphabetical [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) in English
 - 1704 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published [*Opticks*](https://en.wikipedia.org/wiki/Opticks)
 - 1705 CE: [John Law](https://en.wikipedia.org/wiki/John_Law_%28economist%29) published [*Money and Trade Considered: With a Proposal for Supplying the Nation with Money*](https://en.wikipedia.org/wiki/Money_and_Trade_Considered)
+- 1705 CE: [Edmond Halley](https://en.wikipedia.org/wiki/Edmond_Halley) published *Synopsis of the Astronomy of Comets*, predicting [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet)'s return in 1758
 - 1706 CE: [John Locke](https://en.wikipedia.org/wiki/John_Locke) posthumously published [*Of the Conduct of the Understanding*](https://en.wikipedia.org/wiki/Of_the_Conduct_of_the_Understanding), a handbook for autodidacts
 - 1713 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published the [*Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy)*](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica) 2nd edition
 - 1722 CE: [René Antoine Ferchault de Réaumur](https://en.wikipedia.org/wiki/Ren%C3%A9_Antoine_Ferchault_de_R%C3%A9aumur) published *L'art de convertir le fer forgé en acier, et l'art d'adoucir le fer fondu, ou de faire des ouvrages de fer fondu aussi finis que le fer forgé* (*The art of converting wrought iron into steel, and the art of softening molten iron, or making works of molten iron as finished as wrought iron*), describing how iron becomes [steel](https://en.wikipedia.org/wiki/Steel)
@@ -761,6 +783,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1755 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Institutiones calculi differentialis*](https://en.wikipedia.org/wiki/Institutiones_calculi_differentialis)
 - 1757 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Principes généraux de l'état d'équilibre d'un fluide*
 - 1758 CE: [Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) et al. published *Miscellanea Taurinensia* (*Turin Miscellanea*), describing sound propagation & string vibration
+- 1759 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1759 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) invented H3, demonstrating the bimetallic strip and caged roller bearing
 - 1759 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) invented H4, a handheld marine chronometer
 - 1759 CE: [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) published [*The Theory of Moral Sentiments*](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
@@ -884,6 +907,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 - 1831 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Fragments de géologie et de climatologie asiatiques* (*Fragments of Asian geology and climatology*)
 - 1833 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Principles of Geology*](https://en.wikipedia.org/wiki/Principles_of_Geology)
+- 1835 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1835 CE: [Jacques Charles François Sturm](https://en.wikipedia.org/wiki/Jacques_Charles_Fran%C3%A7ois_Sturm) published *Mémoire sur la résolution des équations numériques* (*Memoir on the solution of equations with numerical coefficients*)
 - 1837 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published his *Wissenschaftslehre* (*Theory of Science*)
 - 1838 CE: [Christoph Gudermann](https://en.wikipedia.org/wiki/Christoph_Gudermann) introduced the concept of [uniform convergence](https://en.wikipedia.org/wiki/Uniform_convergence)
@@ -1093,6 +1117,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 ### 1910s
 
+- 1910 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1910 CE: [Konstantin Mereschkowski](https://en.wikipedia.org/wiki/Konstantin_Mereschkowski) published *The Theory of Two Plasms as the Basis of Symbiogenesis, a New Study of the Origins of Organisms*
 - 1911 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *On the Influence of Gravitation on the Propagation of Light*, allowing [general relativity](https://en.wikipedia.org/wiki/General_relativity) to be tested
 - 1911 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Association of Lead with Uranium in Rock-Minerals, and Its Application to the Measurement of Geological Time*, describing the first accurate [uranium-lead radiometric dating](https://en.wikipedia.org/wiki/Uranium%E2%80%93lead_dating)
@@ -1349,6 +1374,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1984 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The TeXbook*
 - 1985 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *QED: The Strange Theory of Light and Matter*
 - 1985 CE: [Kary Mullis](https://en.wikipedia.org/wiki/Kary_Mullis), Randall Saiki, & Henry Erlich published *Enzymatic Amplification of β-globin Genomic Sequences and Restriction Site Analysis for Diagnosis of Sickle Cell Anemia*, describing [polymerase chain reaction (PCR)](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)
+- 1986 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1986 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The METAFONTbook*
 - 1986 CE: [Leslie Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport) published *The Definitive, Non-Technical Introduction to [LaTeX](https://en.wikipedia.org/wiki/LaTeX), Professional Typesetting and Scientific Publishing*
 - 1986 CE: [K. Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler) published [*Engines of Creation*](https://en.wikipedia.org/wiki/Engines_of_Creation), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
