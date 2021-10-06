@@ -1031,6 +1031,8 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 ### 1880s
 
 - 1880 CE: [Thomas Crapper](https://en.wikipedia.org/wiki/Thomas_Crapper) invented the [U-bend](https://en.wikipedia.org/wiki/Trap_%28plumbing%29) which does not jam, unlike the S-bend, improving the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet)
+- 1880 CE: [Alexander Ogston](https://en.wikipedia.org/wiki/Alexander_Ogston) published *Über abscesse* (*On Abscesses*), identifying microorganisms as the cause of infection, and describing [staphylococcus aureus](https://en.wikipedia.org/wiki/Staphylococcus_aureus)
+- 1881 CE: [Alexander Ogston](https://en.wikipedia.org/wiki/Alexander_Ogston) published [*Report upon Micro-Organisms in Surgical Diseases*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2263466/)
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra) with One Constant*
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Logic of Number*, describing [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A Theory of Probable Inference*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
