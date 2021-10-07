@@ -653,7 +653,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 - 1440 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) invented the [printing press](https://en.wikipedia.org/wiki/Printing_press)
 - 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
-- 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of the Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
+- 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
 - 1456 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1470 CE: Scribes copied [Quintillian](https://en.wikipedia.org/wiki/Quintilian)'s [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria) into [New Latin](https://en.wikipedia.org/wiki/New_Latin), combining two [Koine Greek](https://en.wikipedia.org/wiki/Koine_Greek) words (ἐγκύκλιος παιδεία, "enkyklios paedia") into one: [encyclopaedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1489 CE: [Poliziano (a.k.a. Politianus)](https://en.wikipedia.org/wiki/Poliziano) published *Miscellanea*, an influential series of discursive essays on philology and [criticism](https://en.wikipedia.org/wiki/Criticism)
@@ -919,7 +919,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1840 CE: [Louis Agassiz](https://en.wikipedia.org/wiki/Louis_Agassiz) published *Études sur les glaciers* (*Studies on Glaciers*)
 - 1840 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published *Dioptrische Untersuchungen* (*Dioptric examinations*)
 - 1841 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the uniform motion of heat in homogeneous solid bodies, and its connection with the mathematical theory of electricity*
-- 1842 CE: [Christian Doppler](https://en.wikipedia.org/wiki/Christian_Doppler) published [*Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels* (*On the coloured light of the binary stars and some other stars of the heavens*)](https://en.wikipedia.org/wiki/%C3%9Cber_das_farbige_Licht_der_Doppelsterne_und_einiger_anderer_Gestirne_des_Himmels)
+- 1842 CE: [Christian Doppler](https://en.wikipedia.org/wiki/Christian_Doppler) published [*Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels* (*On the coloured light of binary stars and some other stars of the heavens*)](https://en.wikipedia.org/wiki/%C3%9Cber_das_farbige_Licht_der_Doppelsterne_und_einiger_anderer_Gestirne_des_Himmels)
 - 1842 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Structure and Distribution of Coral Reefs*](https://en.wikipedia.org/wiki/The_Structure_and_Distribution_of_Coral_Reefs#Publication_and_subsequent_editions)
 - 1842 CE: [Edwin Chadwick](https://en.wikipedia.org/wiki/Edwin_Chadwick) published his *Report on The Sanitary Condition of the Labouring Population of Great Britain*, an influential work on [sanitation](https://en.wikipedia.org/wiki/Sanitation) and [public health](https://en.wikipedia.org/wiki/Public_health)
 - 1843 CE: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) published [*A System of Logic*](https://en.wikipedia.org/wiki/A_System_of_Logic), describing [Mill's Methods](https://en.wikipedia.org/wiki/Mill%27s_Methods) of [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
@@ -956,9 +956,9 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1856 CE: [Franz Bopp](https://en.wikipedia.org/wiki/Franz_Bopp) completed his *Vergleichende Grammatik des Sanskrit, Zend, Griechischen, Lateinischen, Litthauischen, Altslawischen, Gotischen und Deutschen* (*Comparative Grammar of Sanskrit, Zend [Avestan], Greek, Latin, Lithuanian, Old Slavonic, Gothic and German*), or *Comparative Grammar* for short, on the similarities between the [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 1853 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published a theory of how colors mix, still taught as [Grassmann's law](https://en.wikipedia.org/wiki/Grassmann%27s_laws_%28color_science%29)
 - 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought), founding [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
-- 1854 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Zur Theorie der Abelschen Funktionen* (*The theory of Abelian functions*)
+- 1854 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Zur Theorie der Abelschen Funktionen* (*The Theory of Abelian Functions*)
 - 1854 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the theory of the electric telegraph*
-- 1854 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Der Haushalt der Pflanzen* (*The household of the plants*)
+- 1854 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Der Haushalt der Pflanzen* (*The Household Plants*)
 - 1854 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Untersuchungen über die Entwicklungsgeschichte der Mikroskopischen Algen und Pilze* (*Investigations into the History of the Development of Microscopic Algae and Fungi*)
 - 1855 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the peristaltic induction of electric currents in submarine telegraph wires*
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
@@ -968,11 +968,11 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 #### Telegraph
 
 - 1856 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphs*](https://patents.google.com/patent/US14917A)
-- 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian functions*)
+- 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian Functions*)
 - 1856 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the thermal effects of fluids in motion*, describing the [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect) and promoting the [kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases)
 - 1856 CE: [Henry Samuel Chapman](https://en.wikipedia.org/wiki/Henry_Samuel_Chapman) drafted the "Victorian" or "Australian" voting system using [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot)
 - 1857 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Experiments on Colour, as perceived by the Eye, with Remarks on Colour-Blindness*
-- 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On integrals of the hydrodynamic equations, which correspond to the vortex movements*), introducing [Helmholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
+- 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On Integrals of the hydrodynamic Equations, which correspond to the vortex movements*), introducing [Helmholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
 - 1859 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*On the Origin of Species*](https://en.wikipedia.org/wiki/On_the_Origin_of_Species), describing his theories of [common descent](https://en.wikipedia.org/wiki/Common_descent) and [natural selection](https://en.wikipedia.org/wiki/Natural_selection)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in electro-magnetic telegraphs*](https://patents.google.com/patent/US22531A) for [duplex communication](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphfng-machlnes*](https://patents.google.com/patent/US22770A) for the [printing telegraph](https://en.wikipedia.org/wiki/Printing_telegraph)
@@ -995,7 +995,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1864 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Dynamical Theory of the Electromagnetic Field*](https://en.wikipedia.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field)
 - 1865 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *An Introduction to Modern Chemistry*
 - 1866 CE: [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) published [*Versuche über Pflanzenhybriden* (*Experiments on Plant Hybridization*)](https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization)
-- 1866 CE: [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) published *Generelle Morphologie der Organismen* (*General morphology of organisms*)
+- 1866 CE: [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) published *Generelle Morphologie der Organismen* (*General Morphology of Organisms*)
 
 #### Antiseptics
 
@@ -1122,7 +1122,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 - 1908 CE: [Ford Motor Company](https://en.wikipedia.org/wiki/Ford_Motor_Company) first sold the [Model T automobile](https://en.wikipedia.org/wiki/Ford_Model_T), horses greatly outnumbered them
 - 1908 CE: [Georgy Voronoy](https://en.wikipedia.org/wiki/Georgy_Voronoy) published *Nouvelles applications des paramètres continus à la théorie de formes quadratiques* (*New applications of continuous parameters to the theory of quadratic forms*), formally defining [Voronoi diagrams](https://en.wikipedia.org/wiki/Voronoi_diagram)
-- 1908 CE: [Phoebus Levene](https://en.wikipedia.org/wiki/Phoebus_Levene) & J. A. Mandel published *Über die konstitution der thymo-nucleinsäure*, describing the components of [DNA](https://en.wikipedia.org/wiki/DNA)
+- 1908 CE: [Phoebus Levene](https://en.wikipedia.org/wiki/Phoebus_Levene) & J. A. Mandel published *Über die konstitution der thymo-nucleinsäure* (*On the constitution of thymo-nucleic acid*), describing the components of [DNA](https://en.wikipedia.org/wiki/DNA)
 - 1909 CE: [E. M. Forster](https://en.wikipedia.org/wiki/E._M._Forster) published [*The Machine Stops*](https://en.wikipedia.org/wiki/The_Machine_Stops)
 - 1909 CE: [Phoebus Levene](https://en.wikipedia.org/wiki/Phoebus_Levene) & [Walter Abraham Jacobs](https://en.wikipedia.org/wiki/Walter_Abraham_Jacobs) published papers describing the components of [RNA](https://en.wikipedia.org/wiki/RNA):
   - *Über Inosinsäure* (*On inosic acid*)
@@ -1138,7 +1138,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1911 CE: [Willis Carrier](https://en.wikipedia.org/wiki/Willis_Carrier) published [*Rational Psychrometric Formulae*](https://en.wikisource.org/wiki/Rational_Psychrometric_Formulae), formalizing the relationship between relative humidity, absolute humidity, and dew-point temperature
 - 1912 CE: Automobiles roughly equaled the number of horses on U.S. streets
 - 1912 CE: [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt) & [Edward Charles Pickering](https://en.wikipedia.org/wiki/Edward_Charles_Pickering) published *Periods of 25 Variable Stars in the Small Magellanic Cloud*, describing the [period-luminosity relation](https://en.wikipedia.org/wiki/Period-luminosity_relation) and providing astronomers with the first [standard candle](https://en.wikipedia.org/wiki/Cosmic_distance_ladder) for measuring the distance to other galaxies
-- 1912 CE: [Victor Hess](https://en.wikipedia.org/wiki/Victor_Francis_Hess) published *Über Beobachtungen der durchdringenden Strahlung bei sieben Freiballonfahrten* (*On observations of the penetrating radiation during seven free balloon trips*), describing [cosmic rays](https://en.wikipedia.org/wiki/Cosmic_ray)
+- 1912 CE: [Victor Hess](https://en.wikipedia.org/wiki/Victor_Francis_Hess) published *Über Beobachtungen der durchdringenden Strahlung bei sieben Freiballonfahrten* (*On observations of penetrating radiation during seven free balloon trips*), describing [cosmic rays](https://en.wikipedia.org/wiki/Cosmic_ray)
 - 1913 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Age of the Earth*
 - 1915 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Die Feldgleichungen der Gravitation* (*The Field Equations of Gravitation*)](https://en.wikisource.org/wiki/Translation:The_Field_Equations_of_Gravitation)
 - 1915 CE: [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener) published *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*), developing the theory of [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
@@ -1168,7 +1168,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1923 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published *A Tract on Monetary Reform*, arguing against post-World War I deflation policies
 - 1924 CE: [Alexander Friedmann](https://en.wikipedia.org/wiki/Alexander_Friedmann) published *Über die Möglichkeit einer Welt mit konstanter negativer Krümmung des Raumes* (*On the possibility of a world with constant negative curvature of space*), proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
 - 1925 CE: [Édouard Chatton](https://en.wikipedia.org/wiki/%C3%89douard_Chatton) published *Pansporella perplex: Reflections on the Biology and Phylogeny of the Protozoa*, distinguishing [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote) from [prokaryotes](https://en.wikipedia.org/wiki/Prokaryote)
-- 1925 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Eine Axiomatisierung der Mengenlehre* (*An axiomatization of set theory*)
+- 1925 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Eine Axiomatisierung der Mengenlehre* (*An Axiomatization of Set Theory*)
 - 1926 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published [*The Story of Philosophy*](https://en.wikipedia.org/wiki/The_Story_of_Philosophy)
 - 1926 CE: [Henry Ford](https://en.wikipedia.org/wiki/Henry_Ford) & [Samuel Crowther](https://en.wikipedia.org/wiki/Samuel_Crowther_%28journalist%29) published *Today and Tomorrow*
 - 1926 CE: [Edwin Hubble](https://en.wikipedia.org/wiki/Edwin_Hubble) published *Extragalactic nebulae*, providing evidence that the Universe is larger than our galaxy
