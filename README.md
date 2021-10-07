@@ -948,6 +948,8 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1851 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) invented the [ophthalmoscope](https://en.wikipedia.org/wiki/Ophthalmoscope)
 - 1851 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published [*Paradoxien des Unendlichen* (*The Paradoxes of the Infinite*)](https://en.wikipedia.org/wiki/The_Paradoxes_of_the_Infinite)
 - 1851 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the dynamical theory of heat; with numerical results deduced from Mr. Joule's equivalent of a thermal unit and M. Regnault's observations on steam*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
+- 1851 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Zur Naturgeschichte des Protococcus Pluvialis* (*On the Natural History of Protococcus pluvialis*)
+- 1851 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Die Menschheit und die Pflanzenwelt* (*Humanity and the flora*)
 - 1852 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published *Cassandra*, an influential work on [feminism](https://en.wikipedia.org/wiki/Feminism)
 - 1852 CE: [George Jennings](https://en.wikipedia.org/wiki/George_Jennings) patented improvements to the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet), including a one-piece pan and [trap](https://en.wikipedia.org/wiki/Trap_%28plumbing%29)
 - 1853 CE: [August Schleicher](https://en.wikipedia.org/wiki/August_Schleicher) published *Die ersten Spaltungen des indogermanischen Urvolkes* (*The first divisions of the Indo-European indigenous people*), [representing languages as a family tree](https://en.wikipedia.org/wiki/Tree_model)
@@ -956,6 +958,8 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought), founding [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 - 1854 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Zur Theorie der Abelschen Funktionen* (*The theory of Abelian functions*)
 - 1854 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the theory of the electric telegraph*
+- 1854 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Der Haushalt der Pflanzen* (*The household of the plants*)
+- 1854 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Untersuchungen über die Entwicklungsgeschichte der Mikroskopischen Algen und Pilze* (*Investigations into the History of the Development of Microscopic Algae and Fungi*)
 - 1855 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the peristaltic induction of electric currents in submarine telegraph wires*
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
 - 1855 CE: [John Snow](https://en.wikipedia.org/wiki/John_Snow) published *On the Mode of Communication of Cholera* 2nd edition, a key event in [epidemiology](https://en.wikipedia.org/wiki/Epidemiology)
@@ -1013,6 +1017,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1871 CE: [Friedrich Miescher](https://en.wikipedia.org/wiki/Friedrich_Miescher) published *Ueber die chemische Zusammensetzung der Eiterzellen* (*On the chemical composition of pus cells*), describing [nucleic acids](https://en.wikipedia.org/wiki/Nucleic_acid)
 - 1872 CE: The [Ballot Act 1872](https://en.wikipedia.org/wiki/Ballot_Act_1872) required [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot) for [UK parliamentary and local government elections](https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom)
 - 1872 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On the Theory of Colour Vision*
+- 1872 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Neue Untersuchungen über Bakterien* (*New Studies on Bacteria*)
 - 1873 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Treatise on Electricity and Magnetism*](https://en.wikipedia.org/wiki/A_Treatise_on_Electricity_and_Magnetism)
 - 1874 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published [*Ueber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen* (*On a Property of the Collection of All Real Algebraic Numbers*)](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article), founding [set theory](https://en.wikipedia.org/wiki/Set_theory)
 - 1874 CE: [Theodor Billroth](https://en.wikipedia.org/wiki/Theodor_Billroth) published *Untersuchungen über die Vegetationsformen von Coccobacteria septica* (*Investigations of the Vegetal Forms of Coccobacteria septica*), describing [streptococcus](https://en.wikipedia.org/wiki/Streptococcus)
@@ -1039,6 +1044,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A Theory of Probable Inference*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
 - 1881 CE: [Simon Newcomb](https://en.wikipedia.org/wiki/Simon_Newcomb) published [*Note on the frequency of use of the different digits in natural numbers*](https://www.semanticscholar.org/paper/Note-on-the-Frequency-of-Use-of-the-Different-in-Newcomb/4136337f95c88d446a5577d9331c8fc0309c11af), discovering [Benford's law](https://en.wikipedia.org/wiki/Benford's_law)
 - 1882 CE: [Robert Koch](https://en.wikipedia.org/wiki/Robert_Koch) published *Die Aetiologie der Tuberculose* (*The Etiology of Tuberculosis*)
+- 1882 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published [*The Cell-State*](https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_22/December_1882/The_Cell-State)
 - 1883 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Ueber unendliche, lineare Punktmannichfaltigkeiten (5)* (*On infinite, linear point manifolds (5)*), later republished as *Grundlagen einer allgemeinen Mannigfaltigkeitslehre* (*Basics of a general theory of diversity*)
 - 1883 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Über die Entwicklung der Chlorophyllkörner und Farbkörper* (*On the development of chlorophyll grains and color bodies*)
 - 1883 CE: [The volcanic island of Krakatoa erupted](https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa)
@@ -1173,7 +1179,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1928 CE: [Philo Farnsworth](https://en.wikipedia.org/wiki/Philo_Farnsworth) demonstrated [electronic television](https://en.wikipedia.org/wiki/History_of_television#Electronic_television)
 - 1928 CE: [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac) published *The Quantum Theory of the Electron*, predicting the [positron](https://en.wikipedia.org/wiki/Positron)
 - 1929 CE: [Edwin Hubble](https://en.wikipedia.org/wiki/Edwin_Hubble) published *A relation between distance and radial velocity among extra-galactic nebulae*, providing evidence for [Georges Lemaître](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre)'s hypothesis that [the universe is expanding](https://en.wikipedia.org/wiki/Expansion_of_the_universe), and describing [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law)
-- 1929 CE: [Alexander Fleming](https://en.wikipedia.org/wiki/Alexander_Fleming) published *On the antibacterial action of cultures of a penicillium, with special reference to their use in the isolation of B. influenzae*
+- 1929 CE: [Alexander Fleming](https://en.wikipedia.org/wiki/Alexander_Fleming) published *On the antibacterial action of cultures of a penicillium, with special reference to their use in the isolation of B. influenzae*, describing [penicillin](https://en.wikipedia.org/wiki/Penicillin)
 
 ### 1930s
 
