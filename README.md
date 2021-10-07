@@ -1064,6 +1064,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Transmitting and recording sounds by radiant energy*
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Reproducing sounds from phonograph records*
+- 1887 CE: [Julius Richard Petri](https://en.wikipedia.org/wiki/Julius_Richard_Petri) published *Eine kleine Modification des Koch'schen Plattenverfahrens* (*A small modification of Koch's plate method*), describing the [Petri dish](https://en.wikipedia.org/wiki/Petri_dish)
 - 1889 CE: [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) published [*Arithmetices principia, nova methodo exposita* (*principles of arithmetic, presented by a new method*)](https://en.wikipedia.org/wiki/Arithmetices_principia,_nova_methodo_exposita), simplifying earlier work to formulate [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1889 CE: [William Stewart Halsted](https://en.wikipedia.org/wiki/William_Stewart_Halsted) asked [Goodyear](https://en.wikipedia.org/wiki/Goodyear_Tire_and_Rubber_Company) to make [rubber gloves](https://en.wikipedia.org/wiki/Rubber_glove), to prevent [dermatitis](https://en.wikipedia.org/wiki/Dermatitis) from [antiseptics](https://en.wikipedia.org/wiki/Antiseptic)
 
