@@ -543,9 +543,9 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 40 BCE: [Andronicus of Rhodes](https://en.wikipedia.org/wiki/Andronicus_of_Rhodes) wrote Aristotle's [*Organon*](https://en.wikipedia.org/wiki/Organon) (*Instrument*)
 - 36 BCE: [Marcus Terentius Varro](https://en.wikipedia.org/wiki/Marcus_Terentius_Varro) wrote *Rerum rusticarum libri III* (*Three Books on Agriculture*), which states "Precautions must also be taken in the neighborhood of swamps […] because there are bred certain minute creatures which cannot be seen by the eyes, which float in the air and enter the body through the mouth and nose and there cause serious diseases."
 - 36 BCE: [Diodorus of Sicily](https://en.wikipedia.org/wiki/Diodorus_Siculus) wrote [*Bibliotheca historica*](https://en.wikipedia.org/wiki/Bibliotheca_historica), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
+- 12 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 7 BCE: [Strabo](https://en.wikipedia.org/wiki/Strabo) wrote the first edition of his [*Geographica* ("Geography")](https://en.wikipedia.org/wiki/Geographica)
 - ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
-- 12 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 
 ## Common Era
 
@@ -878,7 +878,6 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1816 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Der binomische Lehrsatz* (*The binomial theorem*)
 - 1816 CE: [Priscilla Wakefield](https://en.wikipedia.org/wiki/Priscilla_Wakefield) published *An Introduction to the Natural History and Classification of Insects, in a Series of Letters*
 - 1816 CE: [Franz Bopp](https://en.wikipedia.org/wiki/Franz_Bopp) published *On the conjugational system of the Sanskrit language compared with that of Greek, Latin, Persian and Germanic*, now called [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages)
-- 1813 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *System of Practical Nosology*
 - 1817 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published *Rein analytischer Beweis* (*Purely analytical proof*), rigorously defining [mathematical limits](https://en.wikipedia.org/wiki/Limit_of_a_function)
 - 1817 CE: [David Ricardo](https://en.wikipedia.org/wiki/David_Ricardo) published [*On the Principles of Political Economy and Taxation*](https://en.wikipedia.org/wiki/On_the_Principles_of_Political_Economy_and_Taxation), advancing a [labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value) and describing [comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage)
 - 1818 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) deposited *Mémoire sur la diffraction de la lumière* (*Memoir on the diffraction of light*)
@@ -952,8 +951,8 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1851 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Die Menschheit und die Pflanzenwelt* (*Humanity and the flora*)
 - 1852 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published *Cassandra*, an influential work on [feminism](https://en.wikipedia.org/wiki/Feminism)
 - 1852 CE: [George Jennings](https://en.wikipedia.org/wiki/George_Jennings) patented improvements to the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet), including a one-piece pan and [trap](https://en.wikipedia.org/wiki/Trap_%28plumbing%29)
+- 1852 CE: [Franz Bopp](https://en.wikipedia.org/wiki/Franz_Bopp) completed his *Vergleichende Grammatik des Sanskrit, Zend, Griechischen, Lateinischen, Litthauischen, Altslawischen, Gotischen und Deutschen* (*Comparative Grammar of Sanskrit, Zend [Avestan], Greek, Latin, Lithuanian, Old Slavonic, Gothic and German*), or *Comparative Grammar* for short, on the similarities between the [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 1853 CE: [August Schleicher](https://en.wikipedia.org/wiki/August_Schleicher) published *Die ersten Spaltungen des indogermanischen Urvolkes* (*The first divisions of the Indo-European indigenous people*), [representing languages as a family tree](https://en.wikipedia.org/wiki/Tree_model)
-- 1856 CE: [Franz Bopp](https://en.wikipedia.org/wiki/Franz_Bopp) completed his *Vergleichende Grammatik des Sanskrit, Zend, Griechischen, Lateinischen, Litthauischen, Altslawischen, Gotischen und Deutschen* (*Comparative Grammar of Sanskrit, Zend [Avestan], Greek, Latin, Lithuanian, Old Slavonic, Gothic and German*), or *Comparative Grammar* for short, on the similarities between the [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 1853 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published a theory of how colors mix, still taught as [Grassmann's law](https://en.wikipedia.org/wiki/Grassmann%27s_laws_%28color_science%29)
 - 1854 CE: [George Boole](https://en.wikipedia.org/wiki/George_Boole) published [*The Laws of Thought*](https://en.wikipedia.org/wiki/The_Laws_of_Thought), founding [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 - 1854 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Zur Theorie der Abelschen Funktionen* (*The Theory of Abelian Functions*)
