@@ -960,6 +960,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1854 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the theory of the electric telegraph*
 - 1854 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Der Haushalt der Pflanzen* (*The Household Plants*)
 - 1854 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Untersuchungen über die Entwicklungsgeschichte der Mikroskopischen Algen und Pilze* (*Investigations into the History of the Development of Microscopic Algae and Fungi*)
+- 1854 CE: [Filippo Pacini](https://en.wikipedia.org/wiki/Filippo_Pacini) published *Osservazioni microscopiche e deduzioni patologiche sul cholera asiatico* (*Microscopical observations and pathological deductions on Asiatic [cholera](https://en.wikipedia.org/wiki/Cholera)*
 - 1855 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the peristaltic induction of electric currents in submarine telegraph wires*
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
 - 1855 CE: [John Snow](https://en.wikipedia.org/wiki/John_Snow) published *On the Mode of Communication of Cholera* 2nd edition, a key event in [epidemiology](https://en.wikipedia.org/wiki/Epidemiology)
