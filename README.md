@@ -1065,6 +1065,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Transmitting and recording sounds by radiant energy*
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Reproducing sounds from phonograph records*
 - 1887 CE: [Julius Richard Petri](https://en.wikipedia.org/wiki/Julius_Richard_Petri) published *Eine kleine Modification des Koch'schen Plattenverfahrens* (*A small modification of Koch's plate method*), describing the [Petri dish](https://en.wikipedia.org/wiki/Petri_dish)
+- 1888 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Applications of dynamics to physics and chemistry*, an early example of [computational chemistry](https://en.wikipedia.org/wiki/Computational_chemistry)
 - 1889 CE: [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) published [*Arithmetices principia, nova methodo exposita* (*principles of arithmetic, presented by a new method*)](https://en.wikipedia.org/wiki/Arithmetices_principia,_nova_methodo_exposita), simplifying earlier work to formulate [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1889 CE: [William Stewart Halsted](https://en.wikipedia.org/wiki/William_Stewart_Halsted) asked [Goodyear](https://en.wikipedia.org/wiki/Goodyear_Tire_and_Rubber_Company) to make [rubber gloves](https://en.wikipedia.org/wiki/Rubber_glove), to prevent [dermatitis](https://en.wikipedia.org/wiki/Dermatitis) from [antiseptics](https://en.wikipedia.org/wiki/Antiseptic)
 
@@ -1072,12 +1073,14 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 - 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
 - 1892 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Value, Capital and Rent*
+- 1893 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Notes on recent researches in electricity and magnetism*, building upon Maxwell's *Treatise*
 - 1894 CE: [Heinrich Hertz](https://en.wikipedia.org/wiki/Heinrich_Hertz) published *The Principles of Mechanics Presented in a New Form*
 - 1894 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-1* (*Treatises-1*)
 - 1894 CE: [William Bateson](https://en.wikipedia.org/wiki/William_Bateson) published *Materials for the Study of Variation*, describing [homeotic mutations](https://en.wikipedia.org/wiki/Homeosis), in which an expected body-part has been replaced by another
 - 1894 CE: [Albrecht Kossel](https://en.wikipedia.org/wiki/Albrecht_Kossel) & Albert Neumann published *Darstellung und Spaltungsprodukte der Nucleïnsäure (Adenylsäure)* (*Preparation and cleavage products of [nucleic acids](https://en.wikipedia.org/wiki/Nucleic_acid) (adenic acid)*), describing [cytosine](https://en.wikipedia.org/wiki/Cytosine)
 - 1895 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-2* (*Treatises-2*)
 - 1895 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 1* (*Contributions to the foundation of the transfinite set theory 1*)
+- 1895 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Elements of the mathematical theory of electricity and magnetism*
 
 #### Radio
 
@@ -1087,6 +1090,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1896 CE: [Wilhelm Röntgen](https://en.wikipedia.org/wiki/Wilhelm_Röntgen) published *Eine neue Art von Strahlen* (*A New Kind of Rays*), describing [X-rays](https://en.wikipedia.org/wiki/X-ray)
 - 1896 CE: [Henri Becquerel](https://en.wikipedia.org/wiki/Henri_Becquerel) published *Sur les radiations invisibles émises par les corps phosphorescents* (*On invisible radiations emitted by phosphorescent bodies*), describing [radioactive decay](https://en.wikipedia.org/wiki/Radioactive_decay)
 - 1897 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 2* (*Contributions to the foundation of the transfinite set theory 2*)
+- 1897 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Cathode Rays*, describing [electron beams](https://en.wikipedia.org/wiki/Cathode_ray)
 - 1898 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Pflanzengeographie auf physiologischer Grundlage* (*Plant geography on a physiological basis*)
 - 1898 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *The Logic of Relatives*, devising [existential graphs](https://en.wikipedia.org/wiki/Existential_graph), a diagrammatic notation for [predicate calculus](https://en.wikipedia.org/wiki/First-order_logic)
 - 1898 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Geldzins und Güterpreise* (*Interest and Prices*)
@@ -1144,6 +1148,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1912 CE: [Charles Galton Darwin](https://en.wikipedia.org/wiki/Charles_Galton_Darwin) published *A theory of the absorption and scattering of the alpha rays*
 - 1913 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *The Age of the Earth*
 - 1913 CE: [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) published *On the Constitution of Atoms and Molecules*, describing his [model of the atom](https://en.wikipedia.org/wiki/Bohr_model)
+- 1913 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Rays of positive electricity*, describing neon [isotopes](https://en.wikipedia.org/wiki/Isotope)
 - 1915 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Die Feldgleichungen der Gravitation* (*The Field Equations of Gravitation*)](https://en.wikisource.org/wiki/Translation:The_Field_Equations_of_Gravitation)
 - 1915 CE: [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener) published *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*), developing the theory of [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
 - 1916 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Näherungsweise Integration der Feldgleichungen der Gravitation* (*Approximate Integration of the Gravitational Field Equations*)
