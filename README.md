@@ -1075,6 +1075,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 ### 1890s
 
+- 1891 CE: [George Johnstone Stoney](https://en.wikipedia.org/wiki/George_Johnstone_Stoney) published *Of the "Electron," or Atom of Electricity*
 - 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
 - 1892 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Value, Capital and Rent*
 - 1893 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Notes on recent researches in electricity and magnetism*, building upon Maxwell's *Treatise*
