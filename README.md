@@ -1175,12 +1175,14 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1916 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Die Grundlage der allgemeinen Relativitätstheorie* (*The basis of General Relativity*)
 - 1916 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Über die spezielle und die allgemeine Relativitätstheorie* (*Relativity: The Special and the General Theory*)](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory)
 - 1916 CE: [Gustav Cassel](https://en.wikipedia.org/wiki/Gustav_Cassel) published *The Present Situation of the Foreign Trade*, describing [purchasing power parity](https://en.wikipedia.org/wiki/Purchasing_power_parity)
+- 1916 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Zur Quantentheorie der Spektrallinien* (*On the quantum theory of the spectral lines*), introducing the [fine-structure constant](https://en.wikipedia.org/wiki/Fine-structure_constant)
 - 1917 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
 - 1918 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Gravitationswellen* (*On Gravitational Waves*)](https://einsteinpapers.press.princeton.edu/vol7-trans/25), on [gravitational waves](https://en.wikipedia.org/wiki/Gravitational_wave)
 - 1918 CE: [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether) published *Invariante Variationsprobleme*, describing [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem) which explains the connection between [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28physics%29) and [conservation laws](https://en.wikipedia.org/wiki/Conservation_law)
 - 1919 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The Economic Consequences of the Peace*](https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace)
 - 1919 CE: [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) published *Collision of α particles with light atoms. IV. An anomalous effect in nitrogen*, describing [proton](https://en.wikipedia.org/wiki/Proton) emission
+- 1919 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Atombau und Spektrallinien* (*Atomic Structure and Spectral Lines*)
 
 ### 1920s
 
@@ -1294,6 +1296,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1942 CE: [John Vincent Atanasoff](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff) & [Clifford Berry](https://en.wikipedia.org/wiki/Clifford_Berry) demonstrated the [Atanasoff–Berry computer (ABC)](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer), the first [digital electronic computer](https://en.wikipedia.org/wiki/Digital_electronic_computer), and used it to solve [linear equations](https://en.wikipedia.org/wiki/Linear_equation)
 - 1943 CE: British [codebreakers](https://en.wikipedia.org/wiki/Cryptanalysis) invent the [Colossus](https://en.wikipedia.org/wiki/Colossus_computer): the first programmable electronic digital computer
 - 1943 CE: [Oswald Avery](https://en.wikipedia.org/wiki/Oswald_Avery), [Colin Munro MacLeod](https://en.wikipedia.org/wiki/Colin_Munro_MacLeod), & [Maclyn McCarty](https://en.wikipedia.org/wiki/Maclyn_McCarty) published *Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types: Induction of Transformation by a Desoxyribonucleic Acid Fraction Isolated from Pneumococcus Type III*, identifying DNA as [Griffith's "transforming principle"](https://en.wikipedia.org/wiki/Griffith%27s_experiment)
+- 1943 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Mechanik der deformierbaren Medien* (*Mechanics of Deformable Bodies*), volume 2 of his [*Lectures on Theoretical Physics*](https://en.wikipedia.org/wiki/Lectures_on_Theoretical_Physics)
 - 1944 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *First Draft of a Report on the EDVAC*
 - 1944 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *Principles of Physical Geology*, promoting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
 - 1944 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *Caesar and Christ*, the 3rd volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
@@ -1303,11 +1306,14 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1947 CE: [Marjory Stoneman Douglas](https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas) published [*The Everglades: River of Grass*](https://en.wikipedia.org/wiki/The_Everglades:_River_of_Grass)
 - 1947 CE: [Paul Samuelson](https://en.wikipedia.org/wiki/Paul_Samuelson) published [*Foundations of Economic Analysis*](https://en.wikipedia.org/wiki/Foundations_of_Economic_Analysis)
 - 1947 CE: [Sidney H. Liebson](https://en.wikipedia.org/wiki/Sidney_H._Liebson) published *The Discharge Mechanism of Self-Quenching Geiger-Mueller Counters*
+- 1947 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Mechanik* (*Mechanics*), volume 1 of his [*Lectures on Theoretical Physics*](https://en.wikipedia.org/wiki/Lectures_on_Theoretical_Physics)
+- 1947 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Partielle Differentialgleichungen der Physik* (*Partial Differential Equations in Physics*), volume 6 of his [*Lectures on Theoretical Physics*](https://en.wikipedia.org/wiki/Lectures_on_Theoretical_Physics)
 - 1948 CE: [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) published [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication), founding [information theory](https://en.wikipedia.org/wiki/Information_theory)
 - 1948 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *The general and logical theory of automata*
 - 1948 CE: [Paul Samuelson](https://en.wikipedia.org/wiki/Paul_Samuelson) & [William Nordhaus](https://en.wikipedia.org/wiki/William_Nordhaus) published [*Economics: An Introductory Analysis*](https://en.wikipedia.org/wiki/Economics_%28textbook%29)
 - 1948 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *Rounding-Off Errors in Matrix Processes*
 - 1948 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Space-Time Approach to Non-Relativistic Quantum Mechanics*, developing the [path integral formulation of quantum mechanics](https://en.wikipedia.org/wiki/Path_integral_formulation)
+- 1948 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Elektrodynamik* (*Electrodynamics*), volume 3 of his [*Lectures on Theoretical Physics*](https://en.wikipedia.org/wiki/Lectures_on_Theoretical_Physics)
 - 1949 CE: [Keith Runcorn](https://en.wikipedia.org/wiki/Keith_Runcorn) published *Investigations relating to the main geomagnetic field*, proposing [paleomagnetism](https://en.wikipedia.org/wiki/Paleomagnetism)
 - 1949 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published [*The Intelligent Investor*](https://en.wikipedia.org/wiki/The_Intelligent_Investor), an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
 - 1949 CE: [Dorothy Crowfoot Hodgkin](https://en.wikipedia.org/wiki/Dorothy_Hodgkin) et al. published *X-ray crystallographic investigation of the structure of penicillin*
@@ -1317,6 +1323,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1950 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Age of Faith*, the 4th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1950 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published [*Computing Machinery and Intelligence*](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence), introducing the [Turing test](https://en.wikipedia.org/wiki/Turing_test)
 - 1950 CE: [Zhou Youguang](https://en.wikipedia.org/wiki/Zhou_Youguang) published *Hànyǔ pīnyīn cíhuì* (*Chinese phonetic alphabet glossary*), describing how to write Chinese characters using the Latin alphabet, abbreviated [pinyin](https://en.wikipedia.org/wiki/Pinyin)
+- 1950 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Optik* (*Optics*), volume 4 of his [*Lectures on Theoretical Physics*](https://en.wikipedia.org/wiki/Lectures_on_Theoretical_Physics)
 - 1951 CE: [Fritz Houtermans](https://en.wikipedia.org/wiki/Fritz_Houtermans) published *Über ein neues Verfahren zur Durchführung chemischer Altersbestimmungen nach der Blei-Methode* (*On a new method for carrying out chemical age determinations using the lead method*)
 - 1951 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) published *A duplex theory of pitch perception*
 - 1952 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) tested the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine)
@@ -1324,6 +1331,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1952 CE: [Alfred Hershey](https://en.wikipedia.org/wiki/Alfred_Hershey) & [Martha Chase](https://en.wikipedia.org/wiki/Martha_Chase) published *Independent functions of viral protein and nucleic acid in growth of bacteriophage*, showing that [DNA is genetic material](https://en.wikipedia.org/wiki/Hershey%E2%80%93Chase_experiment)
 - 1952 CE: [Raymond Gosling](https://en.wikipedia.org/wiki/Raymond_Gosling) took an [X-ray diffraction image of DNA](https://en.wikipedia.org/wiki/Photo_51), and his supervisor [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin) indentified the [space group](https://en.wikipedia.org/wiki/Space_group) of [DNA](https://en.wikipedia.org/wiki/DNA), and realized that the sugar-phosphate backbones had to be on the outside of the molecule, not the inside as [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling), [James Watson](https://en.wikipedia.org/wiki/James_Watson), & [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick) had suggested
 - 1952 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published [*The Chemical Basis of Morphogenesis*](https://en.wikipedia.org/wiki/The_Chemical_Basis_of_Morphogenesis)
+- 1952 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Thermodynamik und Statistik* (*Thermodynamics and Statistical Mechanics*), volume 5 of his [*Lectures on Theoretical Physics*](https://en.wikipedia.org/wiki/Lectures_on_Theoretical_Physics)
 - 1953 CE: [James Watson](https://en.wikipedia.org/wiki/James_Watson) & [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick) published *Molecular structure of nucleic acids; a structure for [deoxyribose nucleic acid](https://en.wikipedia.org/wiki/DNA)*, correctly describing the [double helix](https://en.wikipedia.org/wiki/Nucleic_acid_double_helix)
 - 1953 CE: [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin) & [Raymond Gosling](https://en.wikipedia.org/wiki/Raymond_Gosling) published *Molecular configuration in sodium thymonucleate*
 - 1953 CE: [Maurice Wilkins](https://en.wikipedia.org/wiki/Maurice_Wilkins), [Alec Stokes](https://en.wikipedia.org/wiki/Alec_Stokes), & [Herbert Wilson](https://en.wikipedia.org/wiki/Herbert_Wilson) published *Molecular structure of deoxypentose nucleic acids*
@@ -1619,6 +1627,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [List of large volcanic eruptions](https://en.wikipedia.org/wiki/List_of_large_volcanic_eruptions)
   - [List of largest volcanic eruptions](https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions)
 - [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+- [List of medical textbooks](https://en.wikipedia.org/wiki/List_of_medical_textbooks)
 - [List of Nobel laureates](https://en.wikipedia.org/wiki/List_of_Nobel_laureates)
 - [List of numeral systems](https://en.wikipedia.org/wiki/List_of_numeral_systems)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
@@ -1627,6 +1636,9 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [List of rivers by length](https://en.wikipedia.org/wiki/List_of_rivers_by_length)
   - [List of largest unfragmented rivers](https://en.wikipedia.org/wiki/List_of_largest_unfragmented_rivers)
 - [List of supercontinents](https://en.wikipedia.org/wiki/List_of_supercontinents)
+- [List of textbooks in electromagnetism](https://en.wikipedia.org/wiki/List_of_textbooks_in_electromagnetism)
+- [List of textbooks in thermodynamics and statistical mechanics](https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics)
+- [List of textbooks on classical and quantum mechanics](https://en.wikipedia.org/wiki/List_of_textbooks_on_classical_and_quantum_mechanics)
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
 - [List of zim files for the Kiwix offline wiki app](https://download.kiwix.org/zim/)
 - [Lists of etymologies](https://en.wikipedia.org/wiki/Lists_of_etymologies)
