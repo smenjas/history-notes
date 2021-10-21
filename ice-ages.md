@@ -23,13 +23,10 @@
   [Earth became a snowball](https://en.wikipedia.org/wiki/Marinoan_glaciation)
   again for about 15 million years.
 
-- After 56 million warm years, 
+- After 56 million warm years,
   [Earth became a snowball](https://en.wikipedia.org/wiki/Gaskiers_glaciation)
   again for about 340,000 years.
-
----
 
 ## Questions
 
 - When did the Solar System enter the Orion arm of the Milky Way?
-
