@@ -413,10 +413,12 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 9000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
 - 9000 BCE: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) settled [Jericho](https://en.wikipedia.org/wiki/Jericho)
 - 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea), [wheat](https://en.wikipedia.org/wiki/Wheat), [rye](https://en.wikipedia.org/wiki/Rye), & [barley](https://en.wikipedia.org/wiki/Barley) which tolerates salty soil better than the others
-- 9000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated [soybeans](https://en.wikipedia.org/wiki/Soybean)
+- 9000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated [soybeans](https://en.wikipedia.org/wiki/Soybean)
 - 8500 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [sheep](https://en.wikipedia.org/wiki/Domestic_sheep)
 - 8500 BCE: People in the [Tigris basin](https://en.wikipedia.org/wiki/Tigris) [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) and [cattle](https://en.wikipedia.org/wiki/Cattle#Domestication_and_husbandry), perhaps near [Çayönü Tepesi](https://en.wikipedia.org/wiki/%C3%87ay%C3%B6n%C3%BC)
-- 8000 BCE: People in [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
+- 8350 BCE: People in the [Levant](https://en.wikipedia.org/wiki/Levant) settled [ʿAin Ghazal ("Spring of the Gazelle")](https://en.wikipedia.org/wiki/%CA%BFAin_Ghazal) by the [Zarqa River](https://en.wikipedia.org/wiki/Zarqa_River), where the city of Amman is today
+- 8000 BCE: People in the [Levant](https://en.wikipedia.org/wiki/Levant) settled [Gesher](https://en.wikipedia.org/wiki/Gesher_%28archaeological_site%29) in the [Jordan Valley](https://en.wikipedia.org/wiki/Jordan_Valley)
+- 8000 BCE: People in what is now [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
 - 8000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 40m below present
 
 ## < 10 Thousand Years Ago
@@ -429,17 +431,17 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
 - 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
 - 6000 BCE: People in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) domesticated the [chicken](https://en.wikipedia.org/wiki/Chicken)
-- 6000 BCE: People in [China](https://en.wikipedia.org/wiki/China) independently [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
+- 6000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) independently [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
 - 6000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 10m below present
 - 5400 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Eridu](https://en.wikipedia.org/wiki/Eridu)
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
 - 5000 BCE: People smelted [copper](https://en.wikipedia.org/wiki/Copper) on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
-- 5000 BCE: People in [Peru](https://en.wikipedia.org/wiki/Peru) domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig)
+- 5000 BCE: People in what is now [Peru](https://en.wikipedia.org/wiki/Peru) domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig)
 - 5000 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) domesticated the [donkey](https://en.wikipedia.org/wiki/Donkey)
 - 5000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Uruk](https://en.wikipedia.org/wiki/Uruk)
 - 5000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 5m below present
-- 4000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated the [duck](https://en.wikipedia.org/wiki/Domestic_duck)
-- 4000 BCE: People in [India](https://en.wikipedia.org/wiki/India) & [China](https://en.wikipedia.org/wiki/China) domesticated the [water buffalo](https://en.wikipedia.org/wiki/Water_buffalo)
+- 4000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [duck](https://en.wikipedia.org/wiki/Domestic_duck)
+- 4000 BCE: People in what is now [India](https://en.wikipedia.org/wiki/India) & [China](https://en.wikipedia.org/wiki/China) domesticated the [water buffalo](https://en.wikipedia.org/wiki/Water_buffalo)
 - 4000 BCE: People in [Africa](https://en.wikipedia.org/wiki/Africa), [Asia](https://en.wikipedia.org/wiki/Asia), & [Europe](https://en.wikipedia.org/wiki/Europe) domesticated the [honey bee](https://en.wikipedia.org/wiki/Honey_bee)
 - 4000 BCE: People in [Arabia](https://en.wikipedia.org/wiki/Arabian_Peninsula) domesticated the [dromedary camel](https://en.wikipedia.org/wiki/Dromedary_camel)
 - 3900-3500 BCE: Human populations rapidly increased with the spread of agriculture, pottery, the wheel, and animal husbandry, see the [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline)
@@ -455,7 +457,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 3200 BCE: The [Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph) ("sacred carvings"), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3100 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Kish](https://en.wikipedia.org/wiki/Kish_%28Sumer%29)
 - 3000 BCE: The [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) had many [advanced technologies](https://en.wikipedia.org/wiki/List_of_inventions_and_discoveries_of_the_Indus_Valley_Civilisation), notably [sanitation](https://en.wikipedia.org/wiki/Sanitation_of_the_Indus_Valley_Civilisation) using separate channels for wastewater and rainwater
-- 3000 BCE: People in [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
+- 3000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
 - 2600 BCE: [Western Steppe Herders (WSH)](https://en.wikipedia.org/wiki/Western_Steppe_Herders) migrated across Eurasia, spreading the [Indo-European language family](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 2500 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) [fried food](https://en.wikipedia.org/wiki/Frying)
@@ -1644,9 +1646,12 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [List of impact craters on Earth](https://en.wikipedia.org/wiki/List_of_impact_craters_on_Earth)
 - [List of Internet pioneers](https://en.wikipedia.org/wiki/List_of_Internet_pioneers)
 - [List of languages by first written accounts](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
+- [List of largest cities throughout history](https://en.wikipedia.org/wiki/List_of_largest_cities_throughout_history)
 - [List of large volcanic eruptions](https://en.wikipedia.org/wiki/List_of_large_volcanic_eruptions)
   - [List of largest volcanic eruptions](https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions)
 - [List of largest cities throughout history](https://en.wikipedia.org/wiki/List_of_largest_cities_throughout_history)
+  - [Historical urban community sizes](https://en.wikipedia.org/wiki/Historical_urban_community_sizes)
+  - [List of oldest continuously inhabited cities](https://en.wikipedia.org/wiki/List_of_oldest_continuously_inhabited_cities)
 - [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
 - [List of medical textbooks](https://en.wikipedia.org/wiki/List_of_medical_textbooks)
 - [List of Nobel laureates](https://en.wikipedia.org/wiki/List_of_Nobel_laureates)
@@ -1656,6 +1661,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 - [List of rivers by length](https://en.wikipedia.org/wiki/List_of_rivers_by_length)
   - [List of largest unfragmented rivers](https://en.wikipedia.org/wiki/List_of_largest_unfragmented_rivers)
+- [List of Stone Age art](https://en.wikipedia.org/wiki/List_of_Stone_Age_art)
 - [List of supercontinents](https://en.wikipedia.org/wiki/List_of_supercontinents)
 - [List of textbooks in electromagnetism](https://en.wikipedia.org/wiki/List_of_textbooks_in_electromagnetism)
 - [List of textbooks in thermodynamics and statistical mechanics](https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics)
