@@ -33,8 +33,8 @@ more than 6 °C below the Holocene average, during major
 [glaciations](https://en.wikipedia.org/wiki/Glacial_period): the air becomes
 cold and dry.
 
-[![Global average temperature estimates for the last 540
-million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg)
+[![Global average temperature estimates for the last 540 million
+years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg)
 
 ---
 
@@ -565,6 +565,9 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
 - 164 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar
+- 135 BCE: [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) compiled a star catalog, later copied by Ptolemy
+- 127 BCE: [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) wrote two books on the [precession](https://en.wikipedia.org/wiki/Axial_precession) of the equinoxes: *On the Displacement of the Solsticial and Equinoctial Points* & *On the Length of the Year*
+- 120 BCE: [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) wrote [*Peri megethon kai apostematon* (*On Sizes and Distances*)](https://en.wikipedia.org/wiki/On_Sizes_and_Distances_%28Hipparchus%29), *Pròs tèn Eratosthénous geographían* (*Against the Geography of Eratosthenes*), and many others by the time he died
 - 107 BCE: [Roman tribunes](https://en.wikipedia.org/wiki/Ballot_laws_of_the_Roman_Republic) required [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot)
 - 100 BCE: [Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
 - 87 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
@@ -593,7 +596,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - 131 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Periplus of the Euxine Sea*](https://en.wikipedia.org/wiki/Periplus_of_the_Euxine_Sea)
 - 137 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote *Techne Taktike*, on [Roman military tactics](https://en.wikipedia.org/wiki/Roman_infantry_tactics)
 - 141 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
-- 150 CE: [Claudius Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) wrote the [*Almagest*](https://en.wikipedia.org/wiki/Almagest) on [astronomy](https://en.wikipedia.org/wiki/Astronomy), and [*Geography*](https://en.wikipedia.org/wiki/Geography_%28Ptolemy%29) on [cartography](https://en.wikipedia.org/wiki/Cartography)
+- 150 CE: [Claudius Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) wrote the [*Almagest*](https://en.wikipedia.org/wiki/Almagest) on [astronomy](https://en.wikipedia.org/wiki/Astronomy), and [*Geography*](https://en.wikipedia.org/wiki/Geography_%28Ptolemy%29) on [cartography](https://en.wikipedia.org/wiki/Cartography), borrowing from [Hipparchus'](https://en.wikipedia.org/wiki/Hipparchus) work
 - 160 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Alexándrou Anábasis* (*The Anabasis of Alexander*)](https://en.wikipedia.org/wiki/The_Anabasis_of_Alexander), [*Indica*](https://en.wikipedia.org/wiki/Indica_%28Arrian%29), *Ta met' Alexandron* (*Events after Alexander*), *Kynēgetikos* (*On Hunting*), and many other books by the time he died
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
@@ -642,6 +645,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - 932 CE: [Al-Razi, a.k.a. Rhazes](https://en.wikipedia.org/wiki/Muhammad_ibn_Zakariya_al-Razi) wrote [*Al-Hawi* (*The Comprehensive Book on Medicine*)](https://en.wikipedia.org/wiki/Al-Hawi), and many other books on medicine, philosophy, and chemistry, describing the modern recipe for [soap](https://en.wikipedia.org/wiki/Soap) by the time he died
 - 946 CE: The [Paektu volcano erupted](https://en.wikipedia.org/wiki/946_eruption_of_Paektu_Mountain) in [Manchuria](https://en.wikipedia.org/wiki/Manchuria)
 - 947 CE: [Al-Masudi](https://en.wikipedia.org/wiki/Al-Masudi) wrote the first edition of [*Murūj aḏ-Ḏahab wa-Maʿādin al-Jawhar* (*Meadows of Gold and Mines of Gems*)](https://en.wikipedia.org/wiki/The_Meadows_of_Gold), a book on [world history](https://en.wikipedia.org/wiki/World_history), the first to combine history and [scientific](https://en.wikipedia.org/wiki/Science) [geography](https://en.wikipedia.org/wiki/Geography) in a large-scale work
+- 964 CE: [Abd al-Rahman al-Sufi](https://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi) wrote the *kitāb suwar al-kawākib* (*Book of Fixed Stars*)](https://en.wikipedia.org/wiki/Book_of_Fixed_Stars), updating Hipparchus' astronomical observations
 - 976 CE: The [*Codex Vigilanus* (*Watchful Manuscript*)](https://en.wikipedia.org/wiki/Codex_Vigilanus) introduced [Arabic numerals](https://en.wikipedia.org/wiki/Arabic_numerals) (except zero) to [the West](https://en.wikipedia.org/wiki/Western_world)
 - 977 CE: [Muhammad ibn Ahmad al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Ahmad_al-Khwarizmi) compiled *Mafātīḥ al-ʿulūm* (*The Keys of the Sciences*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia), stating that if no number appears in the place of tens in a calculation, a little circle (called a ṣifr) should be used "to keep the rows"
 - 987 CE: [Ibn al-Nadim](https://en.wikipedia.org/wiki/Ibn_al-Nadim) wrote *Kitāb al-Fihrist* (*The Book Catalogue*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
@@ -668,6 +672,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - 1257 CE: The [Samalas volcano erupted](https://en.wikipedia.org/wiki/1257_Samalas_eruption) in present day [Indonesia](https://en.wikipedia.org/wiki/Indonesia), and may have contributed to the [Little Ice Age](https://en.wikipedia.org/wiki/Little_Ice_Age)
 - 1258 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) rescued about 400,000 manuscripts from the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library before [Hulagu Khan sacked Baghdad](https://en.wikipedia.org/wiki/Siege_of_Baghdad_%281258%29)
 - 1259 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) convinced [Hulagu Khan](https://en.wikipedia.org/wiki/Hulagu_Khan) to build the [Maragheh observatory](https://en.wikipedia.org/wiki/Maragheh_observatory)
+- 1272 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) compiled [*Zīj-i Īlkhānī*](https://en.wikipedia.org/wiki/Zij-i_Ilkhani), a star catalog
 - 1274 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) wrote many works on astronomy, biology, chemistry, logic, and mathematics, establishing [trigonometry](https://en.wikipedia.org/wiki/Trigonometry) as a separate discipline from astronomy by the time he died
 - 1279 CE: [Faraj ben Salim](https://en.wikipedia.org/wiki/Faraj_ben_Salim) translated [Al-Razi](https://en.wikipedia.org/wiki/Muhammad_ibn_Zakariya_al-Razi)'s [*Al-Hawi* (*The Comprehensive Book on Medicine*)](https://en.wikipedia.org/wiki/Al-Hawi) into Latin
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
@@ -679,6 +684,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesized that "minute bodies" cause infectious diseases, and described how garments, vessels, and earrings can transmit them
 - 1377 CE: [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) wrote the [*Muqaddimah* (*Prolegomena* or *Introduction*)](https://en.wikipedia.org/wiki/Muqaddimah), the first book of the *Kitāb al-ʻIbar* (*Book of Lessons*): an early view of [universal history](https://en.wikipedia.org/wiki/Universal_history) that introduced the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to the [social sciences](https://en.wikipedia.org/wiki/Social_science), and included an outline of the labor [theory of value](https://en.wikipedia.org/wiki/Theory_of_value_%28economics%29), an early example of [political economy](https://en.wikipedia.org/wiki/Political_economy)
 - 1378 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
+- 1437 CE: [Ulugh Beg](https://en.wikipedia.org/wiki/Ulugh_Beg) published [*Zīj-i Sulṭānī*](https://en.wikipedia.org/wiki/Zij-i_Sultani), the most accurate star catalog to date
 
 ### Printing
 
@@ -702,6 +708,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - 1570 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published [*Theatrum Orbis Terrarum* (*Theatre of the Orb of the World*)](https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum), the first modern [atlas](https://en.wikipedia.org/wiki/Atlas)
 - 1573 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De nova stella* (*The new star*)
 - 1582 CE: [Pope Gregory XIII](https://en.wikipedia.org/wiki/Pope_Gregory_XIII) introduced the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
+- 1585 CE: [Taqi ad-Din Muhammad ibn Ma'ruf](https://en.wikipedia.org/wiki/Taqi_ad-Din_Muhammad_ibn_Ma%27ruf) compiled *Sidrat al-muntah al-afkar fi malkūt al-falak al-dawār– al-zij al-Shāhinshāhi* (*The tree of ultimate knowledge in the Kingdom of the Revolving Spheres*), a star catalog that improved on Ulugh Beg's, among many other works by the time he died
 - 1588 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De Mundi Aetherei Recentioribus Phaenomenis Liber Secundus* (*Second Book About Recent Phenomena in the Celestial World*)
 - 1593 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the modern [thermometer](https://en.wikipedia.org/wiki/Thermometer)
 - 1596 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published a new edition of *Thesaurus geographicus* (*Geographic treasure*), and proposed [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
@@ -714,9 +721,9 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 
 - 1603 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) posthumously published *Astronomiae Instauratae Progymnasmata* (*Introduction to the New Astronomy*)
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
-- 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomia nova* (*New Astronomy*), the foundation of planetary motion
 - 1607 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1608 CE: [Hans Lipperhey](https://en.wikipedia.org/wiki/Hans_Lipperhey) filed a patent for a [refracting telescope](https://en.wikipedia.org/wiki/Refracting_telescope)
+- 1609 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomia nova* (*New Astronomy*), the foundation of [planetary motion](https://en.wikipedia.org/wiki/Kepler's_laws_of_planetary_motion), describing orbits as [eccentric](https://en.wikipedia.org/wiki/Orbital_eccentricity)
 - 1609 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [telescope](https://en.wikipedia.org/wiki/Telescope) to be useful
 - 1610 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Sidereus Nuncius* (*Starry Messenger*)](https://en.wikipedia.org/wiki/Sidereus_Nuncius)
 - 1611 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) invented the [Keplerian telescope](https://en.wikipedia.org/wiki/Refracting_telescope#Keplerian_telescope)
@@ -1155,6 +1162,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - 1903 CE: [Nicholas Johannsen](https://en.wikipedia.org/wiki/Nicholas_Johannsen) published *Der Kreislauf des Geldes und Mechanismus des Sozial-Lebens* (*The Circuit Theory of Money*), an early work in [monetary circuit theory](https://en.wikipedia.org/wiki/Monetary_circuit_theory)
 - 1903 CE: [Nikolai Koltsov](https://en.wikipedia.org/wiki/Nikolai_Koltsov) published *Über formbestimmende elastische Gebilde in Zellen* (*On shape-determining elastic structures in cells*), describing the [cytoskeleton](https://en.wikipedia.org/wiki/Cytoskeleton)
 - 1903 CE: [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) published *The magnetic and electric deviation of the easily absorbed rays from radium*, coining the term [gamma ray](https://en.wikipedia.org/wiki/Gamma_ray)
+- 1904 CE: Ludwig Pilgrim published *Versuch einer rechnerischen Behandlung des Eiszeitproblems* (*Attempt to treat the ice age problem arithmetically*), describing Earth's [axial tilt](https://en.wikipedia.org/wiki/Axial_tilt)
 - 1905 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published 5 papers:
   - [*On a Heuristic Viewpoint Concerning the Production and Transformation of Light*](https://en.wikisource.org/?curid=59468) suggested [quanta](https://en.wikipedia.org/wiki/Quantum)
   - *On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat* proved [atomic theory](https://en.wikipedia.org/wiki/Atomic_theory)
@@ -1268,6 +1276,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - 1928 CE: [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac) published [*The Quantum Theory of the Electron*](https://royalsocietypublishing.org/doi/10.1098/rspa.1928.0023), applying [special relativity](https://en.wikipedia.org/wiki/Special_relativity) to the [Schrödinger equation](https://en.wikipedia.org/wiki/Schrödinger_equation) to create the [Dirac equation](https://en.wikipedia.org/wiki/Dirac_equation) and predicting the [positron](https://en.wikipedia.org/wiki/Positron)
 - 1928 CE: [Hans Geiger](https://en.wikipedia.org/wiki/Hans_Geiger) & [Walther Müller](https://en.wikipedia.org/wiki/Walther_Müller) published *Elektronenzählrohr zur Messung schwächster Aktivitäten* (*Electron counting tube for the measurement of the weakest radioactivities*)
 - 1928 CE: [Hans Geiger](https://en.wikipedia.org/wiki/Hans_Geiger) & [Walther Müller](https://en.wikipedia.org/wiki/Walther_Müller) published *Das Elektronenzählrohr* (*The electron counting tube*)
+- 1928 CE: [Milutin Milanković](https://en.wikipedia.org/wiki/Milutin_Milankovi%C4%87) published [*Through Distant Worlds and Times: Letters from a Wayfarer in the Universe*](https://en.wikipedia.org/wiki/Through_Distant_Worlds_and_Times)
 - 1929 CE: [Hans Geiger](https://en.wikipedia.org/wiki/Hans_Geiger) & [Walther Müller](https://en.wikipedia.org/wiki/Walther_Müller) published *Technische Bemerkungen zum Elektronenzählrohr* (*Technical notes on the electron counting tube*)
 - 1929 CE: [Hans Geiger](https://en.wikipedia.org/wiki/Hans_Geiger) & [Walther Müller](https://en.wikipedia.org/wiki/Walther_Müller) published *Demonstration des Elektronenzählrohrs* (*Demonstration of the electron counting tube*)
 - 1929 CE: [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) published *Introduzione alla fisica atomica* (*Introduction to Atomic Physics*)
@@ -1278,6 +1287,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 ### 1930s
 
 - 1929 CE: [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) & [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli) published *Zur Quantendynamik der Wellenfelder II* (*On the Quantum Dynamics of Wave Fields II*), laying the foundation for relativistic [quantum field theory (QFT)](https://en.wikipedia.org/wiki/Quantum_field_theory)
+- 1930 CE: [Milutin Milanković](https://en.wikipedia.org/wiki/Milutin_Milankovi%C4%87) published *Mathematische Klimalehre und Astronomische Theorie der Klimaschwankungen* (*Mathematical climate theory and astronomical theory of climate fluctuations*), describing [Milankovitch cycles](https://en.wikipedia.org/wiki/Milankovitch_cycles)
 - 1930 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*A Treatise on Money*](https://en.wikipedia.org/wiki/A_Treatise_on_Money)
 - 1930 CE: [Henry Ford](https://en.wikipedia.org/wiki/Henry_Ford) & [Samuel Crowther](https://en.wikipedia.org/wiki/Samuel_Crowther_%28journalist%29) published *Moving Forward*
 - 1930 CE: [Bartel Leendert van der Waerden](https://en.wikipedia.org/wiki/Bartel_Leendert_van_der_Waerden) published [*Moderne Algebra*](https://en.wikipedia.org/wiki/Moderne_Algebra), an influential textbook on [abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra) based on lectures by [Emil Artin](https://en.wikipedia.org/wiki/Emil_Artin) & [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether)
@@ -1295,6 +1305,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - 1933 CE: [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac) published *The Lagrangian in Quantum Mechanics*
 - 1934 CE: [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) published *Radioattività indotta da bombardamento di neutroni* (*Radioactivity induced by neutron bombardment*)
 - 1934 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) & [David Dodd](https://en.wikipedia.org/wiki/David_Dodd) published [*Security Analysis*](https://en.wikipedia.org/wiki/Security_Analysis_%28book%29), founding [value investing](https://en.wikipedia.org/wiki/Value_investing)
+- 1934 CE: [Milutin Milanković](https://en.wikipedia.org/wiki/Milutin_Milankovi%C4%87) published *Celestial Mechanics*
 - 1935 CE: [Boris Choubert](https://en.wikipedia.org/wiki/Boris_Choubert) published *Recherches sur la genèse des chaînes paléolithiques et antécambriennes* (*Research on the genesis of the Palaeolithic and Antecambrian chains*, showing how the continents had previously fit together to form the supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 - 1935 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *Our Oriental Heritage*, the 1st volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1935 CE: [Arthur Compton](https://en.wikipedia.org/wiki/Arthur_Compton) & [Samuel King Allison](https://en.wikipedia.org/wiki/Samuel_King_Allison) published *X-rays in Theory and Experiment*
@@ -1319,6 +1330,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - 1938 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published [*Systems of Logic Based on Ordinals*](https://en.wikipedia.org/wiki/Systems_of_Logic_Based_on_Ordinals)
 - 1938 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) & [Leopold Infeld](https://en.wikipedia.org/wiki/Leopold_Infeld) published [*The Evolution of Physics: The Growth of Ideas from Early Concepts to Relativity and Quanta*](https://en.wikipedia.org/wiki/The_Evolution_of_Physics)
 - 1938 CE: [Edmund Clifton Stoner](https://en.wikipedia.org/wiki/Edmund_Clifton_Stoner) published [*Collective electron ferromagnetism*](https://royalsocietypublishing.org/doi/10.1098/rspa.1938.0066), describing the [Stoner model](https://en.wikipedia.org/wiki/Stoner_criterion) of ferromagnetism
+- 1938 CE: [Milutin Milanković](https://en.wikipedia.org/wiki/Milutin_Milankovi%C4%87) published *New Results of the Astronomic Theory of Climate Changes*
 - 1939 CE: [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *The Nature of the Chemical Bond*
 - 1939 CE: The [Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
 - 1939 CE: [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) & [Otto Robert Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) published *Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction*, describing [nuclear fission](https://en.wikipedia.org/wiki/Nuclear_fission)
@@ -1328,6 +1340,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 
 - 1940 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*How to Pay for the War*](https://en.wikipedia.org/wiki/How_to_Pay_for_the_War), discussing [price controls](https://en.wikipedia.org/wiki/Price_controls)
 - 1941 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *The Applications of Probability to Cryptography* & *Paper on Statistics of Repetitions*
+- 1941 CE: [Milutin Milanković](https://en.wikipedia.org/wiki/Milutin_Milankovi%C4%87) published *Kanon der Erdbestrahlung und seine Anwendung auf das Eiszeitenproblem* (*Canon of Insolation of the Earth and Its Application to the Ice Age Problem*)
 - 1942 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Principle of Least Action in Quantum Mechanics*
 - 1942 CE: [John Vincent Atanasoff](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff) & [Clifford Berry](https://en.wikipedia.org/wiki/Clifford_Berry) demonstrated the [Atanasoff–Berry computer (ABC)](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer), the first [digital electronic computer](https://en.wikipedia.org/wiki/Digital_electronic_computer), and used it to solve [linear equations](https://en.wikipedia.org/wiki/Linear_equation)
 - 1943 CE: British [codebreakers](https://en.wikipedia.org/wiki/Cryptanalysis) invent the [Colossus](https://en.wikipedia.org/wiki/Colossus_computer): the first programmable electronic digital computer
@@ -1918,6 +1931,7 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 - [History of chemistry](https://en.wikipedia.org/wiki/History_of_chemistry)
   - [History of molecular theory](https://en.wikipedia.org/wiki/History_of_molecular_theory)
   - [History of the periodic table](https://en.wikipedia.org/wiki/History_of_the_periodic_table)
+- [History of climate change science](https://en.wikipedia.org/wiki/History_of_climate_change_science)
 - [History of entropy](https://en.wikipedia.org/wiki/History_of_entropy)
 - [History of materials science](https://en.wikipedia.org/wiki/History_of_materials_science)
 - [History of mathematics](https://en.wikipedia.org/wiki/History_of_mathematics)
