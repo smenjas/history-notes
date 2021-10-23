@@ -6,23 +6,6 @@ along the path of [human
 evolution](https://en.wikipedia.org/wiki/Human_evolution).  The branch leading
 to humans is on the left.
 
-Environmental data provide context.  Atmospheric oxygen (O₂) tells the
-[eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story.  Atmospheric
-[carbon dioxide
-(CO₂)](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
-tells temperature's story. [Sea level
-varies](https://en.wikipedia.org/wiki/Past_sea_level) with temperature.
-
-In [the Holocene epoch](https://en.wikipedia.org/wiki/Holocene), the average
-global temperature has varied [< ±2 °C from the 20th century
-average](https://upload.wikimedia.org/wikipedia/commons/5/5f/All_palaeotemps.svg)
-of [15.0°C (59.0°F)](https://www.ncdc.noaa.gov/sotc/global/).  Atmospheric CO₂
-has steadily increased from about 260 ppm, and dust levels have stayed below
-0.1 ppm.  Dust levels exceed 0.4 ppm when the global average temperature drops
-more than 6 °C below the Holocene average, during major
-[glaciations](https://en.wikipedia.org/wiki/Glacial_period): the air becomes
-cold and dry.
-
 I'm interested in alphabets, number systems, printing, writing, reproducible
 ideas in publications, patents,
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions),
@@ -32,6 +15,26 @@ science and natural history.
 
 Accessible explanations let us [stand on the shoulders of
 giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
+
+Environmental data provide context.  Atmospheric oxygen (O₂) tells the
+[eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story.  Atmospheric
+[carbon dioxide
+(CO₂)](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
+tells temperature's story. [Sea level
+varies](https://en.wikipedia.org/wiki/Past_sea_level) with temperature.
+
+In [the Holocene epoch](https://en.wikipedia.org/wiki/Holocene), the average
+global temperature has varied [< ±2 °C from the 20th century
+average](https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg)
+of [15.0°C (59.0°F)](https://www.ncdc.noaa.gov/sotc/global/).  Atmospheric CO₂
+has steadily increased from about 260 ppm, and dust levels have stayed below
+0.1 ppm.  Dust levels exceed 0.4 ppm when the global average temperature drops
+more than 6 °C below the Holocene average, during major
+[glaciations](https://en.wikipedia.org/wiki/Glacial_period): the air becomes
+cold and dry.
+
+![Global average temperature estimates for the last 540
+million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg)
 
 ---
 
