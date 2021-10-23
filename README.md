@@ -7,27 +7,30 @@ evolution](https://en.wikipedia.org/wiki/Human_evolution).  The branch leading
 to humans is on the left.
 
 Environmental data provide context.  Atmospheric oxygen (O₂) tells the
-[eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story.  [Carbon dioxide
+[eucharyotes'](https://en.wikipedia.org/wiki/Eukaryote) story.  Atmospheric
+[carbon dioxide
 (CO₂)](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
 tells temperature's story. [Sea level
 varies](https://en.wikipedia.org/wiki/Past_sea_level) with temperature.
 
-In [the Holocene epoch](https://en.wikipedia.org/wiki/Holocene), temperature
-has varied < ±2 °C, CO₂ has steadily increased from about 260 ppm, and dust
-levels have stayed below 0.1 ppm.  Dust levels exceed 0.4 ppm when the global
-average temperature drops more than 6 °C below the Holocene average, during
-major [glaciations](https://en.wikipedia.org/wiki/Glacial_period).  The air
-becomes cold and dry.
+In [the Holocene epoch](https://en.wikipedia.org/wiki/Holocene), the average
+global temperature has varied [< ±2 °C from the 20th century
+average](https://upload.wikimedia.org/wikipedia/commons/5/5f/All_palaeotemps.svg)
+of [15.0°C (59.0°F)](https://www.ncdc.noaa.gov/sotc/global/).  Atmospheric CO₂
+has steadily increased from about 260 ppm, and dust levels have stayed below
+0.1 ppm.  Dust levels exceed 0.4 ppm when the global average temperature drops
+more than 6 °C below the Holocene average, during major
+[glaciations](https://en.wikipedia.org/wiki/Glacial_period): the air becomes
+cold and dry.
 
-Once history begins, I've focused on reproducible ideas in publications,
-patents, and
-[inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions).
-I'm interested in alphabets, number systems, printing, the written word, and
-accessible explanations. My goal is a [universal
-history](https://en.wikipedia.org/wiki/Universal_history).
+I'm interested in alphabets, number systems, printing, writing, reproducible
+ideas in publications, patents,
+[inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions),
+and [innovations](https://en.wikipedia.org/wiki/Innovation). My goal is a
+[universal history](https://en.wikipedia.org/wiki/Universal_history) of
+science and natural history.
 
-Discoveries can be fleeting, but meaningful descriptions let us [stand on the
-shoulders of
+Accessible explanations let us [stand on the shoulders of
 giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 ---
@@ -286,6 +289,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 ### Color Vision
 
 - 29 mya: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
+- 28 mya: The [East Antarctic Ice Sheet (EAIS)](https://en.wikipedia.org/wiki/East_Antarctic_Ice_Sheet) formed, due to declining atmospheric CO₂
 - 25 mya: O₂ dropped to 0.21 atm, the global temperature peaked about 7 °C above the 20th century average, and continued to oscillate around 4-6 °C above for the next 5 million years
 
 ### No Tail
@@ -294,6 +298,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 15.7 mya: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
 - 15 mya: The global temperature peaked at least 7 °C above the 20th century average
 - 14 mya: The [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption) occurred, extinctions related to cooling
+- 14 mya: The [East Antarctic Ice Sheet (EAIS)](https://en.wikipedia.org/wiki/East_Antarctic_Ice_Sheet) reached its current extent
 - 10 mya: The global temperature fell to about 4 °C above the 20th century average, and began to oscillate around 2-4 °C above for the next 4 million years
 
 ## < 10 Million Years Ago
@@ -366,7 +371,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 131 kya: [North African/Near Eastern wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
 - 128 kya: [Early humans cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 120 kya: CO₂ peaked around 280 ppm, global temp +5 °C from present, warmest since 3 million years ago
-- 115 kya: The [Last Glacial Period](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
+- 115 kya: The [Last Glacial Period (LGP)](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
 
 ## < 100 Thousand Years Ago
 
@@ -1702,6 +1707,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
 - [Earth Impact Database](http://www.passc.net/EarthImpactDatabase/New%20website_05-2018/Diametersort.html)
 - [Fred Smitha: Macrohistory, World History](http://www.fsmitha.com/)
+- [NOAA Global Climate Report](https://www.ncdc.noaa.gov/sotc/global/)
 - [Google Books](https://books.google.com/)
 - [Google Patents](https://patents.google.com/)
 - [Google Scholar](https://scholar.google.com/)
