@@ -33,7 +33,7 @@ more than 6 °C below the Holocene average, during major
 [glaciations](https://en.wikipedia.org/wiki/Glacial_period): the air becomes
 cold and dry.
 
-![Global average temperature estimates for the last 540
+[![Global average temperature estimates for the last 540
 million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg)
 
 ---
