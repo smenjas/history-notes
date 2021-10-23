@@ -949,6 +949,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1844 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) published *Die Lineale Ausdehnungslehre* (*The Theory of Linear Extension*), introducing [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 - 1844 CE: [Charles Goodyear](https://en.wikipedia.org/wiki/Charles_Goodyear) [patented](https://patents.google.com/patent/US3462A/en?oq=US3462 "U.S. Patent No. 3,462") [vulcanization](https://en.wikipedia.org/wiki/Vulcanization): heat rubber to harden it, with sulfur maybe
 - 1845 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published [*Kosmos – Entwurf einer physischen Weltbeschreibung* (*Cosmos: A Sketch of a Physical Description of the Universe*)](https://en.wikipedia.org/wiki/Cosmos_%28Humboldt%29), volume 1
+- 1845 CE: [Jean-Baptiste Boussingault](https://en.wikipedia.org/wiki/Jean-Baptiste_Boussingault) published *Traité d'économie rurale* (*Rural economy treatise*)
 - 1846 CE: Julius Bodo Unger published *Das Guanin und seine Verbindungen* (*[Guanine](https://en.wikipedia.org/wiki/Guanine) and its compounds*)
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
