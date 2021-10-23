@@ -197,7 +197,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ### Eye
 
-- 541 mya: The [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion) occurred, CO₂ was 4000 ppm, O₂ was 0.12 atm
+- 541 mya: The [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion) occurred, CO₂ was 4000 ppm, O₂ was 0.12 atm, global temp was +13 °C
 - 517 mya: The [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction) occurred
 - 502 mya: The [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian) occurred
 - 500 mya: The global temperature rose to more than 14 °C above the 20th century average
