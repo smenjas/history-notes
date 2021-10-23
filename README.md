@@ -112,6 +112,7 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - ? bya: [RNA](https://en.wikipedia.org/wiki/RNA) existed
 - ? bya: [DNA](https://en.wikipedia.org/wiki/DNA) existed
 - 4.29-3.48 bya: Our [last universal common ancestor (LUCA)](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) lived
+- 4.1-3.8 bya: The [Late Heavy Bombardment (LHB)](https://en.wikipedia.org/wiki/Late_Heavy_Bombardment) of the inner Solar System may have occurred
 - 3.8 bya: [Archaeal](https://en.wikipedia.org/wiki/Archaea) [lipids](https://en.wikipedia.org/wiki/Lipid) existed
 - 3.6-2.7 bya: The supercontinent [Vaalbara](https://en.wikipedia.org/wiki/Vaalbara) existed
 - 3.5 bya: Earliest oxygen production in shallow oceans, absorbed by the sea and sea bed
