@@ -169,8 +169,8 @@ million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File
 ### [Hox](https://en.wikipedia.org/wiki/Hox_gene)
 
 - ? mya: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
-- 680? mya: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
-- 680? mya: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
+- ? mya: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
+- ? mya: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
 - 824 mya: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
 - 800 mya: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
 
