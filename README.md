@@ -1092,11 +1092,13 @@ giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Reproducing sounds from phonograph records*
 - 1887 CE: [Julius Richard Petri](https://en.wikipedia.org/wiki/Julius_Richard_Petri) published *Eine kleine Modification des Koch'schen Plattenverfahrens* (*A small modification of Koch's plate method*), describing the [Petri dish](https://en.wikipedia.org/wiki/Petri_dish)
 - 1888 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Applications of dynamics to physics and chemistry*, an early example of [computational chemistry](https://en.wikipedia.org/wiki/Computational_chemistry)
+- 1888 CE: [Hermann Hellriegel](https://en.wikipedia.org/wiki/Hermann_Hellriegel) published *Untersuchungen über die Stickstoffnahrung der Gramineen und Leguminosen* (*Investigations into the Nitrogen assimilation of the Gramineae and Leguminosae*), describing [nitrogen fixation](https://en.wikipedia.org/wiki/Nitrogen_fixation)
 - 1889 CE: [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) published [*Arithmetices principia, nova methodo exposita* (*principles of arithmetic, presented by a new method*)](https://en.wikipedia.org/wiki/Arithmetices_principia,_nova_methodo_exposita), simplifying earlier work to formulate [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1889 CE: [William Stewart Halsted](https://en.wikipedia.org/wiki/William_Stewart_Halsted) asked [Goodyear](https://en.wikipedia.org/wiki/Goodyear_Tire_and_Rubber_Company) to make [rubber gloves](https://en.wikipedia.org/wiki/Rubber_glove), to prevent [dermatitis](https://en.wikipedia.org/wiki/Dermatitis) from [antiseptics](https://en.wikipedia.org/wiki/Antiseptic)
 
 ### 1890s
 
+- 1890 CE: [Hermann Hellriegel](https://en.wikipedia.org/wiki/Hermann_Hellriegel) published *Ueber Stickstoffnahrung landwirtschaftlicher Kulturgewächse* (*On Nitrogen assimilation in agricultural crops*), describing [nitrogen fixation](https://en.wikipedia.org/wiki/Nitrogen_fixation)
 - 1891 CE: [George Johnstone Stoney](https://en.wikipedia.org/wiki/George_Johnstone_Stoney) published *Of the "Electron," or Atom of Electricity*
 - 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
 - 1892 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Value, Capital and Rent*
