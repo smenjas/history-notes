@@ -200,14 +200,19 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 541 mya: The [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion) occurred, CO₂ was 4000 ppm, O₂ was 0.12 atm, global temp was +13 °C
 - 517 mya: The [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction) occurred
 - 502 mya: The [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian) occurred
-- 500 mya: The global temperature rose to more than 14 °C above the 20th century average
+- 500 mya: The [Steptoean Positive Carbon Isotope Excursion (SPICE)](https://en.wikipedia.org/wiki/Steptoean_positive_carbon_isotope_excursion) occurred, O₂ was 0.30 atm, global temp peaked at +15 °C
 - 490 mya: [Green algae](https://en.wikipedia.org/wiki/Green_algae) evolved into [Embryophyta (land plants)](https://en.wikipedia.org/wiki/Embryophyte)
 - 488 mya: The [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event) occurred
 
 ### Jaw
 
 - 473 mya: [Gnathostomata](https://en.wikipedia.org/wiki/Gnathostomata) ("jaw mouth", a.k.a. jawed fish) split from [Osteostraci](https://en.wikipedia.org/wiki/Osteostraci) ("bony shields") & [Pituriaspida](https://en.wikipedia.org/wiki/Pituriaspida) ("pituri shield")
+- 469 mya: The [Great Ordovician Biodiversification Event (GOBE)](https://en.wikipedia.org/wiki/Ordovician_radiation) occurred, with fish diversifying rapidly
+- 468 mya: The [L chondrite](https://en.wikipedia.org/wiki/L_chondrite) parent bodies collided between Mars & Jupiter, producing many asteroids that still impact Earth
+- 467.5 mya: The [Ordovician meteor event](https://en.wikipedia.org/wiki/Ordovician_meteor_event) occurred, due to the [L chondrite](https://en.wikipedia.org/wiki/L_chondrite) parent body collision, with 100x meteorites compared to today
+- 460-440 mya: The [Late Ordovician glaciation](https://en.wikipedia.org/wiki/Late_Ordovician_glaciation) occurred, CO₂ fell to 2000 ppm
 - 450 mya: The global temperature fell to about 4 °C above the 20th century average
+- 450-420 mya: The [Andean-Saharan glaciation](https://en.wikipedia.org/wiki/Andean-Saharan_glaciation) occurred
 - 440 mya: The [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events) occurred, 86% of species lost
 
 ### Lungs
@@ -244,12 +249,11 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 230 mya: [Eoraptor](https://en.wikipedia.org/wiki/Eoraptor), an early dinosaur, existed
 - 214 mya: An asteroid impacted Earth, creating the [Manicouagan crater](https://en.wikipedia.org/wiki/Manicouagan_Reservoir) which is 85 km in diameter
 - 201.3 mya: The [Triassic–Jurassic extinction event](https://en.wikipedia.org/wiki/Triassic%E2%80%Jurassic_extinction_event) occurred, 80% of species lost
-- 200 mya: O₂ exceeded 0.2 atm, and the global temperature fell to about 2 °C above the 20th century average
-- 200-150 mya: CO₂ > 3000 ppm
+- 200 mya: O₂ exceeded 0.2 atm, CO₂ was > 3000 ppm, and the global temperature fell to about 2 °C above the 20th century average
 - 183 mya: The [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover) occurred
 - 177 mya: [Synapsida](https://en.wikipedia.org/wiki/Synapsid) ("fused arch", e.g. mammals) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
 - 159 mya: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
-- 150 mya: O₂ exceeded 0.26 atm
+- 150 mya: O₂ exceeded 0.26 atm, CO₂ was > 3000 ppm, global temp rose to about 5 °C above the 20th century average
 - 145 mya: An asteroid impacted Earth, creating the [Morokweng crater](https://en.wikipedia.org/wiki/Morokweng_crater) which is 70 km in diameter
 - 129-125 mya: [Poaceae, a.k.a. Gramineae or grasses](https://en.wikipedia.org/wiki/Poaceae) evolved
 - 116 mya: The [Aptian extinction event](https://en.wikipedia.org/wiki/Aptian_extinction) occurred
@@ -354,15 +358,15 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 490 kya: CO₂ peaked around 250 ppm, global temp -1 °C from present
 - 440 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 415 kya: [Early humans controlled fire in Suffolk, England](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
-- 400 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present, warmest in 0.5 million years
+- 400 kya: CO₂ peaked around 280 ppm, global temp +2 °C from present, first time it exceeded 20th century average since 2 million years ago
 - 350 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
-- 320 kya: CO₂ peaked around 300 ppm, global temp +4 °C from present
+- 320 kya: CO₂ peaked around 300 ppm, global temp +2 °C from present
 - 315 kya: [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens) evolved
 - 300 kya: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
 - 270 kya: [Y-chromosomal Adam](https://en.wikipedia.org/wiki/Y-chromosomal_Adam) lived ([Y-DNA haplogroup A](https://en.wikipedia.org/wiki/Haplogroup_A_%28Y-DNA%29)00)
 - 260 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 250 kya: [Homo neanderthalensis](https://en.wikipedia.org/wiki/Neanderthal) evolved
-- 240 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present
+- 240 kya: CO₂ peaked around 280 ppm, global temp +2 °C from present
 - 200 kya: [7 subspecies of early humans, including Homo sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) existed
 - 173 kya: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
 - 160 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
@@ -372,8 +376,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 140-110 kya: [Anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved a larger fore-brain, smaller teeth, and longer distal bones
 - 131 kya: [North African/Near Eastern wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
+- 130 kya: The [Eemian interglacial period](https://en.wikipedia.org/wiki/Eemian) began
 - 128 kya: [Early humans cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
-- 120 kya: CO₂ peaked around 280 ppm, global temp +5 °C from present, warmest since 3 million years ago
+- 120 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present, [sea level was 6m above present, warmest in the past 3 million years](https://en.wikipedia.org/wiki/Eemian)
 - 115 kya: The [Last Glacial Period (LGP)](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
 
 ## < 100 Thousand Years Ago
@@ -1784,6 +1789,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [World history](https://en.wikipedia.org/wiki/World_history)
 - [Historiography](https://en.wikipedia.org/wiki/Historiography)
 - [Paleontology](https://en.wikipedia.org/wiki/Paleontology): the study of life in the past, including fossils
+- [Paleoclimatology](https://en.wikipedia.org/wiki/Paleoclimatology)
 - [Philosophy of history](https://en.wikipedia.org/wiki/Philosophy_of_history)
 
 ### [More Timelines](https://en.wikipedia.org/wiki/List_of_timelines)
