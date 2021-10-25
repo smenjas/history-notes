@@ -233,6 +233,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 360-260 mya: The [Late Paleozoic icehouse (a.k.a. Karoo ice age)](https://en.wikipedia.org/wiki/Late_Paleozoic_icehouse) occurred
 - 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
 - 350 mya: O₂ exceeded 0.2 atm, and the global temperature fell to about 5 °C above the 20th century average
+- 335-175 mya: The supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea) existed
 
 ### Amniotic Sac
 
@@ -247,6 +248,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 250 mya: The global temperature rose to about 11 °C above the 20th century average
 - 245-202 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) split from [Gymnosperms ("naked seeds", a.k.a. seed-producing plants)](https://en.wikipedia.org/wiki/Gymnosperm)
 - 230 mya: [Eoraptor](https://en.wikipedia.org/wiki/Eoraptor), an early dinosaur, existed
+- 215-175 mya: The supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea) split into [Laurasia](https://en.wikipedia.org/wiki/Laurasia) & [Gondwana](https://en.wikipedia.org/wiki/Gondwana), creating the [North Atlantic Ocean](https://en.wikipedia.org/wiki/Opening_of_the_North_Atlantic_Ocean) between North America and northwest Africa
 - 214 mya: An asteroid impacted Earth, creating the [Manicouagan crater](https://en.wikipedia.org/wiki/Manicouagan_Reservoir) which is 85 km in diameter
 - 201.3 mya: The [Triassic–Jurassic extinction event](https://en.wikipedia.org/wiki/Triassic%E2%80%Jurassic_extinction_event) occurred, 80% of species lost
 - 200 mya: O₂ exceeded 0.2 atm, CO₂ was > 3000 ppm, and the global temperature fell to about 2 °C above the 20th century average
@@ -281,6 +283,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 66 mya: The [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) occurred, 76% of species lost (including all dinosaurs except birds)
 - 65 mya: The global temperature rose to about 11 °C above the 20th century average
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
+- 56 mya: [Laurasia](https://en.wikipedia.org/wiki/Laurasia) split into North America & Europe
 - 55 mya: The [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) occurred: volcanoes released CO₂, the global temperature spiked to over 14 °C above the 20th century average
 - 50 mya: [Pinnipeds ("fin-foot", a.k.a. seals)](https://en.wikipedia.org/wiki/Pinniped) split from other [Caniformes](https://en.wikipedia.org/wiki/Caniformia) ("dog-like" carnivores)
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) evolved from land mammals back into sea mammals
