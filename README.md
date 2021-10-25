@@ -36,6 +36,8 @@ cold and dry.
 [![Global average temperature estimates for the last 540 million
 years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg)
 
+[![Post-Glacial Sea Level](img/Post-Glacial_Sea_Level.png)](https://commons.wikimedia.org/wiki/File:Post-Glacial_Sea_Level.png)
+
 ---
 
 ## Units
@@ -283,7 +285,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 66 mya: The [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) occurred, 76% of species lost (including all dinosaurs except birds)
 - 65 mya: The global temperature rose to about 11 °C above the 20th century average
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
-- 56 mya: [Laurasia](https://en.wikipedia.org/wiki/Laurasia) split into North America & Europe
+- 56 mya: [Laurasia](https://en.wikipedia.org/wiki/Laurasia) split into North America & Eurasia
 - 55 mya: The [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) occurred: volcanoes released CO₂, the global temperature spiked to over 14 °C above the 20th century average
 - 50 mya: [Pinnipeds ("fin-foot", a.k.a. seals)](https://en.wikipedia.org/wiki/Pinniped) split from other [Caniformes](https://en.wikipedia.org/wiki/Caniformia) ("dog-like" carnivores)
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) evolved from land mammals back into sea mammals
@@ -446,17 +448,20 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 7100 BCE: People in [Anatolia](https://en.wikipedia.org/wiki/Anatolia) established [Çatalhöyük](https://en.wikipedia.org/wiki/Çatalhöyük), the largest known settlement at several thousand people
 - 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 20m below present
 - 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
+- 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea
 - 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
 - 6000 BCE: People in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) domesticated the [chicken](https://en.wikipedia.org/wiki/Chicken)
 - 6000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) independently [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
-- 6000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 10m below present
+- 6000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 15m below present
+- 5500 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 6m below present
 - 5400 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Eridu](https://en.wikipedia.org/wiki/Eridu)
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
 - 5000 BCE: People smelted [copper](https://en.wikipedia.org/wiki/Copper) on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
 - 5000 BCE: People in what is now [Peru](https://en.wikipedia.org/wiki/Peru) domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig)
 - 5000 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) domesticated the [donkey](https://en.wikipedia.org/wiki/Donkey)
 - 5000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Uruk](https://en.wikipedia.org/wiki/Uruk)
-- 5000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 5m below present
+- 5000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 4m below present
+- 4000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 3m below present
 - 4000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [duck](https://en.wikipedia.org/wiki/Domestic_duck)
 - 4000 BCE: People in what is now [India](https://en.wikipedia.org/wiki/India) & [China](https://en.wikipedia.org/wiki/China) domesticated the [water buffalo](https://en.wikipedia.org/wiki/Water_buffalo)
 - 4000 BCE: People in [Africa](https://en.wikipedia.org/wiki/Africa), [Asia](https://en.wikipedia.org/wiki/Asia), & [Europe](https://en.wikipedia.org/wiki/Europe) domesticated the [honey bee](https://en.wikipedia.org/wiki/Honey_bee)
@@ -473,6 +478,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3300 BCE: [Eastern Hunter-Gatherer (EHG)](https://en.wikipedia.org/wiki/Eastern_Hunter-Gatherer) males mated with [Caucasus Hunter-Gatherer (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer) females to produce [Western Steppe Herders (WSH)](https://en.wikipedia.org/wiki/Western_Steppe_Herders)
 - 3200 BCE: The [Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph) ("sacred carvings"), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3100 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Kish](https://en.wikipedia.org/wiki/Kish_%28Sumer%29)
+- 3000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 2m below present
 - 3000 BCE: The [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) had many [advanced technologies](https://en.wikipedia.org/wiki/List_of_inventions_and_discoveries_of_the_Indus_Valley_Civilisation), notably [sanitation](https://en.wikipedia.org/wiki/Sanitation_of_the_Indus_Valley_Civilisation) using separate channels for wastewater and rainwater
 - 3000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
@@ -485,6 +491,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
 - 2050 BCE: [Ur-Nammu](https://en.wikipedia.org/wiki/Ur-Nammu) enacted the [Code of Ur-Nammu](https://en.wikipedia.org/wiki/Code_of_Ur-Nammu)
 - 2050 BCE: The [Sintashta culture](https://en.wikipedia.org/wiki/Sintashta_culture) near the [Ural](https://en.wikipedia.org/wiki/Ural_%28river%29) and [Tobol](https://en.wikipedia.org/wiki/Tobol) rivers invented the light [chariot](https://en.wikipedia.org/wiki/Chariot)
+- 2000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1m below present
 - 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
 - 2000 BCE: The last [woolly mammoths](https://en.wikipedia.org/wiki/Woolly_mammoth) lived on [Wrangel Island](https://en.wikipedia.org/wiki/Wrangel_Island)
 - 1900 BCE: [People smelted and smithed iron](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
@@ -499,6 +506,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu), China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
 - 1200-1150 BCE: The [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) occurred, with invading [Sea Peoples](https://en.wikipedia.org/wiki/Sea_Peoples) introducing iron in large quantities to the eastern Mediterranean
 - 1050 BCE: [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) wrote using the [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet), descended from Linear B
+- 1000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1m below present
 - 900 BCE: [Olmecs](https://en.wikipedia.org/wiki/Olmecs) carved characters into the [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block)
 - 800 BCE: The [Greek alphabet](https://en.wikipedia.org/wiki/Archaic_Greek_alphabets) descended from the Phoenician alphabet, introducing vowels
 - 800 BCE: The [Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet) descended from the Phoenician alphabet
@@ -591,6 +599,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ## Common Era
 
+- 1 CE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was near the present
 - 12 CE: [Livy](https://en.wikipedia.org/wiki/Livy) wrote [*Ab Urbe Condita Libri CXLII* (*From the Founding of the City in 142 Books*)](https://en.wikipedia.org/wiki/Ab_Urbe_Condita_Libri), a [history of ancient Rome](https://en.wikipedia.org/wiki/History_of_Rome)
 - 50 CE: The [Syriac alphabet](https://en.wikipedia.org/wiki/Syriac_alphabet) descended from the Palmyrene alphabet
 - 66 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
