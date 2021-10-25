@@ -248,7 +248,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 260 mya: The [Capitanian extinction event](https://en.wikipedia.org/wiki/Capitanian_mass_extinction_event) occurred, 35% of species lost
 - 252 mya: The [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), i.e. "The Great Dying" occurred, 96% of species lost to volcanoes, O₂ fell to 0.15 atm
 - 250 mya: The global temperature rose to about 11 °C above the 20th century average
-- 245-202 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) split from [Gymnosperms ("naked seeds", a.k.a. seed-producing plants)](https://en.wikipedia.org/wiki/Gymnosperm)
+- 245-202 mya: [Angiosperms ("enclosed seeds", a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) split from [Gymnosperms ("naked seeds", a.k.a. seed-producing plants)](https://en.wikipedia.org/wiki/Gymnosperm)
 - 230 mya: [Eoraptor](https://en.wikipedia.org/wiki/Eoraptor), an early dinosaur, existed
 - 215-175 mya: The supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea) split into [Laurasia](https://en.wikipedia.org/wiki/Laurasia) & [Gondwana](https://en.wikipedia.org/wiki/Gondwana), creating the [North Atlantic Ocean](https://en.wikipedia.org/wiki/Opening_of_the_North_Atlantic_Ocean) between North America and northwest Africa
 - 214 mya: An asteroid impacted Earth, creating the [Manicouagan crater](https://en.wikipedia.org/wiki/Manicouagan_Reservoir) which is 85 km in diameter
@@ -279,14 +279,14 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 70 mya: [Primates evolved thumbs](https://en.wikipedia.org/wiki/Thumb#Human_Evolution)
 - 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
-- 67 mya: The global temperature fell to about 6 °C above the 20th century average
+- 67 mya: The global temperature fell to about 6 °C above the 20th century average, [CO₂ was 350-500 ppm](https://en.wikipedia.org/wiki/Climate_across_Cretaceous%E2%80%93Paleogene_boundary)
 - 66.7 mya: The [first known bird](https://www.cam.ac.uk/stories/wonderchicken) existed: a recent common ancestor of chickens and ducks
 - 66 mya: An asteroid impacted Earth, creating the [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater) which is 150 km in diameter
 - 66 mya: The [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) occurred, 76% of species lost (including all dinosaurs except birds)
-- 65 mya: The global temperature rose to about 11 °C above the 20th century average
+- 65 mya: The global temperature rose to about 11 °C above the 20th century average, [CO₂ was 2300 ppm](https://en.wikipedia.org/wiki/Climate_across_Cretaceous%E2%80%93Paleogene_boundary)
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
 - 56 mya: [Laurasia](https://en.wikipedia.org/wiki/Laurasia) split into North America & Eurasia
-- 55 mya: The [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) occurred: volcanoes released CO₂, the global temperature spiked to over 14 °C above the 20th century average
+- 55 mya: The [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) occurred; volcanoes released CO₂, the global temperature spiked to over 14 °C above the 20th century average
 - 50 mya: [Pinnipeds ("fin-foot", a.k.a. seals)](https://en.wikipedia.org/wiki/Pinniped) split from other [Caniformes](https://en.wikipedia.org/wiki/Caniformia) ("dog-like" carnivores)
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) evolved from land mammals back into sea mammals
 - 45 mya: The global temperature fell to about 9 °C above the 20th century average
@@ -409,6 +409,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was >100m below present
 - 15-13 kya: The [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial) occurred, first pronounced warming since LGM, global temp spiking to -1 °C from present
 - 14.7-13.5 kya: [Meltwater pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A) occurred, and the [sea level](https://en.wikipedia.org/wiki/Past_sea_level) rose from >100m to <80m below present
+- 14.6 kya: [Heinrich event](https://en.wikipedia.org/wiki/Heinrich_event) H1 occurred, with many [glaciers calving icebergs](https://en.wikipedia.org/wiki/Ice_calving) rapidly
 - 14.5 kya: [Humans made bread at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
 
 ### Dogs
@@ -1264,6 +1265,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1923 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published *A Tract on Monetary Reform*, arguing against post-World War I deflation policies
 - 1923 CE: [Hilde Mangold](https://en.wikipedia.org/wiki/Hilde_Mangold) published *Über Induktion von Embryonalanlagen durch Implantation artfremder Organisatoren* (*Induction of Embryonic Primordia by Implantation of Organizers from a Different Species*), describing [gastrulation](https://en.wikipedia.org/wiki/Gastrulation)
 - 1923 CE: [Arthur Compton](https://en.wikipedia.org/wiki/Arthur_Compton) published *A Quantum Theory of the Scattering of X-Rays by Light Elements*, describing [Compton scattering](https://en.wikipedia.org/wiki/Compton_scattering)
+- 1923 CE: [J Harlen Bretz](https://en.wikipedia.org/wiki/J_Harlen_Bretz) published *The [Channeled Scabland](https://en.wikipedia.org/wiki/Channeled_Scablands) of the Columbia Plateau*, hinting at the [Missoula floods](https://en.wikipedia.org/wiki/Missoula_floods)
 - 1924 CE: [Alexander Friedmann](https://en.wikipedia.org/wiki/Alexander_Friedmann) published *Über die Möglichkeit einer Welt mit konstanter negativer Krümmung des Raumes* (*On the possibility of a world with constant negative curvature of space*), proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
 - 1924 CE: [Edmund Clifton Stoner](https://en.wikipedia.org/wiki/Edmund_Clifton_Stoner) published *The distribution of electrons among atomic levels*, inspiring the [Pauli exclusion principle](https://en.wikipedia.org/wiki/Pauli_exclusion_principle)
 - 1925 CE: [Édouard Chatton](https://en.wikipedia.org/wiki/%C3%89douard_Chatton) published *Pansporella perplex: Reflections on the Biology and Phylogeny of the Protozoa*, distinguishing [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote) from [prokaryotes](https://en.wikipedia.org/wiki/Prokaryote)
@@ -1701,8 +1703,11 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [List of Nobel laureates](https://en.wikipedia.org/wiki/List_of_Nobel_laureates)
 - [List of numeral systems](https://en.wikipedia.org/wiki/List_of_numeral_systems)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
+- [List of orogenies](https://en.wikipedia.org/wiki/List_of_orogenies)
 - [List of people considered father or mother of a scientific field](https://en.wikipedia.org/wiki/List_of_people_considered_father_or_mother_of_a_scientific_field)
+- [List of periods and events in climate history](https://en.wikipedia.org/wiki/List_of_periods_and_events_in_climate_history)
 - [List of pioneers in computer science](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+- [List of prehistoric lakes](https://en.wikipedia.org/wiki/List_of_prehistoric_lakes)
 - [List of rivers by length](https://en.wikipedia.org/wiki/List_of_rivers_by_length)
   - [List of largest unfragmented rivers](https://en.wikipedia.org/wiki/List_of_largest_unfragmented_rivers)
 - [List of Stone Age art](https://en.wikipedia.org/wiki/List_of_Stone_Age_art)
@@ -1777,6 +1782,10 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [Archaeology](https://en.wikipedia.org/wiki/Archaeology): the study of human activity via [material culture](https://en.wikipedia.org/wiki/Material_culture)
 - [Auxiliary sciences of history](https://en.wikipedia.org/wiki/Auxiliary_sciences_of_history)
 - [Bibliography](https://en.wikipedia.org/wiki/Bibliography)
+- [Biogeography](https://en.wikipedia.org/wiki/Biogeography)
+- [Geography](https://en.wikipedia.org/wiki/Geography)
+  - [Human geography](https://en.wikipedia.org/wiki/Human_geography)
+  - [Physical geography](https://en.wikipedia.org/wiki/Physical_geography)
 - [Geology](https://en.wikipedia.org/wiki/Geology)
 - [History](https://en.wikipedia.org/wiki/History)
   - [Art history](https://en.wikipedia.org/wiki/Art_history)
@@ -1800,8 +1809,11 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [Universal history](https://en.wikipedia.org/wiki/Universal_history)
   - [World history](https://en.wikipedia.org/wiki/World_history)
 - [Historiography](https://en.wikipedia.org/wiki/Historiography)
-- [Paleontology](https://en.wikipedia.org/wiki/Paleontology): the study of life in the past, including fossils
 - [Paleoclimatology](https://en.wikipedia.org/wiki/Paleoclimatology)
+- [Paleoecology](https://en.wikipedia.org/wiki/Paleoecology)
+- [Paleogeography](https://en.wikipedia.org/wiki/Palaeogeography)
+- [Paleohydrology](https://en.wikipedia.org/wiki/Paleohydrology)
+- [Paleontology](https://en.wikipedia.org/wiki/Paleontology): the study of life in the past, including fossils
 - [Philosophy of history](https://en.wikipedia.org/wiki/Philosophy_of_history)
 
 ### [More Timelines](https://en.wikipedia.org/wiki/List_of_timelines)
@@ -1815,6 +1827,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [Biology timelines](https://en.wikipedia.org/wiki/Category:Biology_timelines)
   - [Chemistry timelines](https://en.wikipedia.org/wiki/Category:Chemistry_timelines)
   - [Geology timelines](https://en.wikipedia.org/wiki/Category:Geology_timelines)
+    - [Timeline of Cretaceous–Paleogene extinction event research](https://en.wikipedia.org/wiki/Timeline_of_Cretaceous%E2%80%93Paleogene_extinction_event_research)
   - [Mathematics timelines](https://en.wikipedia.org/wiki/Category:Mathematics_timelines)
   - [Physics timelines](https://en.wikipedia.org/wiki/Category:Physics_timelines)
     - [Timeline of electromagnetism and classical optics](https://en.wikipedia.org/wiki/Timeline_of_electromagnetism_and_classical_optics)
