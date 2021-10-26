@@ -512,6 +512,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 800 BCE: The [Greek alphabet](https://en.wikipedia.org/wiki/Archaic_Greek_alphabets) descended from the Phoenician alphabet, introducing vowels
 - 800 BCE: The [Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet) descended from the Phoenician alphabet
 - 800 BCE: The [Hebrew alphabet](https://en.wikipedia.org/wiki/Hebrew_alphabet) descended from the Aramaic alphabet
+- 743 BCE: [Tiglath-Pileser III](https://en.wikipedia.org/wiki/Tiglath-Pileser_III) organized the first [standing army](https://en.wikipedia.org/wiki/Standing_army)
 - 700 BCE: [Etruscans](https://en.wikipedia.org/wiki/Etruscan_civilization) wrote using the [Etruscan alphabet](https://en.wikipedia.org/wiki/Etruscan_alphabet), descended from the Greek alphabet
 - 700 BCE: [Nabatean](https://en.wikipedia.org/wiki/Nabataean_Kingdom) traders discovered [hydraulic lime](https://en.wikipedia.org/wiki/Hydraulic_lime) and pioneered [concrete](https://en.wikipedia.org/wiki/Concrete), using it to make waterproof underground [cisterns](https://en.wikipedia.org/wiki/Cistern) in the desert
 - 688 BCE: The [Assyrian](https://en.wikipedia.org/wiki/Assyria) [Jerwan](https://en.wikipedia.org/wiki/Jerwan) [Aqueduct](https://en.wikipedia.org/wiki/Aqueduct_%28water_supply%29) used waterproof [concrete](https://en.wikipedia.org/wiki/Concrete)
