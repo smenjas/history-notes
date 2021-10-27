@@ -606,6 +606,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 12 CE: [Livy](https://en.wikipedia.org/wiki/Livy) wrote [*Ab Urbe Condita Libri CXLII* (*From the Founding of the City in 142 Books*)](https://en.wikipedia.org/wiki/Ab_Urbe_Condita_Libri), a [history of ancient Rome](https://en.wikipedia.org/wiki/History_of_Rome)
 - 50 CE: The [Syriac alphabet](https://en.wikipedia.org/wiki/Syriac_alphabet) descended from the Palmyrene alphabet
 - 66 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
+- 70 CE: [Hero (a.k.a. Heron) of Alexandria](https://en.wikipedia.org/wiki/Hero_of_Alexandria) wrote many works on mathematics and engineering, including *Metrica* which explores geometry in 3D, by the time he died
 - 77 CE: [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder) wrote [*Naturalis Historia* (*Natural History*)](https://en.wikipedia.org/wiki/Natural_History_%28Pliny%29)
 - 95 CE: [Quintillian](https://en.wikipedia.org/wiki/Quintilian) wrote [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria): his aim was "the education of the perfect orator", and he taught Pliny the Younger [rhetoric](https://en.wikipedia.org/wiki/Rhetoric)
 - 99 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) wrote the first book of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
