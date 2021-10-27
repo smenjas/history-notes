@@ -554,11 +554,13 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 361 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote the [*Oeconomicus* (*Economics*)](https://en.wikipedia.org/wiki/Oeconomicus), a [Socratic dialogue](https://en.wikipedia.org/wiki/Socratic_dialogue) on agriculture and managing a household
 - 360 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Symposium*](https://en.wikipedia.org/wiki/Symposium_%28Xenophon%29) & [*Agesilaus*](https://en.wikipedia.org/wiki/Agesilaus_%28Xenophon%29)
 - 360 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Timaeus*](https://en.wikipedia.org/wiki/Timaeus_%28dialogue%29)
+- 360 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Poetics*](https://en.wikipedia.org/wiki/Poetics_%28Aristotle%29)
 - 355 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Ways and Means*](https://en.wikipedia.org/wiki/Ways_and_Means_%28Xenophon%29)
 - 354 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*On Horsemanship*](https://en.wikipedia.org/wiki/On_Horsemanship), [*Hipparchicus*](https://en.wikipedia.org/wiki/Hipparchicus), & [*Cynegeticus* (*On Hunting*)](https://en.wikipedia.org/wiki/Cynegeticus) by the time he died
 - 350 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*On the Heavens*](https://en.wikipedia.org/wiki/On_the_Heavens)
 - 334 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_%28Classical%29)
 - 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) wrote *Aṣṭādhyāyī* on Sanskrit grammar
+- 322 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote many works on [biology](https://en.wikipedia.org/wiki/Aristotle%27s_biology), [*Rhetoric*](https://en.wikipedia.org/wiki/Rhetoric_%28Aristotle%29), and other subjects by the time he died
 
 ### Mathematics
 
@@ -566,6 +568,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 300 BCE: [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) founded [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 - 300 BCE: [Indian mathematicians](https://en.wikipedia.org/wiki/Indian_mathematics) wrote the [Bakhshali manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript) around this time, using *shunya-bindu* ("the dot of the empty place") to represent [zero](https://en.wikipedia.org/wiki/0) as a small circle
 - 295 BCE: [Demetrius of Phalerum](https://en.wikipedia.org/wiki/Demetrius_of_Phalerum) acquired writings of [Aristotle](https://en.wikipedia.org/wiki/Aristotle) and [Theophrastus](https://en.wikipedia.org/wiki/Theophrastus) for [Ptolemy I Soter](https://en.wikipedia.org/wiki/Ptolemy_I_Soter)
+- 287 BCE: [Theophrastus](https://en.wikipedia.org/wiki/Theophrastus) wrote [*Historia Plantarum* (*History of Botany*)](https://en.wikipedia.org/wiki/Historia_Plantarum_%28Theophrastus_book%29)
 - 283 BCE: [Ptolemy II Philadeplhus](https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus) created the [Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria), continuing work started by [Ptolemy I Soter](https://en.wikipedia.org/wiki/Ptolemy_I_Soter)
 - 260 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Kandahar Bilingual Rock Inscription](https://en.wikipedia.org/wiki/Kandahar_Bilingual_Rock_Inscription)
 - 259 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Minor Rock Edicts](https://en.wikipedia.org/wiki/Minor_Rock_Edicts) with [Brahmi numerals](https://en.wikipedia.org/wiki/Brahmi_numerals), precursors to the [Hindu numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) but lacking [zero](https://en.wikipedia.org/wiki/0)
@@ -621,7 +624,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 160 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Alexándrou Anábasis* (*The Anabasis of Alexander*)](https://en.wikipedia.org/wiki/The_Anabasis_of_Alexander), [*Indica*](https://en.wikipedia.org/wiki/Indica_%28Arrian%29), *Ta met' Alexandron* (*Events after Alexander*), *Kynēgetikos* (*On Hunting*), and many other books by the time he died
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
-- 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote *Lives and Opinions of Eminent Philosophers*
+- 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote [*Lives and Opinions of Eminent Philosophers*](https://en.wikipedia.org/wiki/Lives_and_Opinions_of_Eminent_Philosophers)
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) wrote commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art), demonstrating [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 313 CE: The [Sogdian alphabet](https://en.wikipedia.org/wiki/Sogdian_alphabet) descended from the Syriac alphabet
 - 374 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
@@ -672,7 +675,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 987 CE: [Ibn al-Nadim](https://en.wikipedia.org/wiki/Ibn_al-Nadim) wrote *Kitāb al-Fihrist* (*The Book Catalogue*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: Soudas wrote the [Suda](https://en.wikipedia.org/wiki/Suda), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote [*al-Athar al-Baqqiya 'an al-Qorun al-Khaliyya* (*The remaining traces of past centuries*)](https://en.wikipedia.org/wiki/The_Remaining_Signs_of_Past_Centuries)
-- 1021 CE: [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham) wrote [*Kitāb al-Manāẓir* (*Book of Optics*)](https://en.wikipedia.org/wiki/Book_of_Optics)
+- 1021 CE: [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham) wrote [*Kitāb al-Manāẓir* (*Book of Optics*)](https://en.wikipedia.org/wiki/Book_of_Optics), among many other works on physics, mathematics, and astronomy
 - 1025 CE: [Avicenna](https://en.wikipedia.org/wiki/Avicenna) wrote [*The Canon of Medicine*](https://en.wikipedia.org/wiki/The_Canon_of_Medicine)
 - 1027 CE: [Avicenna](https://en.wikipedia.org/wiki/Avicenna) wrote [*The Book of Healing*](https://en.wikipedia.org/wiki/The_Book_of_Healing)
 - 1030 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) completed his *Tārīkh al-Hind* (*History of India*)
@@ -726,11 +729,18 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1532 CE: [Niccolò Machiavelli's](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) [*The Prince*](https://en.wikipedia.org/wiki/The_Prince) published
 - 1543 CE: [Andreas Vesalius](https://en.wikipedia.org/wiki/Andreas_Vesalius) published [*De humani corporis fabrica* (*On the fabric of the human body*)](https://en.wikipedia.org/wiki/De_humani_corporis_fabrica)
 - 1543 CE: [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus) published [*De revolutionibus orbium coelestium* (*Revolutions of heavenly spheres*)](https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium), promoting [heliocentrism](https://en.wikipedia.org/wiki/Heliocentrism)
+- 1545 CE: [Conrad Gessner](https://en.wikipedia.org/wiki/Conrad_Gessner) published [*Bibliotheca universalis* (*Universal Library*)](https://en.wikipedia.org/wiki/Bibliotheca_universalis), a [bibliography](https://en.wikipedia.org/wiki/Bibliography) listing all known books printed in Latin, Greek, or Hebrew
 - 1546 CE: [Girolamo Fracastoro](https://en.wikipedia.org/wiki/Girolamo_Fracastoro) published *De Contagione et Contagiosis Morbis* (*The contamination and contagious sickness*), proposing that transferable seed-like entities (seminaria morbi) cause epidemic diseases, and can infect by direct or indirect contact, even over long distances; also categorizing diseases based on how they were transmitted and how long they could lie dormant
+- 1548 CE: [Conrad Gessner](https://en.wikipedia.org/wiki/Conrad_Gessner) published [*Pandectae*](https://en.wikipedia.org/wiki/Bibliotheca_universalis)
+- 1551 CE: [Conrad Gessner](https://en.wikipedia.org/wiki/Conrad_Gessner) published [*Historia animalium* (*History of the Animals*)](https://en.wikipedia.org/wiki/Historia_animalium_%28Gessner_book%29) Volume 1: Live-bearing four-footed animals (viviparous quadrupeds)
+- 1554 CE: [Conrad Gessner](https://en.wikipedia.org/wiki/Conrad_Gessner) published [*Historia animalium* (*History of the Animals*)](https://en.wikipedia.org/wiki/Historia_animalium_%28Gessner_book%29) Volume 2: Egg-laying (oviparous) quadrupeds (reptiles and amphibia)
+- 1555 CE: [Conrad Gessner](https://en.wikipedia.org/wiki/Conrad_Gessner) published [*Historia animalium* (*History of the Animals*)](https://en.wikipedia.org/wiki/Historia_animalium_%28Gessner_book%29) Volume 3: Birds
+- 1558 CE: [Conrad Gessner](https://en.wikipedia.org/wiki/Conrad_Gessner) published [*Historia animalium* (*History of the Animals*)](https://en.wikipedia.org/wiki/Historia_animalium_%28Gessner_book%29) Volume 4: Fish and aquatic animals
 - 1570 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published [*Theatrum Orbis Terrarum* (*Theatre of the Orb of the World*)](https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum), the first modern [atlas](https://en.wikipedia.org/wiki/Atlas)
 - 1573 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De nova stella* (*The new star*)
 - 1582 CE: [Pope Gregory XIII](https://en.wikipedia.org/wiki/Pope_Gregory_XIII) introduced the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
 - 1585 CE: [Taqi ad-Din Muhammad ibn Ma'ruf](https://en.wikipedia.org/wiki/Taqi_ad-Din_Muhammad_ibn_Ma%27ruf) compiled *Sidrat al-muntah al-afkar fi malkūt al-falak al-dawār– al-zij al-Shāhinshāhi* (*The tree of ultimate knowledge in the Kingdom of the Revolving Spheres*), a star catalog that improved on Ulugh Beg's, among many other works by the time he died
+- 1587 CE: [Conrad Gessner](https://en.wikipedia.org/wiki/Conrad_Gessner) posthumously published [*Historia animalium* (*History of the Animals*)](https://en.wikipedia.org/wiki/Historia_animalium_%28Gessner_book%29) Volume 5: Snakes and scorpions
 - 1588 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De Mundi Aetherei Recentioribus Phaenomenis Liber Secundus* (*Second Book About Recent Phenomena in the Celestial World*)
 - 1593 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the modern [thermometer](https://en.wikipedia.org/wiki/Thermometer)
 - 1596 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published a new edition of *Thesaurus geographicus* (*Geographic treasure*), and proposed [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
@@ -1681,6 +1691,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [Center of origin](https://en.wikipedia.org/wiki/Center_of_origin)
 - [Editio princeps](https://en.wikipedia.org/wiki/Editio_princeps)
 - [Founders of statistics](https://en.wikipedia.org/wiki/Founders_of_statistics)
+- [List of architects](https://en.wikipedia.org/wiki/List_of_architects)
+- [List of bibliographies](https://en.wikipedia.org/wiki/Wikipedia:List_of_bibliographies)
 - [List of domesticated animals](https://en.wikipedia.org/wiki/List_of_domesticated_animals)
 - [List of domesticated plants](https://en.wikipedia.org/wiki/List_of_domesticated_plants)
   - [Neolithic founder crops](https://en.wikipedia.org/wiki/Neolithic_founder_crops)
@@ -1694,6 +1706,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [List of firsts in aviation](https://en.wikipedia.org/wiki/List_of_firsts_in_aviation)
 - [List of geomagnetic reversals](https://en.wikipedia.org/wiki/List_of_geomagnetic_reversals)
 - [List of impact craters on Earth](https://en.wikipedia.org/wiki/List_of_impact_craters_on_Earth)
+- [List of inventors](https://en.wikipedia.org/wiki/List_of_inventors)
 - [List of Internet pioneers](https://en.wikipedia.org/wiki/List_of_Internet_pioneers)
 - [List of languages by first written accounts](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
 - [List of largest cities throughout history](https://en.wikipedia.org/wiki/List_of_largest_cities_throughout_history)
@@ -1720,7 +1733,11 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [List of textbooks in thermodynamics and statistical mechanics](https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics)
 - [List of textbooks on classical and quantum mechanics](https://en.wikipedia.org/wiki/List_of_textbooks_on_classical_and_quantum_mechanics)
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
+- [List of urban planners](https://en.wikipedia.org/wiki/List_of_urban_planners)
 - [List of zim files for the Kiwix offline wiki app](https://download.kiwix.org/zim/)
+- [Lists of books](https://en.wikipedia.org/wiki/Lists_of_books)
+  - [*The 100 Most Influential Books Ever Written*](https://en.wikipedia.org/wiki/The_100_Most_Influential_Books_Ever_Written)
+  - [Bokklubben World Library](https://en.wikipedia.org/wiki/Bokklubben_World_Library)
 - [Lists of etymologies](https://en.wikipedia.org/wiki/Lists_of_etymologies)
 - [Lists of important publications in science](https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science)
   - [Bibliography of anthropology](https://en.wikipedia.org/wiki/Bibliography_of_anthropology)
@@ -1742,6 +1759,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [List of important publications in statistics](https://en.wikipedia.org/wiki/List_of_important_publications_in_statistics)
   - [List of important publications in theoretical computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_theoretical_computer_science)
   - [List of systems of plant taxonomy](https://en.wikipedia.org/wiki/List_of_systems_of_plant_taxonomy)
+- [Lists of scientists](https://en.wikipedia.org/wiki/Lists_of_scientists)
+  - [List of scientists in medieval Islamic world](https://en.wikipedia.org/wiki/List_of_scientists_in_medieval_Islamic_world)
+- [Lost literary work](https://en.wikipedia.org/wiki/Lost_literary_work)
 
 ### Sources
 
