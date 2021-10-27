@@ -771,6 +771,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1637 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Discourse on the Method*](https://en.wikipedia.org/wiki/Discourse_on_the_Method)
 - 1637 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*La Géométrie*](https://en.wikipedia.org/wiki/La_G%C3%A9om%C3%A9trie)
 - 1638 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Two New Sciences*](https://en.wikipedia.org/wiki/Two_New_Sciences), on [kinematics](https://en.wikipedia.org/wiki/Kinematics) and the [strength of materials](https://en.wikipedia.org/wiki/Strength_of_materials)
+- 1639 CE: [William Gascoigne](https://en.wikipedia.org/wiki/William_Gascoigne_%28scientist%29) invented the [telescopic sight](https://en.wikipedia.org/wiki/Telescopic_sight) and telescope [micrometer](https://en.wikipedia.org/wiki/Micrometer_%28device%29)
 - 1641 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Meditations on First Philosophy*](https://en.wikipedia.org/wiki/Meditations_on_First_Philosophy)
 - 1644 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Principia Philosophiæ* (*Principles of Philosophy*)](https://en.wikipedia.org/wiki/Principles_of_Philosophy)
 - 1646 CE: [Thomas Browne](https://en.wikipedia.org/wiki/Thomas_Browne) published [*Pseudodoxia Epidemica* (a.k.a. *Vulgar Errors*)](https://en.wikipedia.org/wiki/Pseudodoxia_Epidemica)
