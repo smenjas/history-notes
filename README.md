@@ -672,6 +672,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 987 CE: [Ibn al-Nadim](https://en.wikipedia.org/wiki/Ibn_al-Nadim) wrote *Kitāb al-Fihrist* (*The Book Catalogue*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: Soudas wrote the [Suda](https://en.wikipedia.org/wiki/Suda), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote [*al-Athar al-Baqqiya 'an al-Qorun al-Khaliyya* (*The remaining traces of past centuries*)](https://en.wikipedia.org/wiki/The_Remaining_Signs_of_Past_Centuries)
+- 1021 CE: [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham) wrote [*Kitāb al-Manāẓir* (*Book of Optics*)](https://en.wikipedia.org/wiki/Book_of_Optics)
 - 1025 CE: [Avicenna](https://en.wikipedia.org/wiki/Avicenna) wrote [*The Canon of Medicine*](https://en.wikipedia.org/wiki/The_Canon_of_Medicine)
 - 1027 CE: [Avicenna](https://en.wikipedia.org/wiki/Avicenna) wrote [*The Book of Healing*](https://en.wikipedia.org/wiki/The_Book_of_Healing)
 - 1030 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) completed his *Tārīkh al-Hind* (*History of India*)
