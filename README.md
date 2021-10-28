@@ -922,16 +922,19 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1801 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published *Delineation of the Strata of England*
 - 1801 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *On the mechanics of the eye*, describing [astigmatism](https://en.wikipedia.org/wiki/Astigmatism) for the first time
 - 1802 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Bakerian Lecture: On the Theory of Light and Colours*, hypothesizing that colour perception depends on 3 kinds of nerve fibers in the [retina](https://en.wikipedia.org/wiki/Retina)
+- 1802 CE: [John Dalton](https://en.wikipedia.org/wiki/John_Dalton) published *On the Expansion of Elastic Fluids by Heat*, introducing his [law of partial pressures](https://en.wikipedia.org/wiki/Dalton%27s_law)
 - 1803 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) posthumously published *The Temple of Nature*
 - 1803 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) demonstrated the [double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
 - 1804 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Experiments and Calculations Relative to Physical Optics*
 - 1804 CE: [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard) invented the [Jacquard Loom](https://en.wikipedia.org/wiki/Jacquard_machine)
 - 1804 CE: The [French Consulate](https://en.wikipedia.org/wiki/French_Consulate) established the [Napoleonic Code](https://en.wikipedia.org/wiki/Napoleonic_Code), a major step in replacing [feudal laws](https://en.wikipedia.org/wiki/Feudalism)
 - 1805 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *An Essay on the Cohesion of Fluids*
+- 1805 CE: [John Dalton](https://en.wikipedia.org/wiki/John_Dalton) published *On the Absorption of Gases by Water and other Liquids*, introducing his [law of multiple proportions](https://en.wikipedia.org/wiki/Law_of_multiple_proportions)
 - 1807 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Course of Lectures on Natural Philosophy and the Mechanical Arts*
 - 1807 CE: [François Budan de Boislaurent](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Budan_de_Boislaurent) published a *Nouvelle méthode pour la résolution des équations numériques* (*New method for solving numerical equations*), formulating [Budan's theorem](https://en.wikipedia.org/wiki/Budan's_theorem)
 - 1807 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Essay on the Geography of Plants*
 - 1808 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Functions of the Heart and Arteries*
+- 1808 CE: [John Dalton](https://en.wikipedia.org/wiki/John_Dalton) published *A New System of Chemical Philosophy*, introducing [atomic theory](https://en.wikipedia.org/wiki/Atomic_theory) to chemistry
 
 ### 1810s
 
@@ -1052,6 +1055,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1857 CE: [Abel Niépce de Saint-Victor](https://en.wikipedia.org/wiki/Abel_Niépce_de_Saint-Victor) published *Mémoire sur une nouvelle action de la lumière* (*Thesis on a new action of light*)
 - 1858 CE: [Abel Niépce de Saint-Victor](https://en.wikipedia.org/wiki/Abel_Niépce_de_Saint-Victor) published *Deuxième mémoire sur une nouvelle action de la lumière* (*Second thesis on a new action of light*)
 - 1858 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen* (*On Integrals of the hydrodynamic Equations, which correspond to the vortex movements*), introducing [Helmholtz' theorems for vortex dynamics in inviscid fluids](https://en.wikipedia.org/wiki/Helmholtz%27s_theorems)
+- 1858 CE: [Stanislao Cannizzaro](https://en.wikipedia.org/wiki/Stanislao_Cannizzaro) published *Sunto di un corso di Filosofia chimica* (*Sketch of a course of chemical philosophy*), distinguishing between atomic and molecular weights as Avogadro hypothesized
 - 1859 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*On the Origin of Species*](https://en.wikipedia.org/wiki/On_the_Origin_of_Species), describing his theories of [common descent](https://en.wikipedia.org/wiki/Common_descent) and [natural selection](https://en.wikipedia.org/wiki/Natural_selection)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in electro-magnetic telegraphs*](https://patents.google.com/patent/US22531A) for [duplex communication](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29)
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphfng-machlnes*](https://patents.google.com/patent/US22770A) for the [printing telegraph](https://en.wikipedia.org/wiki/Printing_telegraph)
@@ -1061,6 +1065,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ### 1860s
 
+- 1860 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Illustrations of the dynamical theory of gases* in two parts, deriving the [Maxwell–Boltzmann distribution](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution) via [heuristics](https://en.wikipedia.org/wiki/Heuristic)
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) invented the [single lens reflex (SLR) camera](https://en.wikipedia.org/wiki/Single-lens_reflex_camera)
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) & [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) demonstrated [color photography](https://en.wikipedia.org/wiki/Color_photography)
 - 1861 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*On Physical Lines of Force*](https://en.wikipedia.org/wiki/On_Physical_Lines_of_Force)
@@ -1071,7 +1076,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1863 CE: [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) published [*Geological Evidences of the Antiquity of Man*](https://en.wikipedia.org/wiki/Geological_Evidences_of_the_Antiquity_of_Man)
 - 1863 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published [*Sensations of Tone*](https://en.wikipedia.org/wiki/Sensations_of_Tone)
 - 1863 CE: [Peter Gustav Lejeune Dirichlet](https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet) & [Richard Dedekind](https://en.wikipedia.org/wiki/Richard_Dedekind) published their [*Vorlesungen über Zahlentheorie* (*Lectures on Number Theory*)](https://en.wikipedia.org/wiki/Vorlesungen_%C3%BCber_Zahlentheorie) stating [Dirichlet's theorem on arithmetic progressions](https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions) and creating [analytic number theory](https://en.wikipedia.org/wiki/Analytic_number_theory)
-- 1864 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Dynamical Theory of the Electromagnetic Field*](https://en.wikipedia.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field)
+- 1865 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Dynamical Theory of the Electromagnetic Field*](https://en.wikipedia.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field), proposing that electricity and magnetism are [waves](https://en.wikipedia.org/wiki/Wave) moving at [light speed](https://en.wikipedia.org/wiki/Speed_of_light), and predicting [radio](https://en.wikipedia.org/wiki/Radio_waves)
 - 1865 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *An Introduction to Modern Chemistry*
 - 1866 CE: [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) published [*Versuche über Pflanzenhybriden* (*Experiments on Plant Hybridization*)](https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization)
 - 1866 CE: [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) published *Generelle Morphologie der Organismen* (*General Morphology of Organisms*)
