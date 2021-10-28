@@ -917,6 +917,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ## 1800s
 
 - 1800 CE: [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) published a description of an [electric battery](https://en.wikipedia.org/wiki/History_of_the_battery)
+- 1800 CE: [Henry Maudslay](https://en.wikipedia.org/wiki/Henry_Maudslay) developed the first industrially practical [screw-cutting lathe](https://en.wikipedia.org/wiki/Screw-cutting_lathe), allowing [interchangeable](https://en.wikipedia.org/wiki/Interchangeable_parts) nuts & bolts
 - 1801 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published [*Disquisitiones Arithmeticae* (*Arithmetical Investigations*)](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae)
 - 1801 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published *Delineation of the Strata of England*
 - 1801 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *On the mechanics of the eye*, describing [astigmatism](https://en.wikipedia.org/wiki/Astigmatism) for the first time
