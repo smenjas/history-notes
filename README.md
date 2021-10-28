@@ -1145,6 +1145,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Transmitting and recording sounds by radiant energy*
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Reproducing sounds from phonograph records*
 - 1887 CE: [Julius Richard Petri](https://en.wikipedia.org/wiki/Julius_Richard_Petri) published *Eine kleine Modification des Koch'schen Plattenverfahrens* (*A small modification of Koch's plate method*), describing the [Petri dish](https://en.wikipedia.org/wiki/Petri_dish)
+- 1887 CE: [Edward W. Morley](https://en.wikipedia.org/wiki/Edward_W._Morley) & [Albert A. Michelson](https://en.wikipedia.org/wiki/Albert_A._Michelson) conducted the [Michelson–Morley experiment](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment), finding the [speed of light](https://en.wikipedia.org/wiki/Speed_of_light) consistent in all directions despite the motion of the Earth, unknowingly disproving [luminiferous aether](https://en.wikipedia.org/wiki/Luminiferous_aether)
 - 1888 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Applications of dynamics to physics and chemistry*, an early example of [computational chemistry](https://en.wikipedia.org/wiki/Computational_chemistry)
 - 1888 CE: [Hermann Hellriegel](https://en.wikipedia.org/wiki/Hermann_Hellriegel) published *Untersuchungen über die Stickstoffnahrung der Gramineen und Leguminosen* (*Investigations into the Nitrogen assimilation of the Gramineae and Leguminosae*), describing [nitrogen fixation](https://en.wikipedia.org/wiki/Nitrogen_fixation)
 - 1889 CE: [Giuseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) published [*Arithmetices principia, nova methodo exposita* (*principles of arithmetic, presented by a new method*)](https://en.wikipedia.org/wiki/Arithmetices_principia,_nova_methodo_exposita), simplifying earlier work to formulate [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
@@ -1164,6 +1165,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1895 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-2* (*Treatises-2*)
 - 1895 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 1* (*Contributions to the foundation of the transfinite set theory 1*)
 - 1895 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Elements of the mathematical theory of electricity and magnetism*
+- 1895 CE: [Edward W. Morley](https://en.wikipedia.org/wiki/Edward_W._Morley) published *On the Densities of Hydrogen and Oxygen and on the Ratio of Their Atomic Weights* as 1:15.879, and disproved integral atomic weights
 
 #### Radio
 
@@ -1256,7 +1258,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1916 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Die Grundlage der allgemeinen Relativitätstheorie* (*The basis of General Relativity*)
 - 1916 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Über die spezielle und die allgemeine Relativitätstheorie* (*Relativity: The Special and the General Theory*)](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory)
 - 1916 CE: [Gustav Cassel](https://en.wikipedia.org/wiki/Gustav_Cassel) published *The Present Situation of the Foreign Trade*, describing [purchasing power parity](https://en.wikipedia.org/wiki/Purchasing_power_parity)
-- 1916 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Zur Quantentheorie der Spektrallinien* (*On the quantum theory of the spectral lines*), introducing the [fine-structure constant](https://en.wikipedia.org/wiki/Fine-structure_constant)
+- 1916 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Zur Quantentheorie der Spektrallinien* (*On the quantum theory of the spectral lines*), introducing the [fine-structure constant](https://en.wikipedia.org/wiki/Fine-structure_constant) to explain the fine structure in the atomic spectral lines of the [Michelson–Morley experiment](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment)
 - 1917 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
 - 1918 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Gravitationswellen* (*On Gravitational Waves*)](https://einsteinpapers.press.princeton.edu/vol7-trans/25), on [gravitational waves](https://en.wikipedia.org/wiki/Gravitational_wave)
