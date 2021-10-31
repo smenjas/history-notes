@@ -1503,6 +1503,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1968 CE: [Jack Oliver](https://en.wikipedia.org/wiki/Jack_Oliver_%28scientist%29) published *Seismology and the New Global Tectonics*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1968 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 1*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - 1968 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) & [Bob Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29) published *The Computer as a Communication Device*, describing [online communities](https://en.wikipedia.org/wiki/Online_community)
+- 1968 CE: [Antony Hewish](https://en.wikipedia.org/wiki/Antony_Hewish), [Jocelyn Bell Burnell](https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell), J. D. H. Pilkington, P. F. Scott, & R. A. Collins published *Observation of a Rapidly Pulsating Radio Source*, announcing Bell's discovery of [radio pulsars](https://en.wikipedia.org/wiki/Pulsar) in 1967
 
 #### Internet
 
