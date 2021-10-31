@@ -1438,6 +1438,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1953 CE: [Maurice Wilkins](https://en.wikipedia.org/wiki/Maurice_Wilkins), [Alec Stokes](https://en.wikipedia.org/wiki/Alec_Stokes), & [Herbert Wilson](https://en.wikipedia.org/wiki/Herbert_Wilson) published *Molecular structure of deoxypentose nucleic acids*
 - 1953 CE: [Maurice Karnaugh](https://en.wikipedia.org/wiki/Maurice_Karnaugh) published *The Map Method for Synthesis of Combinational Logic Circuits*, introducing the [Karnaugh map](https://en.wikipedia.org/wiki/Karnaugh_map), a method of simplifying [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) expressions
 - 1953 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Renaissance*, the 5th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
+- 1954 CE: [Carl A. Wiley](https://en.wikipedia.org/wiki/Carl_A._Wiley) patented [*Pulsed doppler radar methods and apparatus*](https://patents.google.com/patent/US3196436A/en), a.k.a. [synthetic-aperture radar (SAR)](https://en.wikipedia.org/wiki/Synthetic-aperture_radar), which he invented in 1951
+- 1954 CE: [Carl A. Wiley](https://en.wikipedia.org/wiki/Carl_A._Wiley) published *Clipper Ships of Space*, proposing [solar sails](https://en.wikipedia.org/wiki/Solar_sail)
 - 1955 CE: [Jonas Salk](https://en.wikipedia.org/wiki/Jonas_Salk) announced the [polio vaccine](https://en.wikipedia.org/wiki/Polio_vaccine), developed and tested since 1947
 - 1955 CE: [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick) wrote *On Degenerate Templates and the [Adaptor Hypothesis](https://en.wikipedia.org/wiki/Adaptor_hypothesis): a note for the [RNA Tie Club](https://en.wikipedia.org/wiki/RNA_Tie_Club)*, describing [transfer RNA (tRNA)](https://en.wikipedia.org/wiki/Transfer_RNA)
 - 1956 CE: [Hush-A-Phone Corp. v. United States](https://en.wikipedia.org/wiki/Hush-A-Phone_Corp._v._United_States)
@@ -1580,6 +1582,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1990 CE: CO₂ exceeded 360 ppm
 - 1990 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) et al. published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
 - 1990 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) published *The [SGML](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) Handbook*
+- 1990 CE: [Robert L. Forward](https://en.wikipedia.org/wiki/Robert_L._Forward) patented *Statite apparatus and method of use*, a [solar sail](https://en.wikipedia.org/wiki/Solar_sail)
 
 #### World Wide Web
 
