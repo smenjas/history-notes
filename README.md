@@ -282,7 +282,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 67 mya: The global temperature fell to about 6 °C above the 20th century average, [CO₂ was 350-500 ppm](https://en.wikipedia.org/wiki/Climate_across_Cretaceous%E2%80%93Paleogene_boundary)
 - 66.7 mya: The [first known bird](https://www.cam.ac.uk/stories/wonderchicken) existed: a recent common ancestor of chickens and ducks
 - 66 mya: An asteroid impacted Earth, creating the [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater) which is 150 km in diameter
-- 66 mya: The [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) occurred, 76% of species lost (including all dinosaurs except birds)
+- 66 mya: The [Cretaceous–Paleogene (K-Pg) extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) occurred, 76% of species lost (including all dinosaurs except birds)
 - 65 mya: The global temperature rose to about 11 °C above the 20th century average, [CO₂ was 2300 ppm](https://en.wikipedia.org/wiki/Climate_across_Cretaceous%E2%80%93Paleogene_boundary)
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
 - 56 mya: [Laurasia](https://en.wikipedia.org/wiki/Laurasia) split into North America & Eurasia
@@ -406,7 +406,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 20 kya: [Ancestral Native Americans (ANA)](https://en.wikipedia.org/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas) split from [Ancient Beringians (AB)](https://en.wikipedia.org/wiki/Ancient_Beringian)
 - 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) 120m below present
 - 17-15 kya: The [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas) occurred, global temperatures declined sharply
-- 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was >100m below present
+- 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 110m below present
 - 15-13 kya: The [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial) occurred, first pronounced warming since LGM, global temp spiking to -1 °C from present
 - 14.7-13.5 kya: [Meltwater pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A) occurred, and the [sea level](https://en.wikipedia.org/wiki/Past_sea_level) rose from >100m to <80m below present
 - 14.6 kya: [Heinrich event](https://en.wikipedia.org/wiki/Heinrich_event) H1 occurred, with many [glaciers calving icebergs](https://en.wikipedia.org/wiki/Ice_calving) rapidly
@@ -420,12 +420,14 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### Agriculture
 
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
-- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was around 80m below present, global temp was 2 °C below present
+- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 80m below present, global temp was 2 °C below present
 - 13.5 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Abu Hureyra](https://en.wikipedia.org/wiki/Tell_Abu_Hureyra) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates): a few hundred people lived there year-round, the largest settlement of people anywhere at the time
+- 13 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 78m below present, global temp was 2 °C below present
 - 13 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) brewed [beer](https://en.wikipedia.org/wiki/Beer) at [Raqefet Cave](https://en.wikipedia.org/wiki/Raqefet_Cave), near Haifa
 - 12.9-11.7 kya: The [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas) occurred, global temperatures declined sharply
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ exceeded 250 ppm, global temp rose to the present level
 - 12.2 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Mureybet](https://en.wikipedia.org/wiki/Mureybet) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates), the first known settlement with rectangular structures
+- 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 65m below present, global temp was 2 °C below present
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
 - 9700 BCE: The [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
 - 9500 BCE: People near the upper [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) built [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe), the oldest known temple, using the oldest [megaliths](https://en.wikipedia.org/wiki/Megalith)
@@ -439,7 +441,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 8350 BCE: People in the [Levant](https://en.wikipedia.org/wiki/Levant) settled [ʿAin Ghazal ("Spring of the Gazelle")](https://en.wikipedia.org/wiki/%CA%BFAin_Ghazal) by the [Zarqa River](https://en.wikipedia.org/wiki/Zarqa_River), where the city of Amman is today
 - 8000 BCE: People in the [Levant](https://en.wikipedia.org/wiki/Levant) settled [Gesher](https://en.wikipedia.org/wiki/Gesher_%28archaeological_site%29) in the [Jordan Valley](https://en.wikipedia.org/wiki/Jordan_Valley)
 - 8000 BCE: People in what is now [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
-- 8000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 40m below present
+- 8000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 45m below present
 
 ## < 10 Thousand Years Ago
 
@@ -447,7 +449,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 7500 BCE: [A farmer lived with a domesticated African wildcat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
 - 7100 BCE: People in [Anatolia](https://en.wikipedia.org/wiki/Anatolia) established [Çatalhöyük](https://en.wikipedia.org/wiki/Çatalhöyük), the largest known settlement at several thousand people
-- 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 20m below present
+- 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 30m below present
 - 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
 - 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea
 - 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
@@ -1552,6 +1554,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ### 1980s
 
+- 1980 CE: [Luis Walter Alvarez](https://en.wikipedia.org/wiki/Luis_Walter_Alvarez), [Walter Alvarez](https://en.wikipedia.org/wiki/Walter_Alvarez), [Frank Asaro](https://en.wikipedia.org/wiki/Frank_Asaro), & [Helen Vaughn Michel](https://en.wikipedia.org/wiki/Helen_Vaughn_Michel) published *Extraterrestrial Cause for the Cretaceous-Tertiary Extinction: Experiment and Theory*, [proposing](https://en.wikipedia.org/wiki/Alvarez_hypothesis) that the [Chicxulub impact](https://en.wikipedia.org/wiki/Chicxulub_crater) caused the [Cretaceous–Paleogene (K-Pg) extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
 - 1981 CE: [Brian Reid](https://en.wikipedia.org/wiki/Brian_Reid_%28computer_scientist%29) presented *[Scribe](https://en.wikipedia.org/wiki/Scribe_%28markup_language%29): A Document Specification Language and its Compiler* at the Conference on Research and Trends in Document Preparation Systems at Lausanne, Switzerland, where [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) presented [Generalized Markup Language (GML)](https://en.wikipedia.org/wiki/IBM_Generalized_Markup_Language)
 - 1982 CE: [David Chaum](https://en.wikipedia.org/wiki/David_Chaum) published *Computer Systems Established, Maintained, and Trusted by Mutually Suspicious Groups*, proposing cryptographically linked record keeping, a.k.a. [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - 1982 CE: [Stephen Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) published *Principles and practice in second language acquisition*, developing the [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
