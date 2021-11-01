@@ -404,7 +404,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 23 kya: [Early European Farmers (EEF)](https://en.wikipedia.org/wiki/Early_European_Farmers) split from [Caucasus Hunter-Gatherers (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer)
 - 22 kya: [Ancient North Eurasians (ANE)](https://en.wikipedia.org/wiki/Ancient_North_Eurasian) split from [Western Hunter-Gatherers (WHG)](https://en.wikipedia.org/wiki/Western_Hunter-Gatherer)
 - 20 kya: [Ancestral Native Americans (ANA)](https://en.wikipedia.org/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas) split from [Ancient Beringians (AB)](https://en.wikipedia.org/wiki/Ancient_Beringian)
-- 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) 120m below present
+- 20 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 125m below present
+- 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 120m below present
 - 17-15 kya: The [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas) occurred, global temperatures declined sharply
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 110m below present
 - 15-13 kya: The [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial) occurred, first pronounced warming since LGM, global temp spiking to -1 °C from present
@@ -431,6 +432,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
 - 9700 BCE: The [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
 - 9500 BCE: People near the upper [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) built [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe), the oldest known temple, using the oldest [megaliths](https://en.wikipedia.org/wiki/Megalith)
+- 9500-9200 BCE: [Meltwater pulse 1B](https://en.wikipedia.org/wiki/Meltwater_pulse_1B) occurred
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
 - 9000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
 - 9000 BCE: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) settled [Jericho](https://en.wikipedia.org/wiki/Jericho)
@@ -597,7 +599,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 56 BCE: [Lucretius](https://en.wikipedia.org/wiki/Lucretius) wrote [*De rerum natura* (*On the Nature of Things*)](https://en.wikipedia.org/wiki/De_rerum_natura), stating that the world contained "seeds" that can sicken you if inhaled or ingested
 - 46 BCE: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) proposed the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
 - 44 BCE: The [Palmyrene alphabet](https://en.wikipedia.org/wiki/Palmyrene_alphabet) descended from cursive versions of the Aramaic alphabet
-- 40 BCE: [Andronicus of Rhodes](https://en.wikipedia.org/wiki/Andronicus_of_Rhodes) wrote Aristotle's [*Organon*](https://en.wikipedia.org/wiki/Organon) (*Instrument*)
+- 40 BCE: [Andronicus of Rhodes](https://en.wikipedia.org/wiki/Andronicus_of_Rhodes) wrote down Aristotle's [*Organon*](https://en.wikipedia.org/wiki/Organon) (*Instrument*), on [logic](https://en.wikipedia.org/wiki/Logic)
 - 36 BCE: [Marcus Terentius Varro](https://en.wikipedia.org/wiki/Marcus_Terentius_Varro) wrote *Rerum rusticarum libri III* (*Three Books on Agriculture*), which states "Precautions must also be taken in the neighborhood of swamps […] because there are bred certain minute creatures which cannot be seen by the eyes, which float in the air and enter the body through the mouth and nose and there cause serious diseases."
 - 36 BCE: [Diodorus of Sicily](https://en.wikipedia.org/wiki/Diodorus_Siculus) wrote [*Bibliotheca historica*](https://en.wikipedia.org/wiki/Bibliotheca_historica), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
 - 15 BCE: [Vitruvius](https://en.wikipedia.org/wiki/Vitruvius) wrote [*De architectura, libri decem* (*Ten Books on Architecture*)](https://en.wikipedia.org/wiki/De_architectura)
@@ -612,6 +614,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 50 CE: The [Syriac alphabet](https://en.wikipedia.org/wiki/Syriac_alphabet) descended from the Palmyrene alphabet
 - 66 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 70 CE: [Hero (a.k.a. Heron) of Alexandria](https://en.wikipedia.org/wiki/Hero_of_Alexandria) wrote many works on mathematics and engineering, including *Metrica* which explores geometry in 3D, by the time he died
+- 70 CE: [Pedanius Dioscorides](https://en.wikipedia.org/wiki/Pedanius_Dioscorides) wrote *De materia medica* (*On the matter of medicine*), an influential work on [pharmacology](https://en.wikipedia.org/wiki/Pharmacology) for 1500 years
 - 77 CE: [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder) wrote [*Naturalis Historia* (*Natural History*)](https://en.wikipedia.org/wiki/Natural_History_%28Pliny%29)
 - 95 CE: [Quintillian](https://en.wikipedia.org/wiki/Quintilian) wrote [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria): his aim was "the education of the perfect orator", and he taught Pliny the Younger [rhetoric](https://en.wikipedia.org/wiki/Rhetoric)
 - 99 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) wrote the first book of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
@@ -626,6 +629,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 160 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Alexándrou Anábasis* (*The Anabasis of Alexander*)](https://en.wikipedia.org/wiki/The_Anabasis_of_Alexander), [*Indica*](https://en.wikipedia.org/wiki/Indica_%28Arrian%29), *Ta met' Alexandron* (*Events after Alexander*), *Kynēgetikos* (*On Hunting*), and many other books by the time he died
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
+- 180 CE: [Pausanias](https://en.wikipedia.org/wiki/Pausanias_%28geographer%29) wrote his *Hellados Periegesis* (*Description of Greece*), a gift to [modern archaeology](https://en.wikipedia.org/wiki/Modern_archaeology)
 - 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote [*Lives and Opinions of Eminent Philosophers*](https://en.wikipedia.org/wiki/Lives_and_Opinions_of_Eminent_Philosophers)
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) wrote commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art), demonstrating [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 313 CE: The [Sogdian alphabet](https://en.wikipedia.org/wiki/Sogdian_alphabet) descended from the Syriac alphabet
@@ -1582,7 +1586,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1990 CE: CO₂ exceeded 360 ppm
 - 1990 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) et al. published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
 - 1990 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) published *The [SGML](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) Handbook*
-- 1990 CE: [Robert L. Forward](https://en.wikipedia.org/wiki/Robert_L._Forward) patented *Statite apparatus and method of use*, a [solar sail](https://en.wikipedia.org/wiki/Solar_sail)
+- 1990 CE: [Robert L. Forward](https://en.wikipedia.org/wiki/Robert_L._Forward) patented [*Statite apparatus and method of use*](https://patents.google.com/patent/WO1990007450A1), a [solar sail](https://en.wikipedia.org/wiki/Solar_sail)
 
 #### World Wide Web
 
