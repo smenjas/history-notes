@@ -344,6 +344,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ## < 1 Million Years Ago
 
 - 990-950 kya: The [Jaramillo reversal](https://en.wikipedia.org/wiki/Jaramillo_reversal) of Earth's magnetic field occurred
+- 970 kya: Sea level was 79 m below the 20th century average
 - 800 kya: CO₂ dipped below 190 ppm, global temp -9 °C from present
 - 790 kya: CO₂ peaked around 260 ppm, global temp -1 °C from present
 - 781 kya: The [Brunhes-Matuyama reversal](https://en.wikipedia.org/wiki/Brunhes%E2%80%93Matuyama_reversal) of Earth's magnetic field occurred
@@ -369,21 +370,25 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 315 kya: [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens) evolved
 - 300 kya: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
 - 270 kya: [Y-chromosomal Adam](https://en.wikipedia.org/wiki/Y-chromosomal_Adam) lived ([Y-DNA haplogroup A](https://en.wikipedia.org/wiki/Haplogroup_A_%28Y-DNA%29)00)
-- 260 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
+- 260 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present, sea level was 80 m below
 - 250 kya: [Homo neanderthalensis](https://en.wikipedia.org/wiki/Neanderthal) evolved
 - 240 kya: CO₂ peaked around 280 ppm, global temp +2 °C from present
 - 200 kya: [7 subspecies of early humans, including Homo sapiens](https://en.wikipedia.org/wiki/Human_taxonomy#Subspecies) existed
+- 194 kya: The [Penultimate Glacial Period](https://en.wikipedia.org/wiki/Penultimate_Glacial_Period) began
 - 173 kya: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
 - 160 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 150 kya: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
+- 150 kya: Sea level was 1 m above the 20th century average
+- 140 kya: The [Penultimate Glacial Period](https://en.wikipedia.org/wiki/Penultimate_Glacial_Period) reached its maximum, sea level was 150 m below present
 
 ### Anatomically Modern Humans
 
 - 140-110 kya: [Anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved a larger fore-brain, smaller teeth, and longer distal bones
+- 135 kya: The [Penultimate Glacial Period](https://en.wikipedia.org/wiki/Penultimate_Glacial_Period) ended
 - 131 kya: [North African/Near Eastern wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
 - 130 kya: The [Eemian interglacial period](https://en.wikipedia.org/wiki/Eemian) began
 - 128 kya: [Early humans cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
-- 120 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present, [sea level was 6m above present, warmest in the past 3 million years](https://en.wikipedia.org/wiki/Eemian)
+- 120 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present, [sea level was 6 m above present, warmest in the past 3 million years](https://en.wikipedia.org/wiki/Eemian)
 - 115 kya: The [Last Glacial Period (LGP)](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
 
 ## < 100 Thousand Years Ago
@@ -404,12 +409,12 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 23 kya: [Early European Farmers (EEF)](https://en.wikipedia.org/wiki/Early_European_Farmers) split from [Caucasus Hunter-Gatherers (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer)
 - 22 kya: [Ancient North Eurasians (ANE)](https://en.wikipedia.org/wiki/Ancient_North_Eurasian) split from [Western Hunter-Gatherers (WHG)](https://en.wikipedia.org/wiki/Western_Hunter-Gatherer)
 - 20 kya: [Ancestral Native Americans (ANA)](https://en.wikipedia.org/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas) split from [Ancient Beringians (AB)](https://en.wikipedia.org/wiki/Ancient_Beringian)
-- 20 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 125m below present
-- 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 120m below present
+- 20 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 125 m below present
+- 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 120 m below present
 - 17-15 kya: The [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas) occurred, global temperatures declined sharply
-- 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 110m below present
+- 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 110 m below present
 - 15-13 kya: The [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial) occurred, first pronounced warming since LGM, global temp spiking to -1 °C from present
-- 14.7-13.5 kya: [Meltwater pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A) occurred, and the [sea level](https://en.wikipedia.org/wiki/Past_sea_level) rose from >100m to <80m below present
+- 14.7-13.5 kya: [Meltwater pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A) occurred, and the [sea level](https://en.wikipedia.org/wiki/Past_sea_level) rose from > 100 m to < 80 m below present
 - 14.6 kya: [Heinrich event](https://en.wikipedia.org/wiki/Heinrich_event) H1 occurred, with many [glaciers calving icebergs](https://en.wikipedia.org/wiki/Ice_calving) rapidly
 - 14.5 kya: [Humans made bread at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
 
@@ -421,20 +426,20 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### Agriculture
 
 - 14 kya: Other homo species have died, [agriculture](https://en.wikipedia.org/wiki/Agriculture) becomes common
-- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 80m below present, global temp was 2 °C below present
+- 14 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 80 m below present, global temp was 2 °C below present
 - 13.5 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Abu Hureyra](https://en.wikipedia.org/wiki/Tell_Abu_Hureyra) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates): a few hundred people lived there year-round, the largest settlement of people anywhere at the time
-- 13 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 78m below present, global temp was 2 °C below present
+- 13 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 78 m below present, global temp was 2 °C below present
 - 13 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) brewed [beer](https://en.wikipedia.org/wiki/Beer) at [Raqefet Cave](https://en.wikipedia.org/wiki/Raqefet_Cave), near Haifa
 - 12.9-11.7 kya: The [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas) occurred, global temperatures declined sharply
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ exceeded 250 ppm, global temp rose to the present level
 - 12.2 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Mureybet](https://en.wikipedia.org/wiki/Mureybet) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates), the first known settlement with rectangular structures
-- 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 65m below present, global temp was 2 °C below present
+- 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 65 m below present, global temp was 2 °C below present
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
 - 9700 BCE: The [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
 - 9500 BCE: People near the upper [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) built [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe), the oldest known temple, using the oldest [megaliths](https://en.wikipedia.org/wiki/Megalith)
 - 9500-9200 BCE: [Meltwater pulse 1B](https://en.wikipedia.org/wiki/Meltwater_pulse_1B) occurred
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
-- 9000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60m below present
+- 9000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60 m below present
 - 9000 BCE: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) settled [Jericho](https://en.wikipedia.org/wiki/Jericho)
 - 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea), [wheat](https://en.wikipedia.org/wiki/Wheat), [rye](https://en.wikipedia.org/wiki/Rye), & [barley](https://en.wikipedia.org/wiki/Barley) which tolerates salty soil better than the others
 - 9000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated [soybeans](https://en.wikipedia.org/wiki/Soybean)
@@ -443,7 +448,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 8350 BCE: People in the [Levant](https://en.wikipedia.org/wiki/Levant) settled [ʿAin Ghazal ("Spring of the Gazelle")](https://en.wikipedia.org/wiki/%CA%BFAin_Ghazal) by the [Zarqa River](https://en.wikipedia.org/wiki/Zarqa_River), where the city of Amman is today
 - 8000 BCE: People in the [Levant](https://en.wikipedia.org/wiki/Levant) settled [Gesher](https://en.wikipedia.org/wiki/Gesher_%28archaeological_site%29) in the [Jordan Valley](https://en.wikipedia.org/wiki/Jordan_Valley)
 - 8000 BCE: People in what is now [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
-- 8000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 45m below present
+- 8000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 45 m below present
 
 ## < 10 Thousand Years Ago
 
@@ -451,22 +456,22 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 7500 BCE: [A farmer lived with a domesticated African wildcat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
 - 7100 BCE: People in [Anatolia](https://en.wikipedia.org/wiki/Anatolia) established [Çatalhöyük](https://en.wikipedia.org/wiki/Çatalhöyük), the largest known settlement at several thousand people
-- 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 30m below present
+- 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 30 m below present
 - 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
 - 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea
 - 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
 - 6000 BCE: People in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) domesticated the [chicken](https://en.wikipedia.org/wiki/Chicken)
 - 6000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) independently [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
-- 6000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 15m below present
-- 5500 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 6m below present
+- 6000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 15 m below present
+- 5500 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 6 m below present
 - 5400 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Eridu](https://en.wikipedia.org/wiki/Eridu)
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
 - 5000 BCE: People smelted [copper](https://en.wikipedia.org/wiki/Copper) on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
 - 5000 BCE: People in what is now [Peru](https://en.wikipedia.org/wiki/Peru) domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig)
 - 5000 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) domesticated the [donkey](https://en.wikipedia.org/wiki/Donkey)
 - 5000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Uruk](https://en.wikipedia.org/wiki/Uruk)
-- 5000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 4m below present
-- 4000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 3m below present
+- 5000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 4 m below present
+- 4000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 3 m below present
 - 4000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [duck](https://en.wikipedia.org/wiki/Domestic_duck)
 - 4000 BCE: People in what is now [India](https://en.wikipedia.org/wiki/India) & [China](https://en.wikipedia.org/wiki/China) domesticated the [water buffalo](https://en.wikipedia.org/wiki/Water_buffalo)
 - 4000 BCE: People in [Africa](https://en.wikipedia.org/wiki/Africa), [Asia](https://en.wikipedia.org/wiki/Asia), & [Europe](https://en.wikipedia.org/wiki/Europe) domesticated the [honey bee](https://en.wikipedia.org/wiki/Honey_bee)
@@ -483,7 +488,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3300 BCE: [Eastern Hunter-Gatherer (EHG)](https://en.wikipedia.org/wiki/Eastern_Hunter-Gatherer) males mated with [Caucasus Hunter-Gatherer (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer) females to produce [Western Steppe Herders (WSH)](https://en.wikipedia.org/wiki/Western_Steppe_Herders)
 - 3200 BCE: The [Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph) ("sacred carvings"), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
 - 3100 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Kish](https://en.wikipedia.org/wiki/Kish_%28Sumer%29)
-- 3000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 2m below present
+- 3000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 2 m below present
 - 3000 BCE: The [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) had many [advanced technologies](https://en.wikipedia.org/wiki/List_of_inventions_and_discoveries_of_the_Indus_Valley_Civilisation), notably [sanitation](https://en.wikipedia.org/wiki/Sanitation_of_the_Indus_Valley_Civilisation) using separate channels for wastewater and rainwater
 - 3000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
@@ -496,7 +501,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2100 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Cretan hieroglyphs](https://en.wikipedia.org/wiki/Cretan_hieroglyphs)
 - 2050 BCE: [Ur-Nammu](https://en.wikipedia.org/wiki/Ur-Nammu) enacted the [Code of Ur-Nammu](https://en.wikipedia.org/wiki/Code_of_Ur-Nammu)
 - 2050 BCE: The [Sintashta culture](https://en.wikipedia.org/wiki/Sintashta_culture) near the [Ural](https://en.wikipedia.org/wiki/Ural_%28river%29) and [Tobol](https://en.wikipedia.org/wiki/Tobol) rivers invented the light [chariot](https://en.wikipedia.org/wiki/Chariot)
-- 2000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1m below present
+- 2000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1 m below present
 - 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
 - 2000 BCE: The last [woolly mammoths](https://en.wikipedia.org/wiki/Woolly_mammoth) lived on [Wrangel Island](https://en.wikipedia.org/wiki/Wrangel_Island)
 - 1900 BCE: [People smelted and smithed iron](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
@@ -511,7 +516,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu), China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
 - 1200-1150 BCE: The [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) occurred, with invading [Sea Peoples](https://en.wikipedia.org/wiki/Sea_Peoples) introducing iron in large quantities to the eastern Mediterranean
 - 1050 BCE: [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) wrote using the [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet), descended from Linear B
-- 1000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1m below present
+- 1000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1 m below present
 - 900 BCE: [Olmecs](https://en.wikipedia.org/wiki/Olmecs) carved characters into the [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block)
 - 800 BCE: The [Greek alphabet](https://en.wikipedia.org/wiki/Archaic_Greek_alphabets) descended from the Phoenician alphabet, introducing vowels
 - 800 BCE: The [Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet) descended from the Phoenician alphabet
@@ -1219,7 +1224,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1901 CE: [Carl Edvard Johansson](https://en.wikipedia.org/wiki/Carl_Edvard_Johansson) patented *Gauge Block Sets for Precision Measurement*, a.k.a. ["Jo blocks"](https://en.wikipedia.org/wiki/Gauge_block), allowing precise measurements and standardizing the inch to 25.4 mm
 - 1901 CE: [Henri Becquerel](https://en.wikipedia.org/wiki/Henri_Becquerel) published *Contribution à l'étude du rayonnement du radium* (*Contribution to the study of radium radiation*), identifying electrons as [beta radiation](https://en.wikipedia.org/wiki/Beta_particle)
 - 1901 CE: [John Sealy Townsend](https://en.wikipedia.org/wiki/John_Sealy_Townsend) published *The conductivity produced in gases by the motion of negatively charged ions*, describing [Townsend discharge](https://en.wikipedia.org/wiki/Townsend_discharge)
-- 1901 CE: [Martinus Beijerinck](https://en.wikipedia.org/wiki/Martinus_Beijerinck) published *. "Über ein Contagium vivum fluidum als Ursache der Fleckenkrankheit der Tabaksblätter* (*About a contagium vivum fluidum as the cause of tobacco leaf blotch disease*), identifying the first known [virus](https://en.wikipedia.org/wiki/Virus)
+- 1901 CE: [Martinus Beijerinck](https://en.wikipedia.org/wiki/Martinus_Beijerinck) published *Über ein Contagium vivum fluidum als Ursache der Fleckenkrankheit der Tabaksblätter* (*About a contagium vivum fluidum as the cause of tobacco leaf blotch disease*), identifying the first known [virus](https://en.wikipedia.org/wiki/Virus)
 - 1902 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Transcendenten* (*Theory of Abelian Transcendents*)
 - 1903 CE: [Konstantin Tsіolkovskіy](https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky) published *Exploration of Outer Space with Reaction Devices*, describing his [rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
 - 1903 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-3* (*Treatises-3*)
@@ -1650,6 +1655,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2005 CE: [Apple](https://en.wikipedia.org/wiki/Apple) published the [WebKit web browser](https://en.wikipedia.org/wiki/WebKit) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2005 CE: [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson) published [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2005 CE: [Jesse James Garrett](https://en.wikipedia.org/wiki/Jesse_James_Garrett) published *[Ajax](https://en.wikipedia.org/wiki/Ajax_%28programming%29): A New Approach to Web Applications*
+- 2005 CE: [Lorraine Lisiecki](https://en.wikipedia.org/wiki/Lorraine_Lisiecki) & [Maureen Raymo](https://en.wikipedia.org/wiki/Maureen_Raymo) published *A Pliocene-Pleistocene stack of 57 globally distributed benthic D 18 O records*, a.k.a. the *Lisiecki-Raymo [δ18O](https://en.wikipedia.org/wiki/%CE%9418O) stack* showing 5 the past 5 million years of climate data
 - 2006 CE: [Apple switched from PowerPC chips to Intel x86](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
 - 2006 CE: CO₂ exceeded 380 ppm
 - 2006 CE: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) published the [Java Virtual Machine (JVM)](https://en.wikipedia.org/wiki/Java_virtual_machine) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
@@ -1910,6 +1916,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [Timeline of scientific thought](https://en.wikipedia.org/wiki/Timeline_of_scientific_thought)
   - [Timeline of snowflake research](https://en.wikipedia.org/wiki/Timeline_of_snowflake_research)
   - [Timeline of the history of scientific method](https://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
+  - [Timeline of women in science](https://en.wikipedia.org/wiki/Timeline_of_women_in_science)
 - [Technology timelines](https://en.wikipedia.org/wiki/Category:Technology_timelines)
   - [Timeline of agriculture and food technology](https://en.wikipedia.org/wiki/Timeline_of_agriculture_and_food_technology)
     - [Timeline of food](https://en.wikipedia.org/wiki/Timeline_of_food)
