@@ -35,3 +35,7 @@ Above: Sea level in meters (relative to the 20th century average) over the last 
 [![2000 Year Temperature Comparison](img/2000_Year_Temperature_Comparison.png)](https://commons.wikimedia.org/wiki/File:2000_Year_Temperature_Comparison.png)
 
 Above: Global temperature over the last 2 thousand years, on a linear timescale.
+
+[![Climate Change Attribution](img/Climate_Change_Attribution.png)](https://commons.wikimedia.org/wiki/File:Climate_Change_Attribution.png)
+
+Above: Global temperature change since 1900 CE due to these factors: sulfates, volcanoes, ozone, sunshine, and greenhouse gases.
