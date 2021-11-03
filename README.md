@@ -683,6 +683,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 964 CE: [Abd al-Rahman al-Sufi](https://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi) wrote the *kitāb suwar al-kawākib* (*Book of Fixed Stars*)](https://en.wikipedia.org/wiki/Book_of_Fixed_Stars), updating Hipparchus' astronomical observations
 - 976 CE: The [*Codex Vigilanus* (*Watchful Manuscript*)](https://en.wikipedia.org/wiki/Codex_Vigilanus) introduced [Arabic numerals](https://en.wikipedia.org/wiki/Arabic_numerals) (except zero) to [the West](https://en.wikipedia.org/wiki/Western_world)
 - 977 CE: [Muhammad ibn Ahmad al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Ahmad_al-Khwarizmi) compiled *Mafātīḥ al-ʿulūm* (*The Keys of the Sciences*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia), stating that if no number appears in the place of tens in a calculation, a little circle (called a ṣifr) should be used "to keep the rows"
+- 980 CE: [Al-Majusi](https://en.wikipedia.org/wiki/%27Ali_ibn_al-%27Abbas_al-Majusi) published [*Kāmil al-ṣināʻa al-ṭibbīya* (*The Complete Book of the Medical Art*)](https://en.wikipedia.org/wiki/The_Complete_Book_of_the_Medical_Art)
 - 987 CE: [Ibn al-Nadim](https://en.wikipedia.org/wiki/Ibn_al-Nadim) wrote *Kitāb al-Fihrist* (*The Book Catalogue*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: Soudas wrote the [Suda](https://en.wikipedia.org/wiki/Suda), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote [*al-Athar al-Baqqiya 'an al-Qorun al-Khaliyya* (*The remaining traces of past centuries*)](https://en.wikipedia.org/wiki/The_Remaining_Signs_of_Past_Centuries)
@@ -1895,6 +1896,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [Chemistry timelines](https://en.wikipedia.org/wiki/Category:Chemistry_timelines)
   - [Geology timelines](https://en.wikipedia.org/wiki/Category:Geology_timelines)
     - [Timeline of Cretaceous–Paleogene extinction event research](https://en.wikipedia.org/wiki/Timeline_of_Cretaceous%E2%80%93Paleogene_extinction_event_research)
+    - [Timeline of volcanism on Earth](https://en.wikipedia.org/wiki/Timeline_of_volcanism_on_Earth)
   - [Mathematics timelines](https://en.wikipedia.org/wiki/Category:Mathematics_timelines)
   - [Physics timelines](https://en.wikipedia.org/wiki/Category:Physics_timelines)
     - [Timeline of electromagnetism and classical optics](https://en.wikipedia.org/wiki/Timeline_of_electromagnetism_and_classical_optics)
