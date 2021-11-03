@@ -99,6 +99,10 @@ temperature going up steeply in the last century.
 
 ---
 
+[![CO₂ Concentration & Flux](img/Carbon_History_and_Flux_Rev.png)](https://en.wikipedia.org/wiki/File:Carbon_History_and_Flux_Rev.png)
+
+---
+
 [![Climate Change Attribution](img/Climate_Change_Attribution.png)](https://commons.wikimedia.org/wiki/File:Climate_Change_Attribution.png)
 
 Above: Global temperature change since 1900 CE due to these factors:
