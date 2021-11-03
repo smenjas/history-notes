@@ -2,8 +2,8 @@
 
 [![Global average temperature estimates for the last 540 million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg)
 
-Above: Global temperature over the last half billion years, on a logarithmic
-timescale for perspective.
+Above: Global temperature over the last half billion years, on a roughly
+logarithmic timescale (more detail closer to the present).
 
 Earth's temperature has mostly been well above the present, with 2 exceptions:
 the [Carboniferous period](https://en.wikipedia.org/wiki/Carboniferous) about
@@ -28,7 +28,7 @@ billion years, on a linear timescale.
 
 The datasets vary widely, but they seem to agree there was less CO₂ [about 300
 million years ago](https://en.wikipedia.org/wiki/Carboniferous), and [since the
-Dinosaurs went extinct.](https://en.wikipedia.org/wiki/Cenozoic), with much
+Dinosaurs went extinct](https://en.wikipedia.org/wiki/Cenozoic), with much
 higher CO₂ otherwise.
 
 ---
@@ -59,9 +59,10 @@ go, with the Antarctic freezing, thawing, and freezing again since.
 Above: Global temperature over the last 5 million years, on a linear timescale.
 
 This shows temperature generally decreasing, with rapid oscillations between
-warm and cool periods, and the amplitudes increasing with maximum and minimum
-temperatures spreading farther apart over time. This timescale is still too
-large to see recent trends.
+warm and cool periods, and the amplitudes increasing (maximum and minimum
+temperatures spread farther apart over time).
+
+This timescale is still too large to see recent trends.
 
 ---
 
