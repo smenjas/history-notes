@@ -101,6 +101,9 @@ temperature going up steeply in the last century.
 
 [![CO₂ Concentration & Flux](img/Carbon_History_and_Flux_Rev.png)](https://en.wikipedia.org/wiki/File:Carbon_History_and_Flux_Rev.png)
 
+Above: Atmospheric CO₂ in parts per million by volume (ppmv) since 1750 CE.
+Also, atmospheric CO₂ from fossil fuels vs. all CO₂ flux in trillions of kg.
+
 ---
 
 [![Climate Change Attribution](img/Climate_Change_Attribution.png)](https://commons.wikimedia.org/wiki/File:Climate_Change_Attribution.png)
