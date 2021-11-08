@@ -1446,6 +1446,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1949 CE: [Keith Runcorn](https://en.wikipedia.org/wiki/Keith_Runcorn) published *Investigations relating to the main geomagnetic field*, proposing [paleomagnetism](https://en.wikipedia.org/wiki/Paleomagnetism)
 - 1949 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published [*The Intelligent Investor*](https://en.wikipedia.org/wiki/The_Intelligent_Investor), an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
 - 1949 CE: [Dorothy Crowfoot Hodgkin](https://en.wikipedia.org/wiki/Dorothy_Hodgkin) et al. published *X-ray crystallographic investigation of the structure of penicillin*
+- 1949 CE: [Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell) published [*The Hero with a Thousand Faces*](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)
 
 ### 1950s
 
