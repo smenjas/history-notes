@@ -286,7 +286,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 65 mya: The global temperature rose to about 11 °C above the 20th century average, [CO₂ was 2300 ppm](https://en.wikipedia.org/wiki/Climate_across_Cretaceous%E2%80%93Paleogene_boundary)
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
 - 56 mya: [Laurasia](https://en.wikipedia.org/wiki/Laurasia) split into North America & Eurasia
-- 55 mya: The [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) occurred; volcanoes released CO₂, the global temperature spiked to over 14 °C above the 20th century average
+- 55 mya: The [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) occurred; atmospheric CO₂ increased, and the global temperature spiked to over 14 °C above the 20th century average
 - 50 mya: [Pinnipeds ("fin-foot", a.k.a. seals)](https://en.wikipedia.org/wiki/Pinniped) split from other [Caniformes](https://en.wikipedia.org/wiki/Caniformia) ("dog-like" carnivores)
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) evolved from land mammals back into sea mammals
 - 45 mya: The global temperature fell to about 9 °C above the 20th century average
@@ -1566,6 +1566,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1974 CE: [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf), [Yogen Dalal](https://en.wikipedia.org/wiki/List_of_Internet_pioneers#Yogen_Dalal) & Carl Sunshine published [RFC 675](https://tools.ietf.org/html/rfc675), specifying [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - 1974 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) developed [Standard Generalized Markup Language (SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language), the forerunner of [HTML](https://en.wikipedia.org/wiki/HTML)
 - 1974 CE: [Gerard K. O'Neill](https://en.wikipedia.org/wiki/Gerard_K._O%27Neill) published *The Colonization of Space* describing [space habitats](https://en.wikipedia.org/wiki/Space_habitat)
+- 1975 CE: [CO₂ was 314 ppm](https://en.wikipedia.org/wiki/Atmospheric_chemistry)
 - 1975 CE: [Endre Szemerédi](https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di) published *On sets of integers containing no k elements in arithmetic progression*
 - 1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Napoleon*, the 11th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1975 CE: [Steven Sasson](https://en.wikipedia.org/wiki/Steven_Sasson) invented the first self-contained digital camera
