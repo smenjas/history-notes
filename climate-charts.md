@@ -1,5 +1,24 @@
 # Climate Charts
 
+[![Estimated atmospheric oxygen over the last 3.8 billion years](img/Oxygenation-atm-2.svg)](https://commons.wikimedia.org/wiki/File:Oxygenation-atm-2.svg)
+
+Above: Estimated atmospheric oxygen over the last 3.8 billion years, on a
+linear timescale, with upper and lower bounds shown.
+
+The chart shows 5 stages:
+- Stage 1: 3.85-2.45 Ga
+- Stage 2: 2.45-1.85 Ga
+- Stage 3: 1.85-0.85 Ga
+- Stage 4: 0.85-0.54 Ga
+- Stage 5: 0.54 Ga to present
+
+There was very little atmospheric oxygen in stage 1, with a gradual increase in
+stage 2, to a plateau in stage  3, a rapid increase in stage 4, continuiong to
+a peak in the middle of stage 5 until finally levelling out to the present
+value of 0.21 atm.
+
+---
+
 [![Global average temperature estimates for the last 540 million years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg)
 
 Above: Global temperature over the last half billion years, on a roughly
