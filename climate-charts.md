@@ -19,9 +19,9 @@ The chart shows 5 stages:
 - Stage 5: 0.54 Ga to present
 
 There was very little atmospheric oxygen in stage 1, with a gradual increase in
-stage 2, to a plateau in stage  3, a rapid increase in stage 4, continuiong to
-a peak in the middle of stage 5 until finally levelling out to the present
-value of 0.21 atm.
+stage 2, to a plateau in stage  3, a rapid increase in stage 4, continuing to a
+peak in the middle of stage 5 until finally levelling out to the present value
+of 0.21 atm.
 
 ---
 
