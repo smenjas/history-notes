@@ -409,7 +409,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 23 kya: [Early European Farmers (EEF)](https://en.wikipedia.org/wiki/Early_European_Farmers) split from [Caucasus Hunter-Gatherers (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer)
 - 22 kya: [Ancient North Eurasians (ANE)](https://en.wikipedia.org/wiki/Ancient_North_Eurasian) split from [Western Hunter-Gatherers (WHG)](https://en.wikipedia.org/wiki/Western_Hunter-Gatherer)
 - 20 kya: [Ancestral Native Americans (ANA)](https://en.wikipedia.org/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas) split from [Ancient Beringians (AB)](https://en.wikipedia.org/wiki/Ancient_Beringian)
-- 20 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 125 m below present
+- 20 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 130 m below present
 - 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 120 m below present
 - 17-15 kya: The [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas) occurred, global temperatures declined sharply
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 110 m below present
@@ -456,6 +456,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 7500 BCE: [A farmer lived with a domesticated African wildcat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
 - 7100 BCE: People in [Anatolia](https://en.wikipedia.org/wiki/Anatolia) established [Çatalhöyük](https://en.wikipedia.org/wiki/Çatalhöyük), the largest known settlement at several thousand people
+- 7000-3000 BCE: The [Holocene Climatic Optimum (HCO)](https://en.wikipedia.org/wiki/Holocene_climatic_optimum) occurred, with Arctic temperatures 2 °C above the 20th century average, or more
 - 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 30 m below present
 - 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
 - 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea
