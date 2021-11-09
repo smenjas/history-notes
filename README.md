@@ -111,10 +111,10 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ## < 10 Billion Years Ago
 
 - 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/)
-- 4.603 bya: The [Sun](https://en.wikipedia.org/wiki/Sun) formed
+- 4.603 bya: The [Sun](https://en.wikipedia.org/wiki/Sun) formed, containing 99.86% of the mass in the solar system
 - 4.543 bya: [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
-- 4.51 bya: [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth](https://en.wikipedia.org/wiki/Earth) & [Moon](https://en.wikipedia.org/wiki/Moon) formed from the debris
-- 4.4 bya: Liquid water and an atmosphere existed on Earth
+- 4.51 bya: [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth & Moon formed from the debris](https://en.wikipedia.org/wiki/Giant-impact_hypothesis)
+- 4.4 bya: [Liquid water and an atmosphere](https://en.wikipedia.org/wiki/Hadean) (of CO₂, H₂, & water vapor) existed on Earth at a pressure above 27 atm, with temperatures of 230 °C
 - ? bya: [Pyrimidine](https://en.wikipedia.org/wiki/Pyrimidine) (precursor to cytosine, thymine, and uracil) existed
 - ? bya: [Purine](https://en.wikipedia.org/wiki/Purine) (precursor to adenine and guanine) existed
 - ? bya: [RNA](https://en.wikipedia.org/wiki/RNA) existed
@@ -1399,6 +1399,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1936 CE: [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) published [*How to Win Friends and Influence People*](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
 - 1936 CE: [J. Barkley Rosser](https://en.wikipedia.org/wiki/J._Barkley_Rosser) published *Extensions of some theorems of Gödel and Church*
 - 1936 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The General Theory of Employment, Interest and Money*](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money), an influential book on [macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
+- 1936 CE: [Edwin Hubble](https://en.wikipedia.org/wiki/Edwin_Hubble) published *The Observational Approach to Cosmology*
+- 1936 CE: [Edwin Hubble](https://en.wikipedia.org/wiki/Edwin_Hubble) published *The Realm of the Nebulae*, describing [spiral galaxies](https://en.wikipedia.org/wiki/Spiral_galaxy) for the first time
 - 1937 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Continuous geometries with a transition probability*
 - 1937 CE: [Alexander du Toit](https://en.wikipedia.org/wiki/Alexander_du_Toit) published *Our Wandering Continents*, supporting the [continental drift](https://en.wikipedia.org/wiki/Continental_drift) theory
 - 1937 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published *The Interpretation of Financial Statements*, an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
