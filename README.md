@@ -417,6 +417,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 14.7-13.5 kya: [Meltwater pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A) occurred, and the [sea level](https://en.wikipedia.org/wiki/Past_sea_level) rose from > 100 m to < 80 m below present
 - 14.6 kya: [Heinrich event](https://en.wikipedia.org/wiki/Heinrich_event) H1 occurred, with many [glaciers calving icebergs](https://en.wikipedia.org/wiki/Ice_calving) rapidly
 - 14.5 kya: [Humans made bread at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
+- 14.5-5.5 kya: The [African humid period](https://en.wikipedia.org/wiki/African_humid_period) occurred
 
 ### Dogs
 
@@ -1910,6 +1911,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
     - [Archaeology timelines](https://en.wikipedia.org/wiki/Category:Archaeology_timelines)
   - [Astronomy timelines](https://en.wikipedia.org/wiki/Category:Astronomy_timelines)
   - [Biology timelines](https://en.wikipedia.org/wiki/Category:Biology_timelines)
+    - [Timeline of biology and organic chemistry](https://en.wikipedia.org/wiki/Timeline_of_biology_and_organic_chemistry)
   - [Chemistry timelines](https://en.wikipedia.org/wiki/Category:Chemistry_timelines)
   - [Geology timelines](https://en.wikipedia.org/wiki/Category:Geology_timelines)
     - [Timeline of Cretaceous–Paleogene extinction event research](https://en.wikipedia.org/wiki/Timeline_of_Cretaceous%E2%80%93Paleogene_extinction_event_research)
