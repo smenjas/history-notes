@@ -2,7 +2,28 @@
 
 [![Geologic Clock with events and periods](img/Geologic_Clock_with_events_and_periods.svg)](https://commons.wikimedia.org/wiki/File:Geologic_Clock_with_events_and_periods.svg)
 
-Above: The [geologic time scale](https://en.wikipedia.org/wiki/Geologic_time_scale) of the Earth.
+Above: The [geologic time scale](https://en.wikipedia.org/wiki/Geologic_time_scale) of the Earth. It shows the following:
+
+- 4600-4000 mya: The [Hadean Eon](https://en.wikipedia.org/wiki/Hadean)
+  - no life
+- 4000-2500 mya: The [Archean Eon](https://en.wikipedia.org/wiki/Archean)
+  - [first life](https://en.wikipedia.org/wiki/History_of_life)
+  - [photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)
+- 2500-541 mya: The [Proterozoic Eon](https://en.wikipedia.org/wiki/Proterozoic)
+  - [increased atomospheric oxygen](https://en.wikipedia.org/wiki/Paleoclimatology)
+  - [Snowball Earth](https://en.wikipedia.org/wiki/Snowball_Earth)
+  - first [prokaryotes](https://en.wikipedia.org/wiki/Prokaryote)
+  - first [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote)
+  - first [multicellular life](https://en.wikipedia.org/wiki/Multicellular_organism)
+  - [first animals](https://en.wikipedia.org/wiki/History_of_life#Emergence_of_animals)
+- 541-252 mya: The [Paleozoic Era](https://en.wikipedia.org/wiki/Paleozoic)
+  - [land plants](https://en.wikipedia.org/wiki/Embryophyte)
+  - [land animals](https://en.wikipedia.org/wiki/Vertebrate_land_invasion)
+- 252-66 mya: The [Mesozoic Era](https://en.wikipedia.org/wiki/Mesozoic)
+  - [mammals](https://en.wikipedia.org/wiki/Mammal)
+  - non-avian [dinosaurs](https://en.wikipedia.org/wiki/Dinosaur)
+- 66-0 mya: The [Cenozoic Era](https://en.wikipedia.org/wiki/Cenozoic)
+  - first [Hominins](https://en.wikipedia.org/wiki/Hominini)
 
 ---
 
