@@ -123,10 +123,11 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 4.1-3.8 bya: The [Late Heavy Bombardment (LHB)](https://en.wikipedia.org/wiki/Late_Heavy_Bombardment) of the inner Solar System may have occurred
 - 3.8 bya: [Archaeal](https://en.wikipedia.org/wiki/Archaea) [lipids](https://en.wikipedia.org/wiki/Lipid) existed
 - 3.6-2.7 bya: The supercontinent [Vaalbara](https://en.wikipedia.org/wiki/Vaalbara) existed
-- 3.5 bya: Earliest oxygen production in shallow oceans, absorbed by the sea and sea bed
+- 3.5 bya: [Earliest oxygen](https://en.wikipedia.org/wiki/Geological_history_of_oxygen) production in shallow oceans, absorbed by the sea and sea bed
 - 3.5 bya: [Single celled life](https://en.wikipedia.org/wiki/Unicellular_organism) existed
 - ? bya: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis), existed
 - ? bya: The [cell nucleus](https://en.wikipedia.org/wiki/Cell_nucleus) (present in archaea & eukaryotes, but not eubacteria) existed
+- 2.9 bya: The [Pongola glaciation](https://en.wikipedia.org/wiki/Mesoarchean) occurred
 - 2.8-2.4 bya: The supercontinent [Ur](https://en.wikipedia.org/wiki/Ur_%continent%29) existed
 - 2.7-2.5 bya: The supercontinent [Kenorland](https://en.wikipedia.org/wiki/Kenorland) existed
 - 2.7-2.4 bya: Nickel deposits, necessary for chemosynthetic [methane producers](https://en.wikipedia.org/wiki/Methanogen), decreased dramatically

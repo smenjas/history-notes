@@ -29,8 +29,9 @@ Above: The [geologic time scale](https://en.wikipedia.org/wiki/Geologic_time_sca
 
 [![Estimated atmospheric oxygen over the last 3.8 billion years](img/Oxygenation-atm-2.svg)](https://commons.wikimedia.org/wiki/File:Oxygenation-atm-2.svg)
 
-Above: Estimated atmospheric oxygen over the last 3.8 billion years, on a
-linear time scale, with upper and lower bounds shown.
+Above: [Estimated atmospheric oxygen over the last 3.8 billion
+years](https://en.wikipedia.org/wiki/Geological_history_of_oxygen), on a linear
+time scale, with upper and lower bounds shown.
 
 The chart shows 5 stages:
 - Stage 1: [3.85-2.45 Ga](https://timescale.toolforge.org/?Ma=3850-2450)
