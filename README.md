@@ -806,7 +806,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1627 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published the [*Rudolphine Tables*](https://en.wikipedia.org/wiki/Rudolphine_Tables), a [star catalogue](https://en.wikipedia.org/wiki/Star_catalogue) containing observations by [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe)
 - 1632 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published his [*Dialogue Concerning the Two Chief World Systems*](https://en.wikipedia.org/wiki/Dialogue_Concerning_the_Two_Chief_World_Systems), comparing [heliocentrism](https://en.wikipedia.org/wiki/Heliocentrism) & [geocentrism](https://en.wikipedia.org/wiki/Geocentric_model)
 - 1632 CE: [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) posthumously published *Trattato della pittura* (*A Treatise on Painting*)
-- 1636 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) published *Methodus ad disquirendam maximam et minimam et de tangentibus linearum curvarum* (*A method for discussing maximum and minimum and the tangents of curves*)
+- 1636 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) published *Methodus ad disquirendam maximam et minimam et de tangentibus linearum curvarum* (*A method for discussing maximum and minimum and the tangents of curves*), contributing to [analytic geometry](https://en.wikipedia.org/wiki/Analytic_geometry)
 - 1637 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Discourse on the Method*](https://en.wikipedia.org/wiki/Discourse_on_the_Method)
 - 1637 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*La Géométrie*](https://en.wikipedia.org/wiki/La_G%C3%A9om%C3%A9trie)
 - 1638 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Two New Sciences*](https://en.wikipedia.org/wiki/Two_New_Sciences), on [kinematics](https://en.wikipedia.org/wiki/Kinematics) and the [strength of materials](https://en.wikipedia.org/wiki/Strength_of_materials)
@@ -1388,6 +1388,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1931 CE: [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski) published *A Non-Aristotelian System and its Necessity for Rigour in Mathematics and Physics* coining ["A map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
 - 1931 CE: [Georges Lemaître](https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre) published *The Beginning of the World from the Point of View of Quantum Theory*, proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
 - 1931 CE: [Julius Edgar Lilienfeld](https://en.wikipedia.org/wiki/Julius_Edgar_Lilienfeld) patented an [*Electrolytic condenser*](https://patents.google.com/patent/US2013564), describing an [electrolytic capacitor](https://en.wikipedia.org/wiki/Electrolytic_capacitor)
+- 1931 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) published *Gruppentheorie und ihre Anwendungen auf die Quantenmechanik der Atomspektren* (*Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*)
 - 1932 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Mathematical Foundations of Quantum Mechanics*
 - 1932 CE: [Carl David Anderson](https://en.wikipedia.org/wiki/Carl_David_Anderson) published *The Apparent Existence of Easily Deflectable Positives*, providing evidence of the [positron](https://en.wikipedia.org/wiki/Positron)'s existence, confirming [Dirac](https://en.wikipedia.org/wiki/Paul_Dirac)'s 1928 prediction
 - 1932 CE: [James Chadwick](https://en.wikipedia.org/wiki/James_Chadwick) published [*The Existence of a Neutron*](https://royalsocietypublishing.org/doi/10.1098/rspa.1932.0112), confirming Pauli's 1930 prediction
@@ -1497,6 +1498,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1958 CE: [Bjørn Aage Ibsen](https://en.wikipedia.org/wiki/Bj%C3%B8rn_Aage_Ibsen) published *Arbejdet på en Anæsthesiologisk Observationsafdeling* (*The Work in an Anaesthesiologic Observation Unit*)
 - 1958 CE: [Samuel Warren Carey](https://en.wikipedia.org/wiki/Samuel_Warren_Carey) published *The tectonic approach to continental drift*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
 - 1958 CE: [Matthew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson) & [Franklin Stahl](https://en.wikipedia.org/wiki/Franklin_Stahl) published [*The replication of DNA in Escherichia coli*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC528642/), confirming Watson & Crick's hypothesis that [DNA replication is semiconservative](https://en.wikipedia.org/wiki/Meselson%E2%80%93Stahl_experiment), i.e. each strand is copied separately
+- 1958 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) & [Alvin M. Weinberg](https://en.wikipedia.org/wiki/Alvin_M._Weinberg) published *Physical Theory of Neutron Chain Reactors*
 - 1959 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*The Logic of Scientific Discovery*](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
 - 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented [*There's Plenty of Room at the Bottom*](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
 - 1959 CE: [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) published *[Time Sharing](https://en.wikipedia.org/wiki/Time-sharing) in Large Fast Computers*
@@ -1512,6 +1514,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1960 CE: [Gene Shoemaker](https://en.wikipedia.org/wiki/Eugene_Merle_Shoemaker) published *First Natural Occurrence of Coesite*, proving that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
 - 1960 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) published [*Man-Computer Symbiosis*](https://en.wikipedia.org/wiki/Man-Computer_Symbiosis)
 - 1960 CE: [Eric Lenneberg](https://en.wikipedia.org/wiki/Eric_Lenneberg) published *The Capacity of Language Acquisition*
+- 1960 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) published [*The Unreasonable Effectiveness of Mathematics in the Natural Sciences*](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences)
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Theory of Fundamental Processes*
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Quantum Electrodynamics*
 - 1961 CE: [Robert S. Dietz](https://en.wikipedia.org/wiki/Robert_S._Dietz) published *Continent and Ocean Basin Evolution by Spreading of the Sea Floor*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
@@ -1571,6 +1574,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1970 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) ported Unix to the PHP-11/20 in assembly
 - 1970 CE: [Wayne R. Moore](https://en.wikipedia.org/wiki/Wayne_Moore_%28swimmer%29) published *Foundations of Mechanical Accuracy*
 - 1970 CE: [John W. Drake](https://en.wikipedia.org/wiki/John_W._Drake) published *The Molecular Basis of Mutation*, stating that [DNA replication has about 1.7 mutations per 108 base pairs](https://en.wikipedia.org/wiki/Replisome#Proof-reading_and_error_correction)
+- 1970 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) published *Symmetries and Reflections: Scientific Essays*
 - 1971 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published the [*UNIX Programmer's Manual*](https://en.wikipedia.org/wiki/Man_page)
 - 1971 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) published *The Closing Circle*
 - 1971 CE: [Kjell Kleppe](https://en.wikipedia.org/wiki/Kjell_Kleppe) et al. published *Studies on polynucleotides. XCVI. Repair replications of short synthetic DNA's as catalyzed by DNA polymerases*, describing [polymerase chain reaction (PCR)](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)
@@ -1641,6 +1645,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1992 CE: [William](https://en.wikipedia.org/wiki/William_Jolitz) & [Lynne Jolitz](https://en.wikipedia.org/wiki/Lynne_Jolitz) released [386BSD](https://en.wikipedia.org/wiki/386BSD)
 - 1992 CE: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) published the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1992 CE: [K. Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler) published *Nanosystems: Molecular Machinery, Manufacturing and Computation*
+- 1992 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) & [Andrew Szanton](https://en.wikipedia.org/wiki/Andrew_Szanton) published *The Recollections of Eugene P. Wigner*
 - 1993 CE: [Jordan Hubbard](https://en.wikipedia.org/wiki/Jordan_Hubbard), Nate Williams, & Rodney W. Grimes released [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1993 CE: [Ian Murdock](https://en.wikipedia.org/wiki/Ian_Murdock) released the [Debian operating system](https://en.wikipedia.org/wiki/Debian) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1994 CE: [Apple switched from Motorola 68k chips to PowerPC](https://en.wikipedia.org/wiki/Power_Macintosh)
@@ -1648,6 +1653,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1995 CE: [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) released the [Red Hat Linux operating system](https://en.wikipedia.org/wiki/Red_Hat_Linux) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1995 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Lectures on Gravitation*
 - 1995 CE: [MySQL AB](https://en.wikipedia.org/wiki/MySQL_AB) published the [MySQL](https://en.wikipedia.org/wiki/MySQL) [relational database](https://en.wikipedia.org/wiki/Relational_database) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+- 1995 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner), [Jagdish Mehra](https://en.wikipedia.org/wiki/Jagdish_Mehra), & [Arthur Wightman](https://en.wikipedia.org/wiki/Arthur_Wightman) published *Philosophical Reflections and Syntheses*
 - 1996 CE: [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker), Andrew Yu, & Jolly Chen published the [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) [relational database](https://en.wikipedia.org/wiki/Relational_database) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1997 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
 - 1997 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Search](https://en.wikipedia.org/wiki/Google_Search)
@@ -1927,6 +1933,12 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
     - [Timeline of Cretaceous–Paleogene extinction event research](https://en.wikipedia.org/wiki/Timeline_of_Cretaceous%E2%80%93Paleogene_extinction_event_research)
     - [Timeline of volcanism on Earth](https://en.wikipedia.org/wiki/Timeline_of_volcanism_on_Earth)
   - [Mathematics timelines](https://en.wikipedia.org/wiki/Category:Mathematics_timelines)
+    - [Timeline of ancient Greek mathematicians](https://en.wikipedia.org/wiki/Timeline_of_ancient_Greek_mathematicians)
+    - [Timeline of algorithms](https://en.wikipedia.org/wiki/Timeline_of_algorithms)
+    - [Timeline of manifolds](https://en.wikipedia.org/wiki/Timeline_of_manifolds)
+    - [Timeline of mathematical logic](https://en.wikipedia.org/wiki/Timeline_of_mathematical_logic)
+    - [Timeline of mathematics](https://en.wikipedia.org/wiki/Timeline_of_mathematics)
+    - [Timeline of numerical analysis after 1945](https://en.wikipedia.org/wiki/Timeline_of_numerical_analysis_after_1945)
   - [Physics timelines](https://en.wikipedia.org/wiki/Category:Physics_timelines)
     - [Timeline of electromagnetism and classical optics](https://en.wikipedia.org/wiki/Timeline_of_electromagnetism_and_classical_optics)
   - [Social science timelines](https://en.wikipedia.org/wiki/Category:Social_science_timelines)
@@ -1936,11 +1948,6 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
       - [Timeline of psychiatry](https://en.wikipedia.org/wiki/Timeline_of_psychiatry)
   - [Spaceflight timelines](https://en.wikipedia.org/wiki/Category:Spaceflight_timelines)
   - [Timeline of glaciation](https://en.wikipedia.org/wiki/Timeline_of_glaciation)
-  - [Timeline of mathematics](https://en.wikipedia.org/wiki/Timeline_of_mathematics)
-    - [Timeline of algorithms](https://en.wikipedia.org/wiki/Timeline_of_algorithms)
-    - [Timeline of manifolds](https://en.wikipedia.org/wiki/Timeline_of_manifolds)
-    - [Timeline of mathematical logic](https://en.wikipedia.org/wiki/Timeline_of_mathematical_logic)
-    - [Timeline of numerical analysis after 1945](https://en.wikipedia.org/wiki/Timeline_of_numerical_analysis_after_1945)
   - [Timeline of scientific computing](https://en.wikipedia.org/wiki/Timeline_of_scientific_computing)
   - [Timeline of scientific discoveries](https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries)
   - [Timeline of scientific experiments](https://en.wikipedia.org/wiki/Timeline_of_scientific_experiments)
@@ -2057,12 +2064,14 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 #### [History of science](https://en.wikipedia.org/wiki/History_of_science)
 
+- [History of astronomy](https://en.wikipedia.org/wiki/History_of_astronomy)
 - [History of biology](https://en.wikipedia.org/wiki/History_of_biology)
 - [History of chemistry](https://en.wikipedia.org/wiki/History_of_chemistry)
   - [History of molecular theory](https://en.wikipedia.org/wiki/History_of_molecular_theory)
   - [History of the periodic table](https://en.wikipedia.org/wiki/History_of_the_periodic_table)
 - [History of climate change science](https://en.wikipedia.org/wiki/History_of_climate_change_science)
 - [History of entropy](https://en.wikipedia.org/wiki/History_of_entropy)
+- [History of geomagnetism](https://en.wikipedia.org/wiki/History_of_geomagnetism)
 - [History of materials science](https://en.wikipedia.org/wiki/History_of_materials_science)
 - [History of mathematics](https://en.wikipedia.org/wiki/History_of_mathematics)
   - [History of logic](https://en.wikipedia.org/wiki/History_of_logic)
