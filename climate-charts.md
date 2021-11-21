@@ -33,11 +33,11 @@ Above: Estimated atmospheric oxygen over the last 3.8 billion years, on a
 linear time scale, with upper and lower bounds shown.
 
 The chart shows 5 stages:
-- Stage 1: 3.85-2.45 Ga
-- Stage 2: 2.45-1.85 Ga
-- Stage 3: 1.85-0.85 Ga
-- Stage 4: 0.85-0.54 Ga
-- Stage 5: 0.54 Ga to present
+- Stage 1: [3.85-2.45 Ga](https://timescale.toolforge.org/?Ma=3850-2450)
+- Stage 2: [2.45-1.85 Ga](https://timescale.toolforge.org/?Ma=2450-1850), the [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event)
+- Stage 3: [1.85-0.85 Ga](https://timescale.toolforge.org/?Ma=1850-850), the [Boring Billion](https://en.wikipedia.org/wiki/Boring_Billion)
+- Stage 4: [0.85-0.54 Ga](https://timescale.toolforge.org/?Ma=850-540)
+- Stage 5: [0.54 Ga to present](https://timescale.toolforge.org/?Ma=540-0)
 
 There was very little atmospheric oxygen in stage 1, with a gradual increase in
 stage 2, to a plateau in stage  3, a rapid increase in stage 4, continuing to a

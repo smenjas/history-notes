@@ -143,7 +143,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things"), possibly evolving the [nuclear envelope](https://en.wikipedia.org/wiki/Nuclear_envelope) to protect the genome from [reactive oxygen species (ROS)](https://en.wikipedia.org/wiki/Reactive_oxygen_species) produced by the cells' pre-mitochondria
 - 2.023 bya: An asteroid impacted Earth, creating the [Vredefort crater](https://en.wikipedia.org/wiki/Vredefort_crater) which is 160 km in diameter
 - 1.9-1.0 bya: The supercontinent [Atlantica](https://en.wikipedia.org/wiki/Atlantica) existed
-- 1.85 bya: O₂ reached 0.03 atm, but oceans and seabed rock absorbed most of it
+- 1.85 bya: The [Boring Billion](https://en.wikipedia.org/wiki/Boring_Billion) began; O₂ reached 0.03 atm, but oceans and seabed rock absorbed most of it
 - 1.849 bya: A comet impacted Earth, creating the [Sudbury Basin](https://en.wikipedia.org/wiki/Sudbury_Basin) which is 130 km in diameter
 - 1.8-1.4 bya: The supercontinent [Nuna](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
 
@@ -166,7 +166,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 950? mya: [Choanozoa](https://en.wikipedia.org/wiki/Choanozoa) ("collar animal", a.k.a. Apoikozoa, "colony animal") split from [Filasterea](https://en.wikipedia.org/wiki/Filasterea) (amoeboid protists)
 - 952 mya: [Animalia](https://en.wikipedia.org/wiki/Animal) (a.k.a. Metazoa) split from [Choanoflagellate](https://en.wikipedia.org/wiki/Choanoflagellate) ("funnel whips", single-celled eukaryotes with flagella)
 - 948 mya: [Eumetazoa](https://en.wikipedia.org/wiki/Eumetazoa) ("well after animal") split from [Porifera](https://en.wikipedia.org/wiki/Porifera) (sponges)
-- 850 mya: O₂ was still 0.03 atm, but escaped the oceans and absorbed into land, then atmospheric levels rose quickly
+- 850 mya: The [Boring Billion](https://en.wikipedia.org/wiki/Boring_Billion) ended; O₂ was still 0.03 atm, but escaped the oceans and absorbed into land, then atmospheric levels rose quickly
 
 ### [Hox](https://en.wikipedia.org/wiki/Hox_gene)
 
