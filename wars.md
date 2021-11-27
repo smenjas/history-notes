@@ -1,0 +1,11 @@
+# [Wars](https://en.wikipedia.org/wiki/Timeline_of_wars)
+
+- 549-530 BCE: [Conquests of Cyrus the Great](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+- 499-449 BCE: [Greco-Persian Wars](https://en.wikipedia.org/wiki/Greco-Persian_Wars)
+- 343-290 BCE: [Samnite Wars](https://en.wikipedia.org/wiki/Samnite_Wars)
+- 336-323 BCE: [Wars of Alexander the Great](https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great)
+- 264-146 BCE: [Punic Wars](https://en.wikipedia.org/wiki/Punic_Wars)
+- 262-261 BCE: [Kalinga War](https://en.wikipedia.org/wiki/Kalinga_War)
+- 230-221 BCE: [Qin's Wars of Unification](https://en.wikipedia.org/wiki/Qin%27s_wars_of_unification)
+- 113-101 BCE: [Cimbrian War](https://en.wikipedia.org/wiki/Cimbrian_War)
+- 58-50 BCE: [Gallic Wars](https://en.wikipedia.org/wiki/Gallic_Wars)
