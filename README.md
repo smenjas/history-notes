@@ -1207,6 +1207,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### 1890s
 
 - 1890 CE: [Hermann Hellriegel](https://en.wikipedia.org/wiki/Hermann_Hellriegel) published *Ueber Stickstoffnahrung landwirtschaftlicher Kulturgewächse* (*On Nitrogen assimilation in agricultural crops*), describing [nitrogen fixation](https://en.wikipedia.org/wiki/Nitrogen_fixation)
+- 1890 CE: [James George Frazer](https://en.wikipedia.org/wiki/James_George_Frazer) published [*The Golden Bough: A Study in Comparative Religion*](https://en.wikipedia.org/wiki/The_Golden_Bough)
 - 1891 CE: [George Johnstone Stoney](https://en.wikipedia.org/wiki/George_Johnstone_Stoney) published *Of the "Electron," or Atom of Electricity*
 - 1892 CE: [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) presented [*Experiments with alternate currents of high potential and high frequency*](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)
 - 1892 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Value, Capital and Rent*
