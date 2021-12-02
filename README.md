@@ -1255,6 +1255,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1903 CE: [Nicholas Johannsen](https://en.wikipedia.org/wiki/Nicholas_Johannsen) published *Der Kreislauf des Geldes und Mechanismus des Sozial-Lebens* (*The Circuit Theory of Money*), an early work in [monetary circuit theory](https://en.wikipedia.org/wiki/Monetary_circuit_theory)
 - 1903 CE: [Nikolai Koltsov](https://en.wikipedia.org/wiki/Nikolai_Koltsov) published *Über formbestimmende elastische Gebilde in Zellen* (*On shape-determining elastic structures in cells*), describing the [cytoskeleton](https://en.wikipedia.org/wiki/Cytoskeleton)
 - 1903 CE: [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) published *The magnetic and electric deviation of the easily absorbed rays from radium*, coining the term [gamma ray](https://en.wikipedia.org/wiki/Gamma_ray)
+- 1903 CE: [Jane Ellen Harrison](https://en.wikipedia.org/wiki/Jane_Ellen_Harrison) published *Prolegomena to the Study of Greek Religion*
 - 1904 CE: Ludwig Pilgrim published *Versuch einer rechnerischen Behandlung des Eiszeitproblems* (*Attempt to treat the ice age problem arithmetically*), describing Earth's [axial tilt](https://en.wikipedia.org/wiki/Axial_tilt)
 - 1905 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published 5 papers:
   - [*On a Heuristic Viewpoint Concerning the Production and Transformation of Light*](https://en.wikisource.org/?curid=59468) suggested [quanta](https://en.wikipedia.org/wiki/Quantum)
@@ -1268,6 +1269,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1906 CE: [Daniel Barringer](https://en.wikipedia.org/wiki/Daniel_Barringer_%28geologist%29) & [Benjamin Chew Tilghman](https://en.wikipedia.org/wiki/Benjamin_Chew_Tilghman) presented *Coon Mountain and its Crater*, arguing that [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater) is a [meteorite](https://en.wikipedia.org/wiki/Meteorite) [impact crater](https://en.wikipedia.org/wiki/Impact_crater)
 - 1906 CE: [Orville & Wilbur Wright](https://en.wikipedia.org/wiki/Wright_brothers) patented their [Flying-machine](https://patents.google.com/patent/US821393)
 - 1906 CE: [Willis Carrier](https://en.wikipedia.org/wiki/Willis_Carrier) patented [modern air conditioning](https://patents.google.com/patent/US808897), which he invented in 1902 to control humidity for color printing
+- 1906 CE: [Jane Ellen Harrison](https://en.wikipedia.org/wiki/Jane_Ellen_Harrison) published *Primitive Athens as Described by Thucydides*
 - 1907 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *On the Relativity Principle and the Conclusions Drawn from It*, introducing the [equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle)
 - 1907 CE: [Bertram Boltwood](https://en.wikipedia.org/wiki/Bertram_Boltwood) published *On the Ultimate Disintegration Products of the Radio-active Elements. Part II. The disintegration products of uranium*, describing [radiometric dating](https://en.wikipedia.org/wiki/Radiometric_dating)
 
@@ -2118,6 +2120,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [History of communication studies](https://en.wikipedia.org/wiki/History_of_communication_studies)
 - [History of economic thought](https://en.wikipedia.org/wiki/History_of_economic_thought)
 - [History of education](https://en.wikipedia.org/wiki/History_of_education)
+- [History of feminism](https://en.wikipedia.org/wiki/History_of_feminism)
 - [History of geography](https://en.wikipedia.org/wiki/History_of_geography)
 - [Historiography (history of history)](https://en.wikipedia.org/wiki/Historiography)
   - [Historiography of science](https://en.wikipedia.org/wiki/Historiography_of_science)
