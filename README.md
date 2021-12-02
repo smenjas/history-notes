@@ -604,6 +604,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 200 BCE: [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) wrote *Conics* and other works on mathematics
 - 180 BCE: [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) completed his [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
 - 164 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
+- 163 BCE: [Terence](https://en.wikipedia.org/wiki/Terence) wrote *Ἑαυτὸν τιμωρούμενος* (*The Self-Tormentor*), a.k.a. *Heauton Timorumenos*, with the line "Homo sum, humani nihil a me alienum puto", or "I am human, nothing human is alien to me."
 - 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar
 - 135 BCE: [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) compiled a star catalog, later copied by Ptolemy
 - 127 BCE: [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) wrote two books on the [precession](https://en.wikipedia.org/wiki/Axial_precession) of the equinoxes: *On the Displacement of the Solsticial and Equinoctial Points* & *On the Length of the Year*
