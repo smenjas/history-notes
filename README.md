@@ -11,7 +11,7 @@ ideas in publications, patents,
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions),
 and [innovations](https://en.wikipedia.org/wiki/Innovation). My goal is a
 [universal history](https://en.wikipedia.org/wiki/Universal_history) of
-science and natural history.
+science and nature.
 
 Accessible explanations let us [stand on the shoulders of
 giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
@@ -981,6 +981,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1807 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *A Course of Lectures on Natural Philosophy and the Mechanical Arts*
 - 1807 CE: [François Budan de Boislaurent](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Budan_de_Boislaurent) published a *Nouvelle méthode pour la résolution des équations numériques* (*New method for solving numerical equations*), formulating [Budan's theorem](https://en.wikipedia.org/wiki/Budan's_theorem)
 - 1807 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Essay on the Geography of Plants*
+- 1807 CE: [Nicéphore](https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce) & [Claude Niépce](https://en.wikipedia.org/wiki/Claude_Ni%C3%A9pce) patented the [Pyréolophore](https://en.wikipedia.org/wiki/Pyr%C3%A9olophore), an [internal combustion engine (ICE)](https://en.wikipedia.org/wiki/Internal_combustion_engine)
 - 1808 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Functions of the Heart and Arteries*
 - 1808 CE: [John Dalton](https://en.wikipedia.org/wiki/John_Dalton) published *A New System of Chemical Philosophy*, introducing [atomic theory](https://en.wikipedia.org/wiki/Atomic_theory) to chemistry
 
@@ -1022,6 +1023,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1824 CE: [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) published *Remarques générales sur les températures du globe terrestre et des espaces planétaires* (*General notes on temperatures of the globe and planetary spaces*)
 - 1824 CE: [Joseph Aspdin](https://en.wikipedia.org/wiki/Joseph_Aspdin) patented [Portland cement](https://en.wikipedia.org/wiki/Portland_cement)
 - 1825 CE: [Friedrich Bessel](https://en.wikipedia.org/wiki/Friedrich_Bessel) published *Über die Berechnung der geographischen Längen und Breiten aus geodätischen Vermessungen* (*The calculation of longitude and latitude from geodesic measurements*), solving the [geodesic problem](https://en.wikipedia.org/wiki/Geodesics_on_an_ellipsoid)
+- 1825 CE: [Nicéphore Niépce](https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce) made the [earliest surviving photocopy](https://commons.wikimedia.org/wiki/File:Nic%C3%A9phore_Ni%C3%A9pce_Oldest_Photograph_1825.jpg)
+- 1827 CE: [Nicéphore Niépce](https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce) took the [earliest surviving photograph](https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras)
 - 1827 CE: [Joseph Fourier](https://en.wikipedia.org/wiki/Joseph_Fourier) published *Mémoire sur la température du globe terrestre et des espaces planétaires* (*Memoir on the temperature of the terrestrial globe and planetary spaces*)
 - 1827 CE: [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) published *Mémoire sur la double réfraction* (*Memoir on double refraction*)
 - 1828 CE: [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) published *Leçons sur les applications de calcul infinitésimal; La géométrie* (*Lessons on infinitesimal computing applications; Geometry*)
