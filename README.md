@@ -227,6 +227,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### Limbs
 
 - 413 mya: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
+- 409 mya: [Tungsenia](https://en.wikipedia.org/wiki/Tungsenia), a bony fish and the earliest known [ancestor of tetrapods](https://en.wikipedia.org/wiki/Tetrapodomorpha), existed
 - 400 mya: O₂ exceeded 0.15 atm, and the global temperature rose to about 12 °C above the 20th century average
 - 400 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
 - 385 mya: [Wattieza](https://en.wikipedia.org/wiki/Wattieza), an early tree, existed
