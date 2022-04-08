@@ -865,6 +865,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ## 1700s
 
+- 1700 CE: [Bartolomeo Cristofori](https://en.wikipedia.org/wiki/Bartolomeo_Cristofori) invented the [piano](https://en.wikipedia.org/wiki/Piano)
 - 1703 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) posthumously published *De motu corporum ex percussione*, describing [elastic collision](https://en.wikipedia.org/wiki/Elastic_collision)
 - 1704 CE: [John Harris](https://en.wikipedia.org/wiki/John_Harris_%28writer%29) published his *Lexicon Technicum* (*Technical Dictionary*), the first alphabetical [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) in English
 - 1704 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) published [*Opticks*](https://en.wikipedia.org/wiki/Opticks)
