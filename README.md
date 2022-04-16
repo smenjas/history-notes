@@ -1068,6 +1068,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1845 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published [*Kosmos – Entwurf einer physischen Weltbeschreibung* (*Cosmos: A Sketch of a Physical Description of the Universe*)](https://en.wikipedia.org/wiki/Cosmos_%28Humboldt%29), volume 1
 - 1845 CE: [Jean-Baptiste Boussingault](https://en.wikipedia.org/wiki/Jean-Baptiste_Boussingault) published *Traité d'économie rurale* (*Rural economy treatise*)
 - 1846 CE: [Julius Bodo Unger](https://de.wikipedia.org/wiki/Bodo_Unger_%28Chemiker%29) published *Das Guanin und seine Verbindungen* (*[Guanine](https://en.wikipedia.org/wiki/Guanine) and its compounds*)
+- 1846 CE: [Adolphe Sax](https://en.wikipedia.org/wiki/Adolphe_Sax) patented the [Saxophone](https://en.wikipedia.org/wiki/Saxophone)
 - 1847 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Über die Erhaltung der Kraft* (*On the Conservation of Force*)
 - 1847 CE: [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) published *Formal Logic*, introducing [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 
