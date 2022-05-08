@@ -1657,7 +1657,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1974 CE: [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf), [Yogen Dalal](https://en.wikipedia.org/wiki/List_of_Internet_pioneers#Yogen_Dalal) & Carl Sunshine published [RFC 675](https://tools.ietf.org/html/rfc675), specifying [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - 1974 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) developed [Standard Generalized Markup Language (SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language), the forerunner of [HTML](https://en.wikipedia.org/wiki/HTML)
 - 1974 CE: [Gerard K. O'Neill](https://en.wikipedia.org/wiki/Gerard_K._O%27Neill) published *The Colonization of Space* describing [space habitats](https://en.wikipedia.org/wiki/Space_habitat)
-- 1975 CE: [CO₂ was 314 ppm](https://en.wikipedia.org/wiki/Atmospheric_chemistry)
+- 1975 CE: [Atmospheric CO₂ was 314 ppm](https://en.wikipedia.org/wiki/Atmospheric_chemistry)
 - 1975 CE: [Endre Szemerédi](https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di) published *On sets of integers containing no k elements in arithmetic progression*
 - 1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Napoleon*, the 11th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1975 CE: [Steven Sasson](https://en.wikipedia.org/wiki/Steven_Sasson) invented the first self-contained digital camera
@@ -1700,12 +1700,12 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1987 CE: [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) released the [Perl programming language](https://en.wikipedia.org/wiki/Perl)
 - 1987 CE: [Burn-Jeng Lin](https://en.wikipedia.org/wiki/Burn-Jeng_Lin) published *The future of subhalf-micrometer optical lithography*, proposing [immersion lithography](https://en.wikipedia.org/wiki/Immersion_lithography) for manufacturing [integrated circuits (ICs)](https://en.wikipedia.org/wiki/Integrated_circuit)
 - 1987 CE: [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson), Hiroshi Shirahata, & Jonathon E. Ericson published *Lead in ancient human bones and its relevance to historical developments of social problems with lead*
-- 1988 CE: CO₂ exceeded 350 ppm
+- 1988 CE: Monthly average CO₂ exceeded 350 ppm
 - 1989 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 1* (GPLv1)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 
 ### 1990s
 
-- 1990 CE: CO₂ exceeded 360 ppm
+- 1990 CE: Monthly average CO₂ exceeded 360 ppm
 - 1990 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) et al. published *Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya*
 - 1990 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) published *The [SGML](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) Handbook*
 - 1990 CE: [Robert L. Forward](https://en.wikipedia.org/wiki/Robert_L._Forward) patented [*Statite apparatus and method of use*](https://patents.google.com/patent/WO1990007450A1), a [solar sail](https://en.wikipedia.org/wiki/Solar_sail)
@@ -1743,7 +1743,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ## 2000s
 
 - 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
-- 2000 CE: CO₂ exceeded 370 ppm
+- 2000 CE: Monthly average CO₂ exceeded 370 ppm
 - 2000 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published the *Feynman Lectures on Computation*
 - 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published the [KHTML web browser](https://en.wikipedia.org/wiki/KHTML), the predecessor to [WebKit](https://en.wikipedia.org/wiki/WebKit) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2000 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) et al. published *Long-range Air Transport of Dioxin from North American Sources to Ecologically Vulnerable Receptors in Nunavut, Arctic Canada*
@@ -1767,7 +1767,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2005 CE: [Jesse James Garrett](https://en.wikipedia.org/wiki/Jesse_James_Garrett) published *[Ajax](https://en.wikipedia.org/wiki/Ajax_%28programming%29): A New Approach to Web Applications*
 - 2005 CE: [Lorraine Lisiecki](https://en.wikipedia.org/wiki/Lorraine_Lisiecki) & [Maureen Raymo](https://en.wikipedia.org/wiki/Maureen_Raymo) published *A Pliocene-Pleistocene stack of 57 globally distributed benthic D 18 O records*, a.k.a. the *Lisiecki-Raymo [δ18O](https://en.wikipedia.org/wiki/%CE%9418O) stack* showing the [past 5 million years of climate data](https://en.wikipedia.org/wiki/File:Five_Myr_Climate_Change.svg)
 - 2006 CE: [Apple switched from PowerPC chips to Intel x86](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
-- 2006 CE: CO₂ exceeded 380 ppm
+- 2006 CE: Monthly average CO₂ exceeded 380 ppm
 - 2006 CE: [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) published the [Java Virtual Machine (JVM)](https://en.wikipedia.org/wiki/Java_virtual_machine) under the [GPLv2](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 3* (GPLv3)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 2007 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Street View](https://en.wikipedia.org/wiki/Google_Street_View)
@@ -1781,12 +1781,12 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### 2010s
 
 - 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPad](https://en.wikipedia.org/wiki/IPad), a practical [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics) [tablet computer](https://en.wikipedia.org/wiki/Tablet_computer) with a [capacitive touchscreen](https://en.wikipedia.org/wiki/Touchscreen#Capacitive), popularizing [multitouch displays](https://en.wikipedia.org/wiki/Multi-touch)
-- 2011 CE: CO₂ exceeded 390 ppm
+- 2011 CE: Monthly average CO₂ exceeded 390 ppm
 - 2011 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 4A*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - 2012 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model S](https://en.wikipedia.org/wiki/Tesla_Model_S), a somewhat expensive, practical electric car
 - 2012 CE: Cassan et al. published [One or more bound planets per Milky Way star from microlensing observations](https://arxiv.org/abs/1202.0903)
 - 2012 CE: [Carl Sassenrath](https://en.wikipedia.org/wiki/Carl_Sassenrath) released the [Rebol programming language](https://en.wikipedia.org/wiki/Rebol) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
-- 2013 CE: Daily average CO₂ exceeded 400 ppm
+- 2013 CE: Monthly average CO₂ exceeded 400 ppm
 - 2015 CE: [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith) et al. published [*A higher level classification of all living organisms*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119248)
 - 2015 CE: Anja Spang et al. published [*Complex archaea that bridge the gap between prokaryotes and eukaryotes*](https://www.nature.com/articles/nature14447)
 - 2015 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [landed an orbital rocket vertically](https://en.wikipedia.org/wiki/Falcon_9_flight_20)
@@ -1797,12 +1797,13 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 2017 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [reused an orbital rocket, and recovered it](https://en.wikipedia.org/wiki/SES-10), economically reusing an orbital launch system for the first time
 - 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
-- 2018 CE: Daily average CO₂ exceeded 410 ppm
+- 2018 CE: Monthly average CO₂ exceeded 410 ppm
 
 ### 2020s
 
 - 2020 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [launched the first commercial crewed orbital flight, and landed the first stage](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2)
 - 2020 CE: [Apple switched from Intel x86 chips to a custom ARM design](https://en.wikipedia.org/wiki/Apple_M1)
+- 2022 CE: Monthly average CO₂ exceeded 420 ppm
 
 ---
 
