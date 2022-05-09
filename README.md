@@ -923,6 +923,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1765 CE: [Suzuki Harunobu](https://en.wikipedia.org/wiki/Suzuki_Harunobu) produced [*Nishiki-e* ("brocade picture")](https://en.wikipedia.org/wiki/Nishiki-e), full-color [woodblock prints](https://en.wikipedia.org/wiki/Woodblock_printing_in_Japan)
 - 1765 CE: [Alexander Cumming](https://en.wikipedia.org/wiki/Alexander_Cumming) invented the [barograph](https://en.wikipedia.org/wiki/Barograph), a barometer that records air pressure graphically over time
 - 1766 CE: [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) published *An attempt at a new analysis of the mortality caused by smallpox and of the advantages of inoculation to prevent it*
+- 1766 CE: [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) published *On Factitious Airs*, describing hydrogen
 - 1766 CE: [John Michell](https://en.wikipedia.org/wiki/John_Michell) published *Proposal of a Method for measuring Degrees of Longitude upon Parallels of the Equator*
 - 1767 CE: [John Michell](https://en.wikipedia.org/wiki/John_Michell) published *An Inquiry into the Probable Parallax and Magnitude of the Fixed Stars*, inspiring [William Herschel](https://en.wikipedia.org/wiki/William_Herschel)
 - 1767 CE: [John Michell](https://en.wikipedia.org/wiki/John_Michell) published *On the Twinkling of the Fixed Stars*
@@ -949,6 +950,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1785 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) invented the first man-made [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1785 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published *A System of Vegetables*
 - 1786 CE: [William Herschel](https://en.wikipedia.org/wiki/William_Herschel) published *Catalogue of One Thousand New Nebulae and Clusters of Stars*
+- 1786 CE: [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) published *Experiments on Air*, determining that air consists of nitrogen and oxygen in a ratio of 4:1, with other gases in a ratio of 1:120 with nitrogen (later determined to be mostly argon)
 - 1787 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published *The Families of Plants*
 - 1787 CE: [Mary Wollstonecraft](https://en.wikipedia.org/wiki/Mary_Wollstonecraft) published [*Thoughts on the Education of Daughters*](https://en.wikipedia.org/wiki/Thoughts_on_the_Education_of_Daughters)
 - 1787 CE: [Antoine Lavoisier](https://en.wikipedia.org/wiki/Antoine_Lavoisier), [Louis-Bernard Guyton de Morveau](https://en.wikipedia.org/wiki/Louis-Bernard_Guyton_de_Morveau), [Claude Louis Berthollet](https://en.wikipedia.org/wiki/Claude_Louis_Berthollet), and [Antoine-François de Fourcroy](https://en.wikipedia.org/wiki/Antoine-François_de_Fourcroy) published *Méthode de nomenclature chimique* (*Method of Chemical Nomenclature*), introducing chemistry terminology modeled after [Linnaeus'](https://en.wikipedia.org/wiki/Carl_Linnaeus) taxonomy (e.g. "copper sulfate" instead of "vitriol of Venus")
@@ -972,6 +974,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1798 CE: [Edward Jenner](https://en.wikipedia.org/wiki/Edward_Jenner) published *Inquiry into the Variolae vaccinae known as the Cow Pox*, describing the [smallpox vaccine](https://en.wikipedia.org/wiki/Smallpox)
 - 1798 CE: [Thomas Robert Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus) published [*An Essay on the Principle of Population*](https://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population)
 - 1798 CE: [Priscilla Wakefield](https://en.wikipedia.org/wiki/Priscilla_Wakefield) published *Reflection on the Present Condition of the Female Sex; with Suggestions for its Improvement*, promoting [feminist economics](https://en.wikipedia.org/wiki/Feminist_economics)
+- 1798 CE: [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) published [*Experiments to Determine the Density of Earth*](https://royalsocietypublishing.org/doi/10.1098/rstl.1798.0022), describing the [Cavendish experiment](https://en.wikipedia.org/wiki/Cavendish_experiment) to measure the force of gravity, using a [torsion balance](https://en.wikipedia.org/wiki/Torsion_spring#Torsion_balance) invented by [John Michell](https://en.wikipedia.org/wiki/John_Michell), and measuring the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) to within 2% of its modern value
 
 ## 1800s
 
