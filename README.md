@@ -919,7 +919,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1762 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Du contrat social* (*The Social Contract*)](https://en.wikipedia.org/wiki/The_Social_Contract)
 - 1762 CE: [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) published [*Émile, ou De l’éducation* (*Emile, or On Education*)](https://en.wikipedia.org/wiki/Emile,_or_On_Education)
 - 1765 CE: [James Watt](https://en.wikipedia.org/wiki/James_Watt) increased the efficiency of the [steam engine](https://en.wikipedia.org/wiki/Watt_steam_engine) with a condenser and steam jacket
-- 1765 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Vollständige Anleitung zur Algebra* (*Complete Guide to Algebra*)
+- 1765 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) wrote his *Vollständige Anleitung zur Algebra* (*Complete Guide to Algebra*), a.k.a. [*Elements of Algebra*](https://en.wikipedia.org/wiki/Elements_of_Algebra)
 - 1765 CE: [Suzuki Harunobu](https://en.wikipedia.org/wiki/Suzuki_Harunobu) produced [*Nishiki-e* ("brocade picture")](https://en.wikipedia.org/wiki/Nishiki-e), full-color [woodblock prints](https://en.wikipedia.org/wiki/Woodblock_printing_in_Japan)
 - 1765 CE: [Alexander Cumming](https://en.wikipedia.org/wiki/Alexander_Cumming) invented the [barograph](https://en.wikipedia.org/wiki/Barograph), a barometer that records air pressure graphically over time
 - 1766 CE: [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) published *An attempt at a new analysis of the mortality caused by smallpox and of the advantages of inoculation to prevent it*
