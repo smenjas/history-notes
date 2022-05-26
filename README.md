@@ -887,7 +887,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published [*Mechanica* (*Mechanics*)](https://en.wikipedia.org/wiki/Mechanica)
 - 1736 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Solutio problematis ad geometriam situs pertinentis* (*Solution to the geometry of position*), founding [graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 - 1736 CE: [John Harrison](https://en.wikipedia.org/wiki/John_Harrison) demonstrated H1, the first marine chronometer, helpful for finding [longitude](https://en.wikipedia.org/wiki/Longitude) and thus [navigation](https://en.wikipedia.org/wiki/Navigation)
-- 1738 CE: [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) published *Hydrodynamica* (*Hydrodynamics*), describing [conservation of energy](https://en.wikipedia.org/wiki/Conservation_of_energy)
+- 1738 CE: [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) published [*Hydrodynamica* (*Hydrodynamics*)](https://en.wikipedia.org/wiki/Hydrodynamica), describing [Bernoulli's principle](https://en.wikipedia.org/wiki/Bernoulli%27s_principle) and the [kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases)
 - 1738 CE: [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) published *Specimen theoriae novae de mensura sortis* (*Exposition of a New Theory on the Measurement of Risk*), recognizing that [people maximize utility](https://en.wikipedia.org/wiki/Expected_utility_hypothesis)
 - 1744 CE: [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) published *Methodus inveniendi lineas curvas* (*A method for finding curved lines*)
 - 1745 CE: [Jacques de Vaucanson](https://en.wikipedia.org/wiki/Jacques_de_Vaucanson) invented the automated loom
@@ -1160,7 +1160,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ### 1860s
 
-- 1860 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Illustrations of the dynamical theory of gases* in two parts, deriving the [Maxwell–Boltzmann distribution](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution) via [heuristics](https://en.wikipedia.org/wiki/Heuristic)
+- 1860 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Illustrations of the dynamical theory of gases* in two parts, deriving the [Maxwell distribution](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution) via [heuristics](https://en.wikipedia.org/wiki/Heuristic), the first statistical law in physics
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) invented the [single lens reflex (SLR) camera](https://en.wikipedia.org/wiki/Single-lens_reflex_camera)
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) & [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) demonstrated [color photography](https://en.wikipedia.org/wiki/Color_photography)
 - 1861 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*On Physical Lines of Force*](https://en.wikipedia.org/wiki/On_Physical_Lines_of_Force), deriving [Maxwell's equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations) of electromagnetism
@@ -1185,6 +1185,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1867 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Handbuch der Physiologischen Optik* (*Handbook of Physiological Optics*)
 - 1867 CE: [Hermann Hankel](https://en.wikipedia.org/wiki/Hermann_Hankel) published [*Vorlesungen über die complexen Zahlen und ihre Functionen* (*Lectures on complex numbers and their functions*)](https://books.google.com/books?id=754KAAAAYAAJ)
 - 1867 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) & [Peter Tait](https://en.wikipedia.org/wiki/Peter_Tait_%28physicist%29) published their [*Treatise on Natural Philosophy*](https://en.wikipedia.org/wiki/Treatise_on_Natural_Philosophy) (a.k.a. *T & T* from the authors' initials), founding the study of [mechanics](https://en.wikipedia.org/wiki/Mechanics)
+- 1867 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*On the dynamical theory of gases*](https://royalsocietypublishing.org/doi/10.1098/rstl.1867.0004)
 - 1868 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On governors*, establishing the theoretical basis for [control engineering](https://en.wikipedia.org/wiki/Control_engineering)
 - 1868 CE: [Edmond Becquerel](https://en.wikipedia.org/wiki/Edmond_Becquerel) published *La lumière: ses causes et ses effets* (*Light: its causes and effects*)
 - 1869 CE: [Dmitri Mendeleev](https://en.wikipedia.org/wiki/Dmitri_Mendeleev) presented *The Dependence between the Properties of the Atomic Weights of the Elements*, describing his [periodic table of the elements](https://en.wikipedia.org/wiki/Periodic_table), which he saw in a dream
@@ -1194,14 +1195,16 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1870 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Logic of Relatives*, extending the [theory of relations](https://en.wikipedia.org/wiki/Finitary_relation)
 - 1870 CE: [Benjamin Peirce](https://en.wikipedia.org/wiki/Benjamin_Peirce) published [*Linear Associative Algebra*](http://legacy-www.math.harvard.edu/history/peirce_algebra/), coining the terms [idempotent](https://en.wikipedia.org/wiki/Idempotence) and [nilpotent](https://en.wikipedia.org/wiki/Nilpotent)
 - 1871 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Introductory Notes on Lying-In Institutions*](https://archive.org/stream/introductorynot00nighgoog#page/n6/mode/2up)
-- 1871 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published his [thermodynamic relations](https://en.wikipedia.org/wiki/Maxwell_relations)
+- 1871 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published his [*Theory of Heat*](https://commons.wikimedia.org/wiki/File:J._Clerk_Maxwell._Theory_of_Heat_%281871%29.pdf), describing his [thermodynamic relations](https://en.wikipedia.org/wiki/Maxwell_relations)
 - 1871 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Descent of Man, and Selection in Relation to Sex*](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex)
 - 1871 CE: [Friedrich Miescher](https://en.wikipedia.org/wiki/Friedrich_Miescher) published *Ueber die chemische Zusammensetzung der Eiterzellen* (*On the chemical composition of pus cells*), describing [nucleic acids](https://en.wikipedia.org/wiki/Nucleic_acid)
 - 1872 CE: The [Ballot Act 1872](https://en.wikipedia.org/wiki/Ballot_Act_1872) required [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot) for [UK parliamentary and local government elections](https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom)
 - 1872 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On the Theory of Colour Vision*
 - 1872 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Neue Untersuchungen über Bakterien* (*New Studies on Bacteria*)
 - 1872 CE: [August Kekulé](https://en.wikipedia.org/wiki/August_Kekul%C3%A9) published *Ueber einige Condensationsproducte des Aldehyds* (*On some condensation products of aldehydes*)
+- 1872 CE: [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) published *Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen* (*Further studies on the heat balance among gas molecules*), introducing the [Boltzmann equation](https://en.wikipedia.org/wiki/Boltzmann_equation) and [*H*-theorem](https://en.wikipedia.org/wiki/H-theorem), using [statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) to derive the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
 - 1873 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Treatise on Electricity and Magnetism*](https://en.wikipedia.org/wiki/A_Treatise_on_Electricity_and_Magnetism)
+- 1873 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Molecules*
 - 1874 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published [*Ueber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen* (*On a Property of the Collection of All Real Algebraic Numbers*)](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article), founding [set theory](https://en.wikipedia.org/wiki/Set_theory)
 - 1874 CE: [Theodor Billroth](https://en.wikipedia.org/wiki/Theodor_Billroth) published *Untersuchungen über die Vegetationsformen von Coccobacteria septica* (*Investigations of the Vegetal Forms of Coccobacteria septica*), describing [streptococcus](https://en.wikipedia.org/wiki/Streptococcus)
 - 1876 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *On the Limits of the Optical Capacity of the Microscope*
@@ -1209,6 +1212,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1876 CE: [Oliver Heaviside](https://en.wikipedia.org/wiki/Oliver_Heaviside) published *On the Extra Current*, introducing the [telegrapher's equations](https://en.wikipedia.org/wiki/Telegrapher%27s_equations)
 - 1877 CE: [Robert Koch](https://en.wikipedia.org/wiki/Robert_Koch) published *Verfahren zur Untersuchung, zum Konservieren und Photographieren der Bakterien* (*Methods of Examining, Preserving and Photographing Bacteria*), with the first photograph of a bacterium
 - 1877 CE: [Ulisse Dini](https://en.wikipedia.org/wiki/Ulisse_Dini) published *Fondamenti per la teoria delle funzioni di variabili reali* (*Foundations for the Theory of Functions of Real Variables*), contributing to [real analysis](https://en.wikipedia.org/wiki/Real_analysis)
+- 1877 CE: [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) published *Über die beziehung dem zweiten Haubtsatze der mechanischen Wärmetheorie und der Wahrscheinlichkeitsrechnung respektive den Sätzen über das Wärmegleichgewicht* (*On the relationship between the second main theorem of the mechanical theory of heat and the theory of probability and the theorems on the heat balance*), using [probability theory](https://en.wikipedia.org/wiki/Probability_theory) to derive the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
 - 1878 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) coined the term "energy" in its modern usage
 - 1878 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Les Microbes organisés, leur rôle dans la Fermentation, la Putréfaction et la Contagion* (*Organized Microbes, their role in Fermentation, Putrefaction, and Contagion*), confirming the [germ theory of disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
 
@@ -1287,6 +1291,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1896 CE: [Wilhelm Röntgen](https://en.wikipedia.org/wiki/Wilhelm_Röntgen) published *Eine neue Art von Strahlen* (*A New Kind of Rays*), describing [X-rays](https://en.wikipedia.org/wiki/X-ray)
 - 1896 CE: [Henri Becquerel](https://en.wikipedia.org/wiki/Henri_Becquerel) published *Sur les radiations émises par phosphorescence* (*On the radiations emitted by phosphorescence*), describing [radioactive decay](https://en.wikipedia.org/wiki/Radioactive_decay)
 - 1896 CE: [Henri Becquerel](https://en.wikipedia.org/wiki/Henri_Becquerel) published *Sur les radiations invisibles émises par les corps phosphorescents* (*On invisible radiations emitted by phosphorescent bodies*), reconsidering [radioactive decay](https://en.wikipedia.org/wiki/Radioactive_decay)
+- 1896 CE: [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) published *Vorlesungen über Gastheorie* (*Lectures on Gas Theory*) volume 1
 - 1897 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published *Beiträge zur Begründung der transfiniten Mengenlehre 2* (*Contributions to the foundation of the transfinite set theory 2*)
 - 1897 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Cathode Rays*, describing [electron beams](https://en.wikipedia.org/wiki/Cathode_ray)
 - 1898 CE: [A. F. W. Schimper](https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper) published *Pflanzengeographie auf physiologischer Grundlage* (*Plant geography on a physiological basis*)
@@ -1294,6 +1299,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1898 CE: [Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell) published *Geldzins und Güterpreise* (*Interest and Prices*)
 - 1898 CE: [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie) published *sur une nouvelle substance fortement redio-active, contenue dans la pechblende* (*on a new strongly radio-active substance, contained in pitchblende*), describing the discovery of [radium](https://en.wikipedia.org/wiki/Radium) and coining the term [radioactive](https://en.wikipedia.org/wiki/Radioactive_decay)
 - 1898 CE: [Martinus Beijerinck](https://en.wikipedia.org/wiki/Martinus_Beijerinck) published *Über oligonitrophile Mikroben* (*On oligonitrophilic microbes*), identifying [nitrogen fixation](https://en.wikipedia.org/wiki/Nitrogen_fixation) as a symbiotic relationship between bacteria and plants
+- 1898 CE: [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) published *Vorlesungen über Gastheorie* (*Lectures on Gas Theory*) volume 2
 - 1899 CE: [Rudolf Diesel](https://en.wikipedia.org/wiki/Rudolf_Diesel) [patented](https://patents.google.com/patent/US608845) improvements to the [Diesel engine](https://en.wikipedia.org/wiki/Diesel_engine)
 - 1899 CE: [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert) published [*Grundlagen der Geometrie* (*Foundations of Geometry*)](https://en.wikipedia.org/wiki/Grundlagen_der_Geometrie), proposing [Hilbert's axioms](https://en.wikipedia.org/wiki/Hilbert%27s_axioms) of [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry)
 - 1899 CE: [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) published *Uranium radiation and the electrical conduction produced by it*, describing both [alpha](https://en.wikipedia.org/wiki/Alpha_particle) & [beta](https://en.wikipedia.org/wiki/Beta_particle) radiation
@@ -1947,6 +1953,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - [Catalogue of Life](https://www.catalogueoflife.org/)
 - [Classics in the History of Psychology](https://psychclassics.yorku.ca/)
+- [The Collected Works of Florence Nightingale](https://cwfn.uoguelph.ca/)
 - [Earth Impact Database](http://www.passc.net/EarthImpactDatabase/New%20website_05-2018/Diametersort.html)
 - [Fred Smitha: Macrohistory, World History](http://www.fsmitha.com/)
 - [NOAA Global Climate Report](https://www.ncdc.noaa.gov/sotc/global/)
@@ -1959,7 +1966,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 - [ScienceDirect](https://www.sciencedirect.com/)
-- [The Collected Works of Florence Nightingale](https://cwfn.uoguelph.ca/)
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 - [TimeTree: The timescale of life](http://www.timetree.org/)
 - [Wikidata](https://www.wikidata.org/)
 - [Wikipedia](https://en.wikipedia.org/)
