@@ -607,7 +607,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 164 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 163 BCE: [Terence](https://en.wikipedia.org/wiki/Terence) wrote *Ἑαυτὸν τιμωρούμενος* (*The Self-Tormentor*), a.k.a. *Heauton Timorumenos*, with the line "Homo sum, humani nihil a me alienum puto", or "I am human, nothing human is alien to me."
 - 150 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [*Mahābhāṣya*](https://en.wikipedia.org/wiki/Mah%C4%81bh%C4%81%E1%B9%A3ya) on Sanskrit grammar
-- 135 BCE: [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) compiled a star catalog, later copied by [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy)
+- 135 BCE: [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) compiled a star catalog, later copied by [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy), and introduced [apparent magnitude](https://en.wikipedia.org/wiki/Magnitude_%28astronomy%29), a measure of brightness
 - 127 BCE: [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) wrote two books on the [precession](https://en.wikipedia.org/wiki/Axial_precession) of the equinoxes: *On the Displacement of the Solsticial and Equinoctial Points* & *On the Length of the Year*
 - 120 BCE: [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) wrote [*Peri megethon kai apostematon* (*On Sizes and Distances*)](https://en.wikipedia.org/wiki/On_Sizes_and_Distances_%28Hipparchus%29), *Pròs tèn Eratosthénous geographían* (*Against the Geography of Eratosthenes*), and many others by the time he died
 - 107 BCE: [Roman tribunes](https://en.wikipedia.org/wiki/Ballot_laws_of_the_Roman_Republic) required [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot)
@@ -1323,6 +1323,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1901 CE: [Edwin Bidwell Wilson](https://en.wikipedia.org/wiki/Edwin_Bidwell_Wilson) published *Vector Analysis* based on [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) lectures, standardizing [vector notation](https://en.wikipedia.org/wiki/Vector_notation)
 - 1902 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Transcendenten* (*Theory of Abelian Transcendents*)
 - 1902 CE: [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) published *Elementary Principles in Statistical Mechanics*, coining the term ["statistical mechanics"](https://en.wikipedia.org/wiki/Statistical_mechanics) and introducing the concept of a [statistical ensemble](https://en.wikipedia.org/wiki/Ensemble_%28mathematical_physics%29)
+- 1902 CE: Many astronomers photographed stars as faint as the 11th magnitude, and published the first volume of the [Astrographic Catalogue](https://en.wikipedia.org/wiki/Carte_du_Ciel)
 - 1903 CE: [Konstantin Tsіolkovskіy](https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky) published *Exploration of Outer Space with Reaction Devices*, describing his [rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
 - 1903 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Abhandlungen-3* (*Treatises-3*)
 - 1903 CE: [Nicholas Johannsen](https://en.wikipedia.org/wiki/Nicholas_Johannsen) published *Der Kreislauf des Geldes und Mechanismus des Sozial-Lebens* (*The Circuit Theory of Money*), an early work in [monetary circuit theory](https://en.wikipedia.org/wiki/Monetary_circuit_theory)
@@ -1633,6 +1634,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1963 CE: [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) released [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad), the first computer program to use a [graphical user interface (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface)
 - 1964 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Feynman Lectures on Physics*
 - 1964 CE: [John Stewart Bell](https://en.wikipedia.org/wiki/John_Stewart_Bell) published *On the [Einstein Podolsky Rosen Paradox](https://en.wikipedia.org/wiki/EPR_paradox)*, proposing [Bell's theorem](https://en.wikipedia.org/wiki/Bell%27s_theorem)
+- 1964 CE: Many astronomers photographed stars as faint as the 11th magnitude, and published the 254th and final volume of the [Astrographic Catalogue](https://en.wikipedia.org/wiki/Carte_du_Ciel)
 - 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) & [Albert Hibbs](https://en.wikipedia.org/wiki/Albert_Hibbs) published *Quantum Mechanics and Path Integrals*
 - 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Character of Physical Law*
 - 1965 CE: [Norman Borlaug](https://en.wikipedia.org/wiki/Norman_Borlaug) planted dwarf spring wheat in South Asia
@@ -1773,6 +1775,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1997 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published *Feynman's Lost Lecture: The Motion of Planets Around the Sun*
 - 1997 CE: [Google](https://en.wikipedia.org/wiki/Google) released [Google Search](https://en.wikipedia.org/wiki/Google_Search)
 - 1997 CE: [Adam Back](https://en.wikipedia.org/wiki/Adam_Back) published [*A partial hash collision based postage scheme*](http://www.hashcash.org/papers/announce.txt), proposing [Hashcash](https://en.wikipedia.org/wiki/Hashcash), a [proof of work system](https://en.wikipedia.org/wiki/Proof_of_work) designed to limit email spam and denial-of-service attacks
+- 1997 CE: The [European Space Agency (ESA)](https://en.wikipedia.org/wiki/European_Space_Agency) published the [Hipparcos & Tycho-1 star catalogues](https://en.wikipedia.org/wiki/Hipparcos#Published_catalogues)
 - 1998 CE: [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith) published *A revised six-kingdom system of life*
 - 1998 CE: [Netscape](https://en.wikipedia.org/wiki/Netscape) published [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1998 CE: [Duncan J. Watts](https://en.wikipedia.org/wiki/Duncan_J._Watts) & [Steven Strogatz](https://en.wikipedia.org/wiki/Steven_Strogatz) published [*Collective dynamics of 'small-world' networks*](https://www.nature.com/articles/30918), describing [small-world networks](https://en.wikipedia.org/wiki/Small-world_network)
@@ -1782,8 +1785,10 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ## 2000s
 
-- 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2000 CE: Monthly average CO₂ exceeded 370 ppm
+- 2000 CE: The [United States Naval Observatory (USNO)](https://en.wikipedia.org/wiki/United_States_Naval_Observatory) published the ACT Reference Catalog, combining the [Astrographic Catalogue](https://en.wikipedia.org/wiki/Carte_du_Ciel) with the [Tycho-1 Catalogue](https://en.wikipedia.org/wiki/Hipparcos#Published_catalogues)
+- 2000 CE: The [European Space Agency (ESA)](https://en.wikipedia.org/wiki/European_Space_Agency) published the [Tycho-2 astronomical catalogue](https://en.wikipedia.org/wiki/Tycho-2_Catalogue)
+- 2000 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Darwin operating system](https://en.wikipedia.org/wiki/Darwin_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2000 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) posthumously published the *Feynman Lectures on Computation*
 - 2000 CE: [KDE](https://en.wikipedia.org/wiki/KDE) published the [KHTML web browser](https://en.wikipedia.org/wiki/KHTML), the predecessor to [WebKit](https://en.wikipedia.org/wiki/WebKit) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2000 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) et al. published *Long-range Air Transport of Dioxin from North American Sources to Ecologically Vulnerable Receptors in Nunavut, Arctic Canada*
@@ -1832,12 +1837,14 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2015 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [landed an orbital rocket vertically](https://en.wikipedia.org/wiki/Falcon_9_flight_20)
 - 2015 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Swift programming language](https://en.wikipedia.org/wiki/Swift_%28programming_language%29), created by [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2015 CE: [Mozilla](https://en.wikipedia.org/wiki/Mozilla) released version 1.0 of the [Rust programming language](https://en.wikipedia.org/wiki/Rust_%28programming_language%29), designed by Graydon Hoare, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2016 CE: The [European Space Agency (ESA)](https://en.wikipedia.org/wiki/European_Space_Agency) published [Gaia DR1](https://en.wikipedia.org/wiki/Gaia_%28spacecraft%29#Data_releases), the first data release from the Gaia space observatory, on 1.1 billion space objects
 
 #### [Reusable Orbital Rockets](https://en.wikipedia.org/wiki/Reusable_launch_system)
 
 - 2017 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [reused an orbital rocket, and recovered it](https://en.wikipedia.org/wiki/SES-10), economically reusing an orbital launch system for the first time
 - 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
 - 2018 CE: Monthly average CO₂ exceeded 410 ppm
+- 2019 CE: The [European Space Agency (ESA)](https://en.wikipedia.org/wiki/European_Space_Agency) published [Gaia DR2](https://en.wikipedia.org/wiki/Gaia_%28spacecraft%29#Data_releases), the second data release from the Gaia space observatory, on 1.3 billion space objects
 
 ### 2020s
 
