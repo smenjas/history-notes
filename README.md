@@ -1281,6 +1281,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1887 CE: [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) patented *Reproducing sounds from phonograph records*
 - 1887 CE: [Julius Richard Petri](https://en.wikipedia.org/wiki/Julius_Richard_Petri) published *Eine kleine Modification des Koch'schen Plattenverfahrens* (*A small modification of Koch's plate method*), describing the [Petri dish](https://en.wikipedia.org/wiki/Petri_dish)
 - 1887 CE: [Edward W. Morley](https://en.wikipedia.org/wiki/Edward_W._Morley) & [Albert A. Michelson](https://en.wikipedia.org/wiki/Albert_A._Michelson) conducted the [Michelson–Morley experiment](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment), finding the [speed of light](https://en.wikipedia.org/wiki/Speed_of_light) consistent in all directions despite the motion of the Earth, unknowingly disproving [luminiferous aether](https://en.wikipedia.org/wiki/Luminiferous_aether)
+- 1887 CE: [Heinrich Hertz](https://en.wikipedia.org/wiki/Heinrich_Hertz) published *On Electromagnetic Effects Produced by Electrical Disturbances in Insulators*, proving by experiment [Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell)'s prediction of [electromagnetic waves](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
 - 1888 CE: Arthur & [Oliver Heaviside](https://en.wikipedia.org/wiki/Oliver_Heaviside) published *The Bridge System of Telephony*, proposing the [loading coil](https://en.wikipedia.org/wiki/Loading_coil) to reduce distortion in telegraphy
 - 1888 CE: [J. J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) published *Applications of dynamics to physics and chemistry*, an early example of [computational chemistry](https://en.wikipedia.org/wiki/Computational_chemistry)
 - 1888 CE: [Hermann Hellriegel](https://en.wikipedia.org/wiki/Hermann_Hellriegel) published *Untersuchungen über die Stickstoffnahrung der Gramineen und Leguminosen* (*Investigations into the Nitrogen assimilation of the Gramineae and Leguminosae*), describing [nitrogen fixation](https://en.wikipedia.org/wiki/Nitrogen_fixation)
@@ -1802,6 +1803,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1998 CE: Two papers showed evidence that the Universe is expanding, and accelerating, due to [dark energy](https://en.wikipedia.org/wiki/Dark_energy):
   - [Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant](https://arxiv.org/abs/astro-ph/9805201)
   - [Measurements of Omega and Lambda from 42 High-Redshift Supernovae](https://arxiv.org/abs/astro-ph/9812133)
+- 1998 CE: [Sergey Brin](https://en.wikipedia.org/wiki/Sergey_Brin) & [Larry Page](https://en.wikipedia.org/wiki/Larry_Page) published *The Anatomy of a Large-Scale Hypertextual Web Search Engine*, describing the [PageRank algorithm](https://en.wikipedia.org/wiki/PageRank) used by [Google Search](https://en.wikipedia.org/wiki/Google_Search)
 
 ## 2000s
 
