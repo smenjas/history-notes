@@ -794,6 +794,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ## 1600s
 
+- 1600 CE: [William Gilbert](https://en.wikipedia.org/wiki/William_Gilbert_%28physician%29) published [*De Magnete, Magneticisque Corporibus, et de Magno Magnete Tellure* (*On the Magnet and Magnetic Bodies, and on That Great Magnet the Earth*)](https://en.wikipedia.org/wiki/De_Magnete), describing experiments in magnetism and static electricity
 - 1603 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) posthumously published *Astronomiae Instauratae Progymnasmata* (*Introduction to the New Astronomy*)
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
 - 1607 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
