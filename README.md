@@ -70,7 +70,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   [Cats](#cats), [Writing](#writing), [History](#history),
   [Medicine](#medicine), [Mathematics](#mathematics)
 - [Common Era](#common-era):
-  [Zero](#zero), [Algebra](#algebra), [Soap](#soap), [Printing](#printing)
+  [Zero](#zero), [Algebra](#algebra), [Soap](#soap),
+- [1000s](#1000s)
+  [Movable Type](#movable-type), [Printing Press](#printing-press)
 - [1500s](#1500s)
 - [1600s](#1600s):
   [Cell Biology](#cell-biology), [Calculus](#calculus), [Principia](#principia)
@@ -699,6 +701,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 977 CE: [Muhammad ibn Ahmad al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Ahmad_al-Khwarizmi) compiled *Mafātīḥ al-ʿulūm* (*The Keys of the Sciences*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia), stating that if no number appears in the place of tens in a calculation, a little circle (called a ṣifr) should be used "to keep the rows"
 - 980 CE: [Al-Majusi](https://en.wikipedia.org/wiki/%27Ali_ibn_al-%27Abbas_al-Majusi) published [*Kāmil al-ṣināʻa al-ṭibbīya* (*The Complete Book of the Medical Art*)](https://en.wikipedia.org/wiki/The_Complete_Book_of_the_Medical_Art)
 - 987 CE: [Ibn al-Nadim](https://en.wikipedia.org/wiki/Ibn_al-Nadim) wrote *Kitāb al-Fihrist* (*The Book Catalogue*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
+
+## 1000s
+
 - 1000 CE: Soudas wrote the [Suda](https://en.wikipedia.org/wiki/Suda), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote [*al-Athar al-Baqqiya 'an al-Qorun al-Khaliyya* (*The remaining traces of past centuries*)](https://en.wikipedia.org/wiki/The_Remaining_Signs_of_Past_Centuries)
 - 1021 CE: [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham) wrote [*Kitāb al-Manāẓir* (*Book of Optics*)](https://en.wikipedia.org/wiki/Book_of_Optics), among many other works on physics, mathematics, and astronomy
@@ -709,6 +714,10 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1037 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote *Codex Masudicus*, noting that Eurasia only covers 2/5 of the Earth's surface and another continent must exist on the other side of the planet
 - 1065 CE: [Nizam al-Mulk](https://en.wikipedia.org/wiki/Nizam_al-Mulk) established [Al-Nizamiyya of Baghdad](https://en.wikipedia.org/wiki/Al-Nizamiyya_of_Baghdad), the largest university of the Medieval world
 - 1066 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
+
+### Movable Type
+
+- 1088 CE: [Shen Kuo](https://en.wikipedia.org/wiki/Shen_Kuo) wrote the [Dream Pool Essays](https://en.wikipedia.org/wiki/Dream_Pool_Essays), describing the [magnetic compass](https://en.wikipedia.org/wiki/Compass) and its use in navigation, [Bi Sheng](https://en.wikipedia.org/wiki/Bi_Sheng)'s invention of [movable type](https://en.wikipedia.org/wiki/Movable_type), and many other topics in science and technology
 - 1145 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1150 CE: [Medieval universities](https://en.wikipedia.org/wiki/Medieval_university) developed [Blackletter, a.k.a. Gothic script](https://en.wikipedia.org/wiki/Blackletter) from [Carolingian minuscule](https://en.wikipedia.org/wiki/Carolingian_minuscule), which was faster for scribes to write and took up less space on the page, though less legible
 - 1154 CE: [Muhammad al-Idrisi](https://en.wikipedia.org/wiki/Muhammad_al-Idrisi) created the [*Nuzhat al-mushtāq fi'khtirāq al-āfāq* (*The book of pleasant journeys into faraway lands*), a.k.a. *Kitab Rujar*, *Tabula Rogeriana*, or *Map of Roger*](https://en.wikipedia.org/wiki/Tabula_Rogeriana), a [world map](https://en.wikipedia.org/wiki/World_map) later used by [Christopher Columbus](https://en.wikipedia.org/wiki/Christopher_Columbus) & [Vasco da Gama](https://en.wikipedia.org/wiki/Vasco_da_Gama)
@@ -739,7 +748,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1429 CE: [Jamshīd al-Kāshī (a.k.a. Al-Kashi)](https://en.wikipedia.org/wiki/Jamsh%C4%ABd_al-K%C4%81sh%C4%AB) wrote many works on astronomy and mathematics, including calculating 2π to 9 sexagesimal digits, and converting them to 16 decimals, as 6.2831853071795865, i.e. π = 3.1415926535897936 (the modern value to 16 digits is 3.1415926535897932)
 - 1437 CE: [Ulugh Beg](https://en.wikipedia.org/wiki/Ulugh_Beg) published [*Zīj-i Sulṭānī*](https://en.wikipedia.org/wiki/Zij-i_Sultani), the most accurate star catalog to date
 
-### Printing
+### Printing Press
 
 - 1440 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) invented the [printing press](https://en.wikipedia.org/wiki/Printing_press)
 - 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
