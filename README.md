@@ -71,7 +71,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   [Medicine](#medicine), [Mathematics](#mathematics)
 - [Common Era](#common-era):
   [Paper](#paper), [Zero](#zero), [Algebra](#algebra), [Soap](#soap),
-- [1000s](#1000s)
+- [1000s](#1000s):
   [Movable Type](#movable-type), [Printing Press](#printing-press)
 - [1500s](#1500s)
 - [1600s](#1600s):
@@ -999,6 +999,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1783 CE: [Antoine Lavoisier](https://en.wikipedia.org/wiki/Antoine_Lavoisier) & [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) published *Memoir on Heat*
 - 1785 CE: [David Rittenhouse](https://en.wikipedia.org/wiki/David_Rittenhouse) invented the first man-made [diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating)
 - 1785 CE: [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) published *A System of Vegetables*
+- 1785 CE: [Charles-Augustin de Coulomb](https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb) published *Premier Mémoire sur l’Électricité et le Magnétisme* (*First Memoir on Electricity and Magnetism*), describing [Coulomb's inverse-square law of electrostatic force](https://en.wikipedia.org/wiki/Coulomb%27s_law)
 - 1786 CE: [William Herschel](https://en.wikipedia.org/wiki/William_Herschel) published *Catalogue of One Thousand New Nebulae and Clusters of Stars*
 - 1786 CE: [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) published *Experiments on Air*, determining that air consists of nitrogen and oxygen in a ratio of 4:1, with other gases in a ratio of 1:120 with nitrogen (later determined to be mostly argon)
 - 1786 CE: [Benjamin Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin) published *Maritime Observations*
