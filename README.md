@@ -6,7 +6,7 @@ along the path of [human
 evolution](https://en.wikipedia.org/wiki/Human_evolution).  The branch leading
 to humans is on the left.
 
-I'm interested in alphabets, number systems, printing, writing, reproducible
+I'm interested in alphabets, writing, number systems, printing, reproducible
 ideas in publications, patents,
 [inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions),
 and [innovations](https://en.wikipedia.org/wiki/Innovation). My goal is a
@@ -112,10 +112,11 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ## < 10 Billion Years Ago
 
-- 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/)
+- 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/), which eventually [formed our solar system](https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System)
 - 4.603 bya: The [Sun](https://en.wikipedia.org/wiki/Sun) formed, containing 99.86% of the mass in the solar system
-- 4.543 bya: [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
-- 4.51 bya: [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth & Moon formed from the debris](https://en.wikipedia.org/wiki/Giant-impact_hypothesis)
+- 4.599 bya: The planet [Jupiter](https://en.wikipedia.org/wiki/Jupiter) accumulated almost 0.1% of the mass in the solar system, leaving about 0.04% for the other planets, moons, asteroids, comets, meteoroids, and interplanetary dust
+- 4.543 bya: The planet [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
+- 4.51 bya: The planet [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth & Moon formed from the debris](https://en.wikipedia.org/wiki/Giant-impact_hypothesis)
 - 4.4 bya: [Liquid water and an atmosphere](https://en.wikipedia.org/wiki/Hadean) (of CO₂, H₂, & water vapor) existed on Earth at a pressure above 27 atm, with temperatures of 230 °C
 - ? bya: [Pyrimidine](https://en.wikipedia.org/wiki/Pyrimidine) (precursor to cytosine, thymine, and uracil) existed
 - ? bya: [Purine](https://en.wikipedia.org/wiki/Purine) (precursor to adenine and guanine) existed
