@@ -70,7 +70,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   [Cats](#cats), [Writing](#writing), [History](#history),
   [Medicine](#medicine), [Mathematics](#mathematics)
 - [Common Era](#common-era):
-  [Zero](#zero), [Algebra](#algebra), [Soap](#soap),
+  [Paper](#paper), [Zero](#zero), [Algebra](#algebra), [Soap](#soap),
 - [1000s](#1000s)
   [Movable Type](#movable-type), [Printing Press](#printing-press)
 - [1500s](#1500s)
@@ -639,6 +639,10 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 77 CE: [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder) wrote [*Naturalis Historia* (*Natural History*)](https://en.wikipedia.org/wiki/Natural_History_%28Pliny%29)
 - 95 CE: [Quintillian](https://en.wikipedia.org/wiki/Quintilian) wrote [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria): his aim was "the education of the perfect orator", and he taught Pliny the Younger [rhetoric](https://en.wikipedia.org/wiki/Rhetoric)
 - 99 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) wrote the first book of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
+
+### Paper
+
+- 105 CE: [Cai Lun](https://en.wikipedia.org/wiki/Cai_Lun) invented paper and the modern [papermaking process](https://en.wikipedia.org/wiki/Papermaking)
 - 108 CE: [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) wrote [*Discourses of Epictetus*](https://en.wikipedia.org/wiki/Discourses_of_Epictetus)
 - 109 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) wrote the first 9 books of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
 - 111 CE: [Ban Biao](https://en.wikipedia.org/wiki/Ban_Biao)'s children wrote [*The Book of Han*](https://en.wikipedia.org/wiki/Book_of_Han), a [history of China](https://en.wikipedia.org/wiki/History_of_China)
