@@ -70,9 +70,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   [Cats](#cats), [Writing](#writing), [History](#history),
   [Medicine](#medicine), [Mathematics](#mathematics)
 - [Common Era](#common-era):
-  [Paper](#paper), [Zero](#zero), [Algebra](#algebra), [Soap](#soap),
+  [Paper](#paper), [Zero](#zero), [Algebra](#algebra), [Soap](#soap)
 - [1000s](#1000s):
-  [Movable Type](#movable-type), [Printing Press](#printing-press)
+  [Compass, Movable Type](#compass--movable-type), [Printing Press](#printing-press)
 - [1500s](#1500s)
 - [1600s](#1600s):
   [Cell Biology](#cell-biology), [Calculus](#calculus), [Principia](#principia)
@@ -719,7 +719,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1065 CE: [Nizam al-Mulk](https://en.wikipedia.org/wiki/Nizam_al-Mulk) established [Al-Nizamiyya of Baghdad](https://en.wikipedia.org/wiki/Al-Nizamiyya_of_Baghdad), the largest university of the Medieval world
 - 1066 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 
-### Movable Type
+### Compass, Movable Type
 
 - 1088 CE: [Shen Kuo](https://en.wikipedia.org/wiki/Shen_Kuo) wrote the [Dream Pool Essays](https://en.wikipedia.org/wiki/Dream_Pool_Essays), describing the [magnetic compass](https://en.wikipedia.org/wiki/Compass) and its use in navigation, [Bi Sheng](https://en.wikipedia.org/wiki/Bi_Sheng)'s invention of [movable type](https://en.wikipedia.org/wiki/Movable_type), and many other topics in science and technology
 - 1145 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
