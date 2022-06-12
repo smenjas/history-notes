@@ -72,7 +72,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [Common Era](#common-era):
   [Paper](#paper), [Zero](#zero), [Algebra](#algebra), [Soap](#soap)
 - [1000s](#1000s):
-  [Compass, Movable Type](#compass--movable-type), [Printing Press](#printing-press)
+  [Compass, Movable Type](#compass-movable-type), [Printing Press](#printing-press)
 - [1500s](#1500s)
 - [1600s](#1600s):
   [Cell Biology](#cell-biology), [Calculus](#calculus), [Principia](#principia)
