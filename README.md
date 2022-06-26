@@ -326,17 +326,19 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 6 mya: The global temperature fell to about 1 °C above the 20th century average
 - 5.96-5.33 mya: The [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
 - 5 mya: The global temperature peaked at least 4 °C above the 20th century average, and began to oscillate around 1-3 °C above for the next million years
-- 4.2-3.8 mya: [Australopithecus anamensis](https://en.wikipedia.org/wiki/Australopithecus_anamensis) evolved in Ethiopia & Kenya
+- 4.2-3.8 mya: [Australopithecus anamensis ("southern ape of the lake")](https://en.wikipedia.org/wiki/Australopithecus_anamensis) evolved in what is now Ethiopia & Kenya
 - 4 mya: [Early humans evolved to walk on two legs (bipedalism)](https://en.wikipedia.org/wiki/Human_skeletal_changes_due_to_bipedalism)
 
 ### Tools
 
-- 3.4 mya: The [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in Ethiopia, near Gona)
-- 3.3 mya: [Early humans made large stone tools in Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
+- 3.4 mya: The [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in what is now Ethiopia, near Gona)
+- 3.3 mya: [Early humans made large stone tools in what is now Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
 - 3 mya: The global temperature began to regularly dip below the 20th century average, and oscillate between +3 & -3 °C for the next million years
-- 2.8 mya: [Homo habilis](https://en.wikipedia.org/wiki/Homo_habilis) evolved
+- 2.8 mya: [Homo habilis ("handy man")](https://en.wikipedia.org/wiki/Homo_habilis) evolved near [Olduvai Gorge](https://en.wikipedia.org/wiki/Olduvai_Gorge) in the [East African Rift](https://en.wikipedia.org/wiki/East_African_Rift)
+- 2.7 mya: [The Great American Biotic Interchange (GABI)](https://en.wikipedia.org/wiki/Great_American_Interchange) occurred, following the closure of the [Central American Seaway](https://en.wikipedia.org/wiki/Central_American_Seaway) with the formation of the [Isthmus of Panama](https://en.wikipedia.org/wiki/Isthmus_of_Panama)
+- 2.58 mya: The [Pleistocene epoch (a.k.a. the Ice Age)](https://en.wikipedia.org/wiki/Pleistocene) began
 - 2 mya: The global temperature began to regularly peak below the 20th century average, and oscillate between 0 & -3 °C for the next 1.6 million years
-- 1.9 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) evolved
+- 1.9 mya: [Homo erectus ("upright man")](https://en.wikipedia.org/wiki/Homo_erectus) evolved near [Lake Turkana](https://en.wikipedia.org/wiki/Lake_Turkana) in the [Kenyan Rift Valley](https://en.wikipedia.org/wiki/Great_Rift_Valley,_Kenya)
 - 1.89 mya: Humans began to run long distances, and sweat, and lose body hair
 - 1.8 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) migrated [out of Africa](https://en.wikipedia.org/wiki/Early_expansions_of_hominins_out_of_Africa) by this time
 - 1.25-0.7 mya: The [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition) occurred, glacial cycles switched from 41 ka to 100 ka
@@ -372,7 +374,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 400 kya: CO₂ peaked around 280 ppm, global temp +2 °C from present, first time it exceeded 20th century average since 2 million years ago
 - 350 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 320 kya: CO₂ peaked around 300 ppm, global temp +2 °C from present
-- 315 kya: [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens) evolved
+- 315 kya: [Homo sapiens ("wise man")](https://en.wikipedia.org/wiki/Homo_sapiens) evolved
 - 300 kya: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
 - 270 kya: [Y-chromosomal Adam](https://en.wikipedia.org/wiki/Y-chromosomal_Adam) lived ([Y-DNA haplogroup A](https://en.wikipedia.org/wiki/Haplogroup_A_%28Y-DNA%29)00)
 - 260 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present, sea level was 80 m below
@@ -436,12 +438,12 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 13.5 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Abu Hureyra](https://en.wikipedia.org/wiki/Tell_Abu_Hureyra) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates): a few hundred people lived there year-round, the largest settlement of people anywhere at the time
 - 13 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 78 m below present, global temp was 2 °C below present
 - 13 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) brewed [beer](https://en.wikipedia.org/wiki/Beer) at [Raqefet Cave](https://en.wikipedia.org/wiki/Raqefet_Cave), near Haifa
-- 12.9-11.7 kya: The [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas) occurred, global temperatures declined sharply
+- 12.9-11.7 kya: The [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas) occurred, the last cold snap of the [Pleistocene epoch (a.k.a. the Ice Age)](https://en.wikipedia.org/wiki/Pleistocene); global temperatures declined sharply
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ exceeded 250 ppm, global temp rose to the present level
 - 12.2 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Mureybet](https://en.wikipedia.org/wiki/Mureybet) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates), the first known settlement with rectangular structures
 - 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 65 m below present, global temp was 2 °C below present
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
-- 9700 BCE: The [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) began, global temperatures increased, CO₂ was 270 ppm
+- 9700 BCE: The [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) and [Boreal age](https://en.wikipedia.org/wiki/Boreal_%28age%29) began, global temperatures increased, CO₂ was 270 ppm
 - 9500 BCE: People near the upper [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) built [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe), the oldest known temple, using the oldest [megaliths](https://en.wikipedia.org/wiki/Megalith)
 - 9500-9200 BCE: [Meltwater pulse 1B](https://en.wikipedia.org/wiki/Meltwater_pulse_1B) occurred
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
@@ -467,6 +469,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
 - 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea
 - 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
+- 6200 BCE: The [8.2-kiloyear event](https://en.wikipedia.org/wiki/8.2-kiloyear_event) occurred, with the global temperature abruptly cooling
 - 6000 BCE: People in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) domesticated the [chicken](https://en.wikipedia.org/wiki/Chicken)
 - 6000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) independently [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
 - 6000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 15 m below present
