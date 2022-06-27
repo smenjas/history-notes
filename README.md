@@ -369,6 +369,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 540 kya: CO₂ peaked around 250 ppm, global temp -1 °C from present
 - 530 kya: CO₂ dipped below 200 ppm, global temp -8 °C from present
 - 490 kya: CO₂ peaked around 250 ppm, global temp -1 °C from present
+- 450 kya: A catastrophic [glacial lake outburst flood (GLOF)](https://en.wikipedia.org/wiki/Glacial_lake_outburst_flood) occurred, creating the [English Channel](https://en.wikipedia.org/wiki/English_Channel)
 - 440 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
 - 415 kya: [Early humans controlled fire in Suffolk, England](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 400 kya: CO₂ peaked around 280 ppm, global temp +2 °C from present, first time it exceeded 20th century average since 2 million years ago
@@ -384,6 +385,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 194 kya: The [Penultimate Glacial Period](https://en.wikipedia.org/wiki/Penultimate_Glacial_Period) began
 - 173 kya: [African wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [European wildcats](https://en.wikipedia.org/wiki/European_wildcat)
 - 160 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
+- 160 kya: A catastrophic [glacial lake outburst flood (GLOF)](https://en.wikipedia.org/wiki/Glacial_lake_outburst_flood) occurred, widening the [English Channel](https://en.wikipedia.org/wiki/English_Channel)
 - 150 kya: [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) lived before this [(mt-DNA haplogroup L)](https://en.wikipedia.org/wiki/Macro-haplogroup_L_%28mtDNA%29)
 - 150 kya: Sea level was 1 m above the 20th century average
 - 140 kya: The [Penultimate Glacial Period](https://en.wikipedia.org/wiki/Penultimate_Glacial_Period) reached its maximum, sea level was 150 m below present
@@ -421,6 +423,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 17-15 kya: The [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas) occurred, global temperatures declined sharply
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 110 m below present
 - 15-13 kya: The [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial) occurred, first pronounced warming since LGM, global temp spiking to -1 °C from present
+- 15-13 kya: The [Missoula floods](https://en.wikipedia.org/wiki/Missoula_floods), a series of catastrophic [glacial lake outburst floods (GLOF)](https://en.wikipedia.org/wiki/Glacial_lake_outburst_flood) occurred, creating the [Channeled Scablands](https://en.wikipedia.org/wiki/Channeled_Scablands)
 - 14.7-13.5 kya: [Meltwater pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A) occurred, and the [sea level](https://en.wikipedia.org/wiki/Past_sea_level) rose from > 100 m to < 80 m below present
 - 14.6 kya: [Heinrich event](https://en.wikipedia.org/wiki/Heinrich_event) H1 occurred, with many [glaciers calving icebergs](https://en.wikipedia.org/wiki/Ice_calving) rapidly
 - 14.5 kya: [Humans made bread at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
@@ -444,7 +447,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 12.2 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Mureybet](https://en.wikipedia.org/wiki/Mureybet) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates), the first known settlement with rectangular structures
 - 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 65 m below present, global temp was 2 °C below present
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
-- 9700 BCE: The [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) and [Boreal age](https://en.wikipedia.org/wiki/Boreal_%28age%29) began, global temperatures increased, CO₂ was 270 ppm
+- 12-9 kya: The [Altai floods](https://en.wikipedia.org/wiki/Altai_flood), a series of catastrophic [glacial lake outburst floods (GLOF)](https://en.wikipedia.org/wiki/Glacial_lake_outburst_flood) occurred, creating [giant current ripples](https://en.wikipedia.org/wiki/Giant_current_ripples)
+- 9700 BCE: The [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) and [Boreal age](https://en.wikipedia.org/wiki/Boreal_%28age%29) began, ending the [Last Glacial Period (LGP)](https://en.wikipedia.org/wiki/Last_Glacial_Period); global temperatures increased, CO₂ was 270 ppm
 - 9500 BCE: People near the upper [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) built [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe), the oldest known temple, using the oldest [megaliths](https://en.wikipedia.org/wiki/Megalith)
 - 9500-9200 BCE: [Meltwater pulse 1B](https://en.wikipedia.org/wiki/Meltwater_pulse_1B) occurred
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
@@ -471,7 +475,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 30 m below present
 - 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
 - 6550 BCE: [Lake Agassiz](https://en.wikipedia.org/wiki/Lake_Agassiz) emptied into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), raising global sea levels
-- 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea
+- 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea, separating the British Isles from continental Europe via the [English Channel](https://en.wikipedia.org/wiki/English_Channel)
 - 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
 - 6250 BCE: [Lake Ojibway](https://en.wikipedia.org/wiki/Lake_Ojibway) drained into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), possibly affecting [thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation) in the North Atlantic Ocean
 - 6200 BCE: The [8.2-kiloyear event](https://en.wikipedia.org/wiki/8.2-kiloyear_event) occurred, with the global temperature abruptly cooling
