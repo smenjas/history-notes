@@ -744,6 +744,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1037 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote *Codex Masudicus*, noting that Eurasia only covers 2/5 of the Earth's surface and another continent must exist on the other side of the planet
 - 1065 CE: [Nizam al-Mulk](https://en.wikipedia.org/wiki/Nizam_al-Mulk) established [Al-Nizamiyya of Baghdad](https://en.wikipedia.org/wiki/Al-Nizamiyya_of_Baghdad), the largest university of the Medieval world
 - 1066 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
+- 1085 CE: [Ibn Bassal ("he who tends bulbs")](https://en.wikipedia.org/wiki/Ibn_Bassal) wrote *Dīwān al-filāha* (*An Anthology of Husbandry*) on [agronomy](https://en.wikipedia.org/wiki/Agronomy), describing the [noria](https://en.wikipedia.org/wiki/Noria) and [saqiyah](https://en.wikipedia.org/wiki/Saqiyah) which are flywheels used for irrigation
 
 ### Compass, Movable Type
 
