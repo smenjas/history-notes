@@ -61,14 +61,15 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [< 100 Million Years Ago](#-100-million-years-ago):
   [Thumb](#thumb), [Color Vision](#color-vision), [No Tail](#no-tail)
 - [< 10 Million Years Ago](#-10-million-years-ago):
-  [Tools](#tools), [Fire](#fire)
+  [Stone Tools](#stone-tools), [Fire](#fire)
 - [< 1 Million Years Ago](#-1-million-years-ago):
   [Anatomically Modern Humans](#anatomically-modern-humans)
 - [< 100 Thousand Years Ago](#-100-thousand-years-ago):
   [Clothing](#clothing), [Dogs](#dogs), [Agriculture](#agriculture)
 - [< 10 Thousand Years Ago](#-10-thousand-years-ago):
-  [Cats](#cats), [Writing](#writing), [History](#history),
-  [Medicine](#medicine), [Mathematics](#mathematics)
+  [Cats](#cats), [Bronze Tools, Writing](#bronze-tools-writing),
+  [Iron Tools](#iron-tools) [History](#history), [Medicine](#medicine),
+  [Mathematics](#mathematics)
 - [Common Era](#common-era):
   [Paper](#paper), [Zero](#zero), [Algebra](#algebra), [Soap](#soap)
 - [1000s](#1000s):
@@ -329,7 +330,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 4.2-3.8 mya: [Australopithecus anamensis ("southern ape of the lake")](https://en.wikipedia.org/wiki/Australopithecus_anamensis) evolved in what is now Ethiopia & Kenya
 - 4 mya: [Early humans evolved to walk on two legs (bipedalism)](https://en.wikipedia.org/wiki/Human_skeletal_changes_due_to_bipedalism)
 
-### Tools
+### Stone Tools
 
 - 3.4 mya: The [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) began (tools made in what is now Ethiopia, near Gona)
 - 3.3 mya: [Early humans made large stone tools in what is now Kenya (Lomekwi 3)](https://en.wikipedia.org/wiki/Lomekwi)
@@ -501,7 +502,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3500 BCE: The [Botai culture](https://en.wikipedia.org/wiki/Botai_culture) in northern [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) domesticated the [horse](https://en.wikipedia.org/wiki/Horse)
 - 3400 BCE: The [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline) began, with human settlements abandoned permanently, decreased cereal production, and the emergence of communicable diseases such as [pneumonic plague](https://en.wikipedia.org/wiki/Pneumonic_plague)
 
-### Writing
+### Bronze Tools, Writing
 
 - 3300 BCE: The [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) began in Southern Asia
 - 3300 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Uruk](https://en.wikipedia.org/wiki/Uruk) on the ancient channel of the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) wrote [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
@@ -526,6 +527,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1 m below present
 - 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
 - 2000 BCE: The last [woolly mammoths](https://en.wikipedia.org/wiki/Woolly_mammoth) lived on [Wrangel Island](https://en.wikipedia.org/wiki/Wrangel_Island)
+
+### Iron Tools
+
 - 1900 BCE: [People smelted and smithed iron](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
 - 1850 BCE: People near Wadi El-Hol, Egypt wrote [Proto-Sinaitic script](https://en.wikipedia.org/wiki/Proto-Sinaitic_script)
 - 1800 BCE: Assyrians from [Assur](https://en.wikipedia.org/wiki/Assur) on the [Tigris River](https://en.wikipedia.org/wiki/Tigris) introduced [cuneiform](https://en.wikipedia.org/wiki/Cuneiform) to [Hattusa](https://en.wikipedia.org/wiki/Hattusa), the capital of the [Hittite Empire](https://en.wikipedia.org/wiki/Hittites)
