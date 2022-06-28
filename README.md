@@ -67,9 +67,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [< 100 Thousand Years Ago](#-100-thousand-years-ago):
   [Clothing](#clothing), [Dogs](#dogs), [Agriculture](#agriculture)
 - [< 10 Thousand Years Ago](#-10-thousand-years-ago):
-  [Cats](#cats), [Bronze Tools, Writing](#bronze-tools-writing),
-  [Iron Tools](#iron-tools) [History](#history), [Medicine](#medicine),
-  [Mathematics](#mathematics)
+  [Cats](#cats), [Pottery](#pottery),
+  [Bronze Tools, Writing](#bronze-tools-writing), [Iron Tools](#iron-tools),
+  [History](#history), [Medicine](#medicine), [Mathematics](#mathematics)
 - [Common Era](#common-era):
   [Paper](#paper), [Zero](#zero), [Algebra](#algebra), [Soap](#soap)
 - [1000s](#1000s):
@@ -477,6 +477,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
 - 6550 BCE: [Lake Agassiz](https://en.wikipedia.org/wiki/Lake_Agassiz) emptied into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), raising global sea levels
 - 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea, separating the British Isles from continental Europe via the [English Channel](https://en.wikipedia.org/wiki/English_Channel)
+
+### Pottery
+
 - 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
 - 6250 BCE: [Lake Ojibway](https://en.wikipedia.org/wiki/Lake_Ojibway) drained into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), possibly affecting [thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation) in the North Atlantic Ocean
 - 6200 BCE: The [8.2-kiloyear event](https://en.wikipedia.org/wiki/8.2-kiloyear_event) occurred, with the global temperature abruptly cooling
@@ -492,6 +495,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 5000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Uruk](https://en.wikipedia.org/wiki/Uruk)
 - 5000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 4 m below present
 - 4500 BCE: The [Laurentide Ice Sheet](https://en.wikipedia.org/wiki/Laurentide_Ice_Sheet) retreated from [Nunavik](https://en.wikipedia.org/wiki/Nunavik)
+- 4500 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) invented the slow [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel)
 - 4000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 3 m below present
 - 4000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [duck](https://en.wikipedia.org/wiki/Domestic_duck)
 - 4000 BCE: People in what is now [India](https://en.wikipedia.org/wiki/India) & [China](https://en.wikipedia.org/wiki/China) domesticated the [water buffalo](https://en.wikipedia.org/wiki/Water_buffalo)
@@ -499,6 +503,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 4000 BCE: People in [Arabia](https://en.wikipedia.org/wiki/Arabian_Peninsula) domesticated the [dromedary camel](https://en.wikipedia.org/wiki/Dromedary_camel)
 - 4000-3000 BCE: The [African humid period](https://en.wikipedia.org/wiki/African_humid_period) ended in North Africa, recreating the [Sahara](https://en.wikipedia.org/wiki/Sahara)
 - 3900-3500 BCE: Human populations rapidly increased with the spread of agriculture, pottery, the wheel, and animal husbandry, see the [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline)
+- 3500 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) and [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) used a heavy stone as a [flywheel](https://en.wikipedia.org/wiki/Flywheel) for the fast [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel)
 - 3500 BCE: The [Botai culture](https://en.wikipedia.org/wiki/Botai_culture) in northern [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) domesticated the [horse](https://en.wikipedia.org/wiki/Horse)
 - 3400 BCE: The [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline) began, with human settlements abandoned permanently, decreased cereal production, and the emergence of communicable diseases such as [pneumonic plague](https://en.wikipedia.org/wiki/Pneumonic_plague)
 
