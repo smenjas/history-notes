@@ -490,11 +490,13 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 5000 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) domesticated the [donkey](https://en.wikipedia.org/wiki/Donkey)
 - 5000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Uruk](https://en.wikipedia.org/wiki/Uruk)
 - 5000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 4 m below present
+- 4500 BCE: The [Laurentide Ice Sheet](https://en.wikipedia.org/wiki/Laurentide_Ice_Sheet) retreated from [Nunavik](https://en.wikipedia.org/wiki/Nunavik)
 - 4000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 3 m below present
 - 4000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [duck](https://en.wikipedia.org/wiki/Domestic_duck)
 - 4000 BCE: People in what is now [India](https://en.wikipedia.org/wiki/India) & [China](https://en.wikipedia.org/wiki/China) domesticated the [water buffalo](https://en.wikipedia.org/wiki/Water_buffalo)
 - 4000 BCE: People in [Africa](https://en.wikipedia.org/wiki/Africa), [Asia](https://en.wikipedia.org/wiki/Asia), & [Europe](https://en.wikipedia.org/wiki/Europe) domesticated the [honey bee](https://en.wikipedia.org/wiki/Honey_bee)
 - 4000 BCE: People in [Arabia](https://en.wikipedia.org/wiki/Arabian_Peninsula) domesticated the [dromedary camel](https://en.wikipedia.org/wiki/Dromedary_camel)
+- 4000-3000 BCE: The [African humid period](https://en.wikipedia.org/wiki/African_humid_period) ended in North Africa, recreating the [Sahara](https://en.wikipedia.org/wiki/Sahara)
 - 3900-3500 BCE: Human populations rapidly increased with the spread of agriculture, pottery, the wheel, and animal husbandry, see the [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline)
 - 3500 BCE: The [Botai culture](https://en.wikipedia.org/wiki/Botai_culture) in northern [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) domesticated the [horse](https://en.wikipedia.org/wiki/Horse)
 - 3400 BCE: The [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline) began, with human settlements abandoned permanently, decreased cereal production, and the emergence of communicable diseases such as [pneumonic plague](https://en.wikipedia.org/wiki/Pneumonic_plague)
@@ -512,6 +514,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
 - 2600 BCE: [Western Steppe Herders (WSH)](https://en.wikipedia.org/wiki/Western_Steppe_Herders) migrated across Eurasia, spreading the [Indo-European language family](https://en.wikipedia.org/wiki/Indo-European_languages)
+- 2580-2510 BCE: The [Fourth Dynasty of Egypt](https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt) constructed the [Giza pyramid complex](https://en.wikipedia.org/wiki/Giza_pyramid_complex)
 - 2500 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) [fried food](https://en.wikipedia.org/wiki/Frying)
 - 2500 BCE: The [*Instructions of Shuruppak*](https://en.wikipedia.org/wiki/Instructions_of_Shuruppak), an example of [Sumerian](https://en.wikipedia.org/wiki/Sumer) [wisdom literature](https://en.wikipedia.org/wiki/Wisdom_literature), existed by this time
 - 2300 BCE: [Urukagina](https://en.wikipedia.org/wiki/Urukagina) enacted the first known government reforms, to combat corruption
@@ -638,13 +641,13 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 23 BCE: [Horace](https://en.wikipedia.org/wiki/Horace) wrote the first 3 books of his [*Odes*](https://en.wikipedia.org/wiki/Odes_%28Horace%29), including "carpe diem, quam minimum credula postero" ("seize the day, trusting tomorrow as little as possible")
 - 15 BCE: [Vitruvius](https://en.wikipedia.org/wiki/Vitruvius) wrote [*De architectura, libri decem* (*Ten Books on Architecture*)](https://en.wikipedia.org/wiki/De_architectura)
 - 12 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
-- 7 BCE: [Strabo](https://en.wikipedia.org/wiki/Strabo) wrote the first edition of his [*Geographica* ("Geography")](https://en.wikipedia.org/wiki/Geographica)
 - ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
 
 ## Common Era
 
 - 1 CE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was near the present
 - 12 CE: [Livy](https://en.wikipedia.org/wiki/Livy) wrote [*Ab Urbe Condita Libri CXLII* (*From the Founding of the City in 142 Books*)](https://en.wikipedia.org/wiki/Ab_Urbe_Condita_Libri), a [history of ancient Rome](https://en.wikipedia.org/wiki/History_of_Rome)
+- 23 CE: [Strabo](https://en.wikipedia.org/wiki/Strabo) wrote the last edition of his [*Geographica* (*Geography*)](https://en.wikipedia.org/wiki/Geographica)
 - 50 CE: The [Syriac alphabet](https://en.wikipedia.org/wiki/Syriac_alphabet) descended from the Palmyrene alphabet
 - 66 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 70 CE: [Hero (a.k.a. Heron) of Alexandria](https://en.wikipedia.org/wiki/Hero_of_Alexandria) wrote many works on mathematics and engineering, including *Metrica* which explored geometry in 3D, and *Catoptrics* which explored mirrors, by the time he died
