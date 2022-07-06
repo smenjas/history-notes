@@ -495,6 +495,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 6000 BCE: People in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) domesticated the [chicken](https://en.wikipedia.org/wiki/Chicken)
 - 6000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) independently [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
 - 6000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 15 m below present
+- 6000 BCE: [Samarran](https://en.wikipedia.org/wiki/Samarra_culture) people at [Choga Mami](https://en.wikipedia.org/wiki/Choga_Mami) dug the first known irrigation canals
 - 5500 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 6 m below present
 - 5400 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Eridu](https://en.wikipedia.org/wiki/Eridu)
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
@@ -505,7 +506,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 5000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Uruk](https://en.wikipedia.org/wiki/Uruk)
 - 5000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 4 m below present
 - 4500 BCE: The [Laurentide Ice Sheet](https://en.wikipedia.org/wiki/Laurentide_Ice_Sheet) retreated from [Nunavik](https://en.wikipedia.org/wiki/Nunavik)
-- 4500 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) invented the slow [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel)
+- 4500 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) invented the slow [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel)
 - 4000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 3 m below present
 - 4000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [duck](https://en.wikipedia.org/wiki/Domestic_duck)
 - 4000 BCE: People in what is now [India](https://en.wikipedia.org/wiki/India) & [China](https://en.wikipedia.org/wiki/China) domesticated the [water buffalo](https://en.wikipedia.org/wiki/Water_buffalo)
@@ -513,6 +514,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 4000 BCE: People in [Arabia](https://en.wikipedia.org/wiki/Arabian_Peninsula) domesticated the [dromedary camel](https://en.wikipedia.org/wiki/Dromedary_camel)
 - 4000-3000 BCE: The [African humid period](https://en.wikipedia.org/wiki/African_humid_period) ended in North Africa, recreating the [Sahara](https://en.wikipedia.org/wiki/Sahara) as it was about 13,000 years ago
 - 3900-3500 BCE: Human populations rapidly increased with the spread of agriculture, pottery, the wheel, and animal husbandry, see the [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline)
+- 3800 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Ur](https://en.wikipedia.org/wiki/Ur)
 - 3500 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) and [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) used a heavy stone as a [flywheel](https://en.wikipedia.org/wiki/Flywheel) for the fast [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel)
 - 3500 BCE: The [Botai culture](https://en.wikipedia.org/wiki/Botai_culture) in northern [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) domesticated the [horse](https://en.wikipedia.org/wiki/Horse)
 - 3400 BCE: The [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline) began, with human settlements abandoned permanently, decreased cereal production, and the emergence of communicable diseases such as [pneumonic plague](https://en.wikipedia.org/wiki/Pneumonic_plague)
