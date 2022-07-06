@@ -324,6 +324,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 9 mya: [Homininae](https://en.wikipedia.org/wiki/Homininae) [split](https://en.wikipedia.org/wiki/Orangutan%E2%80%93human_last_common_ancestor) from [orangutans](https://en.wikipedia.org/wiki/Orangutan)
 - 8 mya: [Hominini](https://en.wikipedia.org/wiki/Hominini) split from [gorillas](https://en.wikipedia.org/wiki/Gorilla)
 - 7 mya: [Hominina](https://en.wikipedia.org/wiki/Human_taxonomy#Hominina) [split](https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor) from [Panina](https://en.wikipedia.org/wiki/Pan_%28genus%29), i.e. [chimpanzees](https://en.wikipedia.org/wiki/Chimpanzee) and [bonobos](https://en.wikipedia.org/wiki/Bonobo)
+- 7 mya: The [Sahara](https://en.wikipedia.org/wiki/Sahara) formed for the first time as the [Tethys Sea](https://en.wikipedia.org/wiki/Tethys_Ocean) dried up
 - 6 mya: The global temperature fell to about 1 °C above the 20th century average
 - 5.96-5.33 mya: The [Messinian salinity crisis](https://en.wikipedia.org/wiki/Messinian_salinity_crisis) desiccated the Mediterranean Sea, ending with the [Zanclean flood](https://en.wikipedia.org/wiki/Zanclean_flood)
 - 5 mya: The global temperature peaked at least 4 °C above the 20th century average, and began to oscillate around 1-3 °C above for the next million years
@@ -399,7 +400,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 130 kya: The [Eemian interglacial period](https://en.wikipedia.org/wiki/Eemian) began
 - 128 kya: [Early humans cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 120 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present, [sea level was 6 m above present, warmest in the past 3 million years](https://en.wikipedia.org/wiki/Eemian)
+- 120-90 kya: The [Abbassia Pluvial](https://en.wikipedia.org/wiki/Abbassia_Pluvial) occurred, bringing moisture to North Africa
 - 115 kya: The [Last Glacial Period (LGP)](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
+- 105-75 kya: [North Africa became humid (the "Green Sahara"](https://en.wikipedia.org/wiki/Mousterian_Pluvial), then dried out
 
 ## < 100 Thousand Years Ago
 
@@ -407,11 +410,15 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 83 kya: [Humans wore clothing](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles) ([body lice](https://en.wikipedia.org/wiki/Body_louse) diverged from head lice)
 - 73 kya: The [Toba volcano erupted](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
+- 71-14.5 kya: [North Africa dried out](https://en.wikipedia.org/wiki/Mousterian_Pluvial), with 3 semi-humid interruptions
 - 70-50 kya: [Homo sapiens migrated out of Africa](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
+- 65-61 kya: [North Africa briefly became semi-humid](https://en.wikipedia.org/wiki/Mousterian_Pluvial), then dried out
+- 52.5-50.5 kya: [North Africa briefly became semi-humid](https://en.wikipedia.org/wiki/Mousterian_Pluvial), then dried out
 - 50-40 kya: [Early human tools and cultures became more sophisticated](https://en.wikipedia.org/wiki/Behavioral_modernity) in an explosion of innovation
 - 50-30 kya: ["Gracile" anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved
 - 43 kya: [Early European Farmers (EEF)](https://en.wikipedia.org/wiki/Early_European_Farmers) split from [Western Hunter-Gatherers (WHG)](https://en.wikipedia.org/wiki/Western_Hunter-Gatherer)
 - 40 kya: Humans lived in the [Maribyrnong River](https://en.wikipedia.org/wiki/Maribyrnong_River) valley near modern Melbourne
+- 37.5-33 kya: [North Africa briefly became semi-humid](https://en.wikipedia.org/wiki/Mousterian_Pluvial), then dried out
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
 - 26.5-20 kya: The [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum) occurred, CO₂ dipped to 180 ppm, global temp -9 °C from present, dust exceeded 1.6 ppm
 - 25 kya: [Ancestral Native Americans (ANA)](https://en.wikipedia.org/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas) split from [East Asians](https://en.wikipedia.org/wiki/East_Asian_people)
@@ -443,6 +450,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 13 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 78 m below present, global temp was 2 °C below present
 - 13 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) brewed [beer](https://en.wikipedia.org/wiki/Beer) at [Raqefet Cave](https://en.wikipedia.org/wiki/Raqefet_Cave), near Haifa
 - 13 kya: [Lake Agassiz](https://en.wikipedia.org/wiki/Lake_Agassiz) (the largest lake on Earth) experienced a [glacial lake outburst flood (GLOF)](https://en.wikipedia.org/wiki/Glacial_lake_outburst_flood), creating the [Glacial River Warren](https://en.wikipedia.org/wiki/Glacial_River_Warren) which drained into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay) affecting [thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation) in the North Atlantic Ocean
+- 13 kya: The [Sahara](https://en.wikipedia.org/wiki/Sahara) was as dry as it is today, but was beginning to grow lush forests due to the [African humid period](https://en.wikipedia.org/wiki/African_humid_period)
 - 12.9-11.7 kya: The [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas) occurred, the last cold snap of the [Pleistocene epoch (a.k.a. the Ice Age)](https://en.wikipedia.org/wiki/Pleistocene); global temperatures declined sharply
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ exceeded 250 ppm, global temp rose to the present level
 - 12.2 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Mureybet](https://en.wikipedia.org/wiki/Mureybet) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates), the first known settlement with rectangular structures
@@ -489,6 +497,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 5500 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 6 m below present
 - 5400 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Eridu](https://en.wikipedia.org/wiki/Eridu)
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
+- 5000 BCE: [Lake Megachad](https://en.wikipedia.org/wiki/Lake_Chad#History) reached its greatest extent of over 400,000 square km and 173 m deep sometime before this
 - 5000 BCE: People smelted [copper](https://en.wikipedia.org/wiki/Copper) on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
 - 5000 BCE: People in what is now [Peru](https://en.wikipedia.org/wiki/Peru) domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig)
 - 5000 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) domesticated the [donkey](https://en.wikipedia.org/wiki/Donkey)
@@ -501,7 +510,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 4000 BCE: People in what is now [India](https://en.wikipedia.org/wiki/India) & [China](https://en.wikipedia.org/wiki/China) domesticated the [water buffalo](https://en.wikipedia.org/wiki/Water_buffalo)
 - 4000 BCE: People in [Africa](https://en.wikipedia.org/wiki/Africa), [Asia](https://en.wikipedia.org/wiki/Asia), & [Europe](https://en.wikipedia.org/wiki/Europe) domesticated the [honey bee](https://en.wikipedia.org/wiki/Honey_bee)
 - 4000 BCE: People in [Arabia](https://en.wikipedia.org/wiki/Arabian_Peninsula) domesticated the [dromedary camel](https://en.wikipedia.org/wiki/Dromedary_camel)
-- 4000-3000 BCE: The [African humid period](https://en.wikipedia.org/wiki/African_humid_period) ended in North Africa, recreating the [Sahara](https://en.wikipedia.org/wiki/Sahara)
+- 4000-3000 BCE: The [African humid period](https://en.wikipedia.org/wiki/African_humid_period) ended in North Africa, recreating the [Sahara](https://en.wikipedia.org/wiki/Sahara) as it was about 13,000 years ago
 - 3900-3500 BCE: Human populations rapidly increased with the spread of agriculture, pottery, the wheel, and animal husbandry, see the [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline)
 - 3500 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) and [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) used a heavy stone as a [flywheel](https://en.wikipedia.org/wiki/Flywheel) for the fast [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel)
 - 3500 BCE: The [Botai culture](https://en.wikipedia.org/wiki/Botai_culture) in northern [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) domesticated the [horse](https://en.wikipedia.org/wiki/Horse)
