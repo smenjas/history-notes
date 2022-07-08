@@ -67,7 +67,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [< 100 Thousand Years Ago](#-100-thousand-years-ago):
   [Clothing](#clothing), [Dogs](#dogs), [Agriculture](#agriculture)
 - [< 10 Thousand Years Ago](#-10-thousand-years-ago):
-  [Cats](#cats), [Pottery](#pottery),
+  [Cats](#cats), [Pottery](#pottery), [Copper Tools](#copper-tools),
   [Bronze Tools, Writing](#bronze-tools-writing), [Iron Tools](#iron-tools),
   [History](#history), [Medicine](#medicine), [Mathematics](#mathematics)
 - [Common Era](#common-era):
@@ -480,33 +480,40 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 7500 BCE: [A farmer lived with a domesticated African wildcat in Cyprus](https://en.wikipedia.org/wiki/Evolution_of_the_domesticated_cat)
 - 7450 BCE: [Lake Agassiz](https://en.wikipedia.org/wiki/Lake_Agassiz) drained into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay) and the [Glacial River Warren](https://en.wikipedia.org/wiki/Glacial_River_Warren) ceased, raising global sea levels 0.8-2.8 m
 - 7200 BCE: [Lake Agassiz](https://en.wikipedia.org/wiki/Lake_Agassiz) merged with [Lake Ojibway](https://en.wikipedia.org/wiki/Lake_Ojibway)
+- 7200 BCE: The [Jeitun](https://en.wikipedia.org/wiki/Jeitun) people grew wheat and barley near the [Alborz](https://en.wikipedia.org/wiki/Alborz) and [Kopet Dag](https://en.wikipedia.org/wiki/Kopet_Dag) mountains, and built rectangular clay buildings at [Sang-i Chakmak](https://en.wikipedia.org/wiki/Sang-i_Chakmak) but did not yet make pottery
 - 7100 BCE: People in [Anatolia](https://en.wikipedia.org/wiki/Anatolia) established [Çatalhöyük](https://en.wikipedia.org/wiki/Çatalhöyük), the largest known settlement at several thousand people
 - 7000-3000 BCE: The [Holocene Climatic Optimum (HCO)](https://en.wikipedia.org/wiki/Holocene_climatic_optimum) occurred, with Arctic temperatures 2 °C above the 20th century average, or more
 - 7000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 30 m below present
 - 7000 BCE: People on the plains of the [Indus River](https://en.wikipedia.org/wiki/Indus_River) domesticated the [zebu](https://en.wikipedia.org/wiki/Zebu), founded [Mehrgarh](https://en.wikipedia.org/wiki/Mehrgarh) near the [Bolan Pass](https://en.wikipedia.org/wiki/Bolan_Pass), the earliest known farming settlement of the [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation), and grew wheat from the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
-- 6550 BCE: [Lake Agassiz](https://en.wikipedia.org/wiki/Lake_Agassiz) emptied into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), raising global sea levels
-- 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea, separating the British Isles from continental Europe via the [English Channel](https://en.wikipedia.org/wiki/English_Channel)
 
 ### Pottery
 
-- 6400 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) made [pottery](https://en.wikipedia.org/wiki/Pottery)
+- 6700 BCE: [Mesopotamians](https://en.wikipedia.org/wiki/Mesopotamia) made [pottery](https://en.wikipedia.org/wiki/Pottery), for example at [Tell Sabi Abyad](https://en.wikipedia.org/wiki/Tell_Sabi_Abyad) in the [Balikh River valley](https://en.wikipedia.org/wiki/Balikh_River)
+- 6550 BCE: [Lake Agassiz](https://en.wikipedia.org/wiki/Lake_Agassiz) emptied into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), raising global sea levels
+- 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea, separating the British Isles from continental Europe via the [English Channel](https://en.wikipedia.org/wiki/English_Channel)
 - 6250 BCE: [Lake Ojibway](https://en.wikipedia.org/wiki/Lake_Ojibway) drained into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), possibly affecting [thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation) in the North Atlantic Ocean
 - 6200 BCE: The [8.2-kiloyear event](https://en.wikipedia.org/wiki/8.2-kiloyear_event) occurred, with the global temperature abruptly cooling
 - 6000 BCE: People in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) domesticated the [chicken](https://en.wikipedia.org/wiki/Chicken)
 - 6000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) independently [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig)
 - 6000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 15 m below present
 - 6000 BCE: [Samarran](https://en.wikipedia.org/wiki/Samarra_culture) people at [Choga Mami](https://en.wikipedia.org/wiki/Choga_Mami) dug the first known irrigation canals
+- 6000 BCE: The [Hassuna people](https://en.wikipedia.org/wiki/Hassuna_culture) built the earliest known [kiln](https://en.wikipedia.org/wiki/Kiln) at [Yarim Tepe](https://en.wikipedia.org/wiki/Yarim_Tepe) in [Mesopotamia](https://en.wikipedia.org/wiki/Mesopotamia)
+- 6000 BCE: The [Peiligang people](https://en.wikipedia.org/wiki/Peiligang_culture) inscribed the [Jiahu symbols](https://en.wikipedia.org/wiki/Jiahu_symbols), examples of [proto-writing](https://en.wikipedia.org/wiki/Proto-writing), and made [bone flutes](https://en.wikipedia.org/wiki/Gudi_%28instrument%29), the earliest known musical instruments in what is now China
 - 5500 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 6 m below present
 - 5400 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Eridu](https://en.wikipedia.org/wiki/Eridu)
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
 - 5000 BCE: [Lake Megachad](https://en.wikipedia.org/wiki/Lake_Chad#History) reached its greatest extent of over 400,000 square km and 173 m deep sometime before this
-- 5000 BCE: People smelted [copper](https://en.wikipedia.org/wiki/Copper) on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in modern Serbia
+
+### Copper Tools
+
+- 5000 BCE: [Illyrians](https://en.wikipedia.org/wiki/Illyrians) smelted [copper](https://en.wikipedia.org/wiki/Chalcolithic) on [Rudnik Mountain](https://en.wikipedia.org/wiki/Rudnik_%28mountain%29) in what is now Serbia
 - 5000 BCE: People in what is now [Peru](https://en.wikipedia.org/wiki/Peru) domesticated [guinea pigs](https://en.wikipedia.org/wiki/Guinea_pig)
 - 5000 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) domesticated the [donkey](https://en.wikipedia.org/wiki/Donkey)
 - 5000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Uruk](https://en.wikipedia.org/wiki/Uruk)
 - 5000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 4 m below present
 - 4500 BCE: The [Laurentide Ice Sheet](https://en.wikipedia.org/wiki/Laurentide_Ice_Sheet) retreated from [Nunavik](https://en.wikipedia.org/wiki/Nunavik)
 - 4500 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) invented the slow [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel)
+- 4000 BCE: The [Vinča](https://en.wikipedia.org/wiki/Vin%C4%8Da_culture) people inscribed the [Vinča symbols](https://en.wikipedia.org/wiki/Vin%C4%8Da_symbols), examples of [proto-writing](https://en.wikipedia.org/wiki/Proto-writing)
 - 4000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 3 m below present
 - 4000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [duck](https://en.wikipedia.org/wiki/Domestic_duck)
 - 4000 BCE: People in what is now [India](https://en.wikipedia.org/wiki/India) & [China](https://en.wikipedia.org/wiki/China) domesticated the [water buffalo](https://en.wikipedia.org/wiki/Water_buffalo)
@@ -526,6 +533,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3300 BCE: People in the [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) wrote the [Indus script](https://en.wikipedia.org/wiki/Indus_script)
 - 3300 BCE: [Eastern Hunter-Gatherer (EHG)](https://en.wikipedia.org/wiki/Eastern_Hunter-Gatherer) males mated with [Caucasus Hunter-Gatherer (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer) females to produce [Western Steppe Herders (WSH)](https://en.wikipedia.org/wiki/Western_Steppe_Herders)
 - 3200 BCE: The [Gerzeh culture](https://en.wikipedia.org/wiki/Gerzeh_culture) in Egypt wrote [hieroglyphs](https://en.wikipedia.org/wiki/Hieroglyph) ("sacred carvings"), descended from [Sumerian](https://en.wikipedia.org/wiki/Sumer) [cuneiform](https://en.wikipedia.org/wiki/Cuneiform)
+- 3200 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) inscribed the [Kish tablet](https://en.wikipedia.org/wiki/Kish_tablet), an example of [proto-writing](https://en.wikipedia.org/wiki/Proto-writing)
 - 3100 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Kish](https://en.wikipedia.org/wiki/Kish_%28Sumer%29)
 - 3000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 2 m below present
 - 3000 BCE: The [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) had many [advanced technologies](https://en.wikipedia.org/wiki/List_of_inventions_and_discoveries_of_the_Indus_Valley_Civilisation), notably [sanitation](https://en.wikipedia.org/wiki/Sanitation_of_the_Indus_Valley_Civilisation) using separate channels for wastewater and rainwater
@@ -543,20 +551,23 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2050 BCE: The [Sintashta culture](https://en.wikipedia.org/wiki/Sintashta_culture) near the [Ural](https://en.wikipedia.org/wiki/Ural_%28river%29) and [Tobol](https://en.wikipedia.org/wiki/Tobol) rivers invented the [spoked wheel](https://en.wikipedia.org/wiki/Spoke) and light [chariot](https://en.wikipedia.org/wiki/Chariot)
 - 2000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1 m below present
 - 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
+- 2000 BCE: The [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) inscribed [copper plates](https://en.wikipedia.org/wiki/Indian_copper_plate_inscriptions), perhaps for printing
 - 2000 BCE: The last [woolly mammoths](https://en.wikipedia.org/wiki/Woolly_mammoth) lived on [Wrangel Island](https://en.wikipedia.org/wiki/Wrangel_Island)
 
 ### Iron Tools
 
 - 1900 BCE: [People smelted and smithed iron](https://en.wikipedia.org/wiki/Iron_Age) in Anatolia or Caucasus
 - 1850 BCE: People near Wadi El-Hol, Egypt wrote [Proto-Sinaitic script](https://en.wikipedia.org/wiki/Proto-Sinaitic_script)
+- 1850 BCE: The [Kültepe texts](https://en.wikipedia.org/wiki/K%C3%BCltepe), the oldest known writing in Anatolia, were written in [Akkadian](https://en.wikipedia.org/wiki/Akkadian_language) and contained [Hittite](https://en.wikipedia.org/wiki/Hittite_language) loanwords, the oldest known use of [Indo-European language](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 1800 BCE: Assyrians from [Assur](https://en.wikipedia.org/wiki/Assur) on the [Tigris River](https://en.wikipedia.org/wiki/Tigris) introduced [cuneiform](https://en.wikipedia.org/wiki/Cuneiform) to [Hattusa](https://en.wikipedia.org/wiki/Hattusa), the capital of the [Hittite Empire](https://en.wikipedia.org/wiki/Hittites)
 - 1800-1450 BCE: [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) on the [Aegean Islands](https://en.wikipedia.org/wiki/Aegean_Islands) wrote [Linear A](https://en.wikipedia.org/wiki/Linear_A), descended from Cretan hieroglyphs
 - 1754 BCE: [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) enacted the [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 - 1700 BCE: [King Anitta](https://en.wikipedia.org/wiki/Anitta), who wrote the oldest known [Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages) text in [Hittite](https://en.wikipedia.org/wiki/Hittite_language), burned [Hattusa](https://en.wikipedia.org/wiki/Hattusa)
 - 1600 BCE: The [Thera volcano erupted](https://en.wikipedia.org/wiki/Minoan_eruption) on the island now called [Santorini](https://en.wikipedia.org/wiki/Santorini), destroying the [Minoan](https://en.wikipedia.org/wiki/Minoan_civilization) settlement [Akrotiri](https://en.wikipedia.org/wiki/Akrotiri_%28prehistoric_city%29)
-- 1450-1200 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) wrote [Linear B](https://en.wikipedia.org/wiki/Linear_B), descended from Linear A
+- 1450-1200 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) wrote [Mycenaean Greek](https://en.wikipedia.org/wiki/Mycenaean_Greek) in [Linear B](https://en.wikipedia.org/wiki/Linear_B), descended from Linear A
+- 1400 BCE: Descendants of the [Andronovo people](https://en.wikipedia.org/wiki/Andronovo_culture) composed the *Rigveda* (*Praise Knowledge*), the earliest known example of [Sanskrit](https://en.wikipedia.org/wiki/Vedic_Sanskrit)
 - 1300 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) made [concrete](https://en.wikipedia.org/wiki/Concrete) floors in the royal palace of [Tiryns](https://en.wikipedia.org/wiki/Tiryns) on the [Peloponnese peninsula](https://en.wikipedia.org/wiki/Peloponnese)
-- 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu), China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
+- 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu) in what is now China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
 - 1200-1150 BCE: The [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) occurred, with invading [Sea Peoples](https://en.wikipedia.org/wiki/Sea_Peoples) introducing iron in large quantities to the eastern Mediterranean
 - 1050 BCE: [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) wrote using the [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet), descended from Linear B
 - 1000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1 m below present
@@ -618,6 +629,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 355 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*Ways and Means*](https://en.wikipedia.org/wiki/Ways_and_Means_%28Xenophon%29)
 - 354 BCE: [Xenophon](https://en.wikipedia.org/wiki/Xenophon) wrote [*On Horsemanship*](https://en.wikipedia.org/wiki/On_Horsemanship), [*Hipparchicus*](https://en.wikipedia.org/wiki/Hipparchicus), & [*Cynegeticus* (*On Hunting*)](https://en.wikipedia.org/wiki/Cynegeticus) by the time he died
 - 350 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Περὶ οὐρανοῦ*, a.k.a. *De Caelo* (*On the Heavens*)](https://en.wikipedia.org/wiki/On_the_Heavens)
+- 335 BCE: [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)'s armies spread the use of the [Koine Greek language](https://en.wikipedia.org/wiki/Koine_Greek)
 - 334 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_%28Classical%29)
 - 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) wrote *Aṣṭādhyāyī* on Sanskrit grammar
 - 322 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote many works on [biology](https://en.wikipedia.org/wiki/Aristotle%27s_biology), [*Rhetoric*](https://en.wikipedia.org/wiki/Rhetoric_%28Aristotle%29), and other subjects by the time he died
@@ -630,8 +642,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 295 BCE: [Demetrius of Phalerum](https://en.wikipedia.org/wiki/Demetrius_of_Phalerum) acquired writings of [Aristotle](https://en.wikipedia.org/wiki/Aristotle) and [Theophrastus](https://en.wikipedia.org/wiki/Theophrastus) for [Ptolemy I Soter](https://en.wikipedia.org/wiki/Ptolemy_I_Soter)
 - 287 BCE: [Theophrastus](https://en.wikipedia.org/wiki/Theophrastus) wrote [*Historia Plantarum* (*History of Botany*)](https://en.wikipedia.org/wiki/Historia_Plantarum_%28Theophrastus_book%29)
 - 283 BCE: [Ptolemy II Philadeplhus](https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus) created the [Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria), continuing work started by [Ptolemy I Soter](https://en.wikipedia.org/wiki/Ptolemy_I_Soter)
-- 260 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Kandahar Bilingual Rock Inscription](https://en.wikipedia.org/wiki/Kandahar_Bilingual_Rock_Inscription) in [ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek) and [Aramaic](https://en.wikipedia.org/wiki/Aramaic)
-- 259 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Minor Rock Edicts](https://en.wikipedia.org/wiki/Minor_Rock_Edicts) with [Brahmi numerals](https://en.wikipedia.org/wiki/Brahmi_numerals), precursors to the [Hindu numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) but lacking [zero](https://en.wikipedia.org/wiki/0)
+- 260 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Kandahar Bilingual Rock Inscription](https://en.wikipedia.org/wiki/Kandahar_Bilingual_Rock_Inscription) in [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek) and [Aramaic](https://en.wikipedia.org/wiki/Aramaic)
+- 259 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Minor Rock Edicts](https://en.wikipedia.org/wiki/Minor_Rock_Edicts) with [Brahmi script](https://en.wikipedia.org/wiki/Brahmi_script) including [Brahmi numerals](https://en.wikipedia.org/wiki/Brahmi_numerals), precursors to the [Hindu numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) but lacking [zero](https://en.wikipedia.org/wiki/0)
 - 250 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
 - 250 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) wrote [*On Floating Bodies*](https://en.wikipedia.org/wiki/On_Floating_Bodies), describing [Archimedes' principle](https://en.wikipedia.org/wiki/Archimedes%27_principle)
 - 240 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
@@ -653,6 +665,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 107 BCE: [Roman tribunes](https://en.wikipedia.org/wiki/Ballot_laws_of_the_Roman_Republic) required [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot)
 - 100 BCE: [Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
 - 87 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
+- 75 BCE: [Old Latin](https://en.wikipedia.org/wiki/Old_Latin) became standardized as [Classical Latin](https://en.wikipedia.org/wiki/Classical_Latin)
 - 56 BCE: [Lucretius](https://en.wikipedia.org/wiki/Lucretius) wrote [*De rerum natura* (*On the Nature of Things*)](https://en.wikipedia.org/wiki/De_rerum_natura), promoting [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism), specifically [atomism](https://en.wikipedia.org/wiki/Atomism), and stating that the world contained "seeds" that can sicken you if inhaled or ingested
 - 46 BCE: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) proposed the [Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
 - 44 BCE: The [Palmyrene alphabet](https://en.wikipedia.org/wiki/Palmyrene_alphabet) descended from cursive versions of the Aramaic alphabet
@@ -879,7 +892,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1646 CE: [Thomas Browne](https://en.wikipedia.org/wiki/Thomas_Browne) published [*Pseudodoxia Epidemica* (a.k.a. *Vulgar Errors*)](https://en.wikipedia.org/wiki/Pseudodoxia_Epidemica)
 - 1647 CE: [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) published *Experiences nouvelles touchant le vide* (*New experiments with the vacuum*)
 - 1648 CE: [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) published *Récit de la grande expérience de l'équilibre des liqueurs* (*Account of the great experiment on equilibrium in liquids*)
-- 1648 CE: [Marcus Zuerius van Boxhorn](https://en.wikipedia.org/wiki/Marcus_Zuerius_van_Boxhorn) discovered the similarity among [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages), and supposed the existence of a primitive common language
+- 1648 CE: [Marcus Zuerius van Boxhorn](https://en.wikipedia.org/wiki/Marcus_Zuerius_van_Boxhorn) discovered the similarity among [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages), and supposed the existence of a [primitive common language](https://en.wikipedia.org/wiki/Proto-Indo-European_language)
 - 1649 CE: [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) published [*Les Passions de l'âme* (*Passions of the Soul*)](https://en.wikipedia.org/wiki/Passions_of_the_Soul), on emotion
 - 1654 CE: [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) and [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) corresponded about the [problem of points](https://en.wikipedia.org/wiki/Problem_of_points), introducing [probability theory](https://en.wikipedia.org/wiki/Probability_theory)
 - 1657 CE: [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) wrote *Van Rekeningh in Spelen van Gluck* (*Of Account in Games of Luck*), developing [probability theory](https://en.wikipedia.org/wiki/Probability_theory)
@@ -1700,6 +1713,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1956 CE: [Sydney Brenner](https://en.wikipedia.org/wiki/Sydney_Brenner) published *On the Impossibility of All Overlapping Triplet Codes*, proposing the [codon](https://en.wikipedia.org/wiki/Genetic_code#Codons), based on [George Gamow](https://en.wikipedia.org/wiki/George_Gamow)'s suggestion that three [nucleotides](https://en.wikipedia.org/wiki/Nucleotide) would be enough to define all 20 [amino acids](https://en.wikipedia.org/wiki/Amino_acid)
 - 1956 CE: [Gerard K. O'Neill](https://en.wikipedia.org/wiki/Gerard_K._O%27Neill) published *Storage-Ring Synchrotron: Device for High-Energy Physics Research*, describing [storage ring particle accelerators](https://en.wikipedia.org/wiki/Storage_ring)
 - 1956 CE: [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson) published *Age of meteorites and the Earth*, revealing the age of the Earth to be 4.55 billion years
+- 1956 CE: [Marija Gimbutas](https://en.wikipedia.org/wiki/Marija_Gimbutas) published *The Prehistory of Eastern Europe*, introducing her [Kurgan hypothesis](https://en.wikipedia.org/wiki/Kurgan_hypothesis) proposing the [Proto-Indo-European homeland](https://en.wikipedia.org/wiki/Proto-Indo-European_homeland) as the [Pontic–Caspian steppe](https://en.wikipedia.org/wiki/Pontic%E2%80%93Caspian_steppe) as early as 5000 BCE
 - 1957 CE: [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp) & [Bruce C. Heezen](https://en.wikipedia.org/wiki/Bruce_C._Heezen) published a physiographic map of the North Atlantic Ocean, showing the [Mid-Atlantic Ridge](https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge)
 - 1957 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Reformation*, the 6th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1957 CE: [Margaret Burbidge](https://en.wikipedia.org/wiki/Margaret_Burbidge) et al. published *Synthesis of the Elements in Stars*, describing [stellar nucleosynthesis](https://en.wikipedia.org/wiki/Stellar_nucleosynthesis)
@@ -1756,6 +1770,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1965 CE: [Stephen Cole Kleene](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene) published *The Foundations of [Intuitionistic](https://en.wikipedia.org/wiki/Intuitionism) Mathematics*
 - 1965 CE: [Lotfi A. Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh) published *Fuzzy Sets*, a.k.a. [uncertain sets](https://en.wikipedia.org/wiki/Fuzzy_set)
 - 1965 CE: [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson) published *Contaminated and Natural Lead Environments of Man*
+- 1965 CE: [Marija Gimbutas](https://en.wikipedia.org/wiki/Marija_Gimbutas) published *Bronze Age cultures in Central and Eastern Europe*
 - 1966 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Theory of Self-Reproducing Automata*
 - 1966 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) & [Albert Hibbs](https://en.wikipedia.org/wiki/Albert_Hibbs) published [*Quantum Mechanics and Path Integrals*](https://archive.org/details/quantummechanics0000feyn)
 - 1967 CE: [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) published [*On the origin of mitosing cells*](https://www.sciencedirect.com/science/article/abs/pii/0022519367900793)
@@ -2028,6 +2043,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [Historical urban community sizes](https://en.wikipedia.org/wiki/Historical_urban_community_sizes)
   - [List of oldest continuously inhabited cities](https://en.wikipedia.org/wiki/List_of_oldest_continuously_inhabited_cities)
 - [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+- [List of oldest documents](https://en.wikipedia.org/wiki/List_of_oldest_documents)
 - [List of medical textbooks](https://en.wikipedia.org/wiki/List_of_medical_textbooks)
 - [List of Nobel laureates](https://en.wikipedia.org/wiki/List_of_Nobel_laureates)
 - [List of numeral systems](https://en.wikipedia.org/wiki/List_of_numeral_systems)
@@ -2288,6 +2304,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [History of painting](https://en.wikipedia.org/wiki/History_of_painting)
 - [History of language (historical linguistics)](https://en.wikipedia.org/wiki/Historical_linguistics)
 - [History of writing](https://en.wikipedia.org/wiki/History_of_writing)
+  - [History of accounting](https://en.wikipedia.org/wiki/History_of_accounting)
   - [History of ancient numeral systems](https://en.wikipedia.org/wiki/History_of_ancient_numeral_systems)
   - [History of books](https://en.wikipedia.org/wiki/History_of_books)
   - [History of encyclopedias](https://en.wikipedia.org/wiki/History_of_encyclopedias)
