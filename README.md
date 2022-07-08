@@ -454,7 +454,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 12.8 kya: [A comet impacted the Earth](https://en.wikipedia.org/wiki/Younger_Dryas#Impact_hypothesis), leaving nanodiamonds as evidence
 - 12.8-11.7 kya: The [Younger Dryas](https://en.wikipedia.org/wiki/Younger_Dryas) occurred, the last cold snap of the [Pleistocene epoch (a.k.a. the Ice Age)](https://en.wikipedia.org/wiki/Pleistocene); global temperatures declined sharply
 - 12.2 kya: [Neolithic age](https://en.wikipedia.org/wiki/Neolithic) began, agriculture existed in the Levant, CO₂ exceeded 250 ppm, global temp rose to the present level
-- 12.2 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Mureybet](https://en.wikipedia.org/wiki/Mureybet) near the [Euphrates River](https://en.wikipedia.org/wiki/Euphrates), the first known settlement with rectangular structures
+- 12.2 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) established [Mureybet](https://en.wikipedia.org/wiki/Mureybet) near the upper [Euphrates River](https://en.wikipedia.org/wiki/Euphrates), building round structures
 - 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 65 m below present, global temp was 2 °C below present
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
 - 12-9 kya: The [Altai floods](https://en.wikipedia.org/wiki/Altai_flood), a series of catastrophic [glacial lake outburst floods (GLOF)](https://en.wikipedia.org/wiki/Glacial_lake_outburst_flood) occurred, creating [giant current ripples](https://en.wikipedia.org/wiki/Giant_current_ripples)
@@ -462,6 +462,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 9500 BCE: People near the upper [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) built [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe), the oldest known temple, using the oldest [megaliths](https://en.wikipedia.org/wiki/Megalith)
 - 9500-9200 BCE: [Meltwater pulse 1B](https://en.wikipedia.org/wiki/Meltwater_pulse_1B) occurred
 - 9400 BCE: People in [Cyprus](https://en.wikipedia.org/wiki/Cyprus) had [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) from the mainland
+- 9300 BCE: [Pre-Pottery Neolithic A (PPNA)](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) settlers in [Mureybet](https://en.wikipedia.org/wiki/Mureybet) near the upper [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) built the first known settlement with rectangular structures
 - 9000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 60 m below present
 - 9000 BCE: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) settled [Jericho](https://en.wikipedia.org/wiki/Jericho)
 - 9000 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) domesticated [peas](https://en.wikipedia.org/wiki/Pea), [wheat](https://en.wikipedia.org/wiki/Wheat), [rye](https://en.wikipedia.org/wiki/Rye), & [barley](https://en.wikipedia.org/wiki/Barley) which tolerates salty soil better than the others
@@ -470,6 +471,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 8500 BCE: People in the [Tigris basin](https://en.wikipedia.org/wiki/Tigris) [domesticated pigs](https://en.wikipedia.org/wiki/Domestic_pig) and [cattle](https://en.wikipedia.org/wiki/Cattle#Domestication_and_husbandry), perhaps near [Çayönü Tepesi](https://en.wikipedia.org/wiki/%C3%87ay%C3%B6n%C3%BC)
 - 8350 BCE: People in the [Levant](https://en.wikipedia.org/wiki/Levant) settled [ʿAin Ghazal ("Spring of the Gazelle")](https://en.wikipedia.org/wiki/%CA%BFAin_Ghazal) by the [Zarqa River](https://en.wikipedia.org/wiki/Zarqa_River), where the city of Amman is today
 - 8000 BCE: People in the [Levant](https://en.wikipedia.org/wiki/Levant) settled [Gesher](https://en.wikipedia.org/wiki/Gesher_%28archaeological_site%29) in the [Jordan Valley](https://en.wikipedia.org/wiki/Jordan_Valley)
+- 8000 BCE: [Pre-Pottery Neolithic A (PPNA)](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) settlers built the [Tower of Jericho](https://en.wikipedia.org/wiki/Tower_of_Jericho), the first known stone building and the tallest structure at 8.5 m until 2650 BCE
 - 8000 BCE: People in what is now [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
 - 8000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 45 m below present
 
@@ -490,7 +492,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 6700 BCE: [Mesopotamians](https://en.wikipedia.org/wiki/Mesopotamia) made [pottery](https://en.wikipedia.org/wiki/Pottery), for example at [Tell Sabi Abyad](https://en.wikipedia.org/wiki/Tell_Sabi_Abyad) in the [Balikh River valley](https://en.wikipedia.org/wiki/Balikh_River)
 - 6550 BCE: [Lake Agassiz](https://en.wikipedia.org/wiki/Lake_Agassiz) emptied into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), raising global sea levels
-- 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea, separating the British Isles from continental Europe via the [English Channel](https://en.wikipedia.org/wiki/English_Channel)
+- 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea, separating the British Isles from continental Europe
 - 6250 BCE: [Lake Ojibway](https://en.wikipedia.org/wiki/Lake_Ojibway) drained into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), possibly affecting [thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation) in the North Atlantic Ocean
 - 6200 BCE: The [8.2-kiloyear event](https://en.wikipedia.org/wiki/8.2-kiloyear_event) occurred, with the global temperature abruptly cooling
 - 6000 BCE: People in [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) domesticated the [chicken](https://en.wikipedia.org/wiki/Chicken)
@@ -523,7 +525,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3900-3500 BCE: Human populations rapidly increased with the spread of agriculture, pottery, the wheel, and animal husbandry, see the [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline)
 - 3800 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Ur](https://en.wikipedia.org/wiki/Ur)
 - 3500 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) and [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) used a heavy stone as a [flywheel](https://en.wikipedia.org/wiki/Flywheel) for the fast [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel)
-- 3500 BCE: The [Botai culture](https://en.wikipedia.org/wiki/Botai_culture) in northern [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) domesticated the [horse](https://en.wikipedia.org/wiki/Horse)
+- 3500 BCE: The [Botai culture](https://en.wikipedia.org/wiki/Botai_culture) near the [Ishim River](https://en.wikipedia.org/wiki/Ishim_%28river%29) in what is now northern [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) domesticated the [horse](https://en.wikipedia.org/wiki/Horse)
 - 3400 BCE: The [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline) began, with human settlements abandoned permanently, decreased cereal production, and the emergence of communicable diseases such as [pneumonic plague](https://en.wikipedia.org/wiki/Pneumonic_plague)
 
 ### Bronze Tools, Writing
@@ -539,7 +541,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3000 BCE: The [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) had many [advanced technologies](https://en.wikipedia.org/wiki/List_of_inventions_and_discoveries_of_the_Indus_Valley_Civilisation), notably [sanitation](https://en.wikipedia.org/wiki/Sanitation_of_the_Indus_Valley_Civilisation) using separate channels for wastewater and rainwater
 - 3000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
+- 2650 BCE: The [Third Dynasty of Egypt](https://en.wikipedia.org/wiki/Third_Dynasty_of_Egypt) constructed the [Pyramid of Djoser](https://en.wikipedia.org/wiki/Pyramid_of_Djoser), the first colossal stone structure and the tallest structure in the world at 62.5 m
 - 2600 BCE: [Western Steppe Herders (WSH)](https://en.wikipedia.org/wiki/Western_Steppe_Herders) migrated across Eurasia, spreading the [Indo-European language family](https://en.wikipedia.org/wiki/Indo-European_languages)
+- 2600 BCE: The [Norte Chico](https://en.wikipedia.org/wiki/Caral-Supe_civilization) in what is now Peru founded the city [Caral](https://en.wikipedia.org/wiki/Caral), building large stone temples
 - 2580-2510 BCE: The [Fourth Dynasty of Egypt](https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt) constructed the [Giza pyramid complex](https://en.wikipedia.org/wiki/Giza_pyramid_complex)
 - 2500 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) [fried food](https://en.wikipedia.org/wiki/Frying)
 - 2500 BCE: The [*Instructions of Shuruppak*](https://en.wikipedia.org/wiki/Instructions_of_Shuruppak), an example of [Sumerian](https://en.wikipedia.org/wiki/Sumer) [wisdom literature](https://en.wikipedia.org/wiki/Wisdom_literature), existed by this time
