@@ -7,6 +7,7 @@ Notable women include:
 
 - [Émilie du Châtelet](https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet)
 - [Elizabeth Fulhame](https://en.wikipedia.org/wiki/Elizabeth_Fulhame)
+- [Mary Ann Mantell](https://en.wikipedia.org/wiki/Mary_Ann_Mantell)
 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
 - [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie)
 - [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt)
