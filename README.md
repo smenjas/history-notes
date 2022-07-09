@@ -493,6 +493,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 6700 BCE: [Mesopotamians](https://en.wikipedia.org/wiki/Mesopotamia) made [pottery](https://en.wikipedia.org/wiki/Pottery), for example at [Tell Sabi Abyad](https://en.wikipedia.org/wiki/Tell_Sabi_Abyad) in the [Balikh River valley](https://en.wikipedia.org/wiki/Balikh_River)
 - 6550 BCE: [Lake Agassiz](https://en.wikipedia.org/wiki/Lake_Agassiz) emptied into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), raising global sea levels
+- 6500 BCE: The [Ubaid people](https://en.wikipedia.org/wiki/Ubaid_period) settled [Tell el-'Oueili](https://en.wikipedia.org/wiki/Tell_el-%27Oueili), the earliest known human settlement in southern [Mesopotamia](https://en.wikipedia.org/wiki/Mesopotamia)
 - 6500-6200 BCE: [Doggerland](https://en.wikipedia.org/wiki/Doggerland) flooded and became the North Sea, separating the British Isles from continental Europe
 - 6250 BCE: [Lake Ojibway](https://en.wikipedia.org/wiki/Lake_Ojibway) drained into [Hudson Bay](https://en.wikipedia.org/wiki/Hudson_Bay), possibly affecting [thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation) in the North Atlantic Ocean
 - 6200 BCE: The [8.2-kiloyear event](https://en.wikipedia.org/wiki/8.2-kiloyear_event) occurred, with the global temperature abruptly cooling
