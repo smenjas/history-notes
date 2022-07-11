@@ -1868,6 +1868,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1982 CE: [David Chaum](https://en.wikipedia.org/wiki/David_Chaum) published *Computer Systems Established, Maintained, and Trusted by Mutually Suspicious Groups*, proposing cryptographically linked record keeping, a.k.a. [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - 1982 CE: [Stephen Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) published *Principles and practice in second language acquisition*, developing the [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
 - 1982 CE: [Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) published [*The Fractal Geometry of Nature*](https://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature)
+- 1982 CE: [Gerd Binnig](https://en.wikipedia.org/wiki/Gerd_Binnig), [Heinrich Rohrer](https://en.wikipedia.org/wiki/Heinrich_Rohrer), [Christoph Gerber](https://en.wikipedia.org/wiki/Christoph_Gerber), and Edmund Weibel published [*Surface Studies by Scanning Tunneling Microscopy*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.49.57), describing the [scanning tunneling microscope (STM)](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope)
 - 1984 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Macintosh](https://en.wikipedia.org/wiki/Macintosh)
 - 1984 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The TeXbook*
 - 1985 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *QED: The Strange Theory of Light and Matter*
@@ -1878,6 +1879,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1986 CE: [Leslie Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport) published *The Definitive, Non-Technical Introduction to [LaTeX](https://en.wikipedia.org/wiki/LaTeX), Professional Typesetting and Scientific Publishing*
 - 1986 CE: [K. Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler) published [*Engines of Creation*](https://en.wikipedia.org/wiki/Engines_of_Creation), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
 - 1986 CE: [Standard Generalized Markup Language (SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) became [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) standard 8879
+- 1986 CE: [Gerd Binnig](https://en.wikipedia.org/wiki/Gerd_Binnig), [Calvin Quate](https://en.wikipedia.org/wiki/Calvin_Quate), and [Christoph Gerber](https://en.wikipedia.org/wiki/Christoph_Gerber) published [*Atomic Force Microscope*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.56.930), describing [atomic force microscopy (AFM)](https://en.wikipedia.org/wiki/Atomic_force_microscopy)
+
 - 1987 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Elementary Particles and the Laws of Physics*
 - 1987 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU C Compiler*](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1987 CE: [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) released the [Perl programming language](https://en.wikipedia.org/wiki/Perl)
