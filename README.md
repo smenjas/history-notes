@@ -1103,7 +1103,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 1800 CE: [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) published a description of an [electric battery](https://en.wikipedia.org/wiki/History_of_the_battery)
 - 1800 CE: [Henry Maudslay](https://en.wikipedia.org/wiki/Henry_Maudslay) developed the first industrially practical [screw-cutting lathe](https://en.wikipedia.org/wiki/Screw-cutting_lathe), allowing [interchangeable](https://en.wikipedia.org/wiki/Interchangeable_parts) nuts & bolts
-- 1801 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published [*Disquisitiones Arithmeticae* (*Arithmetical Investigations*)](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae)
+- 1801 CE: [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) published [*Disquisitiones Arithmeticae* (*Arithmetical Investigations*)](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae), modernizing [number theory](https://en.wikipedia.org/wiki/Number_theory)
 - 1801 CE: [William Smith](https://en.wikipedia.org/wiki/William_Smith_%28geologist%29) published *Delineation of the Strata of England*
 - 1801 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *On the mechanics of the eye*, describing [astigmatism](https://en.wikipedia.org/wiki/Astigmatism) for the first time
 - 1802 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Bakerian Lecture: On the Theory of Light and Colours*, hypothesizing that colour perception depends on 3 kinds of nerve fibers in the [retina](https://en.wikipedia.org/wiki/Retina)
@@ -1634,7 +1634,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 1936 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *On Computable Numbers, with an Application to the Entscheidungsproblem*, describing [Turing machines](https://en.wikipedia.org/wiki/Turing_machine)
 - 1936 CE: [Theodore P. Wright](https://en.wikipedia.org/wiki/Theodore_Paul_Wright) published *Factors affecting the costs of airplanes* describing [Wright's Law](https://en.wikipedia.org/wiki/Experience_curve_effects)
-- 1936 CE: [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) published *An unsolvable problem of elementary number theory*
+- 1936 CE: [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) published *An unsolvable problem of elementary number theory*, inventing [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
 - 1936 CE: [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) published [*How to Win Friends and Influence People*](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
 - 1936 CE: [J. Barkley Rosser](https://en.wikipedia.org/wiki/J._Barkley_Rosser) published *Extensions of some theorems of Gödel and Church*
 - 1936 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The General Theory of Employment, Interest and Money*](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money), an influential book on [macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
