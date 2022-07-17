@@ -1489,6 +1489,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - *Über Inosinsäure* (*On inosic acid*)
   - *Über die Pentose in den Nucleinsäuren* (*On the pentose in the nucleic acids*)
   - *Über die Hefe-Nucleinsäure* (*On the yeast nucleic acid*)
+- 1909 CE: [E. M. Forster](https://en.wikipedia.org/wiki/E._M._Forster) published [*The Machine Stops*](https://en.wikipedia.org/wiki/The_Machine_Stops), predicting the [Internet](https://en.wikipedia.org/wiki/Internet) and [instant messaging (IM)](https://en.wikipedia.org/wiki/Instant_messaging)
 
 ### 1910s
 
