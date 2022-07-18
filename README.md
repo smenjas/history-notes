@@ -1761,6 +1761,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1959 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*The Logic of Scientific Discovery*](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
 - 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented [*There's Plenty of Room at the Bottom*](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
 - 1959 CE: [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) published *[Time Sharing](https://en.wikipedia.org/wiki/Time-sharing) in Large Fast Computers*
+- 1959 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published *A note on two problems in connexion with graphs*, describing [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) to find the [shortest path between two nodes in a graph](https://en.wikipedia.org/wiki/Shortest_path_problem)
 
 ### 1960s
 
@@ -1778,6 +1779,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Quantum Electrodynamics*
 - 1961 CE: [Robert S. Dietz](https://en.wikipedia.org/wiki/Robert_S._Dietz) published *Continent and Ocean Basin Evolution by Spreading of the Sea Floor*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1961 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Reason Begins*, the 7th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
+- 1961 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published *Algol 60 translation : An Algol 60 translator for the X1 and making a translator for Algol 60*, introducing the [shunting yard algorithm](https://en.wikipedia.org/wiki/Shunting_yard_algorithm)
 - 1962 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *History of Ocean Basins*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1962 CE: [Émile Zuckerkandl](https://en.wikipedia.org/wiki/Emile_Zuckerkandl) & [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *Molecular disease, evolution, and genic heterogeneity*
 - 1962 CE: [L. R. Ford, Jr.](https://en.wikipedia.org/wiki/L._R._Ford_Jr.) & [D. R. Fulkerson](https://en.wikipedia.org/wiki/D._R._Fulkerson) published *Network Flows and General Matchings*
@@ -1806,6 +1808,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1965 CE: [Lotfi A. Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh) published *Fuzzy Sets*, a.k.a. [uncertain sets](https://en.wikipedia.org/wiki/Fuzzy_set)
 - 1965 CE: [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson) published *Contaminated and Natural Lead Environments of Man*
 - 1965 CE: [Marija Gimbutas](https://en.wikipedia.org/wiki/Marija_Gimbutas) published *Bronze Age cultures in Central and Eastern Europe*
+- 1965 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*Solution of a problem in concurrent programming control*](https://dl.acm.org/doi/10.1145/365559.365617), proving a solution to the [mutual exclusion](https://en.wikipedia.org/wiki/Mutual_exclusion) problem for [critical sections](https://en.wikipedia.org/wiki/Critical_section)
 - 1966 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Theory of Self-Reproducing Automata*
 - 1966 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) & [Albert Hibbs](https://en.wikipedia.org/wiki/Albert_Hibbs) published [*Quantum Mechanics and Path Integrals*](https://archive.org/details/quantummechanics0000feyn)
 - 1967 CE: [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) published [*On the origin of mitosing cells*](https://www.sciencedirect.com/science/article/abs/pii/0022519367900793)
@@ -1824,6 +1827,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1968 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) & [Bob Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_%28computer_scientist%29) published *The Computer as a Communication Device*, describing [online communities](https://en.wikipedia.org/wiki/Online_community)
 - 1968 CE: [Antony Hewish](https://en.wikipedia.org/wiki/Antony_Hewish), [Jocelyn Bell Burnell](https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell), J. D. H. Pilkington, P. F. Scott, & R. A. Collins published *Observation of a Rapidly Pulsating Radio Source*, announcing Bell's discovery of [radio pulsars](https://en.wikipedia.org/wiki/Pulsar) in 1967
 - 1968 CE: [John Brunner](https://en.wikipedia.org/wiki/John_Brunner_%28novelist%29) published [*Stand on Zanzibar*](https://en.wikipedia.org/wiki/Stand_on_Zanzibar), accurately predicting several future events
+- 1968 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*Go To Statement Considered Harmful*](https://en.wikipedia.org/wiki/Goto#Criticism), arguing for [structured programming](https://en.wikipedia.org/wiki/Structured_programming)
+- 1968 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*The structure of the “THE”-multiprogramming system*](https://dl.acm.org/doi/10.1145/363095.363143), demonstrating [layers of abstraction](https://en.wikipedia.org/wiki/THE_multiprogramming_system), [virtual memory](https://en.wikipedia.org/wiki/Virtual_memory), and [semaphores](https://en.wikipedia.org/wiki/Semaphore_%28programming%29)
 
 #### Internet
 
@@ -1845,6 +1850,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1970 CE: [John W. Drake](https://en.wikipedia.org/wiki/John_W._Drake) published *The Molecular Basis of Mutation*, stating that [DNA replication has about 1.7 mutations per 108 base pairs](https://en.wikipedia.org/wiki/Replisome#Proof-reading_and_error_correction)
 - 1970 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) published *Symmetries and Reflections: Scientific Essays*
 - 1970 CE: [Vera Rubin](https://en.wikipedia.org/wiki/Vera_Rubin) & [Kent Ford](https://en.wikipedia.org/wiki/Kent_Ford_%28astronomer%29) published [*Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions*](https://ui.adsabs.harvard.edu/abs/1970ApJ...159..379R/abstract), establishing that [galaxy rotation curves](https://en.wikipedia.org/wiki/Galaxy_rotation_curve) do not match [Kepler's third law](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion#Third_law), which is evidence of [dark matter](https://en.wikipedia.org/wiki/Dark_matter)
+- 1970 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published *Notes on [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming)*
 - 1971 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published the [*UNIX Programmer's Manual*](https://en.wikipedia.org/wiki/Man_page)
 - 1971 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) published *The Closing Circle*
 - 1971 CE: [Kjell Kleppe](https://en.wikipedia.org/wiki/Kjell_Kleppe) et al. published *Studies on polynucleotides. XCVI. Repair replications of short synthetic DNA's as catalyzed by DNA polymerases*, describing [polymerase chain reaction (PCR)](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)
@@ -1859,6 +1865,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1974 CE: [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf), [Yogen Dalal](https://en.wikipedia.org/wiki/List_of_Internet_pioneers#Yogen_Dalal) & Carl Sunshine published [RFC 675](https://tools.ietf.org/html/rfc675), specifying [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - 1974 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) developed [Standard Generalized Markup Language (SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language), the forerunner of [HTML](https://en.wikipedia.org/wiki/HTML)
 - 1974 CE: [Gerard K. O'Neill](https://en.wikipedia.org/wiki/Gerard_K._O%27Neill) published *The Colonization of Space* describing [space habitats](https://en.wikipedia.org/wiki/Space_habitat)
+- 1974 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*Self-stabilizing Systems in Spite of Distributed Control*](https://dl.acm.org/doi/10.1145/361179.361202)
+- 1975 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*On the role of scientific thought*](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html), introducing the term [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 - 1975 CE: [Atmospheric CO₂ was 314 ppm](https://en.wikipedia.org/wiki/Atmospheric_chemistry)
 - 1975 CE: [Endre Szemerédi](https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di) published *On sets of integers containing no k elements in arithmetic progression*
 - 1975 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Napoleon*, the 11th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
@@ -1906,6 +1914,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1987 CE: [Burn-Jeng Lin](https://en.wikipedia.org/wiki/Burn-Jeng_Lin) published *The future of subhalf-micrometer optical lithography*, proposing [immersion lithography](https://en.wikipedia.org/wiki/Immersion_lithography) for manufacturing [integrated circuits (ICs)](https://en.wikipedia.org/wiki/Integrated_circuit)
 - 1987 CE: [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson), Hiroshi Shirahata, & Jonathon E. Ericson published *Lead in ancient human bones and its relevance to historical developments of social problems with lead*
 - 1988 CE: Monthly average CO₂ exceeded 350 ppm
+- 1988 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*On the Cruelty of Really Teaching Computer Science*](https://en.wikipedia.org/wiki/On_the_Cruelty_of_Really_Teaching_Computer_Science), lamenting that "software engineering has accepted as its charter 'How to program if you cannot.'"
 - 1989 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 1* (GPLv1)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 
 ### 1990s
