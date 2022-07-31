@@ -1824,6 +1824,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1967 CE: [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) published [*Fundamental Concepts in Programming Languages*](https://en.wikipedia.org/wiki/Fundamental_Concepts_in_Programming_Languages)
 - 1967 CE: [Thomas D. Brock](https://en.wikipedia.org/wiki/Thomas_D._Brock) published *Life at High Temperatures*, describing [*Thermus aquaticus*](https://en.wikipedia.org/wiki/Thermus_aquaticus), a [hyperthermophile](https://en.wikipedia.org/wiki/Hyperthermophile)
 - 1967 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) published *The Genetic Code: the Molecular basis for Genetic Expression*, originating the [RNA world hypothesis](https://en.wikipedia.org/wiki/RNA_world)
+- 1967 CE: [Louis Leithold](https://en.wikipedia.org/wiki/Louis_Leithold) published *The Calculus with Analytic Geometry*, simplifying how [calculus](https://en.wikipedia.org/wiki/Calculus) is taught
 - 1968 CE: The [FCC](https://en.wikipedia.org/wiki/Federal_Communications_Commission) ruled that customers can connect "any lawful device" to [AT&T](https://en.wikipedia.org/wiki/AT&T)'s network, a.k.a. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
 - 1968 CE: [Motoo Kimura](https://en.wikipedia.org/wiki/Motoo_Kimura) published *Evolutionary rate at the molecular level*
 - 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
