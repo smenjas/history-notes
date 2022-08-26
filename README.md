@@ -1749,6 +1749,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1952 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Thermodynamik und Statistik* (*Thermodynamics and Statistical Mechanics*), volume 5 of his [*Lectures on Theoretical Physics*](https://en.wikipedia.org/wiki/Lectures_on_Theoretical_Physics)
 - 1952 CE: [Stephen Cole Kleene](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene) published *Introduction to Metamathematics*, proving [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) in ways that aid teaching
 - 1952 CE: [John Forbes Nash Jr.](https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.) published *Real algebraic manifolds*, contributing to [real algebraic geometry](https://en.wikipedia.org/wiki/Real_algebraic_geometry)
+- 1952 CE: [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) published the [A-0 system (Arithmetic Language version 0)](https://en.wikipedia.org/wiki/A-0_System), a [loader](https://en.wikipedia.org/wiki/Loader_%28computing%29) and [linker](https://en.wikipedia.org/wiki/Linker_%28computing%29) that laid the foundation for [compilers](https://en.wikipedia.org/wiki/Compiler)
 - 1953 CE: [James Watson](https://en.wikipedia.org/wiki/James_Watson) & [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick) published *Molecular structure of nucleic acids; a structure for [deoxyribose nucleic acid](https://en.wikipedia.org/wiki/DNA)*, correctly describing the [double helix](https://en.wikipedia.org/wiki/Nucleic_acid_double_helix)
 - 1953 CE: [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin) & [Raymond Gosling](https://en.wikipedia.org/wiki/Raymond_Gosling) published *Molecular configuration in sodium thymonucleate*
 - 1953 CE: [Maurice Wilkins](https://en.wikipedia.org/wiki/Maurice_Wilkins), [Alec Stokes](https://en.wikipedia.org/wiki/Alec_Stokes), & [Herbert Wilson](https://en.wikipedia.org/wiki/Herbert_Wilson) published *Molecular structure of deoxypentose nucleic acids*
@@ -1776,6 +1777,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1958 CE: [Matthew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson) & [Franklin Stahl](https://en.wikipedia.org/wiki/Franklin_Stahl) published [*The replication of DNA in Escherichia coli*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC528642/), confirming Watson & Crick's hypothesis that [DNA replication is semiconservative](https://en.wikipedia.org/wiki/Meselson%E2%80%93Stahl_experiment), i.e. each strand is copied separately
 - 1958 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) & [Alvin M. Weinberg](https://en.wikipedia.org/wiki/Alvin_M._Weinberg) published *Physical Theory of Neutron Chain Reactors*
 - 1958 CE: [Paul Bernays](https://en.wikipedia.org/wiki/Paul_Bernays) published *Axiomatic Set Theory*
+- 1958 CE: [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) and her team released [*FLOW-MATIC*](https://en.wikipedia.org/wiki/FLOW-MATIC), the first [English-like programming language](https://en.wikipedia.org/wiki/Natural-language_programming)
 - 1959 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*The Logic of Scientific Discovery*](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
 - 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented [*There's Plenty of Room at the Bottom*](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
 - 1959 CE: [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) published *[Time Sharing](https://en.wikipedia.org/wiki/Time-sharing) in Large Fast Computers*
@@ -2431,6 +2433,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [History of cartography](https://en.wikipedia.org/wiki/History_of_cartography)
 - [History of computing](https://en.wikipedia.org/wiki/History_of_computing)
   - [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
+  - [History of compiler construction](https://en.wikipedia.org/wiki/History_of_compiler_construction)
   - [History of computing hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
   - [History of computer science](https://en.wikipedia.org/wiki/History_of_computer_science)
   - [History of hypertext](https://en.wikipedia.org/wiki/History_of_hypertext)
