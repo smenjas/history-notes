@@ -12,6 +12,7 @@ Notable women include:
 - [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie)
 - [Henrietta Swan Leavitt](https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt)
 - [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether)
+- [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
 - [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner)
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
 - [Kathleen Booth](https://en.wikipedia.org/wiki/Kathleen_Booth)
