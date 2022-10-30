@@ -425,6 +425,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 23 kya: [Ancestral Native Americans (ANA)](https://en.wikipedia.org/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas) migrated across [Beringia](https://en.wikipedia.org/wiki/Beringia)
 - 23 kya: [Early European Farmers (EEF)](https://en.wikipedia.org/wiki/Early_European_Farmers) split from [Caucasus Hunter-Gatherers (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer)
 - 22 kya: [Ancient North Eurasians (ANE)](https://en.wikipedia.org/wiki/Ancient_North_Eurasian) split from [Western Hunter-Gatherers (WHG)](https://en.wikipedia.org/wiki/Western_Hunter-Gatherer)
+- 21 kya: [Humans walked through what is now White Sands National Park](https://www.usgs.gov/programs/climate-research-and-development-program/news/discovery-ancient-human-footprints-white)
 - 20 kya: [Ancestral Native Americans (ANA)](https://en.wikipedia.org/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas) split from [Ancient Beringians (AB)](https://en.wikipedia.org/wiki/Ancient_Beringian)
 - 20 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 130 m below present
 - 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 120 m below present
