@@ -529,6 +529,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3800 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Ur](https://en.wikipedia.org/wiki/Ur)
 - 3500 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) and [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) used a heavy stone as a [flywheel](https://en.wikipedia.org/wiki/Flywheel) for the fast [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel)
 - 3500 BCE: The [Botai culture](https://en.wikipedia.org/wiki/Botai_culture) near the [Ishim River](https://en.wikipedia.org/wiki/Ishim_%28river%29) in what is now northern [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) domesticated the [horse](https://en.wikipedia.org/wiki/Horse)
+- 3400 BCE: People founded the ancient city of Jawa, and built the [oldest known dams](https://en.wikipedia.org/wiki/Jawa,_Jordan#Water_supply_system)
 - 3400 BCE: The [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline) began, with human settlements abandoned permanently, decreased cereal production, and the emergence of communicable diseases such as [pneumonic plague](https://en.wikipedia.org/wiki/Pneumonic_plague)
 
 ### Bronze Tools, Writing
