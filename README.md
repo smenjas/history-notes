@@ -1232,6 +1232,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1849 CE: [Crawford Long](https://en.wikipedia.org/wiki/Crawford_Long) published *An account of the first use of Sulphuric Ether by Inhalation as an Anaesthetic in Surgical Operations*, describing [anesthesia](https://en.wikipedia.org/wiki/Anesthetic)
 - 1849 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Aspects of nature, in different lands and different climates with scientific elucidations*
 - 1849 CE: [Léon Foucault](https://en.wikipedia.org/wiki/L%C3%A9on_Foucault) published *Lumière électrique* (*Electric light*), describing experiments with absorption and emission lines
+- 1849 CE: [George Stokes](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet) published *On the critical values of the sums of periodic series*
+- 1849 CE: [George Stokes](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet) published *Discussion of a differential equation relating to the breaking of railway bridges*
+- 1849 CE: [George Stokes](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet) published *On the variation of gravity at the surface of the Earth*, describing [Stokes' gravity formula](https://en.wikipedia.org/wiki/Physical_geodesy#Stokes_formula)
 
 ### 1850s
 
@@ -1247,6 +1250,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1851 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Die Menschheit und die Pflanzenwelt* (*Humanity and the flora*)
 - 1851 CE: [Hippolyte Fizeau](https://en.wikipedia.org/wiki/Hippolyte_Fizeau) published *Sur les hypothèses relatives à l'éther lumineux* (*On the Hypotheses Relating to the Luminous Aether*), describing [an experiment to measure the speed of light in water](https://en.wikipedia.org/wiki/Fizeau_experiment)
 - 1851 CE: [Léon Foucault](https://en.wikipedia.org/wiki/L%C3%A9on_Foucault) demonstrated that [a pendulum will rotate](https://en.wikipedia.org/wiki/Foucault_pendulum), providing evidence of Earth's rotation
+- 1851 CE: [George Stokes](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet) published [*On the effect of internal friction of fluids on the motion of pendulums*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015012112531&view=1up&seq=208), introducing [Stokes' law](https://en.wikipedia.org/wiki/Stokes%27_law) describing friction on solid objects passing through viscous fluids (a.k.a. drag)
+- 1852 CE: [George Stokes](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet) published *On the change of refrangibility of light*, describing the [Stokes shift](https://en.wikipedia.org/wiki/Stokes_shift)
 - 1852 CE: [Léon Foucault](https://en.wikipedia.org/wiki/L%C3%A9on_Foucault) published *Sur les phénomènes d’orientation des corps tournants entraînés par un axe fixe à la surface de la terre – Nouveaux signes sensibles du mouvement diurne* (*On the phenomena of the orientation of rotating bodies carried along by an axis fixed to the surface of the earth – New perceptible signs of the daily movement*), naming the [gyroscope](https://en.wikipedia.org/wiki/Gyroscope) and providing evidence of Earth's rotation
 - 1852 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published *Cassandra*, an influential work on [feminism](https://en.wikipedia.org/wiki/Feminism)
 - 1852 CE: [George Jennings](https://en.wikipedia.org/wiki/George_Jennings) patented improvements to the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet), including a one-piece pan and [trap](https://en.wikipedia.org/wiki/Trap_%28plumbing%29)
@@ -1274,6 +1279,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1856 CE: [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass) published *Theorie der Abelschen Funktionen* (*Theory of Abelian Functions*)
 - 1856 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the thermal effects of fluids in motion*, describing the [Joule–Thomson effect](https://en.wikipedia.org/wiki/Joule%E2%80%93Thomson_effect) and promoting the [kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases)
 - 1856 CE: [Henry Samuel Chapman](https://en.wikipedia.org/wiki/Henry_Samuel_Chapman) drafted the "Victorian" or "Australian" voting system using [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot)
+- 1856 CE: [George Stokes](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet) published *On the numerical calculation of a class of definite integrals and infinite series*
 - 1857 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Experiments on Colour, as perceived by the Eye, with Remarks on Colour-Blindness*
 - 1857 CE: [August Kekulé](https://en.wikipedia.org/wiki/August_Kekul%C3%A9) published *Über die s. g. gepaarten Verbindungen und die Theorie der mehratomigen Radicale* (*On the s. g. paired compounds and the theory of polyatomic radicals*), describing carbon as [tetravalent](https://en.wikipedia.org/wiki/Tetravalence)
 - 1857 CE: [Abel Niépce de Saint-Victor](https://en.wikipedia.org/wiki/Abel_Niépce_de_Saint-Victor) published *Mémoire sur une nouvelle action de la lumière* (*Thesis on a new action of light*)
