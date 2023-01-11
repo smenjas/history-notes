@@ -1723,6 +1723,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1939 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Life of Greece*, the 2nd volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1939 CE: [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert) & [Paul Bernays](https://en.wikipedia.org/wiki/Paul_Bernays) published [*Grundlagen der Mathematik* (*Foundations of Mathematics*)](https://en.wikipedia.org/wiki/Grundlagen_der_Mathematik) volume 2
 - 1939 CE: [Leo Szilard](https://en.wikipedia.org/wiki/Leo_Szilard) wrote and [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) signed the [Einstein–Szilard letter](https://en.wikipedia.org/wiki/Einstein%E2%80%93Szil%C3%A1rd_letter) to [Franklin D. Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt), culminating in the [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project)
+- 1939 CE: [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) published *On denumerability in topology*, describing the [Tukey lemma](https://en.wikipedia.org/wiki/Teichm%C3%BCller%E2%80%93Tukey_lemma)
 
 ### 1940s
 
@@ -1757,7 +1758,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1947 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Partielle Differentialgleichungen der Physik* (*Partial Differential Equations in Physics*), volume 6 of his [*Lectures on Theoretical Physics*](https://en.wikipedia.org/wiki/Lectures_on_Theoretical_Physics)
 - 1947 CE: [V. Gordon Childe](https://en.wikipedia.org/wiki/V._Gordon_Childe) published *History*
 - 1947 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) & [Oskar Morgenstern](https://en.wikipedia.org/wiki/Oskar_Morgenstern) published the 2nd edition of their [*Theory of Games and Economic Behavior*](https://en.wikipedia.org/wiki/Theory_of_Games_and_Economic_Behavior), describing the [von Neumann–Morgenstern (VNM) utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem), the basis for [expected utility](https://en.wikipedia.org/wiki/Expected_utility_hypothesis)
-- 1948 CE: [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) published [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication), founding [information theory](https://en.wikipedia.org/wiki/Information_theory)
+- 1948 CE: [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) published [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication), founding [information theory](https://en.wikipedia.org/wiki/Information_theory), and introducing the term ["bit" (short for "binary digit")](https://en.wikipedia.org/wiki/Bit) suggested by [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)
 - 1948 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *The general and logical theory of automata*
 - 1948 CE: [Paul Samuelson](https://en.wikipedia.org/wiki/Paul_Samuelson) & [William Nordhaus](https://en.wikipedia.org/wiki/William_Nordhaus) published [*Economics: An Introductory Analysis*](https://en.wikipedia.org/wiki/Economics_%28textbook%29)
 - 1948 CE: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) published *Rounding-Off Errors in Matrix Processes*
@@ -1767,6 +1768,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1949 CE: [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham) published [*The Intelligent Investor*](https://en.wikipedia.org/wiki/The_Intelligent_Investor), an influential book on [value investing](https://en.wikipedia.org/wiki/Value_investing)
 - 1949 CE: [Dorothy Crowfoot Hodgkin](https://en.wikipedia.org/wiki/Dorothy_Hodgkin) et al. published *X-ray crystallographic investigation of the structure of penicillin*
 - 1949 CE: [Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell) published [*The Hero with a Thousand Faces*](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)
+- 1949 CE: [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) published *Comparing Individual Means in the Analysis of Variance*, introducing [Tukey's range test](https://en.wikipedia.org/wiki/Tukey's_range_test)
+- 1949 CE: [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) published *One degree of freedom for non-additivity*, introducing [Tukey's test of additivity](https://en.wikipedia.org/wiki/Tukey%27s_test_of_additivity)
 
 ### 1950s
 
@@ -1825,6 +1828,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1958 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) & [Alvin M. Weinberg](https://en.wikipedia.org/wiki/Alvin_M._Weinberg) published *Physical Theory of Neutron Chain Reactors*
 - 1958 CE: [Paul Bernays](https://en.wikipedia.org/wiki/Paul_Bernays) published *Axiomatic Set Theory*
 - 1958 CE: [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) and her team released [*FLOW-MATIC*](https://en.wikipedia.org/wiki/FLOW-MATIC), the first [English-like programming language](https://en.wikipedia.org/wiki/Natural-language_programming)
+- 1958 CE: [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) published *The Teaching of Concrete Mathematics*, coining the term [software](https://en.wikipedia.org/wiki/Software)
 - 1959 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*The Logic of Scientific Discovery*](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
 - 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented [*There's Plenty of Room at the Bottom*](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
 - 1959 CE: [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) published *[Time Sharing](https://en.wikipedia.org/wiki/Time-sharing) in Large Fast Computers*
@@ -1848,6 +1852,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1961 CE: [Robert S. Dietz](https://en.wikipedia.org/wiki/Robert_S._Dietz) published *Continent and Ocean Basin Evolution by Spreading of the Sea Floor*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1961 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *The Age of Reason Begins*, the 7th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1961 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published *Algol 60 translation : An Algol 60 translator for the X1 and making a translator for Algol 60*, introducing the [shunting yard algorithm](https://en.wikipedia.org/wiki/Shunting_yard_algorithm)
+- 1961 CE: [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) published *Comparing Individual Means in the Analysis of Variance*, introducing the [Tukey lambda distribution](https://en.wikipedia.org/wiki/Tukey_lambda_distribution)
 - 1962 CE: [Harry Hammond Hess](https://en.wikipedia.org/wiki/Harry_Hammond_Hess) published *History of Ocean Basins*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
 - 1962 CE: [Émile Zuckerkandl](https://en.wikipedia.org/wiki/Emile_Zuckerkandl) & [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *Molecular disease, evolution, and genic heterogeneity*
 - 1962 CE: [L. R. Ford, Jr.](https://en.wikipedia.org/wiki/L._R._Ford_Jr.) & [D. R. Fulkerson](https://en.wikipedia.org/wiki/D._R._Fulkerson) published *Network Flows and General Matchings*
@@ -1881,6 +1886,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1965 CE: [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson) published *Contaminated and Natural Lead Environments of Man*
 - 1965 CE: [Marija Gimbutas](https://en.wikipedia.org/wiki/Marija_Gimbutas) published *Bronze Age cultures in Central and Eastern Europe*
 - 1965 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*Solution of a problem in concurrent programming control*](https://dl.acm.org/doi/10.1145/365559.365617), proving a solution to the [mutual exclusion](https://en.wikipedia.org/wiki/Mutual_exclusion) problem for [critical sections](https://en.wikipedia.org/wiki/Critical_section)
+- 1965 CE: [James Cooley](https://en.wikipedia.org/wiki/James_Cooley) & [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) published *An algorithm for the machine calculation of complex Fourier series*, describing a [fast Fourier transform (FFT)](https://en.wikipedia.org/wiki/Fast_Fourier_transform) algorithm
 - 1966 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Theory of Self-Reproducing Automata*
 - 1966 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) & [Albert Hibbs](https://en.wikipedia.org/wiki/Albert_Hibbs) published [*Quantum Mechanics and Path Integrals*](https://archive.org/details/quantummechanics0000feyn)
 - 1967 CE: [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) published [*On the origin of mitosing cells*](https://www.sciencedirect.com/science/article/abs/pii/0022519367900793)
@@ -1959,6 +1965,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1977 CE: [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese) & [George E. Fox](https://en.wikipedia.org/wiki/George_E._Fox) published *Phylogenetic structure of the prokaryotic domain: the primary kingdoms*, defining [Archaea](https://en.wikipedia.org/wiki/Archaea) and proposing [Woese's dogma](https://en.wikipedia.org/wiki/Woese%27s_dogma)
 - 1977 CE: [Stephen Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) published *Some issues relating to the monitor model*, proposing the [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
 - 1977 CE: [Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) published *[Fractals](https://en.wikipedia.org/wiki/Fractal): Form, Chance and Dimension*
+- 1977 CE: [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) published *Exploratory Data Analysis*, popularizing the [box plot](https://en.wikipedia.org/wiki/Box_plot)
 - 1978 CE: [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - 1978 CE: [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) released the [BSD operating system](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), including [ex](https://en.wikipedia.org/wiki/Ex_%28text_editor%29) and thus [vi](https://en.wikipedia.org/wiki/Vi)
 - 1978 CE: [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) published *Secure Communications Over Insecure Channels*, describing [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
