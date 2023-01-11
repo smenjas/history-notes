@@ -1983,6 +1983,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1982 CE: [Stephen Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) published *Principles and practice in second language acquisition*, developing the [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
 - 1982 CE: [Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) published [*The Fractal Geometry of Nature*](https://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature)
 - 1982 CE: [Gerd Binnig](https://en.wikipedia.org/wiki/Gerd_Binnig), [Heinrich Rohrer](https://en.wikipedia.org/wiki/Heinrich_Rohrer), [Christoph Gerber](https://en.wikipedia.org/wiki/Christoph_Gerber), and Edmund Weibel published [*Surface Studies by Scanning Tunneling Microscopy*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.49.57), describing the [scanning tunneling microscope (STM)](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope)
+- 1983 CE: [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte) published *The Visual Display of Quantitative Information*
 - 1984 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Macintosh](https://en.wikipedia.org/wiki/Macintosh)
 - 1984 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published *The TeXbook*
 - 1985 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *QED: The Strange Theory of Light and Matter*
