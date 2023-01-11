@@ -1794,6 +1794,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1952 CE: [Stephen Cole Kleene](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene) published *Introduction to Metamathematics*, proving [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) in ways that aid teaching
 - 1952 CE: [John Forbes Nash Jr.](https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.) published *Real algebraic manifolds*, contributing to [real algebraic geometry](https://en.wikipedia.org/wiki/Real_algebraic_geometry)
 - 1952 CE: [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) published the [A-0 system (Arithmetic Language version 0)](https://en.wikipedia.org/wiki/A-0_System), a [loader](https://en.wikipedia.org/wiki/Loader_%28computing%29) and [linker](https://en.wikipedia.org/wiki/Linker_%28computing%29) that laid the foundation for [compilers](https://en.wikipedia.org/wiki/Compiler)
+- 1952 CE: [Mary Eleanor Spear](https://en.wikipedia.org/wiki/Mary_Eleanor_Spear) published *Charting Statistics* introducing the [box plot](https://en.wikipedia.org/wiki/Box_plot)
 - 1953 CE: [James Watson](https://en.wikipedia.org/wiki/James_Watson) & [Francis Crick](https://en.wikipedia.org/wiki/Francis_Crick) published *Molecular structure of nucleic acids; a structure for [deoxyribose nucleic acid](https://en.wikipedia.org/wiki/DNA)*, correctly describing the [double helix](https://en.wikipedia.org/wiki/Nucleic_acid_double_helix)
 - 1953 CE: [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin) & [Raymond Gosling](https://en.wikipedia.org/wiki/Raymond_Gosling) published *Molecular configuration in sodium thymonucleate*
 - 1953 CE: [Maurice Wilkins](https://en.wikipedia.org/wiki/Maurice_Wilkins), [Alec Stokes](https://en.wikipedia.org/wiki/Alec_Stokes), & [Herbert Wilson](https://en.wikipedia.org/wiki/Herbert_Wilson) published *Molecular structure of deoxypentose nucleic acids*
@@ -1921,6 +1922,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1969 CE: [Willard Boyle](https://en.wikipedia.org/wiki/Willard_Boyle) & [George E. Smith](https://en.wikipedia.org/wiki/George_E._Smith) invented the [charge-coupled device (CCD)](https://en.wikipedia.org/wiki/Charge-coupled_device)
 - 1969 CE: [James H. Ellis](https://en.wikipedia.org/wiki/James_H._Ellis), [Clifford Cocks](https://en.wikipedia.org/wiki/Clifford_Cocks), and [Malcolm J. Williamson](https://en.wikipedia.org/wiki/Malcolm_J._Williamson) of [GCHQ](https://en.wikipedia.org/wiki/GCHQ) published *The Possibility of Secure Non-Secret Digital Encryption*, proposing public-key [cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 - 1969 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb), Edward Mosher, & Raymond Lorie developed [Generalized Markup Language (GML)](https://en.wikipedia.org/wiki/IBM_Generalized_Markup_Language), the first markup language
+- 1969 CE: [Mary Eleanor Spear](https://en.wikipedia.org/wiki/Mary_Eleanor_Spear) published *Practical Charting Techniques*
 
 ### 1970s
 

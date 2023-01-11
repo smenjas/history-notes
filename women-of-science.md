@@ -16,6 +16,7 @@ Notable women include:
 - [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner)
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
 - [Kathleen Booth](https://en.wikipedia.org/wiki/Kathleen_Booth)
+- [Mary Eleanor Spear](https://en.wikipedia.org/wiki/Mary_Eleanor_Spear)
 - [Katherine Johnson](https://en.wikipedia.org/wiki/Katherine_Johnson)
 - [Dorothy Vaughan](https://en.wikipedia.org/wiki/Dorothy_Vaughan)
 - [Mary Jackson](https://en.wikipedia.org/wiki/Mary_Jackson_(engineer))
