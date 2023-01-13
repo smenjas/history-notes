@@ -68,10 +68,11 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   [Clothing](#clothing), [Dogs](#dogs), [Agriculture](#agriculture)
 - [< 10 Thousand Years Ago](#-10-thousand-years-ago):
   [Cats](#cats), [Pottery](#pottery), [Copper Tools](#copper-tools),
-  [Bronze Tools, Writing](#bronze-tools-writing), [Iron Tools](#iron-tools),
-  [History](#history), [Medicine](#medicine), [Mathematics](#mathematics)
+  [Bronze Tools, Writing](#bronze-tools-writing), [Soap](#soap),
+  [Iron Tools](#iron-tools), [History](#history), [Medicine](#medicine),
+  [Mathematics](#mathematics)
 - [Common Era](#common-era):
-  [Paper](#paper), [Zero](#zero), [Algebra](#algebra), [Soap](#soap)
+  [Paper](#paper), [Zero](#zero), [Algebra](#algebra)
 - [1000s](#1000s):
   [Compass, Movable Type](#compass-movable-type), [Printing Press](#printing-press)
 - [1500s](#1500s)
@@ -545,6 +546,10 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3000 BCE: The [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) had many [advanced technologies](https://en.wikipedia.org/wiki/List_of_inventions_and_discoveries_of_the_Indus_Valley_Civilisation), notably [sanitation](https://en.wikipedia.org/wiki/Sanitation_of_the_Indus_Valley_Civilisation) using separate channels for wastewater and rainwater
 - 3000 BCE: People in what is now [China](https://en.wikipedia.org/wiki/China) domesticated the [silkmoth](https://en.wikipedia.org/wiki/Bombyx_mori)
 - 3000 BCE: People in the [Mediterranean Basin](https://en.wikipedia.org/wiki/Mediterranean_Basin) domesticated the [pigeon](https://en.wikipedia.org/wiki/Domestic_pigeon)
+
+### Soap
+
+- 2800 BCE: People in [Babylon](https://en.wikipedia.org/wiki/Babylon) recorded the earliest known recipe for [soap](https://en.wikipedia.org/wiki/Soap)
 - 2650 BCE: The [Third Dynasty of Egypt](https://en.wikipedia.org/wiki/Third_Dynasty_of_Egypt) constructed the [Pyramid of Djoser](https://en.wikipedia.org/wiki/Pyramid_of_Djoser), the first colossal stone structure in Egypt and the tallest artificial structure in the world at 62.5 m, surpassing the [Tower of Jericho](https://en.wikipedia.org/wiki/Tower_of_Jericho) from 8000 BCE
 - 2600 BCE: [Western Steppe Herders (WSH)](https://en.wikipedia.org/wiki/Western_Steppe_Herders) migrated across Eurasia, spreading the [Indo-European language family](https://en.wikipedia.org/wiki/Indo-European_languages)
 - 2600 BCE: The [Norte Chico](https://en.wikipedia.org/wiki/Caral-Supe_civilization) in what is now Peru founded the city of [Caral](https://en.wikipedia.org/wiki/Caral), building large stone temples
@@ -753,9 +758,6 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 900 CE: [Arab navigators](https://en.wikipedia.org/wiki/Geography_and_cartography_in_medieval_Islam) originated the [kamal](https://en.wikipedia.org/wiki/Kamal_%28navigation%29), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 912 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 915 CE: [Al-Tabari](https://en.wikipedia.org/wiki/Al-Tabari) wrote his [*History of the Prophets and Kings*](https://en.wikipedia.org/wiki/History_of_the_Prophets_and_Kings), a detailed and comprehensive chronicle of Mediterranean and Middle Eastern history
-
-### Soap
-
 - 932 CE: [Al-Razi, a.k.a. Rhazes](https://en.wikipedia.org/wiki/Muhammad_ibn_Zakariya_al-Razi) wrote [*Al-Hawi* (*The Comprehensive Book on Medicine*)](https://en.wikipedia.org/wiki/Al-Hawi), and many other books on medicine, philosophy, and chemistry, describing the modern recipe for [soap](https://en.wikipedia.org/wiki/Soap) by the time he died
 - 946 CE: The [Paektu volcano erupted](https://en.wikipedia.org/wiki/946_eruption_of_Paektu_Mountain) in [Manchuria](https://en.wikipedia.org/wiki/Manchuria)
 - 947 CE: [Al-Masudi](https://en.wikipedia.org/wiki/Al-Masudi) wrote the first edition of [*Murūj aḏ-Ḏahab wa-Maʿādin al-Jawhar* (*Meadows of Gold and Mines of Gems*)](https://en.wikipedia.org/wiki/The_Meadows_of_Gold), a book on [world history](https://en.wikipedia.org/wiki/World_history), the first to combine history and [scientific](https://en.wikipedia.org/wiki/Science) [geography](https://en.wikipedia.org/wiki/Geography) in a large-scale work
