@@ -130,7 +130,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3.5 bya: [Earliest oxygen](https://en.wikipedia.org/wiki/Geological_history_of_oxygen) production in shallow oceans, absorbed by the sea and sea bed
 - 3.5 bya: [Single celled life](https://en.wikipedia.org/wiki/Unicellular_organism) existed
 - ? bya: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis), existed
-- ? bya: The [cell nucleus](https://en.wikipedia.org/wiki/Cell_nucleus) (present in archaea & eukaryotes, but not eubacteria) existed
+- 3.2 bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
 - 2.9 bya: The [Pongola glaciation](https://en.wikipedia.org/wiki/Mesoarchean) occurred
 - 2.8-2.4 bya: The supercontinent [Ur](https://en.wikipedia.org/wiki/Ur_%continent%29) existed
 - 2.7-2.5 bya: The supercontinent [Kenorland](https://en.wikipedia.org/wiki/Kenorland) existed
@@ -140,7 +140,6 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2.45-2.22 bya: [Huronian glaciation](https://en.wikipedia.org/wiki/Huronian_glaciation), caused by oxygen
 - 2.4 bya: An asteroid impacted Earth, creating the [Suavjärvi crater](https://en.wikipedia.org/wiki/Suavjärvi_crater) which is 3 km in diameter
 - 2.4-2.05 bya: [Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event), Earth's 3rd atmosphere began
-- ? bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
 
 ### Mitochondria
 
@@ -151,6 +150,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1.85 bya: The [Boring Billion](https://en.wikipedia.org/wiki/Boring_Billion) began; O₂ reached 0.03 atm, but oceans and seabed rock absorbed most of it
 - 1.849 bya: A comet impacted Earth, creating the [Sudbury Basin](https://en.wikipedia.org/wiki/Sudbury_Basin) which is 130 km in diameter
 - 1.8-1.4 bya: The supercontinent [Nuna](https://en.wikipedia.org/wiki/Columbia_%28supercontinent%29) existed
+- 1.5 bya: The [cell nucleus](https://en.wikipedia.org/wiki/Cell_nucleus) (present in archaea & eukaryotes, but not eubacteria) existed
 
 ### Chloroplasts
 
