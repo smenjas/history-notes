@@ -924,9 +924,6 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1665 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) published [*Micrographia*](https://en.wikipedia.org/wiki/Micrographia), coining the biological term [cell](https://en.wikipedia.org/wiki/Cell_%28biology%29)
 - 1665 CE: [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) posthumously published *Traité du triangle arithmétique* (*Treaty of the arithmetic triangle*), describing [Pascal's triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
 - 1666 CE: [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) described a [reflecting instrument](https://en.wikipedia.org/wiki/Reflecting_instrument), which is useful for [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation), specifically finding [longitude](https://en.wikipedia.org/wiki/Longitude), i.e. one's east-west position on Earth
-
-### Calculus
-
 - 1667 CE: [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) published *Lectiones Opticae et Geometricae* (*Optics & Geometrics Lessons*), demonstrating the [fundamental theorem of calculus](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus)
 - 1668 CE: [Francesco Redi](https://en.wikipedia.org/wiki/Francesco_Redi) published *Esperienze Intorno alla Generazione degli Insetti* (*Experiments on the Generation of Insects*), disproving [spontaneous generation](https://en.wikipedia.org/wiki/Spontaneous_generation) by an experiment using a sealed jar
 - 1669 CE: [Nicolas Steno](https://en.wikipedia.org/wiki/Nicolas_Steno) published *De solido intra solidum naturaliter contento dissertationis prodromus* (*Preliminary discourse to a dissertation on a solid body naturally contained within a solid*), defining [stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy), and founding [geology](https://en.wikipedia.org/wiki/Geology), [paleontology](https://en.wikipedia.org/wiki/Paleontology), and [crystallography](https://en.wikipedia.org/wiki/Crystallography)
@@ -942,6 +939,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1682 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered the banded pattern of [muscular fibers](https://en.wikipedia.org/wiki/Muscle)
 - 1683 CE: [Anton van Leeuwenhoek](https://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek) discovered [bacteria](https://en.wikipedia.org/wiki/Bacteria)
 - 1683 CE: [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) published *Lectiones Mathematicae* (*Mathematics Lessons*)
+
+### Calculus
+
 - 1684 CE: [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) published [*Nova Methodus pro Maximis et Minimis* (*New method for maximums and minimums*)](https://en.wikipedia.org/wiki/Nova_Methodus_pro_Maximis_et_Minimis), introducing [infinitesimal calculus](https://en.wikipedia.org/wiki/Calculus)
 - 1684 CE: [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) sent [Edmond Halley](https://en.wikipedia.org/wiki/Edmond_Halley) the manuscript [*De motu corporum in gyrum* (*On the motion of bodies in an orbit*)](https://en.wikipedia.org/wiki/De_motu_corporum_in_gyrum)
 - 1685 CE: [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli) published *Quæstiones nonnullæ de usuris, cum solutione problematis de sorte alearum* (*Some questions about interest, with a solution of a problem about games of chance*), where he derived the [mathematical constant *e*](https://en.wikipedia.org/wiki/E_%28mathematical_constant%29) while studying [compound interest](https://en.wikipedia.org/wiki/Compound_interest)
