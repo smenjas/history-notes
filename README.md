@@ -720,6 +720,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 180 CE: [Pausanias](https://en.wikipedia.org/wiki/Pausanias_%28geographer%29) wrote his *Hellados Periegesis* (*Description of Greece*), a gift to [modern archaeology](https://en.wikipedia.org/wiki/Modern_archaeology)
 - 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote [*Lives and Opinions of Eminent Philosophers*](https://en.wikipedia.org/wiki/Lives_and_Opinions_of_Eminent_Philosophers)
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) wrote commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art), demonstrating [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
+- 298 CE: [Diophantus](https://en.wikipedia.org/wiki/Diophantus) published *Arithmetica* by the time he died, introducing [algebraic](https://en.wikipedia.org/wiki/Algebraic_equation) and [Diophantine equations](https://en.wikipedia.org/wiki/Diophantine_equation)
 - 313 CE: The [Sogdian alphabet](https://en.wikipedia.org/wiki/Sogdian_alphabet) descended from the Syriac alphabet
 - 374 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 400 CE: The [Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
