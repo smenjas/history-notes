@@ -876,6 +876,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1588 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De Mundi Aetherei Recentioribus Phaenomenis Liber Secundus* (*Second Book About Recent Phenomena in the Celestial World*)
 - 1591 CE: [François Viète](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Vi%C3%A8te) published *In artem analyticem isagoge* (*Introduction to the art of analysis*), a.k.a. *Algebra Nova* (*New Algebra*), introducing modern [algebra](https://en.wikipedia.org/wiki/Algebra) notation, using letters to represent variables
 - 1593 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) invented the modern [thermometer](https://en.wikipedia.org/wiki/Thermometer)
+- 1594 CE: [Philip II of Spain](https://en.wikipedia.org/wiki/Philip_II_of_Spain) established the [eight-hour work day](https://en.wikipedia.org/wiki/Eight-hour_day) in the [Spanish Empire](https://en.wikipedia.org/wiki/Spanish_Empire)
 - 1596 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published a new edition of *Thesaurus geographicus* (*Geographic treasure*), and proposed [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
 - 1596 CE: [John Harington](https://en.wikipedia.org/wiki/John_Harington_%28writer%29) published *A New Discourse of a Stale Subject, Called the Metamorphosis of Ajax*, describing an early [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet)
 - 1596 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published [*Mysterium Cosmographicum* (*The Cosmographic Mystery*)](https://en.wikipedia.org/wiki/Mysterium_Cosmographicum), defending [heliocentrism](https://en.wikipedia.org/wiki/Heliocentrism)
@@ -1586,6 +1587,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1919 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The Economic Consequences of the Peace*](https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace)
 - 1919 CE: [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) published *Collision of α particles with light atoms. IV. An anomalous effect in nitrogen*, describing [proton](https://en.wikipedia.org/wiki/Proton) emission
 - 1919 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Atombau und Spektrallinien* (*Atomic Structure and Spectral Lines*)
+- 1919 CE: The [International Labour Organization (ILO)](https://en.wikipedia.org/wiki/International_Labour_Organization) established the [eight-hour work day](https://en.wikipedia.org/wiki/Eight-hour_day) and [48-hour workweek](https://en.wikipedia.org/wiki/Workweek_and_weekend) at the [Hours of Work (Industry) Convention](https://en.wikipedia.org/wiki/Hours_of_Work_%28Industry%29_Convention,_1919)
 
 ### 1920s
 
