@@ -2016,7 +2016,6 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1986 CE: [K. Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler) published [*Engines of Creation*](https://en.wikipedia.org/wiki/Engines_of_Creation), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
 - 1986 CE: [Standard Generalized Markup Language (SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language) became [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) standard 8879
 - 1986 CE: [Gerd Binnig](https://en.wikipedia.org/wiki/Gerd_Binnig), [Calvin Quate](https://en.wikipedia.org/wiki/Calvin_Quate), and [Christoph Gerber](https://en.wikipedia.org/wiki/Christoph_Gerber) published [*Atomic Force Microscope*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.56.930), describing [atomic force microscopy (AFM)](https://en.wikipedia.org/wiki/Atomic_force_microscopy)
-
 - 1987 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Elementary Particles and the Laws of Physics*
 - 1987 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU C Compiler*](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - 1987 CE: [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) released the [Perl programming language](https://en.wikipedia.org/wiki/Perl)
@@ -2119,6 +2118,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2012 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model S](https://en.wikipedia.org/wiki/Tesla_Model_S), a somewhat expensive, practical electric car
 - 2012 CE: Cassan et al. published [One or more bound planets per Milky Way star from microlensing observations](https://arxiv.org/abs/1202.0903)
 - 2012 CE: [Carl Sassenrath](https://en.wikipedia.org/wiki/Carl_Sassenrath) released the [Rebol programming language](https://en.wikipedia.org/wiki/Rebol) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2012 CE: [Microsoft](https://en.wikipedia.org/wiki/Microsoft) released [TypeScript](https://en.wikipedia.org/wiki/TypeScript) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2013 CE: Monthly average CO₂ exceeded 400 ppm
 - 2015 CE: [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith) et al. published [*A higher level classification of all living organisms*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119248)
 - 2015 CE: Anja Spang et al. published [*Complex archaea that bridge the gap between prokaryotes and eukaryotes*](https://www.nature.com/articles/nature14447)
