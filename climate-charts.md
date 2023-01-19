@@ -135,6 +135,14 @@ leveling out since then.
 
 ---
 
+[![Human population graph](img/Population_curve.svg)](https://commons.wikimedia.org/wiki/File:Population_curve.svg)
+
+Above: Graph of human population from 10000 BCE to 2000 CE. It shows
+exponential rise in world population that has taken place since the end of the
+seventeenth century.
+
+---
+
 [![2000 Year Temperature Comparison](img/2000_Year_Temperature_Comparison.png)](https://commons.wikimedia.org/wiki/File:2000_Year_Temperature_Comparison.png)
 
 Above: Global temperature over the last 2 thousand years, on a linear

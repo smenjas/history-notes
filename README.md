@@ -460,6 +460,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 12 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 65 m below present, global temp was 2 °C below present
 - 12 kya: People in [Asia](https://en.wikipedia.org/wiki/Asia) domesticated the [bottle gourd](https://en.wikipedia.org/wiki/Bottle_gourd)
 - 12-9 kya: The [Altai floods](https://en.wikipedia.org/wiki/Altai_flood), a series of catastrophic [glacial lake outburst floods (GLOF)](https://en.wikipedia.org/wiki/Glacial_lake_outburst_flood) occurred, creating [giant current ripples](https://en.wikipedia.org/wiki/Giant_current_ripples)
+- 12 kya: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded four million people
 - 9700 BCE: The [Holocene epoch](https://en.wikipedia.org/wiki/Holocene) and [Boreal age](https://en.wikipedia.org/wiki/Boreal_%28age%29) began, ending the [Last Glacial Period (LGP)](https://en.wikipedia.org/wiki/Last_Glacial_Period); global temperatures increased, CO₂ was 270 ppm
 - 9670 BCE: [Pre-Pottery Neolithic A (PPNA)](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) settlers near the [Queiq (a.k.a. Aleppo) River](https://en.wikipedia.org/wiki/Queiq) built [Tell Qaramel](https://en.wikipedia.org/wiki/Tell_Qaramel), the earliest known stone tower
 - 9500 BCE: People near the upper [Euphrates River](https://en.wikipedia.org/wiki/Euphrates) built [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe), the oldest known temple, using the oldest [megaliths](https://en.wikipedia.org/wiki/Megalith)
@@ -477,6 +478,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 8000 BCE: [Pre-Pottery Neolithic A (PPNA)](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) settlers built the [Tower of Jericho](https://en.wikipedia.org/wiki/Tower_of_Jericho), the tallest artificial structure at 8.5 m until 2650 BCE
 - 8000 BCE: People in what is now [Iran](https://en.wikipedia.org/wiki/Iran) domesticated the [goat](https://en.wikipedia.org/wiki/Goat)
 - 8000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 45 m below present
+- 8000 BCE: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded five million people
 
 ## < 10 Thousand Years Ago
 
@@ -585,6 +587,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1200-1150 BCE: The [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) occurred, with invading [Sea Peoples](https://en.wikipedia.org/wiki/Sea_Peoples) introducing iron in large quantities to the eastern Mediterranean
 - 1050 BCE: [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) wrote using the [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet), descended from Linear B
 - 1000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1 m below present
+- 1000 BCE: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded fifty million people
 - 900 BCE: [Olmecs](https://en.wikipedia.org/wiki/Olmecs) carved characters into the [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block)
 - 800 BCE: The [Greek alphabet](https://en.wikipedia.org/wiki/Archaic_Greek_alphabets) descended from the Phoenician alphabet, introducing vowels
 - 800 BCE: The [Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet) descended from the Phoenician alphabet
@@ -607,6 +610,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 530 BCE: [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) founded a school at [Croton](https://en.wikipedia.org/wiki/Crotone)
 - 500 BCE: [Darius I](https://en.wikipedia.org/wiki/Darius_the_Great) standardized the [Aramaic alphabet](https://en.wikipedia.org/wiki/Aramaic_alphabet), descended from the Phoenician alphabet
 - 500 BCE: [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) wrote [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War)
+- 500 BCE: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded one hundred million people
 - 476 BCE: [Hecataeus of Miletus](https://en.wikipedia.org/wiki/Hecataeus_of_Miletus) wrote *Περίοδος γῆς* (*Periodos ges*, *Journey Around the Earth* or *World Survey*), and *Γενεαλογίαι* (*Genealogiai*) or the *Ἱστορία* (*Historia*) by the time he died
 - 472 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)' [tragedy](https://en.wikipedia.org/wiki/Greek_tragedy) [*The Persians*](https://en.wikipedia.org/wiki/The_Persians) won first prize in the Athens City [Dionysia festival](https://en.wikipedia.org/wiki/Dionysia)
 - 458 BCE: [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)' [tragedy](https://en.wikipedia.org/wiki/Greek_tragedy) [*The Oresteia*](https://en.wikipedia.org/wiki/Oresteia) won first prize in the Athens City [Dionysia festival](https://en.wikipedia.org/wiki/Dionysia)
@@ -734,6 +738,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 525 CE: [Dionysius Exiguus](https://en.wikipedia.org/wiki/Dionysius_Exiguus) invented the [*Anno Domini*](https://en.wikipedia.org/wiki/Anno_Domini) [calendar era](https://en.wikipedia.org/wiki/Calendar_era), an alternative to the [Era of the Martyrs](https://en.wikipedia.org/wiki/Era_of_the_Martyrs)
 - 529 CE: [Justinian I](https://en.wikipedia.org/wiki/Justinian_I) ordered [Tribonian](https://en.wikipedia.org/wiki/Tribonian) to compile the [*Corpus Juris Civilis* (*Body of Civil Law*)](https://en.wikipedia.org/wiki/Corpus_Juris_Civilis), an influential work in [jurisprudence](https://en.wikipedia.org/wiki/Jurisprudence)
 - 536 CE: The [volcanic winter of 536](https://en.wikipedia.org/wiki/Volcanic_winter_of_536) occurred, beginning the [Late Antique Little Ice Age (LALIA)](https://en.wikipedia.org/wiki/Late_Antique_Little_Ice_Age)
+- 600 CE: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded two hundred million people
 - 607 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 613 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote *De natura rerum* (*On the Nature of Things*), mentioning "pestifera semina" ("plague-bearing seeds")
 
@@ -772,6 +777,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ## 1000s
 
+- 1000 CE: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded three hundred million people
 - 1000 CE: Soudas wrote the [Suda](https://en.wikipedia.org/wiki/Suda), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote [*al-Athar al-Baqqiya 'an al-Qorun al-Khaliyya* (*The remaining traces of past centuries*)](https://en.wikipedia.org/wiki/The_Remaining_Signs_of_Past_Centuries)
 - 1021 CE: [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham) wrote [*Kitāb al-Manāẓir* (*Book of Optics*)](https://en.wikipedia.org/wiki/Book_of_Optics), among many other works on physics, mathematics, and astronomy
@@ -800,6 +806,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1240 CE: [Bartholomeus Anglicus (Bartholomew of England)](https://en.wikipedia.org/wiki/Bartholomeus_Anglicus) compiled *De proprietatibus rerum* (*On the Properties of Things*), a widely translated [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1247 CE: [Qin Jiushao](https://en.wikipedia.org/wiki/Qin_Jiushao) wrote [*Mathematical Treatise in Nine Sections*](https://en.wikipedia.org/wiki/Mathematical_Treatise_in_Nine_Sections), the oldest surviving [Chinese mathematical](https://en.wikipedia.org/wiki/Chinese_mathematics) text using a round symbol for [zero](https://en.wikipedia.org/wiki/0)
 - 1250 CE: [Tata-tonga](https://en.wikipedia.org/wiki/Tata-tonga) introduced the [Old Uyghur alphabet](https://en.wikipedia.org/wiki/Old_Uyghur_alphabet) to [Genghis Khan](https://en.wikipedia.org/wiki/Genghis_Khan), and adapted it into [Mongolian script](https://en.wikipedia.org/wiki/Mongolian_script)
+- 1250 CE: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded four hundred million people
 - 1257 CE: The [Samalas volcano erupted](https://en.wikipedia.org/wiki/1257_Samalas_eruption) in present day [Indonesia](https://en.wikipedia.org/wiki/Indonesia), and may have contributed to the [Little Ice Age](https://en.wikipedia.org/wiki/Little_Ice_Age)
 - 1258 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) rescued about 400,000 manuscripts from the [Bayt al-Hikma (House of Wisdom)](https://en.wikipedia.org/wiki/House_of_Wisdom) library before [Hulagu Khan sacked Baghdad](https://en.wikipedia.org/wiki/Siege_of_Baghdad_%281258%29)
 - 1259 CE: [Tusi](https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi) convinced [Hulagu Khan](https://en.wikipedia.org/wiki/Hulagu_Khan) to build the [Maragheh observatory](https://en.wikipedia.org/wiki/Maragheh_observatory)
@@ -833,6 +840,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ## 1500s
 
+- 1500 CE: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded five hundred million people
 - 1501 CE: [Giorgio Valla](https://en.wikipedia.org/wiki/Giorgio_Valla) published *De expetendis et fugiendis rebus* (*On Desired & Avoided Affairs*), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) containing newly discovered and translated [ancient Greek mathematical](https://en.wikipedia.org/wiki/Greek_mathematics) texts
 - 1503 CE: [Gregor Reisch](https://en.wikipedia.org/wiki/Gregor_Reisch%29) published the *Margarita Philosophica*, an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) explaining the [7 liberal arts](https://en.wikipedia.org/wiki/Liberal_arts_education#Seven_liberal_arts)
 - 1505 CE: [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) published [*Codex on the Flight of Birds*](https://en.wikipedia.org/wiki/Codex_on_the_Flight_of_Birds)
@@ -1125,6 +1133,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1804 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *Experiments and Calculations Relative to Physical Optics*
 - 1804 CE: [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard) invented the [Jacquard Loom](https://en.wikipedia.org/wiki/Jacquard_machine)
 - 1804 CE: The [French Consulate](https://en.wikipedia.org/wiki/French_Consulate) established the [Napoleonic Code](https://en.wikipedia.org/wiki/Napoleonic_Code), a major step in replacing [feudal laws](https://en.wikipedia.org/wiki/Feudalism)
+- 1804 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded one billion people
 - 1805 CE: [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) published *An Essay on the Cohesion of Fluids*
 - 1805 CE: [John Dalton](https://en.wikipedia.org/wiki/John_Dalton) published *On the Absorption of Gases by Water and other Liquids*, introducing his [law of multiple proportions](https://en.wikipedia.org/wiki/Law_of_multiple_proportions)
 - 1805 CE: [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) published volume 4 of [*Traité de mécanique céleste* (*Treatise of celestial mechanics*)](https://en.wikipedia.org/wiki/Trait%C3%A9_de_m%C3%A9canique_c%C3%A9leste)
@@ -1628,6 +1637,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1927 CE: [Nikolai Koltsov](https://en.wikipedia.org/wiki/Nikolai_Koltsov) presented *Физико-химические основы морфологии* (*The physical-chemical basis of morphology*), proposing that inherited traits would be inherited via a "giant hereditary molecule" made up of "two mirror strands that would replicate in a semi-conservative fashion using each strand as a template", a.k.a. [DNA](https://en.wikipedia.org/wiki/DNA)
 - 1927 CE: [Philo Farnsworth](https://en.wikipedia.org/wiki/Philo_Farnsworth) patented his [image dissector](https://en.wikipedia.org/wiki/Image_dissector), an electronic video camera
 - 1927 CE: [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) published *Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik* (*On the descriptive content of quantum theoretical kinematics and mechanics*), describing his [uncertainty principle](https://en.wikipedia.org/wiki/Uncertainty_principle)
+- 1927 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded two billion people
 - 1928 CE: [Arthur Holmes](https://en.wikipedia.org/wiki/Arthur_Holmes) published *Radioactivity and Earth movements*, proposing [mantle convection](https://en.wikipedia.org/wiki/Mantle_convection)
 - 1928 CE: [Frederick Griffith](https://en.wikipedia.org/wiki/Frederick_Griffith) published *The significance of pneumococcal types*, providing the first [clear suggestion](https://en.wikipedia.org/wiki/Griffith%27s_experiment) that [DNA](https://en.wikipedia.org/wiki/DNA) carries genetic information
 - 1928 CE: [Philo Farnsworth](https://en.wikipedia.org/wiki/Philo_Farnsworth) demonstrated [electronic television](https://en.wikipedia.org/wiki/History_of_television#Electronic_television)
@@ -1857,6 +1867,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1960 CE: [J. C. R. Licklider](https://en.wikipedia.org/wiki/J._C._R._Licklider) published [*Man-Computer Symbiosis*](https://en.wikipedia.org/wiki/Man-Computer_Symbiosis)
 - 1960 CE: [Eric Lenneberg](https://en.wikipedia.org/wiki/Eric_Lenneberg) published *The Capacity of Language Acquisition*
 - 1960 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) published [*The Unreasonable Effectiveness of Mathematics in the Natural Sciences*](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences)
+- 1960 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded three billion people
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Theory of Fundamental Processes*
 - 1961 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented *Quantum Electrodynamics*
 - 1961 CE: [Robert S. Dietz](https://en.wikipedia.org/wiki/Robert_S._Dietz) published *Continent and Ocean Basin Evolution by Spreading of the Sea Floor*, describing [seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading)
@@ -1960,6 +1971,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1974 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) developed [Standard Generalized Markup Language (SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language), the forerunner of [HTML](https://en.wikipedia.org/wiki/HTML)
 - 1974 CE: [Gerard K. O'Neill](https://en.wikipedia.org/wiki/Gerard_K._O%27Neill) published *The Colonization of Space* describing [space habitats](https://en.wikipedia.org/wiki/Space_habitat)
 - 1974 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*Self-stabilizing Systems in Spite of Distributed Control*](https://dl.acm.org/doi/10.1145/361179.361202)
+- 1974 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded four billion people
 - 1975 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*On the role of scientific thought*](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html), introducing the term [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 - 1975 CE: [Atmospheric CO₂ was 314 ppm](https://en.wikipedia.org/wiki/Atmospheric_chemistry)
 - 1975 CE: [Endre Szemerédi](https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di) published *On sets of integers containing no k elements in arithmetic progression*
@@ -2010,6 +2022,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1987 CE: [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) released the [Perl programming language](https://en.wikipedia.org/wiki/Perl)
 - 1987 CE: [Burn-Jeng Lin](https://en.wikipedia.org/wiki/Burn-Jeng_Lin) published *The future of subhalf-micrometer optical lithography*, proposing [immersion lithography](https://en.wikipedia.org/wiki/Immersion_lithography) for manufacturing [integrated circuits (ICs)](https://en.wikipedia.org/wiki/Integrated_circuit)
 - 1987 CE: [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson), Hiroshi Shirahata, & Jonathon E. Ericson published *Lead in ancient human bones and its relevance to historical developments of social problems with lead*
+- 1987 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded five billion people
 - 1988 CE: Monthly average CO₂ exceeded 350 ppm
 - 1988 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*On the Cruelty of Really Teaching Computer Science*](https://en.wikipedia.org/wiki/On_the_Cruelty_of_Really_Teaching_Computer_Science), lamenting that "software engineering has accepted as its charter 'How to program if you cannot.'"
 - 1989 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 1* (GPLv1)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
@@ -2053,6 +2066,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant](https://arxiv.org/abs/astro-ph/9805201)
   - [Measurements of Omega and Lambda from 42 High-Redshift Supernovae](https://arxiv.org/abs/astro-ph/9812133)
 - 1998 CE: [Sergey Brin](https://en.wikipedia.org/wiki/Sergey_Brin) & [Larry Page](https://en.wikipedia.org/wiki/Larry_Page) published *The Anatomy of a Large-Scale Hypertextual Web Search Engine*, describing the [PageRank algorithm](https://en.wikipedia.org/wiki/PageRank) used by [Google Search](https://en.wikipedia.org/wiki/Google_Search)
+- 1999 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded six billion people
 
 ## 2000s
 
@@ -2101,6 +2115,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPad](https://en.wikipedia.org/wiki/IPad), a practical [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics) [tablet computer](https://en.wikipedia.org/wiki/Tablet_computer) with a [capacitive touchscreen](https://en.wikipedia.org/wiki/Touchscreen#Capacitive), popularizing [multitouch displays](https://en.wikipedia.org/wiki/Multi-touch)
 - 2011 CE: Monthly average CO₂ exceeded 390 ppm
 - 2011 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 4A*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+- 2011 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded seven billion people
 - 2012 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model S](https://en.wikipedia.org/wiki/Tesla_Model_S), a somewhat expensive, practical electric car
 - 2012 CE: Cassan et al. published [One or more bound planets per Milky Way star from microlensing observations](https://arxiv.org/abs/1202.0903)
 - 2012 CE: [Carl Sassenrath](https://en.wikipedia.org/wiki/Carl_Sassenrath) released the [Rebol programming language](https://en.wikipedia.org/wiki/Rebol) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
@@ -2124,6 +2139,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2020 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [launched the first commercial crewed orbital flight, and landed the first stage](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2)
 - 2020 CE: [Apple switched from Intel x86 chips to a custom ARM design](https://en.wikipedia.org/wiki/Apple_M1)
 - 2022 CE: Monthly average CO₂ exceeded 420 ppm
+- 2022 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded eight billion people
 
 ---
 
