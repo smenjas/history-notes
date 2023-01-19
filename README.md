@@ -566,6 +566,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2000 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) in [Larsa](https://en.wikipedia.org/wiki/Larsa) inscribed the [*Sumerian King List*](https://en.wikipedia.org/wiki/Sumerian_King_List) on a clay tablet
 - 2000 BCE: The [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) inscribed [copper plates](https://en.wikipedia.org/wiki/Indian_copper_plate_inscriptions), perhaps for printing
 - 2000 BCE: The last [woolly mammoths](https://en.wikipedia.org/wiki/Woolly_mammoth) lived on [Wrangel Island](https://en.wikipedia.org/wiki/Wrangel_Island)
+- 2000 BCE: [Babylonians](https://en.wikipedia.org/wiki/Babylonia) used a [seven day week](https://en.wikipedia.org/wiki/Week), and a [positional sexagesimal (base-60) number system](https://en.wikipedia.org/wiki/Babylonian_cuneiform_numerals) which is the basis for 60 minutes per hour and 360 degrees in a circle
 
 ### Iron Tools
 
@@ -722,6 +723,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) wrote commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art), demonstrating [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 298 CE: [Diophantus](https://en.wikipedia.org/wiki/Diophantus) published *Arithmetica* by the time he died, introducing [algebraic](https://en.wikipedia.org/wiki/Algebraic_equation) and [Diophantine equations](https://en.wikipedia.org/wiki/Diophantine_equation)
 - 313 CE: The [Sogdian alphabet](https://en.wikipedia.org/wiki/Sogdian_alphabet) descended from the Syriac alphabet
+- 321 CE: [Constantine I](https://en.wikipedia.org/wiki/Constantine_the_Great) decreed a seven day week in the Roman Empire, and made Sunday a public holiday
 - 374 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 400 CE: The [Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) descended from the Nabataean alphabet
 - 400 CE: [Joannes Stobaeus](https://en.wikipedia.org/wiki/Stobaeus) compiled *Eklogon, apophthegmaton, hypothekon biblia tessara* (*Four Books of Extracts, Sayings and Precepts*) an [anthology](https://en.wikipedia.org/wiki/Anthology) of [classical Greek](https://en.wikipedia.org/wiki/Classical_Greece) literature including the [Delphic maxims](https://en.wikipedia.org/wiki/Delphic_maxims), e.g. ["Know thyself"](https://en.wikipedia.org/wiki/Know_thyself)
