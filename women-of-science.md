@@ -23,6 +23,7 @@ Notable women include:
 - [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29)
 - [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin)
 - [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp)
+- [Jocelyn Bell Burnell](https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell)
 - [Gladys West](https://en.wikipedia.org/wiki/Gladys_West)
 
 ## Resources
