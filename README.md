@@ -2113,6 +2113,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released the [Chromium web browser](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29), based on [WebKit](https://en.wikipedia.org/wiki/WebKit), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2008 CE: [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) published *Bitcoin: A Peer-to-Peer Electronic Cash System*, describing a [digital currency](https://en.wikipedia.org/wiki/Digital_currency) based on [blockchain](https://en.wikipedia.org/wiki/Blockchain)
 - 2009 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Node.js](https://en.wikipedia.org/wiki/Node.js) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2009 CE: Stefan Schmidt published [*Shall We Really Do It Again? The Powerful Concept of Replication Is Neglected in the Social Sciences*](https://www.researchgate.net/publication/232450980_Shall_We_Really_Do_It_Again_The_Powerful_Concept_of_Replication_Is_Neglected_in_the_Social_Sciences), calling attention to the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)
 
 ### 2010s
 
