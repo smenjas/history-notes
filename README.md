@@ -403,7 +403,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 120 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present, [sea level was 6 m above present, warmest in the past 3 million years](https://en.wikipedia.org/wiki/Eemian)
 - 120-90 kya: The [Abbassia Pluvial](https://en.wikipedia.org/wiki/Abbassia_Pluvial) occurred, bringing moisture to North Africa
 - 115 kya: The [Last Glacial Period (LGP)](https://en.wikipedia.org/wiki/Last_Glacial_Period) began
-- 105-75 kya: [North Africa became humid (the "Green Sahara"](https://en.wikipedia.org/wiki/Mousterian_Pluvial), then dried out
+- 105-75 kya: [North Africa became humid (the "Green Sahara")](https://en.wikipedia.org/wiki/Mousterian_Pluvial), then dried out
 
 ## < 100 Thousand Years Ago
 
@@ -867,7 +867,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1558 CE: [Conrad Gessner](https://en.wikipedia.org/wiki/Conrad_Gessner) published [*Historia animalium* (*History of the Animals*)](https://en.wikipedia.org/wiki/Historia_animalium_%28Gessner_book%29) Volume 4: Fish and aquatic animals
 - 1560 CE: [Niccolò Fontana Tartaglia](https://en.wikipedia.org/wiki/Niccol%C3%B2_Fontana_Tartaglia) posthumously published *General Trattato di Numeri et Misure* (*General Treatise on Number and Measure*)
 - 1570 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published [*Theatrum Orbis Terrarum* (*Theatre of the Orb of the World*)](https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum), the first modern [atlas](https://en.wikipedia.org/wiki/Atlas)
-- 1570 CE: [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) published *Opus novum, De Proportionibus numerorum, motuum, ponderum, sonorum, aliarumque rerum mensurandarum. Item de aliza regula* (*A new work on the proportions of numbers, motions, weights, sounds, and other things to be measured. Also about aliza rule*, introducing the [binomial theorem](https://en.wikipedia.org/wiki/Binomial_theorem), and [Cardan's movement](https://en.wikipedia.org/wiki/Tusi_couple#Later_examples) which was used to convert circular motion into linear motion in the first high speed printing presses
+- 1570 CE: [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) published *Opus novum, De Proportionibus numerorum, motuum, ponderum, sonorum, aliarumque rerum mensurandarum. Item de aliza regula* (*A new work on the proportions of numbers, motions, weights, sounds, and other things to be measured. Also about aliza rule*), introducing the [binomial theorem](https://en.wikipedia.org/wiki/Binomial_theorem), and [Cardan's movement](https://en.wikipedia.org/wiki/Tusi_couple#Later_examples) which was used to convert circular motion into linear motion in the first high speed printing presses
 - 1572 CE: [Rafael Bombelli](https://en.wikipedia.org/wiki/Rafael_Bombelli) published *L'Algebra*, describing [imaginary numbers](https://en.wikipedia.org/wiki/Imaginary_number)
 - 1573 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De nova stella* (*The new star*)
 - 1573 CE: [Benedetto Cotrugli](https://en.wikipedia.org/wiki/Benedetto_Cotrugli) posthumously published *Della mercatura e del mercante perfetto* (*Of the market and the perfect merchant*), written in 1458
@@ -1273,7 +1273,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1850 CE: [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) published *Views of nature, or, Contemplations on the sublime phenomena of creation: with scientific illustrations (1850)*
 - 1850 CE: [August Schleicher](https://en.wikipedia.org/wiki/August_Schleicher) completed *Die Sprachen Europas in systematischer Uebersicht* (*The Languages of Europe in Systematic Perspective*), comparing language evolution with biology
 - 1850 CE: [Léon Foucault](https://en.wikipedia.org/wiki/L%C3%A9on_Foucault) published *Lumière électrique* (*Electric light*), describing experiments with absorption and emission lines
-- 1850 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Vorläufiger Bericht über die Fortpflanzungs-Geschwindigkeit der Nervenreizung* (*Preliminary report on the rate of propagation of nerve stimulus*, describing how he measured the speed of nerve signals at 24.6-38.4 m/s
+- 1850 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *Vorläufiger Bericht über die Fortpflanzungs-Geschwindigkeit der Nervenreizung* (*Preliminary report on the rate of propagation of nerve stimulus*), describing how he measured the speed of nerve signals at 24.6-38.4 m/s
 - 1851 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) invented the [ophthalmoscope](https://en.wikipedia.org/wiki/Ophthalmoscope), allowing people to examine the inside of the human eye
 - 1851 CE: [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) published [*Paradoxien des Unendlichen* (*The Paradoxes of the Infinite*)](https://en.wikipedia.org/wiki/The_Paradoxes_of_the_Infinite)
 - 1851 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the dynamical theory of heat; with numerical results deduced from Mr. Joule's equivalent of a thermal unit and M. Regnault's observations on steam*, stating the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
@@ -1297,7 +1297,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1854 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the theory of the electric telegraph*
 - 1854 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Der Haushalt der Pflanzen* (*The Household Plants*)
 - 1854 CE: [Ferdinand Cohn](https://en.wikipedia.org/wiki/Ferdinand_Cohn) published *Untersuchungen über die Entwicklungsgeschichte der Mikroskopischen Algen und Pilze* (*Investigations into the History of the Development of Microscopic Algae and Fungi*)
-- 1854 CE: [Filippo Pacini](https://en.wikipedia.org/wiki/Filippo_Pacini) published *Osservazioni microscopiche e deduzioni patologiche sul cholera asiatico* (*Microscopical observations and pathological deductions on Asiatic [cholera](https://en.wikipedia.org/wiki/Cholera)*
+- 1854 CE: [Filippo Pacini](https://en.wikipedia.org/wiki/Filippo_Pacini) published *Osservazioni microscopiche e deduzioni patologiche sul cholera asiatico* (*Microscopical observations and pathological deductions on Asiatic [cholera](https://en.wikipedia.org/wiki/Cholera)*)
 - 1855 CE: [William Thomson](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) published *On the peristaltic induction of electric currents in submarine telegraph wires*
 - 1855 CE: [A. W. Hofmann](https://en.wikipedia.org/wiki/August_Wilhelm_von_Hofmann) published *On Insolinic Acid*, describing [aromatic compounds](https://en.wikipedia.org/wiki/Aromaticity)
 - 1855 CE: [John Snow](https://en.wikipedia.org/wiki/John_Snow) published *On the Mode of Communication of Cholera* 2nd edition, a key event in [epidemiology](https://en.wikipedia.org/wiki/Epidemiology)
@@ -1707,7 +1707,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1934 CE: [Leo Szilard](https://en.wikipedia.org/wiki/Leo_Szilard) patented the [nuclear fission reactor](https://en.wikipedia.org/wiki/Nuclear_reactor)
 - 1934 CE: [Leo Szilard](https://en.wikipedia.org/wiki/Leo_Szilard) & Thomas A. Chalmers published *Chemical Separation of the Radioactive Element from its Bombarded Isotope in the Fermi Effect* & *Detection of Neutrons Liberated from Beryllium by Gamma Rays: a New Technique for Inducing Radioactivity*, describing the [Szilard–Chalmers effect](https://en.wikipedia.org/wiki/Radioactive_decay#Szilard%E2%80%93Chalmers_effect)
 - 1934 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*Logik der Forschung. Zur Erkenntnistheorie der modernen Naturwissenschaft*(*Logic of Research: On the Epistemology of Modern Natural Science*)](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
-- 1935 CE: [Boris Choubert](https://en.wikipedia.org/wiki/Boris_Choubert) published *Recherches sur la genèse des chaînes paléolithiques et antécambriennes* (*Research on the genesis of the Palaeolithic and Antecambrian chains*, showing how the continents had previously fit together to form the supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
+- 1935 CE: [Boris Choubert](https://en.wikipedia.org/wiki/Boris_Choubert) published *Recherches sur la genèse des chaînes paléolithiques et antécambriennes* (*Research on the genesis of the Palaeolithic and Antecambrian chains*), showing how the continents had previously fit together to form the supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea)
 - 1935 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *Our Oriental Heritage*, the 1st volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1935 CE: [Arthur Compton](https://en.wikipedia.org/wiki/Arthur_Compton) & [Samuel King Allison](https://en.wikipedia.org/wiki/Samuel_King_Allison) published *X-rays in Theory and Experiment*
 - 1935 CE: [V. Gordon Childe](https://en.wikipedia.org/wiki/V._Gordon_Childe) published *New Light on the Most Ancient Near East*, promoting [functionalism](https://en.wikipedia.org/wiki/Structural_functionalism)
@@ -2146,6 +2146,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 2020 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [launched the first commercial crewed orbital flight, and landed the first stage](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2)
 - 2020 CE: [Apple switched from Intel x86 chips to a custom ARM design](https://en.wikipedia.org/wiki/Apple_M1)
+- 2020 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Deno](https://en.wikipedia.org/wiki/Deno_%28software%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2022 CE: Monthly average CO₂ exceeded 420 ppm
 - 2022 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded eight billion people
 
