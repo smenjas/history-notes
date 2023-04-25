@@ -221,7 +221,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 460-440 mya: The [Late Ordovician glaciation](https://en.wikipedia.org/wiki/Late_Ordovician_glaciation) occurred, CO₂ fell to 2000 ppm
 - 450 mya: The global temperature fell to about 4 °C above the 20th century average
 - 450-420 mya: The [Andean-Saharan glaciation](https://en.wikipedia.org/wiki/Andean-Saharan_glaciation) occurred
-- 443 mya: The [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events) occurred, 86% of species lost
+- 443 mya: The [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events) occurred, 85% of species lost
 
 ### Lungs
 
@@ -254,13 +254,13 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 273 mya: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction) occurred
 - 260 mya: The [Late Paleozoic icehouse](https://en.wikipedia.org/wiki/Late_Paleozoic_icehouse) ended, and global temperature stayed above the 20th century average for the next 256 million years
 - 260 mya: The [Capitanian extinction event](https://en.wikipedia.org/wiki/Capitanian_mass_extinction_event) occurred, 35% of species lost
-- 252 mya: The [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), i.e. "The Great Dying" occurred, 96% of species lost to volcanoes, O₂ fell to 0.15 atm
+- 252 mya: The [Permian–Triassic extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), i.e. "The Great Dying" occurred, 90% of species lost to volcanoes, O₂ fell to 0.15 atm
 - 250 mya: The global temperature rose to about 11 °C above the 20th century average
 - 245-202 mya: [Angiosperms ("enclosed seeds", a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) split from [Gymnosperms ("naked seeds", a.k.a. seed-producing plants)](https://en.wikipedia.org/wiki/Gymnosperm)
 - 230 mya: [Eoraptor](https://en.wikipedia.org/wiki/Eoraptor), an early dinosaur, existed
 - 215-175 mya: The supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea) split into [Laurasia](https://en.wikipedia.org/wiki/Laurasia) & [Gondwana](https://en.wikipedia.org/wiki/Gondwana), creating the [North Atlantic Ocean](https://en.wikipedia.org/wiki/Opening_of_the_North_Atlantic_Ocean) between North America and northwest Africa
 - 214 mya: An asteroid impacted Earth, creating the [Manicouagan crater](https://en.wikipedia.org/wiki/Manicouagan_Reservoir) which is 85 km in diameter
-- 201.3 mya: The [Triassic–Jurassic extinction event](https://en.wikipedia.org/wiki/Triassic%E2%80%Jurassic_extinction_event) occurred, 80% of species lost
+- 201.3 mya: The [Triassic–Jurassic extinction event](https://en.wikipedia.org/wiki/Triassic–Jurassic_extinction_event) occurred, 70% of species lost
 - 200 mya: O₂ exceeded 0.2 atm, CO₂ was > 3000 ppm, and the global temperature fell to about 2 °C above the 20th century average
 - 183 mya: The [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover) occurred
 - 177 mya: [Synapsida](https://en.wikipedia.org/wiki/Synapsid) ("fused arch", e.g. mammals) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
@@ -290,7 +290,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 67 mya: The global temperature fell to about 6 °C above the 20th century average, [CO₂ was 350-500 ppm](https://en.wikipedia.org/wiki/Climate_across_Cretaceous%E2%80%93Paleogene_boundary)
 - 66.7 mya: The [first known bird](https://www.cam.ac.uk/stories/wonderchicken) existed: a recent common ancestor of chickens and ducks
 - 66 mya: An asteroid impacted Earth, creating the [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater) which is 150 km in diameter
-- 66 mya: The [Cretaceous–Paleogene (K-Pg) extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) occurred, 76% of species lost (including all dinosaurs except birds)
+- 66 mya: The [Cretaceous–Paleogene (K-Pg) extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) occurred, 75% of species lost (including all dinosaurs except birds)
 - 65 mya: The global temperature rose to about 11 °C above the 20th century average, [CO₂ was 2300 ppm](https://en.wikipedia.org/wiki/Climate_across_Cretaceous%E2%80%93Paleogene_boundary)
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
 - 56 mya: [Laurasia](https://en.wikipedia.org/wiki/Laurasia) split into North America & Eurasia
@@ -2204,6 +2204,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [List of largest empires](https://en.wikipedia.org/wiki/List_of_largest_empires)
 - [List of epidemics](https://en.wikipedia.org/wiki/List_of_epidemics)
 - [List of experiments](https://en.wikipedia.org/wiki/List_of_experiments)
+- [List of extinction events](https://en.wikipedia.org/wiki/List_of_extinction_events)
 - [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 - [List of firsts in aviation](https://en.wikipedia.org/wiki/List_of_firsts_in_aviation)
 - [List of geomagnetic reversals](https://en.wikipedia.org/wiki/List_of_geomagnetic_reversals)
