@@ -221,7 +221,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 460-440 mya: The [Late Ordovician glaciation](https://en.wikipedia.org/wiki/Late_Ordovician_glaciation) occurred, CO₂ fell to 2000 ppm
 - 450 mya: The global temperature fell to about 4 °C above the 20th century average
 - 450-420 mya: The [Andean-Saharan glaciation](https://en.wikipedia.org/wiki/Andean-Saharan_glaciation) occurred
-- 440 mya: The [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events) occurred, 86% of species lost
+- 443 mya: The [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events) occurred, 86% of species lost
 
 ### Lungs
 
@@ -237,9 +237,10 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 400 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
 - 385 mya: [Wattieza](https://en.wikipedia.org/wiki/Wattieza), an early tree, existed
 - 380 mya: [Elpistostege](https://en.wikipedia.org/wiki/Elpistostege), an early tetrapod that was basically a fish with arms, had [digits](https://news.flinders.edu.au/blog/2020/03/19/ancient-fossil-reveals-origin-of-the-human-hand/), small bones that would eventually become fingers
-- 375 mya: The [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction) occurred, 75% of species lost
+- 372 mya: The [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction) occurred, 75% of species lost
 - 360-345 mya: [Archaeopteris](https://en.wikipedia.org/wiki/Archaeopteris), an early tree, existed
 - 360-260 mya: The [Late Paleozoic icehouse (a.k.a. Karoo ice age)](https://en.wikipedia.org/wiki/Late_Paleozoic_icehouse) occurred
+- 359 mya: The [Hangenberg extinction event](https://en.wikipedia.org/wiki/Hangenberg_event) occurred, 96% of vertebrate species lost
 - 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
 - 350 mya: O₂ exceeded 0.2 atm, and the global temperature fell to about 5 °C above the 20th century average
 - 335-175 mya: The supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea) existed
