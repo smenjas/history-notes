@@ -1363,6 +1363,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1868 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *On governors*, establishing the theoretical basis for [control engineering](https://en.wikipedia.org/wiki/Control_engineering)
 - 1868 CE: [Edmond Becquerel](https://en.wikipedia.org/wiki/Edmond_Becquerel) published *La lumière: ses causes et ses effets* (*Light: its causes and effects*)
 - 1869 CE: [Dmitri Mendeleev](https://en.wikipedia.org/wiki/Dmitri_Mendeleev) presented *The Dependence between the Properties of the Atomic Weights of the Elements*, describing his [periodic table of the elements](https://en.wikipedia.org/wiki/Periodic_table), which he saw in a dream
+- 1869 CE: [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) published [*The Malay Archipelago*](https://en.wikipedia.org/wiki/The_Malay_Archipelago), describing the [Wallace Line](https://en.wikipedia.org/wiki/Wallace_Line) between Bali and Lombok
 
 ### 1870s
 
