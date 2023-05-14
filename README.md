@@ -358,6 +358,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 970 kya: Sea level was 79 m below the 20th century average
 - 800 kya: CO₂ dipped below 190 ppm, global temp -9 °C from present
 - 790 kya: CO₂ peaked around 260 ppm, global temp -1 °C from present
+- 788 kya: An asteroid impacted southeast Asia creating the [Australasian strewnfield](https://en.wikipedia.org/wiki/Australasian_strewnfield)
 - 781 kya: The [Brunhes-Matuyama reversal](https://en.wikipedia.org/wiki/Brunhes%E2%80%93Matuyama_reversal) of Earth's magnetic field occurred
 - 750 kya: CO₂ dipped below 180 ppm, global temp -9 °C from present
 - 740 kya: CO₂ peaked around 210 ppm, global temp -4 °C from present
