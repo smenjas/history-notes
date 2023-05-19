@@ -1695,6 +1695,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1931 CE: [Ernst Ruska](https://en.wikipedia.org/wiki/Ernst_Ruska) demonstrated an [electron lens](https://en.wikipedia.org/wiki/Transmission_electron_microscopy#Electron_lens), and with [Max Knoll](https://en.wikipedia.org/wiki/Max_Knoll) invented the [electron microscope](https://en.wikipedia.org/wiki/Electron_microscope)
 - 1931 CE: [Carl Bosch](https://en.wikipedia.org/wiki/Carl_Bosch) published *The Development of the Chemical High Pressure Method During the Establishment of the New Ammonia Industry*, describing how to produce ammonia at scale using the [Haber–Bosch process](https://en.wikipedia.org/wiki/Haber_process)
 - 1931 CE: [Lillian Rosanoff Lieber](https://en.wikipedia.org/wiki/Lillian_Rosanoff_Lieber) published *Non-Euclidean Geometry*
+- 1931 CE: [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar) published *The Maximum Mass of Ideal White Dwarfs*, describing the [Chandrasekhar limit](https://en.wikipedia.org/wiki/Chandrasekhar_limit)
 - 1932 CE: [Lillian Rosanoff Lieber](https://en.wikipedia.org/wiki/Lillian_Rosanoff_Lieber) published *Galois and the Theory of Groups*
 - 1932 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published [*Mathematische Grundlagen der Quantenmechanik* (*Mathematical Foundations of Quantum Mechanics*)](https://en.wikipedia.org/wiki/Mathematical_Foundations_of_Quantum_Mechanics), arguing against [hidden variables](https://en.wikipedia.org/wiki/Hidden-variable_theory)
 
@@ -1721,6 +1722,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1935 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *Our Oriental Heritage*, the 1st volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1935 CE: [Arthur Compton](https://en.wikipedia.org/wiki/Arthur_Compton) & [Samuel King Allison](https://en.wikipedia.org/wiki/Samuel_King_Allison) published *X-rays in Theory and Experiment*
 - 1935 CE: [V. Gordon Childe](https://en.wikipedia.org/wiki/V._Gordon_Childe) published *New Light on the Most Ancient Near East*, promoting [functionalism](https://en.wikipedia.org/wiki/Structural_functionalism)
+- 1935 CE: [Subrahmanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar) published *The Highly Collapsed Configurations of a Stellar Mass*, describing the [Chandrasekhar limit](https://en.wikipedia.org/wiki/Chandrasekhar_limit)
 
 #### Turing Machine
 
