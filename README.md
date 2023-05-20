@@ -1352,6 +1352,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1865 CE: [August Kekulé](https://en.wikipedia.org/wiki/August_Kekul%C3%A9) published *Sur la constitution des substances aromatiques* (*On the constitution of aromatic substances*), describing the [chemical structure of benzene](https://en.wikipedia.org/wiki/Kekul%C3%A9_structure)
 - 1866 CE: [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) published [*Versuche über Pflanzenhybriden* (*Experiments on Plant Hybridization*)](https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization)
 - 1866 CE: [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) published *Generelle Morphologie der Organismen* (*General Morphology of Organisms*)
+- 1866 CE: [Joseph Bell](https://en.wikipedia.org/wiki/Joseph_Bell) published *Manual of the Operations of Surgery*
 
 #### Antiseptics
 
