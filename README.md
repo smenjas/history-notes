@@ -1993,6 +1993,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1971 CE: [Barry Commoner](https://en.wikipedia.org/wiki/Barry_Commoner) published *The Closing Circle*
 - 1971 CE: [Kjell Kleppe](https://en.wikipedia.org/wiki/Kjell_Kleppe) et al. published *Studies on polynucleotides. XCVI. Repair replications of short synthetic DNA's as catalyzed by DNA polymerases*, describing [polymerase chain reaction (PCR)](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)
 - 1971 CE: The United States Air Force (USAF) translated [Pyotr Ufimtsev](https://en.wikipedia.org/wiki/Pyotr_Ufimtsev)'s book *Method of Edge Waves in the Physical Theory of Diffraction* into English, describing how electromagnetic waves interact with surfaces and establishing the basis for stealth aircraft
+- 1971 CE: [Stephen Cook](https://en.wikipedia.org/wiki/Stephen_Cook) published *The Complexity of Theorem Proving Procedures*, proving the [Cook–Levin theorem](https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem) that the [Boolean satisfiability problem (SAT)](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem) is [NP-complete](https://en.wikipedia.org/wiki/NP-completeness)
 - 1972 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *Statistical Mechanics*
 - 1972 CE: [Nasir Ahmed](https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29) proposed using [discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform) for [image compression](https://en.wikipedia.org/wiki/Image_compression)
 - 1972 CE: [Oskar Morgenstern](https://en.wikipedia.org/wiki/Oskar_Morgenstern) published *Thirteen Critical Points in Contemporary Economic Theory*
@@ -2017,6 +2018,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1975 CE: [Lotfi A. Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh) published *[Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic) and approximate reasoning*
 - 1975 CE: Jonathon E. Ericson, Hiroshi Shirahata, & [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson) published *Skeletal Concentrations of Lead in Ancient Peruvians*
 - 1975 CE: [Guy L. Steele Jr.](https://en.wikipedia.org/wiki/Guy_L._Steele_Jr.) & [Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) published [AI Memo](https://en.wikipedia.org/wiki/AI_Memo) 349 introducing the [Scheme programming language](https://en.wikipedia.org/wiki/Scheme_%28programming_language%29) and [continuation-passing style (CPS)](https://en.wikipedia.org/wiki/Continuation-passing_style)
+- 1975 CE: [Stephen Cook](https://en.wikipedia.org/wiki/Stephen_Cook) published *Feasibly Constructive Proofs and the Propositional Calculus*
 - 1976 CE: [Robert M. May](https://en.wikipedia.org/wiki/Robert_May,_Baron_May_of_Oxford) published [*Simple mathematical models with very complicated dynamics*](https://www.nature.com/articles/261459a0), popularizing the [logisitic map](https://en.wikipedia.org/wiki/Logistic_map) and demonstrating [chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)
 - 1976 CE: [Whitfield Diffie](https://en.wikipedia.org/wiki/Whitfield_Diffie) & [Martin Hellman](https://en.wikipedia.org/wiki/Martin_Hellman) published *New Directions in Cryptography*, describing [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), one of the first [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) protocols
 - 1976 CE: Alice Chien, D. B. Edgar, & J. M. Trela published *[Deoxyribonucleic acid](https://en.wikipedia.org/wiki/DNA) [polymerase](https://en.wikipedia.org/wiki/Polymerase) from the extreme [thermophile](https://en.wikipedia.org/wiki/Thermophile) [Thermus aquaticus](https://en.wikipedia.org/wiki/Thermus_aquaticus)*, describing [*Taq*](https://en.wikipedia.org/wiki/Taq_polymerase)
@@ -2032,6 +2034,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1978 CE: [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) published *Secure Communications Over Insecure Channels*, describing [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 - 1978 CE: [Tim May](https://en.wikipedia.org/wiki/Timothy_C._May) & Murray H. Woods published *A New Physical Mechanism for Soft Errors in Dynamic Memories*, describing [single-event upsets](https://en.wikipedia.org/wiki/Single-event_upset) caused by [alpha radiation](https://en.wikipedia.org/wiki/Alpha_particle)
 - 1979 CE: [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) patented his [*Method of providing digital signatures*](https://patents.google.com/patent/US4309569), a.k.a. a hash tree or [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
+- 1979 CE: [Stephen Cook](https://en.wikipedia.org/wiki/Stephen_Cook) & Robert A. Reckhow published *The Relative Efficiency of [Propositional Proof Systems](https://en.wikipedia.org/wiki/Propositional_proof_system)*
 
 ### 1980s
 
@@ -2154,6 +2157,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### 2010s
 
 - 2010 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [iPad](https://en.wikipedia.org/wiki/IPad), a practical [solid-state](https://en.wikipedia.org/wiki/Solid-state_electronics) [tablet computer](https://en.wikipedia.org/wiki/Tablet_computer) with a [capacitive touchscreen](https://en.wikipedia.org/wiki/Touchscreen#Capacitive), popularizing [multitouch displays](https://en.wikipedia.org/wiki/Multi-touch)
+- 2010 CE: [Stephen Cook](https://en.wikipedia.org/wiki/Stephen_Cook) & Phuong The Nguyen published *Logical Foundations of Proof Complexity*
 - 2011 CE: Monthly average CO₂ exceeded 390 ppm
 - 2011 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 4A*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 - 2011 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded seven billion people
