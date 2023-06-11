@@ -111,6 +111,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 13.80 bya: The [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) occurred, and 370,000 years later produced the [cosmic microwave background radiation (CMBR)](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
 - 13.53 bya: The [first stars](https://en.wikipedia.org/wiki/Reionization) formed
 - 13.2 bya: The [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
+- 11.9-10.8 bya: [Quasar](https://en.wikipedia.org/wiki/Quasar) activity peaked
 
 ## < 10 Billion Years Ago
 
