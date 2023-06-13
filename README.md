@@ -110,11 +110,11 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 13.80 bya: The [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) occurred, and 370,000 years later produced the [cosmic microwave background radiation (CMBR)](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
 - 13.53 bya: The [first stars](https://en.wikipedia.org/wiki/Reionization) formed
-- 13.2 bya: The [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
 - 11.9-10.8 bya: [Quasar](https://en.wikipedia.org/wiki/Quasar) activity peaked
 
 ## < 10 Billion Years Ago
 
+- 8.8 bya: The [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) galaxy formed
 - 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/), which eventually [formed our solar system](https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System)
 - 4.603 bya: The [Sun](https://en.wikipedia.org/wiki/Sun) formed, containing 99.86% of the mass in the solar system
 - 4.599 bya: The planet [Jupiter](https://en.wikipedia.org/wiki/Jupiter) accumulated almost 0.1% of the mass in the solar system, leaving about 0.04% for the other planets, moons, asteroids, comets, meteoroids, and interplanetary dust
