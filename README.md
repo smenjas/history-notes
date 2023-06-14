@@ -784,6 +784,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1000 CE: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded three hundred million people
 - 1000 CE: Soudas wrote the [Suda](https://en.wikipedia.org/wiki/Suda), an [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1000 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote [*al-Athar al-Baqqiya 'an al-Qorun al-Khaliyya* (*The remaining traces of past centuries*)](https://en.wikipedia.org/wiki/The_Remaining_Signs_of_Past_Centuries)
+- 1006 CE: Light from [a supernova](https://en.wikipedia.org/wiki/SN_1006) reached Earth from 7,200 light years away
 - 1021 CE: [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham) wrote [*Kitāb al-Manāẓir* (*Book of Optics*)](https://en.wikipedia.org/wiki/Book_of_Optics), among many other works on physics, mathematics, and astronomy
 - 1025 CE: [Avicenna](https://en.wikipedia.org/wiki/Avicenna) wrote [*The Canon of Medicine*](https://en.wikipedia.org/wiki/The_Canon_of_Medicine)
 - 1027 CE: [Avicenna](https://en.wikipedia.org/wiki/Avicenna) wrote [*The Book of Healing*](https://en.wikipedia.org/wiki/The_Book_of_Healing)
@@ -791,6 +792,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1036 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) listed *Kitab al-saydala fi al-tibb* (*Book on the [Pharmacopoeia](https://en.wikipedia.org/wiki/Pharmacopoeia) of Medicine*) among 103 titles he had written on astrology, astronomy, geography, geology, history, mathematics, medicine, physics, psychology, sociology, and theology
 - 1037 CE: [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) wrote *Codex Masudicus*, noting that Eurasia only covers 2/5 of the Earth's surface and another continent must exist on the other side of the planet
 - 1044 CE: [Zeng Gongliang](https://en.wikipedia.org/wiki/Zeng_Gongliang) compiled the *Wujing Zongyao* (*Complete Essentials for the Military Classics*), describing the recipe for [black powder](https://en.wikipedia.org/wiki/Gunpowder)
+- 1054 CE: Light from [the supernova that created the Crab Nebula](https://en.wikipedia.org/wiki/SN_1054) reached Earth from 6,500 light years away
 - 1065 CE: [Nizam al-Mulk](https://en.wikipedia.org/wiki/Nizam_al-Mulk) established [Al-Nizamiyya of Baghdad](https://en.wikipedia.org/wiki/Al-Nizamiyya_of_Baghdad), the largest university of the Medieval world
 - 1066 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1085 CE: [Ibn Bassal ("he who tends bulbs")](https://en.wikipedia.org/wiki/Ibn_Bassal) wrote *Dīwān al-filāha* (*An Anthology of Husbandry*) on [agronomy](https://en.wikipedia.org/wiki/Agronomy), describing the [noria](https://en.wikipedia.org/wiki/Noria) and [saqiyah](https://en.wikipedia.org/wiki/Saqiyah) which are flywheels used for irrigation
@@ -872,6 +874,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1570 CE: [Abraham Ortelius](https://en.wikipedia.org/wiki/Abraham_Ortelius) published [*Theatrum Orbis Terrarum* (*Theatre of the Orb of the World*)](https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum), the first modern [atlas](https://en.wikipedia.org/wiki/Atlas)
 - 1570 CE: [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) published *Opus novum, De Proportionibus numerorum, motuum, ponderum, sonorum, aliarumque rerum mensurandarum. Item de aliza regula* (*A new work on the proportions of numbers, motions, weights, sounds, and other things to be measured. Also about aliza rule*), introducing the [binomial theorem](https://en.wikipedia.org/wiki/Binomial_theorem), and [Cardan's movement](https://en.wikipedia.org/wiki/Tusi_couple#Later_examples) which was used to convert circular motion into linear motion in the first high speed printing presses
 - 1572 CE: [Rafael Bombelli](https://en.wikipedia.org/wiki/Rafael_Bombelli) published *L'Algebra*, describing [imaginary numbers](https://en.wikipedia.org/wiki/Imaginary_number)
+- 1572 CE: Light from [a supernova](https://en.wikipedia.org/wiki/SN_1572) reached Earth from over 8,000 light years away
 - 1573 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) published *De nova stella* (*The new star*)
 - 1573 CE: [Benedetto Cotrugli](https://en.wikipedia.org/wiki/Benedetto_Cotrugli) posthumously published *Della mercatura e del mercante perfetto* (*Of the market and the perfect merchant*), written in 1458
 - 1582 CE: [Pope Gregory XIII](https://en.wikipedia.org/wiki/Pope_Gregory_XIII) introduced the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
@@ -893,6 +896,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1600 CE: [William Gilbert](https://en.wikipedia.org/wiki/William_Gilbert_%28physician%29) published [*De Magnete, Magneticisque Corporibus, et de Magno Magnete Tellure* (*On the Magnet and Magnetic Bodies, and on That Great Magnet the Earth*)](https://en.wikipedia.org/wiki/De_Magnete), describing experiments in magnetism and static electricity
 - 1603 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) posthumously published *Astronomiae Instauratae Progymnasmata* (*Introduction to the New Astronomy*)
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
+- 1604 CE: Light from [a supernova](https://en.wikipedia.org/wiki/SN_1604) reached Earth from less than 20,000 light years away
+- 1606 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *De Stella Nova in Pede Serpentarii* (*On the New Star in the Foot of the Serpent Handler*), describing [a supernova he observed in 1604 CE](https://en.wikipedia.org/wiki/Kepler%27s_Supernova)
 - 1607 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1608 CE: [Hans Lipperhey](https://en.wikipedia.org/wiki/Hans_Lipperhey) filed a patent for a [refracting telescope](https://en.wikipedia.org/wiki/Refracting_telescope)
 - 1609 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomia nova* (*New Astronomy*), the foundation of [planetary motion](https://en.wikipedia.org/wiki/Kepler's_laws_of_planetary_motion), describing orbits as [eccentric](https://en.wikipedia.org/wiki/Orbital_eccentricity)
@@ -2069,6 +2074,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1987 CE: [Burn-Jeng Lin](https://en.wikipedia.org/wiki/Burn-Jeng_Lin) published *The future of subhalf-micrometer optical lithography*, proposing [immersion lithography](https://en.wikipedia.org/wiki/Immersion_lithography) for manufacturing [integrated circuits (ICs)](https://en.wikipedia.org/wiki/Integrated_circuit)
 - 1987 CE: [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson), Hiroshi Shirahata, & Jonathon E. Ericson published *Lead in ancient human bones and its relevance to historical developments of social problems with lead*
 - 1987 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded five billion people
+- 1987 CE: Light from a [type II supernova 186,000 light years away](https://en.wikipedia.org/wiki/SN_1987A) reached Earth
 - 1988 CE: Monthly average CO₂ exceeded 350 ppm
 - 1988 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*On the Cruelty of Really Teaching Computer Science*](https://en.wikipedia.org/wiki/On_the_Cruelty_of_Really_Teaching_Computer_Science), lamenting that "software engineering has accepted as its charter 'How to program if you cannot.'"
 - 1989 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 1* (GPLv1)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
