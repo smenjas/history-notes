@@ -347,6 +347,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1.89 mya: Humans began to run long distances, and sweat, and lose body hair
 - 1.8 mya: [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) migrated [out of Africa](https://en.wikipedia.org/wiki/Early_expansions_of_hominins_out_of_Africa) by this time
 - 1.25-0.7 mya: The [Mid-Pleistocene Transition](https://en.wikipedia.org/wiki/Mid-Pleistocene_Transition) occurred, glacial cycles switched from 41 ka to 100 ka
+- 1.08 mya: The [Mangakino eruption](https://en.wikipedia.org/wiki/Mangakino_caldera_complex) occurred in present day New Zealand, with a [volcanic explosivity index (VEI)](https://en.wikipedia.org/wiki/Volcanic_explosivity_index) of 8
 - 1.07 mya: An asteroid created [Lake Bosumtwi](https://en.wikipedia.org/wiki/Lake_Bosumtwi) in Ghana
 
 ### Fire
@@ -380,6 +381,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 415 kya: [Early humans controlled fire in Suffolk, England](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 400 kya: CO₂ peaked around 280 ppm, global temp +2 °C from present, first time it exceeded 20th century average since 2 million years ago
 - 350 kya: CO₂ dipped below 200 ppm, global temp -9 °C from present
+- 335 kya: The [Whakamaru eruption](https://en.wikipedia.org/wiki/Whakamaru_Caldera) occurred in present day New Zealand, with a [volcanic explosivity index (VEI)](https://en.wikipedia.org/wiki/Volcanic_explosivity_index) of 8
 - 320 kya: CO₂ peaked around 300 ppm, global temp +2 °C from present
 - 315 kya: [Homo sapiens ("wise man")](https://en.wikipedia.org/wiki/Homo_sapiens) evolved
 - 300 kya: Most homo species lived in hunter-gatherer societies, with tools, culture, and speech
@@ -425,6 +427,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 37.5-33 kya: [North Africa briefly became semi-humid](https://en.wikipedia.org/wiki/Mousterian_Pluvial), then dried out
 - 32 kya: [Dogs diverged from wolves](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
 - 26.5-20 kya: The [Last Glacial Maximum (LGM)](https://en.wikipedia.org/wiki/Last_Glacial_Maximum) occurred, CO₂ dipped to 180 ppm, global temp -9 °C from present, dust exceeded 1.6 ppm
+- 25.7 kya: The [Oruanui supereruption](https://en.wikipedia.org/wiki/Oruanui_eruption) occurred in present day New Zealand, with a [volcanic explosivity index (VEI)](https://en.wikipedia.org/wiki/Volcanic_explosivity_index) of 8
 - 25 kya: [Ancestral Native Americans (ANA)](https://en.wikipedia.org/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas) split from [East Asians](https://en.wikipedia.org/wiki/East_Asian_people)
 - 24 kya: [Ancestral Native Americans (ANA)](https://en.wikipedia.org/wiki/Genetic_history_of_indigenous_peoples_of_the_Americas) migrated across [Beringia](https://en.wikipedia.org/wiki/Beringia), and inhabited the [Bluefish Caves](https://en.wikipedia.org/wiki/Bluefish_Caves)
 - 23 kya: [Early European Farmers (EEF)](https://en.wikipedia.org/wiki/Early_European_Farmers) split from [Caucasus Hunter-Gatherers (CHG)](https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer)
@@ -727,6 +730,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 175 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *On Initial Causes* & *On the Different Types of Fever*, speculating that some patients might have "seeds of fever" that are present in the air
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
 - 180 CE: [Pausanias](https://en.wikipedia.org/wiki/Pausanias_%28geographer%29) wrote his *Hellados Periegesis* (*Description of Greece*), a gift to [modern archaeology](https://en.wikipedia.org/wiki/Modern_archaeology)
+- 230 CE: The [Hatepe eruption](https://en.wikipedia.org/wiki/Hatepe_eruption) occurred in present day New Zealand, with a [volcanic explosivity index (VEI)](https://en.wikipedia.org/wiki/Volcanic_explosivity_index) of 7
 - 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote [*Lives and Opinions of Eminent Philosophers*](https://en.wikipedia.org/wiki/Lives_and_Opinions_of_Eminent_Philosophers)
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) wrote commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art), demonstrating [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 298 CE: [Diophantus](https://en.wikipedia.org/wiki/Diophantus) published *Arithmetica* by the time he died, introducing [algebraic](https://en.wikipedia.org/wiki/Algebraic_equation) and [Diophantine equations](https://en.wikipedia.org/wiki/Diophantine_equation)
