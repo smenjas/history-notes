@@ -1509,6 +1509,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1899 CE: [Rudolf Diesel](https://en.wikipedia.org/wiki/Rudolf_Diesel) [patented](https://patents.google.com/patent/US608845) improvements to the [Diesel engine](https://en.wikipedia.org/wiki/Diesel_engine)
 - 1899 CE: [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert) published [*Grundlagen der Geometrie* (*Foundations of Geometry*)](https://en.wikipedia.org/wiki/Grundlagen_der_Geometrie), proposing [Hilbert's axioms](https://en.wikipedia.org/wiki/Hilbert%27s_axioms) of [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry)
 - 1899 CE: [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) published *Uranium radiation and the electrical conduction produced by it*, describing both [alpha](https://en.wikipedia.org/wiki/Alpha_particle) & [beta](https://en.wikipedia.org/wiki/Beta_particle) radiation
+- 1899 CE: [Milton Reeves](https://en.wikipedia.org/wiki/Milton_Reeves) [patented](https://patents.google.com/patent/US630407A/) a [variable transmission](https://en.wikipedia.org/wiki/Continuously_variable_transmission)
 
 ## 1900s
 
