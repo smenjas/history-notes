@@ -2215,7 +2215,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2020 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Deno](https://en.wikipedia.org/wiki/Deno_%28software%29), a JavaScript runtime, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2022 CE: Monthly average CO₂ exceeded 420 ppm
 - 2022 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded eight billion people
-- 2020 CE: Jarred Sumner published [Bun](https://en.wikipedia.org/wiki/Bun_%28software%29), a JavaScript runtime, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2022 CE: Jarred Sumner published [Bun](https://en.wikipedia.org/wiki/Bun_%28software%29), a JavaScript runtime, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2024 CE: Modular Inc. released the [Mojo programming language](https://en.wikipedia.org/wiki/Mojo_%28programming_language%29), designed by [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 
 ---
