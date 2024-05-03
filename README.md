@@ -2177,7 +2177,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released the [Android operating system](https://en.wikipedia.org/wiki/Android_%28operating_system%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2008 CE: [Google](https://en.wikipedia.org/wiki/Google) released the [Chromium web browser](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29), based on [WebKit](https://en.wikipedia.org/wiki/WebKit), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2008 CE: [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) published *Bitcoin: A Peer-to-Peer Electronic Cash System*, describing a [digital currency](https://en.wikipedia.org/wiki/Digital_currency) based on [blockchain](https://en.wikipedia.org/wiki/Blockchain)
-- 2009 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Node.js](https://en.wikipedia.org/wiki/Node.js) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2009 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Node.js](https://en.wikipedia.org/wiki/Node.js), a JavaScript runtime, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2009 CE: Stefan Schmidt published [*Shall We Really Do It Again? The Powerful Concept of Replication Is Neglected in the Social Sciences*](https://www.researchgate.net/publication/232450980_Shall_We_Really_Do_It_Again_The_Powerful_Concept_of_Replication_Is_Neglected_in_the_Social_Sciences), calling attention to the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)
 
 ### 2010s
@@ -2212,9 +2212,10 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 2020 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [launched the first commercial crewed orbital flight, and landed the first stage](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2)
 - 2020 CE: [Apple switched from Intel x86 chips to a custom ARM design](https://en.wikipedia.org/wiki/Apple_M1)
-- 2020 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Deno](https://en.wikipedia.org/wiki/Deno_%28software%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2020 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Deno](https://en.wikipedia.org/wiki/Deno_%28software%29), a JavaScript runtime, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2022 CE: Monthly average CO₂ exceeded 420 ppm
 - 2022 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded eight billion people
+- 2020 CE: Jarred Sumner published [Bun](https://en.wikipedia.org/wiki/Bun_%28software%29), a JavaScript runtime, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2024 CE: Modular Inc. released the [Mojo programming language](https://en.wikipedia.org/wiki/Mojo_%28programming_language%29), designed by [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 
 ---
