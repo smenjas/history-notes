@@ -2198,6 +2198,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2015 CE: [Apple](https://en.wikipedia.org/wiki/Apple) released the [Swift programming language](https://en.wikipedia.org/wiki/Swift_%28programming_language%29), created by [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2015 CE: [Mozilla](https://en.wikipedia.org/wiki/Mozilla) released version 1.0 of the [Rust programming language](https://en.wikipedia.org/wiki/Rust_%28programming_language%29), designed by Graydon Hoare, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2016 CE: The [European Space Agency (ESA)](https://en.wikipedia.org/wiki/European_Space_Agency) published [Gaia DR1](https://en.wikipedia.org/wiki/Gaia_%28spacecraft%29#Data_releases), the first data release from the Gaia space observatory, on 1.1 billion space objects
+- 2016 CE: Andrew Kelley released the [Zig programming language](https://en.wikipedia.org/wiki/Zig_%28programming_language%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 
 #### [Reusable Orbital Rockets](https://en.wikipedia.org/wiki/Reusable_launch_system)
 
