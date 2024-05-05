@@ -1450,6 +1450,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1885 CE: [Osborne Reynolds](https://en.wikipedia.org/wiki/Osborne_Reynolds) published *On the dilatancy of media composed of rigid particles in contact, with experimental illustrations*, describing [Reynolds dilatancy](https://en.wikipedia.org/wiki/Dilatancy_%28granular_material%29)
 - 1886 CE: [Osborne Reynolds](https://en.wikipedia.org/wiki/Osborne_Reynolds) published *On the Theory of Lubrication and Its Application to Mr. Beauchamp Tower's Experiments, Including an Experimental Determination of the Viscosity of Olive Oil*, describing [Reynolds equation](https://en.wikipedia.org/wiki/Reynolds_equation) of [lubrication theory](https://en.wikipedia.org/wiki/Lubrication_theory)
 - 1886 CE: [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) published *Traitement de la Rage* (*Treatment of Rabies*)
+- 1886 CE: [Charles Martin Hall](https://en.wikipedia.org/wiki/Charles_Martin_Hall) patented his [*Process of reducing aluminium from its fluoride salts by electrolysis*](https://patents.google.com/patent/US400664A/), dramatically reducing the cost of [aluminum](https://en.wikipedia.org/wiki/Aluminium) production
 
 #### Telephone
 
