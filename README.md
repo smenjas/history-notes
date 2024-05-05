@@ -2133,6 +2133,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant](https://arxiv.org/abs/astro-ph/9805201)
   - [Measurements of Omega and Lambda from 42 High-Redshift Supernovae](https://arxiv.org/abs/astro-ph/9812133)
 - 1998 CE: [Sergey Brin](https://en.wikipedia.org/wiki/Sergey_Brin) & [Larry Page](https://en.wikipedia.org/wiki/Larry_Page) published *The Anatomy of a Large-Scale Hypertextual Web Search Engine*, describing the [PageRank algorithm](https://en.wikipedia.org/wiki/PageRank) used by [Google Search](https://en.wikipedia.org/wiki/Google_Search)
+- 1998 CE: [Ericsson](https://en.wikipedia.org/wiki/Ericsson) released the [Erlang programming language](https://en.wikipedia.org/wiki/Erlang_%28programming_language%29), designed by [Joe Armstrong](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Joe_Armstrong_%28programmer%29), Robert Virding, and Mike Williams, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 1999 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded six billion people
 
 ## 2000s
