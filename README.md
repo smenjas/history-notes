@@ -656,7 +656,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 350 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote [*Περὶ οὐρανοῦ*, a.k.a. *De Caelo* (*On the Heavens*)](https://en.wikipedia.org/wiki/On_the_Heavens)
 - 335 BCE: [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)'s armies spread the use of the [Koine Greek language](https://en.wikipedia.org/wiki/Koine_Greek)
 - 334 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_%28Classical%29)
-- 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) wrote *Aṣṭādhyāyī* on Sanskrit grammar
+- 325 BCE: [Dakṣiputra Pāṇini](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) wrote [*Aṣṭādhyāyī*](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini#A%E1%B9%A3%E1%B9%AD%C4%81dhy%C4%81y%C4%AB) on Sanskrit grammar
 - 322 BCE: [Aristotle](https://en.wikipedia.org/wiki/Aristotle) wrote many works on [biology](https://en.wikipedia.org/wiki/Aristotle%27s_biology), [*Rhetoric*](https://en.wikipedia.org/wiki/Rhetoric_%28Aristotle%29), and other subjects by the time he died
 
 ### Mathematics
@@ -671,6 +671,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 259 BCE: [Ashoka](https://en.wikipedia.org/wiki/Ashoka) carved the [Minor Rock Edicts](https://en.wikipedia.org/wiki/Minor_Rock_Edicts) with [Brahmi script](https://en.wikipedia.org/wiki/Brahmi_script) including [Brahmi numerals](https://en.wikipedia.org/wiki/Brahmi_numerals), precursors to the [Hindu numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system) but lacking [zero](https://en.wikipedia.org/wiki/0)
 - 250 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) designed the [block and tackle pulley system](https://en.wikipedia.org/wiki/Block_and_tackle)
 - 250 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) wrote [*On Floating Bodies*](https://en.wikipedia.org/wiki/On_Floating_Bodies), describing [Archimedes' principle](https://en.wikipedia.org/wiki/Archimedes%27_principle)
+- 250 BCE: [Kātyāyana](https://en.wikipedia.org/wiki/K%C4%81ty%C4%81yana) wrote [Vārttikakāra](https://en.wikipedia.org/wiki/V%C4%81rttikak%C4%81ra) by this time, on Sanskrit grammar
 - 240 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 240 BCE: [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) measured the [Earth's circumference](https://en.wikipedia.org/wiki/Earth's_circumference)
 - 234 BCE: [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes) described the [screw pump](https://en.wikipedia.org/wiki/Archimedes%27_screw)
@@ -689,6 +690,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 120 BCE: [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) wrote [*Peri megethon kai apostematon* (*On Sizes and Distances*)](https://en.wikipedia.org/wiki/On_Sizes_and_Distances_%28Hipparchus%29), *Pròs tèn Eratosthénous geographían* (*Against the Geography of Eratosthenes*), and many others by the time he died
 - 107 BCE: [Roman tribunes](https://en.wikipedia.org/wiki/Ballot_laws_of_the_Roman_Republic) required [secret ballots](https://en.wikipedia.org/wiki/Secret_ballot)
 - 100 BCE: [Nabataeans](https://en.wikipedia.org/wiki/Nabataeans) wrote the [Nabataean alphabet](https://en.wikipedia.org/wiki/Nabataean_alphabet), a descendant of the Aramaic alphabet that developed into the Arabic alphabet
+- 100 BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote [Mahabhashya (Great Commentary)](https://en.wikipedia.org/wiki/Mahabhashya) by this time, on Sanskrit grammar and semantics
 - 91 BCE: [Sima Qian](https://en.wikipedia.org/wiki/Sima_Qian) published [*Shiji* or *Records of the Grand Historian*](https://en.wikipedia.org/wiki/Records_of_the_Grand_Historian)
 - 87 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 75 BCE: [Old Latin](https://en.wikipedia.org/wiki/Old_Latin) became standardized as [Classical Latin](https://en.wikipedia.org/wiki/Classical_Latin)
@@ -701,7 +703,6 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 23 BCE: [Horace](https://en.wikipedia.org/wiki/Horace) wrote the first 3 books of his [*Odes*](https://en.wikipedia.org/wiki/Odes_%28Horace%29), including "carpe diem, quam minimum credula postero" ("seize the day, trusting tomorrow as little as possible")
 - 15 BCE: [Vitruvius](https://en.wikipedia.org/wiki/Vitruvius) wrote [*De architectura, libri decem* (*Ten Books on Architecture*)](https://en.wikipedia.org/wiki/De_architectura)
 - 12 BCE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
-- ? BCE: [Patañjali](https://en.wikipedia.org/wiki/Patanjali) wrote the [*Yoga Sūtras*](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali)
 
 ## Common Era
 
