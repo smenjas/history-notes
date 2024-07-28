@@ -1901,6 +1901,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1958 CE: [Paul Bernays](https://en.wikipedia.org/wiki/Paul_Bernays) published *Axiomatic Set Theory*
 - 1958 CE: [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) and her team released [*FLOW-MATIC*](https://en.wikipedia.org/wiki/FLOW-MATIC), the first [English-like programming language](https://en.wikipedia.org/wiki/Natural-language_programming)
 - 1958 CE: [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) published *The Teaching of Concrete Mathematics*, coining the term [software](https://en.wikipedia.org/wiki/Software)
+- 1959 CE: [Jack Kilby](https://en.wikipedia.org/wiki/Integrated_circuit) patented the [integrated circuit (IC)](https://en.wikipedia.org/wiki/Integrated_circuit)
 - 1959 CE: [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) published [*The Logic of Scientific Discovery*](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery), promoting [falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
 - 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented [*There's Plenty of Room at the Bottom*](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
 - 1959 CE: [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) published *[Time Sharing](https://en.wikipedia.org/wiki/Time-sharing) in Large Fast Computers*
