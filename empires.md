@@ -6,10 +6,16 @@
 - 1600 BCE: The [Hittite Empire](https://en.wikipedia.org/wiki/Hittites) began
 - 1178 BCE: The [Hittite Empire](https://en.wikipedia.org/wiki/Hittites) ended, after 422 years
 - 814 BCE: The [Carthaginian Empire](https://en.wikipedia.org/wiki/Ancient_Carthage) began
-- 609 BCE: The [Assyrian Empire](https://en.wikipedia.org/wiki/Assyria) ended, after roughly 1900 years
+- 609 BCE: The [Assyrian Empire](https://en.wikipedia.org/wiki/Assyria) ended, after about 1900 years
 - 550 BCE: The [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) began
+- 335 BCE: The [Macedonian Empire](https://en.wikipedia.org/wiki/Macedonia_%28ancient_kingdom%29#Empire) began
 - 330 BCE: The [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) ended, after 220 years
+- 323 BCE: The [Macedonian Empire](https://en.wikipedia.org/wiki/Macedonia_%28ancient_kingdom%29#Empire) ended, after 12 years
+- 312 BCE: The [Seleucid Empire](https://en.wikipedia.org/wiki/Seleucid_Empire) began
+- 305 BCE: The [Ptolemaic Kingdom](https://en.wikipedia.org/wiki/Ptolemaic_Kingdom) began
 - 146 BCE: The [Carthaginian Empire](https://en.wikipedia.org/wiki/Ancient_Carthage) ended, after 668 years
+- 63 BCE: The [Seleucid Empire](https://en.wikipedia.org/wiki/Seleucid_Empire) ended, after 249 years
+- 30 BCE: The [Ptolemaic Kingdom](https://en.wikipedia.org/wiki/Ptolemaic_Kingdom) ended, after 275 years
 - 27 CE: The [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire) began
 - 395 CE: The [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire) split into the [Western Roman Empire](https://en.wikipedia.org/wiki/Western_Roman_Empire) and the [Byzantine Empire](https://en.wikipedia.org/wiki/Byzantine_Empire), after 368 years
 - 476 CE: The [Western Roman Empire](https://en.wikipedia.org/wiki/Western_Roman_Empire) ended, after 81 years
