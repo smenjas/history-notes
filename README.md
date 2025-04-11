@@ -1954,6 +1954,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1964 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Feynman Lectures on Physics*
 - 1964 CE: [John Stewart Bell](https://en.wikipedia.org/wiki/John_Stewart_Bell) published *On the [Einstein Podolsky Rosen Paradox](https://en.wikipedia.org/wiki/EPR_paradox)*, proposing [Bell's theorem](https://en.wikipedia.org/wiki/Bell%27s_theorem)
 - 1964 CE: Many astronomers photographed stars as faint as the 11th magnitude, and published the 254th and final volume of the [Astrographic Catalogue](https://en.wikipedia.org/wiki/Carte_du_Ciel)
+- 1964 CE: [Edward O. Thorp](https://en.wikipedia.org/wiki/Edward_O._Thorp) published *Beat the Dealer: A Winning Strategy for the Game of Twenty-One*, mathematically proving the benefits of [card counting](https://en.wikipedia.org/wiki/Card_counting)
 - 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) & [Albert Hibbs](https://en.wikipedia.org/wiki/Albert_Hibbs) published *Quantum Mechanics and Path Integrals*
 - 1965 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) published *The Character of Physical Law*
 - 1965 CE: [Norman Borlaug](https://en.wikipedia.org/wiki/Norman_Borlaug) planted dwarf spring wheat in South Asia
@@ -1983,6 +1984,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1967 CE: [Louis Leithold](https://en.wikipedia.org/wiki/Louis_Leithold) published *The Calculus with Analytic Geometry*, simplifying how [calculus](https://en.wikipedia.org/wiki/Calculus) is taught
 - 1967 CE: [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck) & [Jean Dieudonné](https://en.wikipedia.org/wiki/Jean_Dieudonn%C3%A9) published [*Éléments de géométrie algébrique* (*Elements of algebraic geometry*) a.k.a. EGA](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_g%C3%A9om%C3%A9trie_alg%C3%A9brique), founding modern [algebraic geometry](https://en.wikipedia.org/wiki/Algebraic_geometry) and introducing [scheme theory](https://en.wikipedia.org/wiki/Scheme_%28mathematics%29)
 - 1967 CE: [Mary Ainsworth](https://en.wikipedia.org/wiki/Mary_Ainsworth) published *Infancy in Uganda*, advancing [attachment theory](https://en.wikipedia.org/wiki/Attachment_theory)
+- 1967 CE: [Edward O. Thorp](https://en.wikipedia.org/wiki/Edward_O._Thorp) published *Beat the Market: A Scientific Stock Market System*, describing how to [hedge](https://en.wikipedia.org/wiki/Hedge_%28finance%29) against financial risk
 - 1968 CE: The [FCC](https://en.wikipedia.org/wiki/Federal_Communications_Commission) ruled that customers can connect "any lawful device" to [AT&T](https://en.wikipedia.org/wiki/AT&T)'s network, a.k.a. [the Carterfone decision](https://en.wikipedia.org/wiki/Carterfone)
 - 1968 CE: [Motoo Kimura](https://en.wikipedia.org/wiki/Motoo_Kimura) published *Evolutionary rate at the molecular level*
 - 1968 CE: [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) presented [The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
