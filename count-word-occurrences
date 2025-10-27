@@ -28,7 +28,7 @@ fi
 
 # Strip link URLs from Markdown documents.
 textfile="/tmp/${basename}-${filename}.txt"
-sed 's/\!\{0,1\}\[[^]]*\]([^)]*)//g' "$filename" > "$textfile" || {
+sed 's/\!\{0,1\}\[\([^]]*\)\]([^)]*)/\1/g' "$filename" > "$textfile" || {
     >&2 echo "fatal: cannot write to file '$textfile'"
     exit 4
 }
