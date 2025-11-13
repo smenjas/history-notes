@@ -2225,6 +2225,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2017 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [reused an orbital rocket, and recovered it](https://en.wikipedia.org/wiki/SES-10), economically reusing an orbital launch system for the first time
 - 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
 - 2017 CE: [Ashish Vaswani](https://en.wikipedia.org/wiki/Ashish_Vaswani), Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, [Aidan N. Gomez](https://en.wikipedia.org/wiki/Aidan_Gomez), Lukasz Kaiser, & Illia Polosukhin published [*Attention Is All You Need*](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need), introducing the [transformer deep learning architecture](https://en.wikipedia.org/wiki/Transformer_%28deep_learning_architecture%29)
+- 2017 CE: Stuart M. Marshall, Alastair R.G. Murray, & [Leroy Cronin](https://en.wikipedia.org/wiki/Leroy_Cronin) published *A probabilistic framework for identifying biosignatures using Pathway Complexity* introducing molecular [assembly theory](https://en.wikipedia.org/wiki/Assembly_theory)
 - 2018 CE: Monthly average CO₂ exceeded 410 ppm
 - 2019 CE: The [European Space Agency (ESA)](https://en.wikipedia.org/wiki/European_Space_Agency) published [Gaia DR2](https://en.wikipedia.org/wiki/Gaia_%28spacecraft%29#Data_releases), the second data release from the Gaia space observatory, on 1.3 billion space objects
 
