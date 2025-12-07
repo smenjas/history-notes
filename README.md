@@ -120,8 +120,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 4.7 bya: [Neutron stars collided, seeding a dust cloud with heavy elements](https://www.scientificamerican.com/article/scientists-trace-neutron-star-crash-that-helped-form-our-solar-system/), which eventually [formed our solar system](https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System)
 - 4.603 bya: The [Sun](https://en.wikipedia.org/wiki/Sun) formed, containing 99.86% of the mass in the solar system
 - 4.599 bya: The planet [Jupiter](https://en.wikipedia.org/wiki/Jupiter) accumulated almost 0.1% of the mass in the solar system, leaving about 0.04% for the other planets, moons, asteroids, comets, meteoroids, and interplanetary dust
-- 4.543 bya: The planet [Gaia](https://en.wikipedia.org/wiki/Early_Earth) formed
-- 4.51 bya: The planet [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Gaia, then the [Earth & Moon formed from the debris](https://en.wikipedia.org/wiki/Giant-impact_hypothesis)
+- 4.543 bya: The planet [Earth](https://en.wikipedia.org/wiki/Early_Earth) formed
+- 4.51 bya: The planet [Theia](https://en.wikipedia.org/wiki/Theia_%28planet%29) collided with Earth, then the [Earth & Moon formed from the debris](https://en.wikipedia.org/wiki/Giant-impact_hypothesis)
 - 4.4 bya: [Liquid water and an atmosphere](https://en.wikipedia.org/wiki/Hadean) (of CO₂, H₂, & water vapor) existed on Earth at a pressure above 27 atm, with temperatures of 230 °C
 - ? bya: [Pyrimidine](https://en.wikipedia.org/wiki/Pyrimidine) (precursor to cytosine, thymine, and uracil) existed
 - ? bya: [Purine](https://en.wikipedia.org/wiki/Purine) (precursor to adenine and guanine) existed
@@ -2036,6 +2036,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1972 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) developed [the C programming language](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 - 1972 CE: [Richard M. Karp](https://en.wikipedia.org/wiki/Richard_M._Karp) published *Reducibility Among Combinatorial Problems*, proving [21 computer science problems NP-complete](https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems)
 - 1972 CE: [Robin Milner](https://en.wikipedia.org/wiki/Robin_Milner) published *Logic for Computable Functions: description of a machine implementation*, describing the [LCF](https://en.wikipedia.org/wiki/Logic_for_Computable_Functions) automated theorem prover
+- 1972 CE: [James Lovelock](https://en.wikipedia.org/wiki/James_Lovelock) published *Gaia as seen through the atmosphere*, proposing the [Gaia hypothesis](https://en.wikipedia.org/wiki/Gaia_hypothesis)
 - 1973 CE: [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck) & [Jean-Louis Verdier](https://en.wikipedia.org/wiki/Jean-Louis_Verdier) published *Théorie des Topos et Cohomologie Étale des Schémas* (*Theory of Topos and Étale Cohomology of Schemes*), introducing [topoi](https://en.wikipedia.org/wiki/Topos)
 - 1973 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) [ported Unix to the PHP-11/20 in C](https://en.wikipedia.org/wiki/History_of_Unix)
 - 1973 CE: [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) published [*The Art of Computer Programming, volume 3*](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
@@ -2050,6 +2051,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1974 CE: [Gerard K. O'Neill](https://en.wikipedia.org/wiki/Gerard_K._O%27Neill) published *The Colonization of Space* describing [space habitats](https://en.wikipedia.org/wiki/Space_habitat)
 - 1974 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*Self-stabilizing Systems in Spite of Distributed Control*](https://dl.acm.org/doi/10.1145/361179.361202)
 - 1974 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded four billion people
+- 1974 CE: [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) published *Atmospheric homeostasis by and for the biosphere: the gaia hypothesis*, supporting the [Gaia hypothesis](https://en.wikipedia.org/wiki/Gaia_hypothesis)
 - 1975 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*On the role of scientific thought*](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html), introducing the term [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 - 1975 CE: [Atmospheric CO₂ was 314 ppm](https://en.wikipedia.org/wiki/Atmospheric_chemistry)
 - 1975 CE: [Endre Szemerédi](https://en.wikipedia.org/wiki/Endre_Szemer%C3%A9di) published *On sets of integers containing no k elements in arithmetic progression*
