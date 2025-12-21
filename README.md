@@ -284,7 +284,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 99 mya: [Boreoeutheria](https://en.wikipedia.org/wiki/Boreoeutheria) ("northern true beasts") split from [Atlantogenata](https://en.wikipedia.org/wiki/Atlantogenata) (elephants, sloths, etc.)
 - 94 mya: The [Cenomanian-Turonian anoxic event](https://en.wikipedia.org/wiki/Cenomanian-Turonian_boundary_event), a mass extinction, occurred
 - 94 mya: [Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires) (Supraprimates) split from [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria) (dogs, cats, giraffes, whales, etc.)
-- 88 mya: [Euarchonta](https://en.wikipedia.org/wiki/Euarchonta) ("true ancestors") split from [Glires](https://en.wikipedia.org/wiki/Glires) (dormice), maybe
+- 87 mya: [Euarchonta](https://en.wikipedia.org/wiki/Euarchonta) ("true ancestors") split from [Glires](https://en.wikipedia.org/wiki/Glires) ("dormice", e.g. rodents, rabbits, hares, and pikas), maybe
 - 86.2 mya: [Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha) split from [Scandentia (tree shrews)](https://en.wikipedia.org/wiki/Treeshrew)
 - 79.6 mya: [Primates](https://en.wikipedia.org/wiki/Primate) split from [Dermoptera (gliding mammals)](https://en.wikipedia.org/wiki/Colugo)
 - 78 mya: [Even-toed ungulates](https://en.wikipedia.org/wiki/Even-toed_ungulate) (e.g. pigs, cows, sheep, goats, camels, llamas, deer, giraffes, hippos, whales, and dolphins) split from [odd-toed ungulates](https://en.wikipedia.org/wiki/Odd-toed_ungulate) (i.e. horses, asses, zebras, rhinos, and tapirs)
