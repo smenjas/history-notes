@@ -56,8 +56,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [< 10 Billion Years Ago](#-10-billion-years-ago):
   [Mitochondria](#mitochondria), [Chloroplasts](#chloroplasts)
 - [< 1 Billion Years Ago](#-1-billion-years-ago):
-  [Hox](#hox), [Gut](#gut), [Spine](#spine), [Eye](#eye), [Jaw](#jaw),
-  [Lungs](#lungs), [Limbs](#limbs), [Amniotic Sac](#amniotic-sac)
+  [Hox](#hox), [Eye](#eye), [Gut](#gut), [Nostrils](#nostrils),
+  [Spine](#spine), [Jaw](#jaw), [Lungs](#lungs), [Limbs](#limbs),
+  [Amniotic Sac](#amniotic-sac)
 - [< 100 Million Years Ago](#-100-million-years-ago):
   [Thumb](#thumb), [Color Vision](#color-vision), [No Tail](#no-tail)
 - [< 10 Million Years Ago](#-10-million-years-ago):
@@ -182,6 +183,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - ? mya: The Protohox gene diverged into [Hox](https://en.wikipedia.org/wiki/Hox_gene) & [ParaHox](https://en.wikipedia.org/wiki/ParaHox)
 - ? mya: [ParaHoxozoa](https://en.wikipedia.org/wiki/ParaHoxozoa) split from [Ctenophora](https://en.wikipedia.org/wiki/Ctenophora) (comb jellies)
 - ? mya: [Planulozoa](https://en.wikipedia.org/wiki/Planulozoa) split from [Placozoa](https://en.wikipedia.org/wiki/Placozoa) ("flat animals")
+
+### Eye
+
 - 824 mya: [Bilateria](https://en.wikipedia.org/wiki/Bilateria) (embryos have bilateral symmetry) split from [Cnidaria](https://en.wikipedia.org/wiki/Cnidaria) (jellyfish & polyps)
 - 800 mya: Massive uptick in zinc composition of marine sediments, attributed to eukaryotes
 
@@ -189,70 +193,71 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 - 797 mya: [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa) split from [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha) (small, soft bodied, aquatic, worm-like animals without a gut)
 - 717 mya: The [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) began
-- 684 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
+- 686 mya: [Deuterostomes](https://en.wikipedia.org/wiki/Deuterostome) ("second mouth") split from [Protostomia](https://en.wikipedia.org/wiki/Protostome) ("first mouth")
 - 684 mya: [Chordata](https://en.wikipedia.org/wiki/Chordate) split from [Ambulacraria](https://en.wikipedia.org/wiki/Ambulacraria) (echinoderms and hemichordates)
+
+### Nostrils
+
 - 676 mya: [Olfactores](https://en.wikipedia.org/wiki/Olfactores) ("smellers") split from [Cephalochordata](https://en.wikipedia.org/wiki/Cephalochordate) (lancelets)
 - 662 mya: The [Sturtian glaciation](https://en.wikipedia.org/wiki/Sturtian_glaciation) (snowball Earth) ended
 - 650-635 mya: The [Marinoan glaciation](https://en.wikipedia.org/wiki/Marinoan_glaciation) (snowball Earth) occurred
 - 633-573 mya: The supercontinent [Pannotia](https://en.wikipedia.org/wiki/Pannotia) existed at the South Pole
+- 600 mya: O₂ exceeded 0.1 atm
+- 600 mya: An asteroid impacted Earth, creating the [Beaverhead crater](https://en.wikipedia.org/wiki/Beaverhead_crater) which is 60 km in diameter
 
 ### Spine
 
-- 615 mya: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from Tunicata (e.g. sea squirts)
-- 600 mya: O₂ exceeded 0.1 atm
-- 600 mya: An asteroid impacted Earth, creating the [Beaverhead crater](https://en.wikipedia.org/wiki/Beaverhead_crater) which is 60 km in diameter
+- 596 mya: [Vertebrata](https://en.wikipedia.org/wiki/Chordate) (chordates with backbones) split from [Tunicata](https://en.wikipedia.org/wiki/Tunicate) (e.g. sea squirts)
 - 580 mya: An asteroid impacted Earth, creating the [Acraman crater](https://en.wikipedia.org/wiki/Acraman_crater) which is 90 km in diameter
 - 579 mya: The [Gaskiers glaciation](https://en.wikipedia.org/wiki/Gaskiers_glaciation) (snowball Earth) occurred for ~340 ka
 - 575 mya: The [Avalon explosion of evolution](https://en.wikipedia.org/wiki/Avalon_explosion) occurred, producing the [Ediacaran biota](https://en.wikipedia.org/wiki/Ediacaran_biota)
+
+### Jaw
+
+- 563 mya: [Gnathostomata](https://en.wikipedia.org/wiki/Gnathostomata) ("jaw mouth", a.k.a. jawed fish) split from [Agnatha](https://en.wikipedia.org/wiki/Agnatha) ("without") (e.g. hagfishes and lampreys)
 - 542 mya: The [End-Ediacaran extinction](https://en.wikipedia.org/wiki/End-Ediacaran_extinction) occurred
-
-### Eye
-
 - 541 mya: The [Cambrian explosion of evolution](https://en.wikipedia.org/wiki/Cambrian_explosion) occurred, CO₂ was 4000 ppm, O₂ was 0.12 atm, global temp was +13 °C
 - 517 mya: The [End-Botomian extinction event](https://en.wikipedia.org/wiki/End-Botomian_mass_extinction) occurred
 - 502 mya: The [Dresbachian extinction event](https://en.wikipedia.org/wiki/Dresbachian) occurred
 - 500 mya: The [Steptoean Positive Carbon Isotope Excursion (SPICE)](https://en.wikipedia.org/wiki/Steptoean_positive_carbon_isotope_excursion) occurred, O₂ was 0.30 atm, global temp peaked at +15 °C
 - 490 mya: [Green algae](https://en.wikipedia.org/wiki/Green_algae) evolved into [Embryophyta (land plants)](https://en.wikipedia.org/wiki/Embryophyte)
 - 488 mya: The [Cambrian–Ordovician extinction event](https://en.wikipedia.org/wiki/Cambrian%E2%80%93Ordovician_extinction_event) occurred
-
-### Jaw
-
-- 473 mya: [Gnathostomata](https://en.wikipedia.org/wiki/Gnathostomata) ("jaw mouth", a.k.a. jawed fish) split from [Osteostraci](https://en.wikipedia.org/wiki/Osteostraci) ("bony shields") & [Pituriaspida](https://en.wikipedia.org/wiki/Pituriaspida) ("pituri shield")
 - 469 mya: The [Great Ordovician Biodiversification Event (GOBE)](https://en.wikipedia.org/wiki/Ordovician_radiation) occurred, with fish diversifying rapidly
 - 468 mya: The [L chondrite](https://en.wikipedia.org/wiki/L_chondrite) parent bodies collided between Mars & Jupiter, producing many asteroids that still impact Earth
 - 467.5 mya: The [Ordovician meteor event](https://en.wikipedia.org/wiki/Ordovician_meteor_event) occurred, due to the [L chondrite](https://en.wikipedia.org/wiki/L_chondrite) parent body collision, with 100x meteorites compared to today
+
+### Lungs
+
+- 462 mya: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
 - 460-440 mya: The [Late Ordovician glaciation](https://en.wikipedia.org/wiki/Late_Ordovician_glaciation) occurred, CO₂ fell to 2000 ppm
 - 450 mya: The global temperature fell to about 4 °C above the 20th century average
 - 450-420 mya: The [Andean-Saharan glaciation](https://en.wikipedia.org/wiki/Andean-Saharan_glaciation) occurred
 - 443 mya: The [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events) occurred, 85% of species lost
 
-### Lungs
-
-- 435 mya: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
-- 424 mya: The [Lau extinction event](https://en.wikipedia.org/wiki/Lau_event) occurred
-- 420 mya: [Elegestolepis](https://en.wikipedia.org/wiki/Elegestolepis), a primitive [shark](https://en.wikipedia.org/wiki/Shark), existed
-
 ### Limbs
 
-- 413 mya: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
+- 429 mya: [Sarcopterygii](https://en.wikipedia.org/wiki/Sarcopterygii) ("lobe-finned fish") split from [Actinopterygii](https://en.wikipedia.org/wiki/Actinopterygii) ("ray-finned fish")
+- 424 mya: The [Lau extinction event](https://en.wikipedia.org/wiki/Lau_event) occurred
+- 420 mya: [Elegestolepis](https://en.wikipedia.org/wiki/Elegestolepis), a primitive [shark](https://en.wikipedia.org/wiki/Shark), existed
+- 415 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
 - 409 mya: [Tungsenia](https://en.wikipedia.org/wiki/Tungsenia), a bony fish and the earliest known [ancestor of tetrapods](https://en.wikipedia.org/wiki/Tetrapodomorpha), existed
+- 408 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
 - 400 mya: O₂ exceeded 0.15 atm, and the global temperature rose to about 12 °C above the 20th century average
-- 400 mya: [Rhipidistia](https://en.wikipedia.org/wiki/Rhipidistia) split from the [Coelacanth](https://en.wikipedia.org/wiki/Coelacanth) ("hollow spine")
 - 385 mya: [Wattieza](https://en.wikipedia.org/wiki/Wattieza), an early tree, existed
 - 380 mya: [Elpistostege](https://en.wikipedia.org/wiki/Elpistostege), an early tetrapod that was basically a fish with arms, had [digits](https://news.flinders.edu.au/blog/2020/03/19/ancient-fossil-reveals-origin-of-the-human-hand/), small bones that would eventually become fingers
 - 372 mya: The [Late Devonian extinction event](https://en.wikipedia.org/wiki/Late_Devonian_extinction) occurred, 75% of species lost
 - 360-345 mya: [Archaeopteris](https://en.wikipedia.org/wiki/Archaeopteris), an early tree, existed
 - 360-260 mya: The [Late Paleozoic icehouse (a.k.a. Karoo ice age)](https://en.wikipedia.org/wiki/Late_Paleozoic_icehouse) occurred
 - 359 mya: The [Hangenberg extinction event](https://en.wikipedia.org/wiki/Hangenberg_event) occurred, 96% of vertebrate species lost
-- 352 mya: [Tetrapoda](https://en.wikipedia.org/wiki/Tetrapod) ("four legs") split from [Dipnoi (lungfish)](https://en.wikipedia.org/wiki/Lungfish)
-- 350 mya: O₂ exceeded 0.2 atm, and the global temperature fell to about 5 °C above the 20th century average
-- 335-175 mya: The supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea) existed
 
 ### Amniotic Sac
 
-- 312 mya: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
+- 352 mya: [Amniota](https://en.wikipedia.org/wiki/Amniote) (membrane surrounding the fetus) split from [Amphibia](https://en.wikipedia.org/wiki/Amphibian) ("both kinds of life")
+- 350 mya: O₂ exceeded 0.2 atm, and the global temperature fell to about 5 °C above the 20th century average
+- 335-175 mya: The supercontinent [Pangaea](https://en.wikipedia.org/wiki/Pangaea) existed
+- 330 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) split from [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta)
+- 319 mya: [Synapsida](https://en.wikipedia.org/wiki/Synapsid) ("fused arch", e.g. mammals) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
 - 305 mya: The [Carboniferous rainforest collapse](https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse) occurred
-- 300 mya: [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) existed
 - 300 mya: O₂ peaked at 0.2-0.35 atm, and the global temperature fell to about 2 °C below the 20th century average, all modern classes of [fungi](https://en.wikipedia.org/wiki/Fungus) existed
 - 273 mya: [Olson's Extinction](https://en.wikipedia.org/wiki/Olson%27s_Extinction) occurred
 - 260 mya: The [Late Paleozoic icehouse](https://en.wikipedia.org/wiki/Late_Paleozoic_icehouse) ended, and global temperature stayed above the 20th century average for the next 256 million years
@@ -266,30 +271,30 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 201.3 mya: The [Triassic–Jurassic extinction event](https://en.wikipedia.org/wiki/Triassic–Jurassic_extinction_event) occurred, 70% of species lost
 - 200 mya: O₂ exceeded 0.2 atm, CO₂ was > 3000 ppm, and the global temperature fell to about 2 °C above the 20th century average
 - 183 mya: The [Pliensbachian-Toarcian extinction events](https://en.wikipedia.org/wiki/Toarcian_turnover) occurred
-- 177 mya: [Synapsida](https://en.wikipedia.org/wiki/Synapsid) ("fused arch", e.g. mammals) split from [Sauropsida](https://en.wikipedia.org/wiki/Sauropsida) ("lizard faces", e.g. reptiles & birds)
-- 159 mya: [Theriiformes](https://en.wikipedia.org/wiki/Theriiformes) ("beastlike") split from [Prototheria](https://en.wikipedia.org/wiki/Prototheria) ("first beasts", a.k.a. monotremes, e.g. platypi & echidnas)
+- 180 mya: [Theria](https://en.wikipedia.org/wiki/Theria) ("wild beasts") split from [monotremes](https://en.wikipedia.org/wiki/Monotreme) (e.g. platypi & echidnas)
+- 160 mya: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
 - 150 mya: O₂ exceeded 0.26 atm, CO₂ was > 3000 ppm, global temp rose to about 5 °C above the 20th century average
 - 145 mya: An asteroid impacted Earth, creating the [Morokweng crater](https://en.wikipedia.org/wiki/Morokweng_crater) which is 70 km in diameter
 - 129-125 mya: [Poaceae, a.k.a. Gramineae or grasses](https://en.wikipedia.org/wiki/Poaceae) evolved
 - 116 mya: The [Aptian extinction event](https://en.wikipedia.org/wiki/Aptian_extinction) occurred
-- 105 mya: [Eutheria](https://en.wikipedia.org/wiki/Eutheria) ("true beasts", placental mammals) split from [Metatheria](https://en.wikipedia.org/wiki/Metatheria) ("changed beasts", e.g. marsupials)
 - 100 mya: The global temperature rose to about 8 °C above the 20th century average
 
 ## < 100 Million Years Ago
 
-- 96 mya: [Boreoeutheria](https://en.wikipedia.org/wiki/Boreoeutheria) ("northern true beasts") split from [Atlantogenata](https://en.wikipedia.org/wiki/Atlantogenata) (elephants, sloths, etc.)
+- 99 mya: [Boreoeutheria](https://en.wikipedia.org/wiki/Boreoeutheria) ("northern true beasts") split from [Atlantogenata](https://en.wikipedia.org/wiki/Atlantogenata) (elephants, sloths, etc.)
 - 94 mya: The [Cenomanian-Turonian anoxic event](https://en.wikipedia.org/wiki/Cenomanian-Turonian_boundary_event), a mass extinction, occurred
-- 90 mya: [Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires) (Supraprimates) split from [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria) (dogs, cats, giraffes, whales, etc.)
+- 94 mya: [Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires) (Supraprimates) split from [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria) (dogs, cats, giraffes, whales, etc.)
 - 88 mya: [Euarchonta](https://en.wikipedia.org/wiki/Euarchonta) ("true ancestors") split from [Glires](https://en.wikipedia.org/wiki/Glires) (dormice), maybe
 - 86.2 mya: [Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha) split from [Scandentia (tree shrews)](https://en.wikipedia.org/wiki/Treeshrew)
 - 79.6 mya: [Primates](https://en.wikipedia.org/wiki/Primate) split from [Dermoptera (gliding mammals)](https://en.wikipedia.org/wiki/Colugo)
 - 78 mya: [Even-toed ungulates](https://en.wikipedia.org/wiki/Even-toed_ungulate) (e.g. pigs, cows, sheep, goats, camels, llamas, deer, giraffes, hippos, whales, and dolphins) split from [odd-toed ungulates](https://en.wikipedia.org/wiki/Odd-toed_ungulate) (i.e. horses, asses, zebras, rhinos, and tapirs)
+- 74 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
 - 70.3 mya: An asteroid impacted Earth, creating the [Kara crater](https://en.wikipedia.org/wiki/Kara_crater) which is 65 km in diameter
 
 ### Thumb
 
 - 70 mya: [Primates evolved thumbs](https://en.wikipedia.org/wiki/Thumb#Human_Evolution)
-- 67 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Haplorhini) ("twisted nosed", a.k.a. moist nosed primates)
+- 69 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
 - 67 mya: The global temperature fell to about 6 °C above the 20th century average, [CO₂ was 350-500 ppm](https://en.wikipedia.org/wiki/Climate_across_Cretaceous%E2%80%93Paleogene_boundary)
 - 66.7 mya: The [first known bird](https://www.cam.ac.uk/stories/wonderchicken) existed: a recent common ancestor of chickens and ducks
 - 66 mya: An asteroid impacted Earth, creating the [Chicxulub crater](https://en.wikipedia.org/wiki/Chicxulub_crater) which is 150 km in diameter
@@ -298,26 +303,25 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 60 mya: [Angiosperms (a.k.a. flowering plants)](https://en.wikipedia.org/wiki/Flowering_plant) replaced [Pinophyta (a.k.a. conifers)](https://en.wikipedia.org/wiki/Pinophyta) as the dominant trees
 - 56 mya: [Laurasia](https://en.wikipedia.org/wiki/Laurasia) split into North America & Eurasia
 - 55 mya: The [Paleocene–Eocene Thermal Maximum (PETM)](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) occurred; atmospheric CO₂ increased, and the global temperature spiked to over 14 °C above the 20th century average
+- 55 mya: [Caniformia](https://en.wikipedia.org/wiki/Caniformia) ("dog-like" carnivores) split from [Feliformia](https://en.wikipedia.org/wiki/Feliformia)  ("cat-like" carnivores)
 - 50 mya: [Pinnipeds ("fin-foot", a.k.a. seals)](https://en.wikipedia.org/wiki/Pinniped) split from other [Caniformes](https://en.wikipedia.org/wiki/Caniformia) ("dog-like" carnivores)
 - 49-45 mya: [Cetaceans (whales)](https://en.wikipedia.org/wiki/Cetacea) evolved from land mammals back into sea mammals
 - 45 mya: The global temperature fell to about 9 °C above the 20th century average
-- 43 mya: [Simians](https://en.wikipedia.org/wiki/Simian) (flat nosed primates) split from [tarsiers](https://en.wikipedia.org/wiki/Tarsier)
-- 42 mya: [Caniformia](https://en.wikipedia.org/wiki/Caniformia) ("dog-like" carnivores) split from [Feliformia](https://en.wikipedia.org/wiki/Feliformia)  ("cat-like" carnivores)
+
+### Color Vision
+
+- 43 mya: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
 - 40 mya: O₂ dropped to 0.23 atm, and the global temperature spiked to about 11 °C above the 20th century average
 - 35 mya: An asteroid impacted Earth, creating the [Popigai crater](https://en.wikipedia.org/wiki/Popigai_crater) which is 90 km in diameter
 - 35 mya: The global temperature fell to about 3 °C above the 20th century average, and began to oscillate a couple °C
 - 33.9 mya: The [Late Cenozoic Ice Age](https://en.wikipedia.org/wiki/Late_Cenozoic_Ice_Age) began, and is ongoing
 - 30 mya: The global temperature peaked at least 6 °C above the 20th century average, and continued to oscillate around 4-6 °C above for the next 10 million years
 
-### Color Vision
-
-- 29 mya: [Catarrhini ("narrow nosed", Old World monkeys)](https://en.wikipedia.org/wiki/Catarrhini) split from [Platyrrhini ("flat nosed", New World monkeys)](https://en.wikipedia.org/wiki/New_World_monkey)
-- 28 mya: The [East Antarctic Ice Sheet (EAIS)](https://en.wikipedia.org/wiki/East_Antarctic_Ice_Sheet) formed, due to declining atmospheric CO₂
-- 25 mya: O₂ dropped to 0.21 atm, the global temperature peaked about 7 °C above the 20th century average, and continued to oscillate around 4-6 °C above for the next 5 million years
-
 ### No Tail
 
-- 20 mya: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
+- 28.8 mya: [Hominoidea (apes)](https://en.wikipedia.org/wiki/Ape) split from [Cercopithecidae (Old World monkeys)](https://en.wikipedia.org/wiki/Old_World_monkey)
+- 28 mya: The [East Antarctic Ice Sheet (EAIS)](https://en.wikipedia.org/wiki/East_Antarctic_Ice_Sheet) formed, due to declining atmospheric CO₂
+- 25 mya: O₂ dropped to 0.21 atm, the global temperature peaked about 7 °C above the 20th century average, and continued to oscillate around 4-6 °C above for the next 5 million years
 - 15.7 mya: [Hominidae (great apes)](https://en.wikipedia.org/wiki/Hominidae) [split](https://en.wikipedia.org/wiki/Gibbon%E2%80%93human_last_common_ancestor) from [gibbons (lesser apes)](https://en.wikipedia.org/wiki/Gibbon)
 - 15 mya: The global temperature peaked at least 7 °C above the 20th century average
 - 14 mya: The [Middle Miocene disruption](https://en.wikipedia.org/wiki/Middle_Miocene_disruption) occurred, extinctions related to cooling
