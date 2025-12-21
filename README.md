@@ -287,7 +287,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 87 mya: [Euarchonta](https://en.wikipedia.org/wiki/Euarchonta) ("true ancestors") split from [Glires](https://en.wikipedia.org/wiki/Glires) ("dormice", e.g. rodents, rabbits, hares, and pikas), maybe
 - 86.2 mya: [Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha) split from [Scandentia (tree shrews)](https://en.wikipedia.org/wiki/Treeshrew)
 - 79.6 mya: [Primates](https://en.wikipedia.org/wiki/Primate) split from [Dermoptera (gliding mammals)](https://en.wikipedia.org/wiki/Colugo)
-- 78 mya: [Even-toed ungulates](https://en.wikipedia.org/wiki/Even-toed_ungulate) (e.g. pigs, cows, sheep, goats, camels, llamas, deer, giraffes, hippos, whales, and dolphins) split from [odd-toed ungulates](https://en.wikipedia.org/wiki/Odd-toed_ungulate) (i.e. horses, asses, zebras, rhinos, and tapirs)
+- 76 mya: [Even-toed ungulates](https://en.wikipedia.org/wiki/Artiodactyl) (e.g. pigs, cows, sheep, goats, camels, llamas, deer, giraffes, hippos, and whales) split from [odd-toed ungulates](https://en.wikipedia.org/wiki/Perissodactyla) (i.e. horses, asses, zebras, rhinos, and tapirs)
 - 74 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Strepsirrhini) ("twisted nosed", a.k.a. moist nosed primates)
 - 70.3 mya: An asteroid impacted Earth, creating the [Kara crater](https://en.wikipedia.org/wiki/Kara_crater) which is 65 km in diameter
 
