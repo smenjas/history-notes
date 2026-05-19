@@ -2117,6 +2117,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1987 CE: [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson), Hiroshi Shirahata, & Jonathon E. Ericson published *Lead in ancient human bones and its relevance to historical developments of social problems with lead*
 - 1987 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded five billion people
 - 1987 CE: Light from a [type II supernova 186,000 light years away](https://en.wikipedia.org/wiki/SN_1987A) reached Earth
+- 1987 CE: [Craig Reynolds](https://en.wikipedia.org/wiki/Craig_Reynolds_%28computer_graphics%29) published *Flocks, herds and schools: A distributed behavioral model*
 - 1988 CE: Monthly average CO₂ exceeded 350 ppm
 - 1988 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*On the Cruelty of Really Teaching Computer Science*](https://en.wikipedia.org/wiki/On_the_Cruelty_of_Really_Teaching_Computer_Science), lamenting that "software engineering has accepted as its charter 'How to program if you cannot.'"
 - 1989 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 1* (GPLv1)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
