@@ -856,11 +856,17 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1455 CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published the [Gutenburg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
 - 14?? CE: [Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) published [*Das Werk der Bücher* (*The Work of Books*)](https://en.wikipedia.org/wiki/Gutenberg_Bible#The_production_process%3A_Das_Werk_der_B%C3%BCcher)
 - 1456 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
+- 1459 CE: [Georg von Peuerbach](https://en.wikipedia.org/wiki/Georg_von_Peuerbach) published *Tabulae Eclipsium* (*Eclipse Tables*)
+- 1464 CE: [Regiomontanus](https://en.wikipedia.org/wiki/Regiomontanus) published *De triangulis omnimodis* (*On Triangles of All Kinds*)
+- 1468 CE: [Georg von Peuerbach](https://en.wikipedia.org/wiki/Georg_von_Peuerbach) posthumously published *Tractatus Georgi Peurbachii super propositiones Ptolemaei de sinubus & chordis* (*A treatise of George Peurbach on the propositions of Ptolemy concerning the sines and chords*)
 - 1470 CE: Scribes copied [Quintillian](https://en.wikipedia.org/wiki/Quintilian)'s [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria) into [New Latin](https://en.wikipedia.org/wiki/New_Latin), combining two [Koine Greek](https://en.wikipedia.org/wiki/Koine_Greek) words (ἐγκύκλιος παιδεία, "enkyklios paedia") into one: [encyclopaedia](https://en.wikipedia.org/wiki/Encyclopedia)
+- 1471 CE: [Georg von Peuerbach](https://en.wikipedia.org/wiki/Georg_von_Peuerbach) posthumously published *Theoricae Novae Planetarum* (*New Theory of the Planets*), the first printed astronomical textbook
 - 1474 CE: [Piero della Francesca](https://en.wikipedia.org/wiki/Piero_della_Francesca) wrote [*De prospectiva pingendi* (*On the Perspective of Painting*)](https://en.wikipedia.org/wiki/De_prospectiva_pingendi)
 - 1485 CE: [Piero della Francesca](https://en.wikipedia.org/wiki/Piero_della_Francesca) wrote [*De quinque corporibus regularibus* (*On the five regular solids*)](https://en.wikipedia.org/wiki/De_quinque_corporibus_regularibus)
 - 1489 CE: [Poliziano (a.k.a. Politianus)](https://en.wikipedia.org/wiki/Poliziano) published *Miscellanea*, an influential series of discursive essays on philology and [criticism](https://en.wikipedia.org/wiki/Criticism)
+- 1490 CE: [Regiomontanus](https://en.wikipedia.org/wiki/Regiomontanus) posthumously published *Tabulae directionum profectionumque* (*Direction and Departure Tables*), [trigonometric tables](https://en.wikipedia.org/wiki/Trigonometric_table) for astronomy
 - 1494 CE: [Luca Pacioli](https://en.wikipedia.org/wiki/Luca_Pacioli) published [*Summa de arithmetica, geometria, proportioni et proportionalita* (*Summary of arithmetic, geometry, proportions and proportionality*)](https://en.wikipedia.org/wiki/Summa_de_arithmetica), explaining [double-entry bookkeeping](https://en.wikipedia.org/wiki/Summa_de_arithmetica) among other accounting practices
+- 1496 CE: [Georg von Peuerbach](https://en.wikipedia.org/wiki/Georg_von_Peuerbach) & [Regiomontanus](https://en.wikipedia.org/wiki/Regiomontanus) posthumously published *Epytoma in Almagesti Ptolemei* (*Epitome on the Almagest of Ptolemy*), an abridged translation of [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy)'s *Almagest* from Greek into Latin
 
 ## 1500s
 
