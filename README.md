@@ -920,6 +920,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ## 1600s
 
 - 1600 CE: [William Gilbert](https://en.wikipedia.org/wiki/William_Gilbert_%28physician%29) published [*De Magnete, Magneticisque Corporibus, et de Magno Magnete Tellure* (*On the Magnet and Magnetic Bodies, and on That Great Magnet the Earth*)](https://en.wikipedia.org/wiki/De_Magnete), describing experiments in magnetism and static electricity
+- 1603 CE: [Johann Bayer](https://en.wikipedia.org/wiki/Johann_Bayer) published his [*Uranometria Omnium Asterismorum* (*Uranometry of all the asterisms*)](https://en.wikipedia.org/wiki/Uranometria), the first star atlas covering the whole sky
 - 1603 CE: [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) posthumously published *Astronomiae Instauratae Progymnasmata* (*Introduction to the New Astronomy*)
 - 1604 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) published *Astronomiae Pars Optica* (*Some Astronomical Optics*), the foundation of modern optics
 - 1604 CE: Light from [a supernova](https://en.wikipedia.org/wiki/SN_1604) reached Earth from less than 20,000 light years away
