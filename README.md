@@ -761,6 +761,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 529 CE: [Justinian I](https://en.wikipedia.org/wiki/Justinian_I) ordered [Tribonian](https://en.wikipedia.org/wiki/Tribonian) to compile the [*Corpus Juris Civilis* (*Body of Civil Law*)](https://en.wikipedia.org/wiki/Corpus_Juris_Civilis), an influential work in [jurisprudence](https://en.wikipedia.org/wiki/Jurisprudence)
 - 536 CE: The [volcanic winter of 536](https://en.wikipedia.org/wiki/Volcanic_winter_of_536) occurred, beginning the [Late Antique Little Ice Age (LALIA)](https://en.wikipedia.org/wiki/Late_Antique_Little_Ice_Age)
 - 600 CE: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded two hundred million people
+- 602 CE: [Maurice](https://en.wikipedia.org/wiki/Maurice_%28emperor%29) wrote his [*Strategikon*](https://en.wikipedia.org/wiki/Strategikon_of_Maurice), a manual of war, by the time he died
 - 607 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 613 CE: [Isidore of Seville](https://en.wikipedia.org/wiki/Isidore_of_Seville) wrote *De natura rerum* (*On the Nature of Things*), mentioning "pestifera semina" ("plague-bearing seeds")
 
