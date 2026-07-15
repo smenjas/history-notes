@@ -1817,6 +1817,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1939 CE: [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert) & [Paul Bernays](https://en.wikipedia.org/wiki/Paul_Bernays) published [*Grundlagen der Mathematik* (*Foundations of Mathematics*)](https://en.wikipedia.org/wiki/Grundlagen_der_Mathematik) volume 2
 - 1939 CE: [Leo Szilard](https://en.wikipedia.org/wiki/Leo_Szilard) wrote and [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) signed the [Einstein–Szilard letter](https://en.wikipedia.org/wiki/Einstein%E2%80%93Szil%C3%A1rd_letter) to [Franklin D. Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt), culminating in the [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project)
 - 1939 CE: [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) published *On denumerability in topology*, describing the [Tukey lemma](https://en.wikipedia.org/wiki/Teichm%C3%BCller%E2%80%93Tukey_lemma)
+- 1939 CE: [Phillip Hagar Smith](https://en.wikipedia.org/wiki/Phillip_Hagar_Smith) published *A Transmission Line Calculator*, introducing the [Smith chart](https://en.wikipedia.org/wiki/Smith_chart) for [impedance matching](https://en.wikipedia.org/wiki/Impedance_matching)
 
 ### 1940s
 
