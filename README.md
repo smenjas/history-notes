@@ -941,6 +941,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1609 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [telescope](https://en.wikipedia.org/wiki/Telescope) to be useful
 - 1610 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Sidereus Nuncius* (*Starry Messenger*)](https://en.wikipedia.org/wiki/Sidereus_Nuncius)
 - 1611 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) invented the [Keplerian telescope](https://en.wikipedia.org/wiki/Refracting_telescope#Keplerian_telescope)
+- 1611 CE: [Sebastián de Covarrubias](https://en.wikipedia.org/wiki/Sebasti%C3%A1n_de_Covarrubias) published the [*Tesoro de la lengua castellana o española* (*Treasury of the Castilian or Spanish Language*)](https://en.wikipedia.org/wiki/Tesoro_de_la_lengua_castellana_o_espa%C3%B1ola), the first Spanish dictionary
 - 1612 CE: The Accademia della Crusca (Academy of the Bran) published its [*Vocabolario* (*Vocabulary*)](https://en.wikipedia.org/wiki/Vocabolario_degli_Accademici_della_Crusca), the first Italian dictionary
 - 1613 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Letters on Sunspots*](https://en.wikipedia.org/wiki/Letters_on_Sunspots)
 - 1614 CE: [Simon Marius](https://en.wikipedia.org/wiki/Simon_Marius) published *Mundus Iovialis* (*The Jovian World*), describing the planet Jupiter and naming its four largest moons
