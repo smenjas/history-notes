@@ -1735,6 +1735,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1928 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Zur Theorie der Gesellschaftsspiele* (*On the Theory of Parlor Games*), anticipating [game theory](https://en.wikipedia.org/wiki/Game_theory)
 - 1928 CE: [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) published *Certain topics in Telegraph Transmission Theory*, contributing to the [Nyquist–Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
 - 1928 CE: [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) published *Thermal Agitation of Electric Charge in Conductors*, describing [Johnson–Nyquist noise](https://en.wikipedia.org/wiki/Johnson%E2%80%93Nyquist_noise)
+- 1928 CE: The [Oxford University Press](https://en.wikipedia.org/wiki/Oxford_University_Press) published the [*Oxford English Dictionary* (OED)](https://en.wikipedia.org/wiki/Oxford_English_Dictionary)
 - 1929 CE: [Leo Szilard](https://en.wikipedia.org/wiki/Leo_Szilard) submitted a patent for the [cyclotron particle accelerator](https://en.wikipedia.org/wiki/Cyclotron)
 - 1929 CE: [Hans Geiger](https://en.wikipedia.org/wiki/Hans_Geiger) & [Walther Müller](https://en.wikipedia.org/wiki/Walther_Müller) published *Technische Bemerkungen zum Elektronenzählrohr* (*Technical notes on the electron counting tube*)
 - 1929 CE: [Hans Geiger](https://en.wikipedia.org/wiki/Hans_Geiger) & [Walther Müller](https://en.wikipedia.org/wiki/Walther_Müller) published *Demonstration des Elektronenzählrohrs* (*Demonstration of the electron counting tube*)
@@ -2153,6 +2154,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1988 CE: Monthly average CO₂ exceeded 350 ppm
 - 1988 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*On the Cruelty of Really Teaching Computer Science*](https://en.wikipedia.org/wiki/On_the_Cruelty_of_Really_Teaching_Computer_Science), lamenting that "software engineering has accepted as its charter 'How to program if you cannot.'"
 - 1989 CE: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) published the [*GNU General Public License, version 1* (GPLv1)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+- 1989 CE: The [Oxford University Press](https://en.wikipedia.org/wiki/Oxford_University_Press) published the second edition of the [*Oxford English Dictionary* (OED)](https://en.wikipedia.org/wiki/Oxford_English_Dictionary)
 
 ### 1990s
 
