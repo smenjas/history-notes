@@ -941,6 +941,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1609 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) improved the [telescope](https://en.wikipedia.org/wiki/Telescope) to be useful
 - 1610 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Sidereus Nuncius* (*Starry Messenger*)](https://en.wikipedia.org/wiki/Sidereus_Nuncius)
 - 1611 CE: [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) invented the [Keplerian telescope](https://en.wikipedia.org/wiki/Refracting_telescope#Keplerian_telescope)
+- 1612 CE: The Accademia della Crusca (Academy of the Bran) published its [*Vocabolario* (*Vocabulary*)](https://en.wikipedia.org/wiki/Vocabolario_degli_Accademici_della_Crusca), the first Italian dictionary
 - 1613 CE: [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) published [*Letters on Sunspots*](https://en.wikipedia.org/wiki/Letters_on_Sunspots)
 - 1614 CE: [Simon Marius](https://en.wikipedia.org/wiki/Simon_Marius) published *Mundus Iovialis* (*The Jovian World*), describing the planet Jupiter and naming its four largest moons
 - 1614 CE: [John Napier](https://en.wikipedia.org/wiki/John_Napier) published [*Mirifici Logarithmorum Canonis Descriptio* (*Description of the Wonderful Canon of Logarithms*)](https://en.wikipedia.org/wiki/Mirifici_Logarithmorum_Canonis_Descriptio), describing [logarithms](https://en.wikipedia.org/wiki/Logarithm)
