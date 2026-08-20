@@ -728,6 +728,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 77 CE: [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder) wrote [*Naturalis Historia* (*Natural History*)](https://en.wikipedia.org/wiki/Natural_History_%28Pliny%29)
 - 95 CE: [Quintillian](https://en.wikipedia.org/wiki/Quintilian) wrote [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria): his aim was "the education of the perfect orator", and he taught Pliny the Younger [rhetoric](https://en.wikipedia.org/wiki/Rhetoric)
 - 99 CE: [Pliny the Younger](https://en.wikipedia.org/wiki/Pliny_the_Younger) wrote the first book of his [*Epistulae* (*Letters*)](https://en.wikipedia.org/wiki/Epistulae_%28Pliny%29)
+- 100 CE: [Xu Shen](https://en.wikipedia.org/wiki/Xu_Shen) compiled the [*Shuowen Jiezi*](https://en.wikipedia.org/wiki/Shuowen_Jiezi), a Chinese dictionary
 
 ### Paper
 
