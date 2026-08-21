@@ -860,6 +860,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1456 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1459 CE: [Georg von Peuerbach](https://en.wikipedia.org/wiki/Georg_von_Peuerbach) published *Tabulae Eclipsium* (*Eclipse Tables*)
 - 1464 CE: [Regiomontanus](https://en.wikipedia.org/wiki/Regiomontanus) published *De triangulis omnimodis* (*On Triangles of All Kinds*)
+- 1464 CE: Jehan Lagadeuc compiled the [Catholicon](https://en.wikipedia.org/wiki/Catholicon_%28trilingual_dictionary%29), a dictionary written in Breton, French, and Latin
 - 1468 CE: [Georg von Peuerbach](https://en.wikipedia.org/wiki/Georg_von_Peuerbach) posthumously published *Tractatus Georgi Peurbachii super propositiones Ptolemaei de sinubus & chordis* (*A treatise of George Peurbach on the propositions of Ptolemy concerning the sines and chords*)
 - 1470 CE: Scribes copied [Quintillian](https://en.wikipedia.org/wiki/Quintilian)'s [*Institutio Oratoria* (*Institutes of Oratory*)](https://en.wikipedia.org/wiki/Institutio_Oratoria) into [New Latin](https://en.wikipedia.org/wiki/New_Latin), combining two [Koine Greek](https://en.wikipedia.org/wiki/Koine_Greek) words (ἐγκύκλιος παιδεία, "enkyklios paedia") into one: [encyclopaedia](https://en.wikipedia.org/wiki/Encyclopedia)
 - 1471 CE: [Georg von Peuerbach](https://en.wikipedia.org/wiki/Georg_von_Peuerbach) posthumously published *Theoricae Novae Planetarum* (*New Theory of the Planets*), the first printed astronomical textbook
