@@ -1661,6 +1661,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1913 CE: [Rudolf Diesel](https://en.wikipedia.org/wiki/Rudolf_Diesel) published *Die Entstehung des Dieselmotors* (*The Installation of Diesel Engines*)
 - 1913 CE: [Henry Moseley](https://en.wikipedia.org/wiki/Henry_Moseley) published *The attainment of high potentials by the use of Radium*, describing the [atomic battery](https://en.wikipedia.org/wiki/Atomic_battery)
 - 1913 CE: [Henry Moseley](https://en.wikipedia.org/wiki/Henry_Moseley) published *The high-frequency spectra of the elements*, introducing [Moseley's law](https://en.wikipedia.org/wiki/Moseley%27s_law) showing that [atomic numbers](https://en.wikipedia.org/wiki/Atomic_number) are physical quantities
+- 1914 CE: [Felix Hausdorff](https://en.wikipedia.org/wiki/Felix_Hausdorff) published [*Grundzüge der Mengenlehre* (*Principles of set theory*)](https://en.wikipedia.org/wiki/Grundz%C3%BCge_der_Mengenlehre)
 - 1915 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Die Feldgleichungen der Gravitation* (*The Field Equations of Gravitation*)](https://en.wikisource.org/wiki/Translation:The_Field_Equations_of_Gravitation)
 - 1915 CE: [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener) published *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*), developing the theory of [continental drift](https://en.wikipedia.org/wiki/Continental_drift)
 - 1916 CE: [Karl Schwarzschild](https://en.wikipedia.org/wiki/Karl_Schwarzschild) published *Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie* (*On the gravitational field of a mass point according to Einstein's theory*)
@@ -1678,6 +1679,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1919 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The Economic Consequences of the Peace*](https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace)
 - 1919 CE: [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) published *Collision of α particles with light atoms. IV. An anomalous effect in nitrogen*, describing [proton](https://en.wikipedia.org/wiki/Proton) emission
 - 1919 CE: [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) published *Atombau und Spektrallinien* (*Atomic Structure and Spectral Lines*)
+- 1919 CE: [Felix Hausdorff](https://en.wikipedia.org/wiki/Felix_Hausdorff) published *Dimension und äußeres Maß* (*Dimension and external dimension*), introducing the [Hausdorff dimension](https://en.wikipedia.org/wiki/Hausdorff_dimension), a measure of roughness
 - 1919 CE: The [International Labour Organization (ILO)](https://en.wikipedia.org/wiki/International_Labour_Organization) established the [eight-hour work day](https://en.wikipedia.org/wiki/Eight-hour_day) and [48-hour workweek](https://en.wikipedia.org/wiki/Workweek_and_weekend) at the [Hours of Work (Industry) Convention](https://en.wikipedia.org/wiki/Hours_of_Work_%28Industry%29_Convention,_1919)
 
 ### 1920s
