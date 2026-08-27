@@ -1458,6 +1458,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1872 CE: [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) published *Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen* (*Further studies on the heat balance among gas molecules*), introducing the [Boltzmann equation](https://en.wikipedia.org/wiki/Boltzmann_equation) and [*H*-theorem](https://en.wikipedia.org/wiki/H-theorem), using [statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) to derive the [second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
 - 1873 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*A Treatise on Electricity and Magnetism*](https://en.wikipedia.org/wiki/A_Treatise_on_Electricity_and_Magnetism)
 - 1873 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published *Molecules*
+- 1873 CE: [Eli H. Janney](https://en.wikipedia.org/wiki/Eli_H._Janney) patented the [knuckle coupler](https://en.wikipedia.org/wiki/Janney_coupler) for connecting rail cars, tremendously improving safety
 - 1874 CE: [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) published [*Ueber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen* (*On a Property of the Collection of All Real Algebraic Numbers*)](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article), founding [set theory](https://en.wikipedia.org/wiki/Set_theory)
 - 1874 CE: [Theodor Billroth](https://en.wikipedia.org/wiki/Theodor_Billroth) published *Untersuchungen über die Vegetationsformen von Coccobacteria septica* (*Investigations of the Vegetal Forms of Coccobacteria septica*), describing [streptococcus](https://en.wikipedia.org/wiki/Streptococcus)
 - 1876 CE: [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) published *On the Limits of the Optical Capacity of the Microscope*
@@ -1479,6 +1480,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1878 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published [*How To Make Our Ideas Clear*](https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II), stating his [pragmatic maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim)
 - 1879 CE: [Emile Berliner](https://en.wikipedia.org/wiki/Emile_Berliner) patented an *Improvement in electrical-contact telephones*, the carbon microphone
 - 1879 CE: [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) published [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (*concept-script*)
+- 1879 CE: [Eli H. Janney](https://en.wikipedia.org/wiki/Eli_H._Janney) patented an [improved knuckle coupler](https://patents.google.com/patent/US212703) for connecting rail cars, improving safety
 
 ### 1880s
 
