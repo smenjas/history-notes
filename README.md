@@ -137,7 +137,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - ? bya: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis), existed
 - 3.2 bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
 - 2.9 bya: The [Pongola glaciation](https://en.wikipedia.org/wiki/Mesoarchean) occurred
-- 2.8-2.4 bya: The supercontinent [Ur](https://en.wikipedia.org/wiki/Ur_%continent%29) existed
+- 2.8-2.4 bya: The supercontinent [Ur](https://en.wikipedia.org/wiki/Ur_%28continent%29) existed
 - 2.7-2.5 bya: The supercontinent [Kenorland](https://en.wikipedia.org/wiki/Kenorland) existed
 - 2.7-2.4 bya: Nickel deposits, necessary for chemosynthetic [methane producers](https://en.wikipedia.org/wiki/Methanogen), decreased dramatically
 - 2.5-2.0 bya: The supercontinent [Arctica](https://en.wikipedia.org/wiki/Arctica) existed
@@ -159,7 +159,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ### Chloroplasts
 
-- 1.4 bya: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [choloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
+- 1.4 bya: A eukaryote incorporated a [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria), [Gloeomargarita lithophora](https://en.wikipedia.org/wiki/Gloeomargarita_lithophora), the source of [chloroplasts](https://en.wikipedia.org/wiki/Chloroplast) via phagocytosis
 - ? bya: [Orthokaryotes](https://en.wikipedia.org/wiki/Orthokaryotes) split from [Discicristata](https://en.wikipedia.org/wiki/Discicristata)
 - ? bya: [Neokaryotes](https://en.wikipedia.org/wiki/Neokaryotes) (all unikonts & bikonts) split from [Jakobids](https://en.wikipedia.org/wiki/Jakobid) (which have bacteria-like mitochondria)
 - ? bya: [Scotokaryotes (a.k.a. Opimoda)](https://en.wikipedia.org/wiki/Scotokaryotes) split from [Corticata](https://en.wikipedia.org/wiki/Corticata) ("one with a cortex", a.k.a. [Diphoda or Bikonts](https://en.wikipedia.org/wiki/Bikont), e.g. plants, algae, etc.)
@@ -1711,7 +1711,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1923 CE: [Hilde Mangold](https://en.wikipedia.org/wiki/Hilde_Mangold) published *Über Induktion von Embryonalanlagen durch Implantation artfremder Organisatoren* (*Induction of Embryonic Primordia by Implantation of Organizers from a Different Species*), describing [gastrulation](https://en.wikipedia.org/wiki/Gastrulation)
 - 1923 CE: [Arthur Compton](https://en.wikipedia.org/wiki/Arthur_Compton) published *A Quantum Theory of the Scattering of X-Rays by Light Elements*, describing [Compton scattering](https://en.wikipedia.org/wiki/Compton_scattering)
 - 1923 CE: [J Harlen Bretz](https://en.wikipedia.org/wiki/J_Harlen_Bretz) published *The [Channeled Scabland](https://en.wikipedia.org/wiki/Channeled_Scablands) of the Columbia Plateau*, hinting at the [Missoula floods](https://en.wikipedia.org/wiki/Missoula_floods)
-- 1942 CE: [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener) published *Differential-Space* describing the [Wiener process](https://en.wikipedia.org/wiki/Wiener_process)
+- 1923 CE: [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener) published *Differential-Space* describing the [Wiener process](https://en.wikipedia.org/wiki/Wiener_process)
 - 1924 CE: [Alexander Friedmann](https://en.wikipedia.org/wiki/Alexander_Friedmann) published *Über die Möglichkeit einer Welt mit konstanter negativer Krümmung des Raumes* (*On the possibility of a world with constant negative curvature of space*), proposing the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang)
 - 1924 CE: [Edmund Clifton Stoner](https://en.wikipedia.org/wiki/Edmund_Clifton_Stoner) published *The distribution of electrons among atomic levels*, inspiring the [Pauli exclusion principle](https://en.wikipedia.org/wiki/Pauli_exclusion_principle)
 - 1924 CE: [Gustav Ising](https://en.wikipedia.org/wiki/Gustav_Ising) published *Prinzip Einer Methode Zur Herstellung Von Kanalstrahlen Hoher Voltzahl* (*Principle of a method for the production of high-voltage canal jets*), describing the [linear particle accelerator (a.k.a. linac)](https://en.wikipedia.org/wiki/Linear_particle_accelerator)
@@ -1850,7 +1850,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1938 CE: [Milutin Milanković](https://en.wikipedia.org/wiki/Milutin_Milankovi%C4%87) published *New Results of the Astronomic Theory of Climate Changes*
 - 1938 CE: [Chester Carlson](https://en.wikipedia.org/wiki/Chester_Carlson) patented [*Electron photography*](https://patents.google.com/patent/US2221776A/), a.k.a. the [photocopy](https://en.wikipedia.org/wiki/Photocopier)
 - 1938 CE: [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin) published *Variable Stars*
-- 1888 CE: [László Bíró](https://en.wikipedia.org/wiki/László_Bíró) [patented](https://patents.google.com/patent/GB498997A/en) the first commercially successful [ballpoint pen](https://en.wikipedia.org/wiki/Ballpoint_pen)
+- 1939 CE: [László Bíró](https://en.wikipedia.org/wiki/László_Bíró) [patented](https://patents.google.com/patent/GB498997A/en) the first commercially successful [ballpoint pen](https://en.wikipedia.org/wiki/Ballpoint_pen)
 - 1939 CE: [Linus Pauling](https://en.wikipedia.org/wiki/Linus_Pauling) published *The Nature of the Chemical Bond*
 - 1939 CE: The [Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki) published the first volume of [*Éléments de mathématique* (*Elements of Mathematics*)](https://en.wikipedia.org/wiki/%C3%89l%C3%A9ments_de_math%C3%A9matique)
 - 1939 CE: [Lise Meitner](https://en.wikipedia.org/wiki/Lise_Meitner) & [Otto Robert Frisch](https://en.wikipedia.org/wiki/Otto_Robert_Frisch) published *Disintegration of Uranium by Neutrons: A New Type of Nuclear Reaction*, describing [nuclear fission](https://en.wikipedia.org/wiki/Nuclear_fission)
@@ -2051,7 +2051,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1966 CE: [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) published *Theory of Self-Reproducing Automata*
 - 1966 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) & [Albert Hibbs](https://en.wikipedia.org/wiki/Albert_Hibbs) published [*Quantum Mechanics and Path Integrals*](https://archive.org/details/quantummechanics0000feyn)
 - 1966 CE: Stanley Schor published *Statistical Evaluation of Medical Journal Manuscripts*, a [metascience](https://en.wikipedia.org/wiki/Metascience) paper calling attention to the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)
-- 1964 CE: [Paul Cohen](https://en.wikipedia.org/wiki/Paul_Cohen) published *Set theory and the [continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis)*
+- 1966 CE: [Paul Cohen](https://en.wikipedia.org/wiki/Paul_Cohen) published *Set theory and the [continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis)*
 - 1967 CE: [Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis) published [*On the origin of mitosing cells*](https://www.sciencedirect.com/science/article/abs/pii/0022519367900793)
 - 1967 CE: [Will](https://en.wikipedia.org/wiki/Will_Durant) & [Ariel Durant](https://en.wikipedia.org/wiki/Ariel_Durant) published *Rousseau and Revolution*, the 10th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
 - 1967 CE: [Eric Lenneberg](https://en.wikipedia.org/wiki/Eric_Lenneberg) published *Biological Foundations of Language*
@@ -2092,7 +2092,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### 1970s
 
 - 1970 CE: [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd) published *A [Relational Model](https://en.wikipedia.org/wiki/Relational_model) of Data for Large Shared Data Banks*
-- 1970 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) ported Unix to the PHP-11/20 in assembly
+- 1970 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) ported Unix to the PDP-11/20 in assembly
 - 1970 CE: [Wayne R. Moore](https://en.wikipedia.org/wiki/Wayne_Moore_%28swimmer%29) published *Foundations of Mechanical Accuracy*
 - 1970 CE: [John W. Drake](https://en.wikipedia.org/wiki/John_W._Drake) published *The Molecular Basis of Mutation*, stating that [DNA replication has about 1.7 mutations per 108 base pairs](https://en.wikipedia.org/wiki/Replisome#Proof-reading_and_error_correction)
 - 1970 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) published *Symmetries and Reflections: Scientific Essays*
@@ -2117,7 +2117,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1973 CE: [Lotfi A. Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh) published *Outline of a New Approach to the Analysis of Complex Systems and Decision Processes*, proposing [fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
 - 1973 CE: [Leonid Levin](https://en.wikipedia.org/wiki/Leonid_Levin) published *Универсальные задачи перебора* (*Universal Sequential Search Problems*) independently proving the [Cook–Levin theorem](https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem) that the [Boolean satisfiability problem (SAT)](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem) is [NP-complete](https://en.wikipedia.org/wiki/NP-completeness)
 - 1973 CE: [Fischer Black](https://en.wikipedia.org/wiki/Fischer_Black) & [Myron Scholes](https://en.wikipedia.org/wiki/Myron_Scholes) published *The Pricing of Options and Corporate Liabilities*, describing [how to calculate](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) the value of a [financial derivative](https://en.wikipedia.org/wiki/Derivative_%28finance%29)
-- 1973 CE: [Robert C. Merton](https://en.wikipedia.org/wiki/Robert_C._Merton) publiched his *Theory of rational option pricing*, expanding on the [Black–Scholes options pricing model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+- 1973 CE: [Robert C. Merton](https://en.wikipedia.org/wiki/Robert_C._Merton) published his *Theory of rational option pricing*, expanding on the [Black–Scholes options pricing model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 - 1974 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published *The UNIX time-sharing system*
 - 1974 CE: [Nasir Ahmed](https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29), T. Natarajan & [K. R. Rao](https://en.wikipedia.org/wiki/K._R._Rao) published [*Discrete Cosine Transform*](https://en.wikipedia.org/wiki/Discrete_cosine_transform), a working [image compression](https://en.wikipedia.org/wiki/Image_compression) algorithm
 - 1974 CE: [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf), [Yogen Dalal](https://en.wikipedia.org/wiki/List_of_Internet_pioneers#Yogen_Dalal) & Carl Sunshine published [RFC 675](https://tools.ietf.org/html/rfc675), specifying [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
