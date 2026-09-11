@@ -229,10 +229,9 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### Lungs
 
 - 462 mya: [Osteichthyes](https://en.wikipedia.org/wiki/Osteichthyes) (bony vertebrates) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
-- 460-440 mya: The [Late Ordovician glaciation](https://en.wikipedia.org/wiki/Late_Ordovician_glaciation) occurred, CO₂ fell to 2000 ppm
+- 460-420 mya: The [Hirnantian glaciation](https://en.wikipedia.org/wiki/Hirnantian_glaciation) occurred, CO₂ fell to 2000 ppm
 - 450 mya: The global temperature fell to about 4 °C above the 20th century average
-- 450-420 mya: The [Andean-Saharan glaciation](https://en.wikipedia.org/wiki/Andean-Saharan_glaciation) occurred
-- 443 mya: The [Ordovician–Silurian extinction events](https://en.wikipedia.org/wiki/Ordovician%E2%80%93Silurian_extinction_events) occurred, 85% of species lost
+- 443 mya: The [Late Ordovician mass extinction](https://en.wikipedia.org/wiki/Late_Ordovician_mass_extinction) occurred, 85% of species lost
 
 ### Limbs
 
@@ -412,7 +411,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 140-110 kya: [Anatomically modern humans (AMH)](https://en.wikipedia.org/wiki/Homo_sapiens#Anatomical_modernity) evolved a larger fore-brain, smaller teeth, and longer distal bones
 - 135 kya: The [Penultimate Glacial Period](https://en.wikipedia.org/wiki/Penultimate_Glacial_Period) ended
 - 131 kya: [North African/Near Eastern wildcats](https://en.wikipedia.org/wiki/African_wildcat) split from [Southern African wildcats](https://en.wikipedia.org/wiki/Southern_African_wildcat) & [Asiatic wildcats](https://en.wikipedia.org/wiki/Asiatic_wildcat)
-- 130 kya: The [Eemian interglacial period](https://en.wikipedia.org/wiki/Eemian) began
+- 130 kya: The [last interglacial period](https://en.wikipedia.org/wiki/Last_Interglacial) began
 - 128 kya: [Early humans cooked with fire regularly](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
 - 120 kya: CO₂ peaked around 280 ppm, global temp +3 °C from present, [sea level was 6 m above present, warmest in the past 3 million years](https://en.wikipedia.org/wiki/Eemian)
 - 120-90 kya: The [Abbassia Pluvial](https://en.wikipedia.org/wiki/Abbassia_Pluvial) occurred, bringing moisture to North Africa
@@ -447,7 +446,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 18 kya: CO₂ fell to local minimum around 200 ppm, global temp -10 °C from present, [sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 120 m below present
 - 17-15 kya: The [Oldest Dryas](https://en.wikipedia.org/wiki/Oldest_Dryas) occurred, global temperatures declined sharply
 - 15 kya: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 110 m below present
-- 15-13 kya: The [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Late_Glacial_Interstadial) occurred, first pronounced warming since LGM, global temp spiking to -1 °C from present
+- 15-13 kya: The [Late Glacial Interstadial (LGI)](https://en.wikipedia.org/wiki/Bølling–Allerød_Interstadial) occurred, first pronounced warming since LGM, global temp spiking to -1 °C from present
 - 15-13 kya: The [Missoula floods](https://en.wikipedia.org/wiki/Missoula_floods), a series of catastrophic [glacial lake outburst floods (GLOF)](https://en.wikipedia.org/wiki/Glacial_lake_outburst_flood) occurred, creating the [Channeled Scablands](https://en.wikipedia.org/wiki/Channeled_Scablands)
 - 14.7-13.5 kya: [Meltwater pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A) occurred, and the [sea level](https://en.wikipedia.org/wiki/Past_sea_level) rose from > 100 m to < 80 m below present
 - 14.6 kya: [Heinrich event](https://en.wikipedia.org/wiki/Heinrich_event) H1 occurred, with many [glaciers calving icebergs](https://en.wikipedia.org/wiki/Ice_calving) rapidly
@@ -1633,7 +1632,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1908 CE: [Carl Bosch](https://en.wikipedia.org/wiki/Carl_Bosch) patented his [*Process of producing ammonia*](https://patents.google.com/patent/US990191) at scale using the [Haber–Bosch process](https://en.wikipedia.org/wiki/Haber_process)
 - 1908 CE: [Ernst Zermelo](https://en.wikipedia.org/wiki/Ernst_Zermelo) published *Untersuchungen über die Grundlagen der Mengenlehre. I* (*Investigations into the foundations of set theory. I*), introducing [Zermelo set theory](https://en.wikipedia.org/wiki/Zermelo_set_theory)
 - 1908 CE: [Hans Geiger](https://en.wikipedia.org/wiki/Hans_Geiger) published [*On the Scattering of α-Particles by Matter*](https://royalsocietypublishing.org/doi/10.1098/rspa.1908.0067)
-- 1909 CE: [Hans Geiger](https://en.wikipedia.org/wiki/Hans_Geiger) & [Ernest Marsden](https://en.wikipedia.org/wiki/Ernest_Marsden) published [*On a Diffuse Reflection of the α-Particles*](https://royalsocietypublishing.org/doi/10.1098/rspa.1909.0054), beginning the [Geiger–Marsden experiments](https://en.wikipedia.org/wiki/Geiger–Marsden_experiments)
+- 1909 CE: [Hans Geiger](https://en.wikipedia.org/wiki/Hans_Geiger) & [Ernest Marsden](https://en.wikipedia.org/wiki/Ernest_Marsden) published [*On a Diffuse Reflection of the α-Particles*](https://royalsocietypublishing.org/doi/10.1098/rspa.1909.0054), beginning the [Rutherford scattering experiments](https://en.wikipedia.org/wiki/Rutherford_scattering_experiments)
 - 1909 CE: [E. M. Forster](https://en.wikipedia.org/wiki/E._M._Forster) published [*The Machine Stops*](https://en.wikipedia.org/wiki/The_Machine_Stops)
 - 1909 CE: [Phoebus Levene](https://en.wikipedia.org/wiki/Phoebus_Levene) & [Walter Abraham Jacobs](https://en.wikipedia.org/wiki/Walter_Abraham_Jacobs) published papers describing the components of [RNA](https://en.wikipedia.org/wiki/RNA):
   - *Über Inosinsäure* (*On inosic acid*)
@@ -1961,7 +1960,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1956 CE: [Sydney Brenner](https://en.wikipedia.org/wiki/Sydney_Brenner) published *On the Impossibility of All Overlapping Triplet Codes*, proposing the [codon](https://en.wikipedia.org/wiki/Genetic_code#Codons), based on [George Gamow](https://en.wikipedia.org/wiki/George_Gamow)'s suggestion that three [nucleotides](https://en.wikipedia.org/wiki/Nucleotide) would be enough to define all 20 [amino acids](https://en.wikipedia.org/wiki/Amino_acid)
 - 1956 CE: [Gerard K. O'Neill](https://en.wikipedia.org/wiki/Gerard_K._O%27Neill) published *Storage-Ring Synchrotron: Device for High-Energy Physics Research*, describing [storage ring particle accelerators](https://en.wikipedia.org/wiki/Storage_ring)
 - 1956 CE: [Clair Cameron Patterson](https://en.wikipedia.org/wiki/Clair_Cameron_Patterson) published *Age of meteorites and the Earth*, revealing the age of the Earth to be 4.55 billion years
-- 1956 CE: [Marija Gimbutas](https://en.wikipedia.org/wiki/Marija_Gimbutas) published *The Prehistory of Eastern Europe*, introducing her [Kurgan hypothesis](https://en.wikipedia.org/wiki/Kurgan_hypothesis) proposing the [Proto-Indo-European homeland](https://en.wikipedia.org/wiki/Proto-Indo-European_homeland) as the [Pontic–Caspian steppe](https://en.wikipedia.org/wiki/Pontic%E2%80%93Caspian_steppe) as early as 5000 BCE
+- 1956 CE: [Marija Gimbutas](https://en.wikipedia.org/wiki/Marija_Gimbutas) published *The Prehistory of Eastern Europe*, introducing her [Steppe theory](https://en.wikipedia.org/wiki/Steppe_theory) proposing the [Proto-Indo-European homeland](https://en.wikipedia.org/wiki/Proto-Indo-European_homeland) as the [Pontic–Caspian steppe](https://en.wikipedia.org/wiki/Pontic%E2%80%93Caspian_steppe) as early as 5000 BCE
 - 1956 CE: [Lillian Rosanoff Lieber](https://en.wikipedia.org/wiki/Lillian_Rosanoff_Lieber) published *Human Values of Modern Mathematics a Book of Essays*
 - 1957 CE: [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp) & [Bruce C. Heezen](https://en.wikipedia.org/wiki/Bruce_C._Heezen) published a physiographic map of the North Atlantic Ocean, showing the [Mid-Atlantic Ridge](https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge)
 - 1957 CE: [Will Durant](https://en.wikipedia.org/wiki/Will_Durant) published *The Reformation*, the 6th volume of [*The Story of Civilization*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
