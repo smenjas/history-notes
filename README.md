@@ -2301,6 +2301,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2015 CE: [Mozilla](https://en.wikipedia.org/wiki/Mozilla) released version 1.0 of the [Rust programming language](https://en.wikipedia.org/wiki/Rust_%28programming_language%29), designed by Graydon Hoare, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - 2016 CE: The [European Space Agency (ESA)](https://en.wikipedia.org/wiki/European_Space_Agency) published [Gaia DR1](https://en.wikipedia.org/wiki/Gaia_%28spacecraft%29#Data_releases), the first data release from the Gaia space observatory, on 1.1 billion space objects
 - 2016 CE: Andrew Kelley released the [Zig programming language](https://en.wikipedia.org/wiki/Zig_%28programming_language%29) as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2016 CE: [David Silver](https://en.wikipedia.org/wiki/David_Silver_%28computer_scientist%29) et al. published *Mastering the game of Go with deep neural networks and tree search*, describing [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo)
 
 #### [Reusable Orbital Rockets](https://en.wikipedia.org/wiki/Reusable_launch_system)
 
@@ -2308,6 +2309,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2017 CE: [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) released the [Model 3](https://en.wikipedia.org/wiki/Tesla_Model_3), a somewhat affordable, practical electric car
 - 2017 CE: [Ashish Vaswani](https://en.wikipedia.org/wiki/Ashish_Vaswani), Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, [Aidan N. Gomez](https://en.wikipedia.org/wiki/Aidan_Gomez), Lukasz Kaiser, & Illia Polosukhin published [*Attention Is All You Need*](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need), introducing the [transformer deep learning architecture](https://en.wikipedia.org/wiki/Transformer_%28deep_learning_architecture%29)
 - 2017 CE: Stuart M. Marshall, Alastair R.G. Murray, & [Leroy Cronin](https://en.wikipedia.org/wiki/Leroy_Cronin) published *A probabilistic framework for identifying biosignatures using Pathway Complexity* introducing molecular [assembly theory](https://en.wikipedia.org/wiki/Assembly_theory)
+- 2017 CE: [David Silver](https://en.wikipedia.org/wiki/David_Silver_%28computer_scientist%29) et al. published *Mastering the game of Go without human knowledge*, describing [AlphaGo Zero](https://en.wikipedia.org/wiki/AlphaGo_Zero)
+- 2017 CE: [David Silver](https://en.wikipedia.org/wiki/David_Silver_%28computer_scientist%29) et al. published *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*, describing [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
 - 2018 CE: Monthly average CO₂ exceeded 410 ppm
 - 2019 CE: The [European Space Agency (ESA)](https://en.wikipedia.org/wiki/European_Space_Agency) published [Gaia DR2](https://en.wikipedia.org/wiki/Gaia_%28spacecraft%29#Data_releases), the second data release from the Gaia space observatory, on 1.3 billion space objects
 
