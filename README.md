@@ -25,11 +25,11 @@ varies](https://en.wikipedia.org/wiki/Past_sea_level) with temperature.
 
 In [the Holocene epoch](https://en.wikipedia.org/wiki/Holocene), the average
 global temperature has varied [< ±2 °C from the 20th century
-average](https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg)
-of [15.0°C (59.0°F)](https://www.ncdc.noaa.gov/sotc/global/).  Atmospheric CO₂
-has steadily increased from about 260 ppm, and dust levels have stayed below
-0.1 ppm.  Dust levels exceed 0.4 ppm when the global average temperature drops
-more than 6 °C below the Holocene average, during major
+average](https://commons.wikimedia.org/wiki/File:All_palaeotemps.svg) of
+[15.0°C (59.0°F)](https://www.ncei.noaa.gov/access/monitoring/monthly-report/global).
+Atmospheric CO₂ has steadily increased from about 260 ppm, and dust levels have
+stayed below 0.1 ppm.  Dust levels exceed 0.4 ppm when the global average
+temperature drops more than 6 °C below the Holocene average, during major
 [glaciations](https://en.wikipedia.org/wiki/Glacial_period): the air becomes
 cold and dry.
 
@@ -451,7 +451,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 15-13 kya: The [Missoula floods](https://en.wikipedia.org/wiki/Missoula_floods), a series of catastrophic [glacial lake outburst floods (GLOF)](https://en.wikipedia.org/wiki/Glacial_lake_outburst_flood) occurred, creating the [Channeled Scablands](https://en.wikipedia.org/wiki/Channeled_Scablands)
 - 14.7-13.5 kya: [Meltwater pulse 1A](https://en.wikipedia.org/wiki/Meltwater_pulse_1A) occurred, and the [sea level](https://en.wikipedia.org/wiki/Past_sea_level) rose from > 100 m to < 80 m below present
 - 14.6 kya: [Heinrich event](https://en.wikipedia.org/wiki/Heinrich_event) H1 occurred, with many [glaciers calving icebergs](https://en.wikipedia.org/wiki/Ice_calving) rapidly
-- 14.5 kya: [Humans made bread at Shubayqa](https://en.wikipedia.org/wiki/Shubayqa_1) in modern Jordan
+- 14.5 kya: [Natufians](https://en.wikipedia.org/wiki/Natufian_culture) [made bread at Shubayqa](https://en.wikipedia.org/wiki/History_of_bread) in modern Jordan
 - 14.5-5.5 kya: The [African humid period](https://en.wikipedia.org/wiki/African_humid_period) occurred
 
 ### Dogs
@@ -1406,7 +1406,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1859 CE: [David Edward Hughes](https://en.wikipedia.org/wiki/David_Edward_Hughes) patented an [*Improvement in telegraphfng-machlnes*](https://patents.google.com/patent/US22770A) for the [printing telegraph](https://en.wikipedia.org/wiki/Printing_telegraph)
 - 1859 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) developed a [panoramic camera](https://en.wikipedia.org/wiki/Panoramic_photography) with a [wide-angle lens](https://en.wikipedia.org/wiki/Wide-angle_lens)
 - 1859 CE: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) published [*On Liberty*](https://en.wikipedia.org/wiki/On_Liberty)
-- 1859 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Notes on Nursing: What Nursing Is, What Nursing is Not*](https://archive.org/stream/notesnursingwhat00nigh#page/n5/mode/2up), establishing the field of [nursing](https://en.wikipedia.org/wiki/Nursing) as a profession, and promoting [hygiene](https://en.wikipedia.org/wiki/Hygiene)
+- 1859 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Notes on Nursing: What Nursing Is, What Nursing is Not*](https://archive.org/details/notesnursingwhat00nigh/page/n5/mode/2up), establishing the field of [nursing](https://en.wikipedia.org/wiki/Nursing) as a profession, and promoting [hygiene](https://en.wikipedia.org/wiki/Hygiene)
 
 ### 1860s
 
@@ -1414,7 +1414,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) invented the [single lens reflex (SLR) camera](https://en.wikipedia.org/wiki/Single-lens_reflex_camera)
 - 1861 CE: [Thomas Sutton](https://en.wikipedia.org/wiki/Thomas_Sutton_%28photographer%29) & [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) demonstrated [color photography](https://en.wikipedia.org/wiki/Color_photography)
 - 1861 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published [*On Physical Lines of Force*](https://en.wikipedia.org/wiki/On_Physical_Lines_of_Force), deriving [Maxwell's equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations) of electromagnetism
-- 1861 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Notes on Nursing for the Labouring Classes*](https://archive.org/stream/notesonnursingf00nighgoog#page/n9/mode/1up)
+- 1861 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Notes on Nursing for the Labouring Classes*](https://archive.org/details/notesonnursingf00nighgoog/page/n9/mode/1up)
 - 1861 CE: [Ignaz Semmelweis](https://en.wikipedia.org/wiki/Ignaz_Semmelweis) published [*Etiology, Concept and Prophylaxis of Childbed Fever*](https://en.wikipedia.org/wiki/Etiology,_Concept_and_Prophylaxis_of_Childbed_Fever) on [obstetrics](https://en.wikipedia.org/wiki/Obstetrics), promoting [hand washing](https://en.wikipedia.org/wiki/Hand_washing)
 - 1861 CE: [August Schleicher](https://en.wikipedia.org/wiki/August_Schleicher) published *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (*Compendium of the comparative grammar of the [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages)*)
 - 1862 CE: [Hermann Grassmann](https://en.wikipedia.org/wiki/Hermann_Grassmann) set out the first [axiomatic](https://en.wikipedia.org/wiki/Axiomatic_system) presentation of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic), using [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction)
@@ -1447,7 +1447,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1870 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *Logic of Relatives*, extending the [theory of relations](https://en.wikipedia.org/wiki/Finitary_relation)
 - 1870 CE: [Benjamin Peirce](https://en.wikipedia.org/wiki/Benjamin_Peirce) published [*Linear Associative Algebra*](http://legacy-www.math.harvard.edu/history/peirce_algebra/), coining the terms [idempotent](https://en.wikipedia.org/wiki/Idempotence) and [nilpotent](https://en.wikipedia.org/wiki/Nilpotent)
 - 1870 CE: [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) published *Contributions to the Theory of [Natural Selection](https://en.wikipedia.org/wiki/Natural_selection)*
-- 1871 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Introductory Notes on Lying-In Institutions*](https://archive.org/stream/introductorynot00nighgoog#page/n6/mode/2up)
+- 1871 CE: [Florence Nightingale](https://en.wikipedia.org/wiki/Florence_Nightingale) published [*Introductory Notes on Lying-In Institutions*](https://archive.org/details/introductorynot00nighgoog/page/n6/mode/2up)
 - 1871 CE: [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) published his [*Theory of Heat*](https://commons.wikimedia.org/wiki/File:J._Clerk_Maxwell._Theory_of_Heat_%281871%29.pdf), describing his [thermodynamic relations](https://en.wikipedia.org/wiki/Maxwell_relations)
 - 1871 CE: [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) published [*The Descent of Man, and Selection in Relation to Sex*](https://en.wikipedia.org/wiki/The_Descent_of_Man,_and_Selection_in_Relation_to_Sex)
 - 1871 CE: [Friedrich Miescher](https://en.wikipedia.org/wiki/Friedrich_Miescher) published *Ueber die chemische Zusammensetzung der Eiterzellen* (*On the chemical composition of pus cells*), describing [nucleic acids](https://en.wikipedia.org/wiki/Nucleic_acid)
@@ -1488,7 +1488,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1880 CE: [Thomas Crapper](https://en.wikipedia.org/wiki/Thomas_Crapper) invented the [U-bend](https://en.wikipedia.org/wiki/Trap_%28plumbing%29) which does not jam, unlike the S-bend, improving the [flush toilet](https://en.wikipedia.org/wiki/Flush_toilet)
 - 1880 CE: [Alexander Ogston](https://en.wikipedia.org/wiki/Alexander_Ogston) published *Über abscesse* (*On Abscesses*), identifying microorganisms as the cause of infection, and describing [staphylococcus aureus](https://en.wikipedia.org/wiki/Staphylococcus_aureus)
 - 1880 CE: [Oliver Heaviside](https://en.wikipedia.org/wiki/Oliver_Heaviside) patented the [coaxial cable](https://en.wikipedia.org/wiki/Coaxial_cable)
-- 1881 CE: [Alexander Ogston](https://en.wikipedia.org/wiki/Alexander_Ogston) published [*Report upon Micro-Organisms in Surgical Diseases*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2263466/)
+- 1881 CE: [Alexander Ogston](https://en.wikipedia.org/wiki/Alexander_Ogston) published [*Report upon Micro-Organisms in Surgical Diseases*](https://pmc.ncbi.nlm.nih.gov/articles/PMC2263466/)
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra) with One Constant*
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *On the Logic of Number*, describing [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
 - 1881 CE: [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) published *A Theory of Probable Inference*, formulating modern [statistics](https://en.wikipedia.org/wiki/Statistics)
@@ -1679,7 +1679,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1917 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published *Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie* (*Cosmological considerations on General Relativity*)
 - 1917 CE: Automobiles had practically eliminated horses on U.S. streets
 - 1917 CE: [D'Arcy Wentworth Thompson](https://en.wikipedia.org/wiki/D%27Arcy_Wentworth_Thompson) published [*On Growth and Form*](https://en.wikipedia.org/wiki/On_Growth_and_Form)
-- 1918 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) published [*Gravitationswellen* (*On Gravitational Waves*)](https://einsteinpapers.press.princeton.edu/vol7-trans/25), on [gravitational waves](https://en.wikipedia.org/wiki/Gravitational_wave)
+- 1918 CE: [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) & [Nathan Rosen](https://en.wikipedia.org/wiki/Nathan_Rosen) published *Über Gravitationswellen* (*On [Gravitational Waves](https://en.wikipedia.org/wiki/Gravitational_wave)*)
 - 1918 CE: [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether) published *Invariante Variationsprobleme*, describing [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem) which explains the connection between [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28physics%29) and [conservation laws](https://en.wikipedia.org/wiki/Conservation_law)
 - 1919 CE: [Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) published [*The Economic Consequences of the Peace*](https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace)
 - 1919 CE: [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) published *Collision of α particles with light atoms. IV. An anomalous effect in nitrogen*, describing [proton](https://en.wikipedia.org/wiki/Proton) emission
@@ -1973,7 +1973,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1957 CE: [Roger Baldwin, Wilbert Cantey, Herbert Maisel, & James McDermott](https://en.wikipedia.org/wiki/Four_Horsemen_of_the_Apocalypse_%28blackjack%29) published *Playing Blackjack to Win: A New Strategy for the Game of 21*, describing the [basic strategy to optimally play blackjack](https://en.wikipedia.org/wiki/Blackjack#Basic_strategy)
 - 1958 CE: [Bjørn Aage Ibsen](https://en.wikipedia.org/wiki/Bj%C3%B8rn_Aage_Ibsen) published *Arbejdet på en Anæsthesiologisk Observationsafdeling* (*The Work in an Anaesthesiologic Observation Unit*)
 - 1958 CE: [Samuel Warren Carey](https://en.wikipedia.org/wiki/Samuel_Warren_Carey) published *The tectonic approach to continental drift*, describing [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
-- 1958 CE: [Matthew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson) & [Franklin Stahl](https://en.wikipedia.org/wiki/Franklin_Stahl) published [*The replication of DNA in Escherichia coli*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC528642/), confirming Watson & Crick's hypothesis that [DNA replication is semiconservative](https://en.wikipedia.org/wiki/Meselson%E2%80%93Stahl_experiment), i.e. each strand is copied separately
+- 1958 CE: [Matthew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson) & [Franklin Stahl](https://en.wikipedia.org/wiki/Franklin_Stahl) published [*The replication of DNA in Escherichia coli*](https://pmc.ncbi.nlm.nih.gov/articles/PMC528642/), confirming Watson & Crick's hypothesis that [DNA replication is semiconservative](https://en.wikipedia.org/wiki/Meselson%E2%80%93Stahl_experiment), i.e. each strand is copied separately
 - 1958 CE: [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) & [Alvin M. Weinberg](https://en.wikipedia.org/wiki/Alvin_M._Weinberg) published *Physical Theory of Neutron Chain Reactors*
 - 1958 CE: [Paul Bernays](https://en.wikipedia.org/wiki/Paul_Bernays) published *Axiomatic Set Theory*
 - 1958 CE: [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) and her team released [*FLOW-MATIC*](https://en.wikipedia.org/wiki/FLOW-MATIC), the first [English-like programming language](https://en.wikipedia.org/wiki/Natural-language_programming)
@@ -1984,7 +1984,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1959 CE: [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) presented [*There's Plenty of Room at the Bottom*](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom), describing [molecular nanotechnology](https://en.wikipedia.org/wiki/Molecular_nanotechnology)
 - 1959 CE: [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) published *[Time Sharing](https://en.wikipedia.org/wiki/Time-sharing) in Large Fast Computers*
 - 1959 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published *A note on two problems in connexion with graphs*, describing [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) to find the [shortest path between two nodes in a graph](https://en.wikipedia.org/wiki/Shortest_path_problem)
-- 1959 CE: [John Backus](https://en.wikipedia.org/wiki/John_Backus) published [*The Syntax and Semantics of the Proposed International Algebraic Language of Zürich ACM-GAMM Conference*](https://www.softwarepreservation.org/projects/ALGOL/paper/Backus-Syntax_and_Semantics_of_Proposed_IAL.pdf/view), proposing the syntax for the [ALGOL 58](https://en.wikipedia.org/wiki/ALGOL_58) programming language, and a [metalanguage](https://en.wikipedia.org/wiki/Metalanguage) for describing formal languages in general
+- 1959 CE: [John Backus](https://en.wikipedia.org/wiki/John_Backus) published *The Syntax and Semantics of the Proposed International Algebraic Language of Zürich ACM-GAMM Conference*, proposing the syntax for the [ALGOL 58](https://en.wikipedia.org/wiki/ALGOL_58) programming language, and a [metalanguage](https://en.wikipedia.org/wiki/Metalanguage) for describing formal languages in general
 - 1959 CE: [Lillian Rosanoff Lieber](https://en.wikipedia.org/wiki/Lillian_Rosanoff_Lieber) published *Lattice Theory: The Atomic Age in Mathematics*
 
 ### 1960s
@@ -2121,7 +2121,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1973 CE: [Robert C. Merton](https://en.wikipedia.org/wiki/Robert_C._Merton) published his *Theory of rational option pricing*, expanding on the [Black–Scholes options pricing model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 - 1974 CE: [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) & [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) published *The UNIX time-sharing system*
 - 1974 CE: [Nasir Ahmed](https://en.wikipedia.org/wiki/Nasir_Ahmed_%28engineer%29), T. Natarajan & [K. R. Rao](https://en.wikipedia.org/wiki/K._R._Rao) published [*Discrete Cosine Transform*](https://en.wikipedia.org/wiki/Discrete_cosine_transform), a working [image compression](https://en.wikipedia.org/wiki/Image_compression) algorithm
-- 1974 CE: [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf), [Yogen Dalal](https://en.wikipedia.org/wiki/List_of_Internet_pioneers#Yogen_Dalal) & Carl Sunshine published [RFC 675](https://tools.ietf.org/html/rfc675), specifying [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+- 1974 CE: [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf), [Yogen Dalal](https://en.wikipedia.org/wiki/List_of_Internet_pioneers#Yogen_Dalal) & Carl Sunshine published [RFC 675](https://datatracker.ietf.org/doc/html/rfc675), specifying [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 - 1974 CE: [Charles Goldfarb](https://en.wikipedia.org/wiki/Charles_Goldfarb) developed [Standard Generalized Markup Language (SGML)](https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language), the forerunner of [HTML](https://en.wikipedia.org/wiki/HTML)
 - 1974 CE: [Gerard K. O'Neill](https://en.wikipedia.org/wiki/Gerard_K._O%27Neill) published *The Colonization of Space* describing [space habitats](https://en.wikipedia.org/wiki/Space_habitat)
 - 1974 CE: [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) published [*Self-stabilizing Systems in Spite of Distributed Control*](https://dl.acm.org/doi/10.1145/361179.361202)
@@ -2357,7 +2357,6 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [Geologic record](https://en.wikipedia.org/wiki/Geologic_record)
 - [Historical method](https://en.wikipedia.org/wiki/Historical_method)
 - [Timeline](https://en.wikipedia.org/wiki/Timeline)
-- [Living graph](https://en.wikipedia.org/wiki/Living_graph)
 - [Molecular clock](https://en.wikipedia.org/wiki/Molecular_clock)
 - [Philology](https://en.wikipedia.org/wiki/Philology): the study of [literature](https://en.wikipedia.org/wiki/Literature)
 - [Synchronoptic view](https://en.wikipedia.org/wiki/Synchronoptic_view)
@@ -2522,7 +2521,6 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### [More Timelines](https://en.wikipedia.org/wiki/List_of_timelines)
 
 - [Chronology of the Universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe)
-- [Detailed logarithmic timeline](https://en.wikipedia.org/wiki/Detailed_logarithmic_timeline)
 - [Science timelines](https://en.wikipedia.org/wiki/Category:Science_timelines)
   - [Anthropology timelines](https://en.wikipedia.org/wiki/Category:Anthropology_timelines)
     - [Archaeology timelines](https://en.wikipedia.org/wiki/Category:Archaeology_timelines)
@@ -2549,6 +2547,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
       - [Timeline of psychiatry](https://en.wikipedia.org/wiki/Timeline_of_psychiatry)
   - [Spaceflight timelines](https://en.wikipedia.org/wiki/Category:Spaceflight_timelines)
   - [Timeline of glaciation](https://en.wikipedia.org/wiki/Timeline_of_glaciation)
+  - [Timeline of life](https://en.wikipedia.org/wiki/Timeline_of_life)
   - [Timeline of scientific computing](https://en.wikipedia.org/wiki/Timeline_of_scientific_computing)
   - [Timeline of scientific discoveries](https://en.wikipedia.org/wiki/Timeline_of_scientific_discoveries)
   - [Timeline of scientific experiments](https://en.wikipedia.org/wiki/Timeline_of_scientific_experiments)
