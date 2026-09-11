@@ -135,7 +135,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 3.5 bya: [Earliest oxygen](https://en.wikipedia.org/wiki/Geological_history_of_oxygen) production in shallow oceans, absorbed by the sea and sea bed
 - 3.5 bya: [Single celled life](https://en.wikipedia.org/wiki/Unicellular_organism) existed
 - ? bya: [Actin](https://en.wikipedia.org/wiki/Actin), a protein family necessary for [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis), existed
-- 3.2 bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Crenarchaeota](https://en.wikipedia.org/wiki/Crenarchaeota)
+- 3.2 bya: [Asgardarchaeota](https://en.wikipedia.org/wiki/Asgard_%28archaea%29) split from [Thermoproteota](https://en.wikipedia.org/wiki/Thermoproteota)
 - 2.9 bya: The [Pongola glaciation](https://en.wikipedia.org/wiki/Mesoarchean) occurred
 - 2.8-2.4 bya: The supercontinent [Ur](https://en.wikipedia.org/wiki/Ur_%28continent%29) existed
 - 2.7-2.5 bya: The supercontinent [Kenorland](https://en.wikipedia.org/wiki/Kenorland) existed
@@ -149,7 +149,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### Mitochondria
 
 - 2.1-1.7 bya: A [prokaryote](https://en.wikipedia.org/wiki/Prokaryote) ("before kernel") incorporated a [Rickettsiales](https://en.wikipedia.org/wiki/Rickettsiales), the source of [mitochondria](https://en.wikipedia.org/wiki/Mitochondrion), via [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
-- 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Lokiarchaeota](https://en.wikipedia.org/wiki/Lokiarchaeota) ("ancient things"), possibly evolving the [nuclear envelope](https://en.wikipedia.org/wiki/Nuclear_envelope) to protect the genome from [reactive oxygen species (ROS)](https://en.wikipedia.org/wiki/Reactive_oxygen_species) produced by the cells' pre-mitochondria
+- 2.1 bya: [Eukaryota](https://en.wikipedia.org/wiki/Eukaryote) ("true kernels") split from [Promethearchaeaceae](https://en.wikipedia.org/wiki/Promethearchaeaceae) ("ancient family of creators"), possibly evolving the [nuclear envelope](https://en.wikipedia.org/wiki/Nuclear_envelope) to protect the genome from [reactive oxygen species (ROS)](https://en.wikipedia.org/wiki/Reactive_oxygen_species) produced by the cells' pre-mitochondria
 - 2.023 bya: An asteroid impacted Earth, creating the [Vredefort crater](https://en.wikipedia.org/wiki/Vredefort_crater) which is 160 km in diameter
 - 1.9-1.0 bya: The supercontinent [Atlantica](https://en.wikipedia.org/wiki/Atlantica) existed
 - 1.85 bya: The [Boring Billion](https://en.wikipedia.org/wiki/Boring_Billion) began; O₂ reached 0.03 atm, but oceans and seabed rock absorbed most of it
@@ -164,7 +164,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - ? bya: [Neokaryotes](https://en.wikipedia.org/wiki/Neokaryotes) (all unikonts & bikonts) split from [Jakobids](https://en.wikipedia.org/wiki/Jakobid) (which have bacteria-like mitochondria)
 - ? bya: [Scotokaryotes (a.k.a. Opimoda)](https://en.wikipedia.org/wiki/Scotokaryotes) split from [Corticata](https://en.wikipedia.org/wiki/Corticata) ("one with a cortex", a.k.a. [Diphoda or Bikonts](https://en.wikipedia.org/wiki/Bikont), e.g. plants, algae, etc.)
 - ? bya: [Podiata](https://en.wikipedia.org/wiki/Podiata) split from [Malawimonas](https://en.wikipedia.org/wiki/Malawimonas)
-- ? bya: [Amorphea (a.k.a. Unikonts](https://en.wikipedia.org/wiki/Unikont), "one pole", i.e. a flagellum) split from [CRuMs](https://en.wikipedia.org/wiki/CRuMs) ([heterotrophic](https://en.wikipedia.org/wiki/Heterotroph) protists)
+- ? bya: [Amorphea](https://en.wikipedia.org/wiki/Amorphea) split from [CRuMs](https://en.wikipedia.org/wiki/CRuMs) ([heterotrophic](https://en.wikipedia.org/wiki/Heterotroph) protists)
 - ? bya: [Obazoa](https://en.wikipedia.org/wiki/Obazoa) split from [Amoebozoa](https://en.wikipedia.org/wiki/Amoebozoa) (amoeboid protists)
 - 1.23-0.825 bya: The supercontinent [Rodinia](https://en.wikipedia.org/wiki/Rodinia) existed
 - 1.1 bya: [Opisthokonts](https://en.wikipedia.org/wiki/Opisthokont) ("rear pole", i.e. a flagellum) split from [Apusomonadida](https://en.wikipedia.org/wiki/Apusomonadida) (protozoan zooflagellates)
@@ -228,7 +228,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 
 ### Lungs
 
-- 462 mya: [Euteleostomi](https://en.wikipedia.org/wiki/Euteleostomi) (bony vertebrates, a.k.a. Osteichthyes) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
+- 462 mya: [Osteichthyes](https://en.wikipedia.org/wiki/Osteichthyes) (bony vertebrates) split from [Chondrichthyes](https://en.wikipedia.org/wiki/Chondrichthyes) (cartilaginous fish)
 - 460-440 mya: The [Late Ordovician glaciation](https://en.wikipedia.org/wiki/Late_Ordovician_glaciation) occurred, CO₂ fell to 2000 ppm
 - 450 mya: The global temperature fell to about 4 °C above the 20th century average
 - 450-420 mya: The [Andean-Saharan glaciation](https://en.wikipedia.org/wiki/Andean-Saharan_glaciation) occurred
@@ -289,7 +289,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 85 mya: [Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha) split from [Scandentia (tree shrews)](https://en.wikipedia.org/wiki/Treeshrew)
 - 81 mya: [Ferungulata](https://en.wikipedia.org/wiki/Ferungulata) (e.g. carnivores and ungulates) split from [bats](https://en.wikipedia.org/wiki/Bat)
 - 79 mya: [Primates](https://en.wikipedia.org/wiki/Primate) split from [Dermoptera (gliding mammals)](https://en.wikipedia.org/wiki/Colugo)
-- 76 mya: [Ferae](https://en.wikipedia.org/wiki/Ferae) (i.e. carnivores and pangolins) split from [ungulates](https://en.wikipedia.org/wiki/Pan-Euungulata) (hooved mammals)
+- 76 mya: [Ferae](https://en.wikipedia.org/wiki/Ferae) (i.e. carnivores and pangolins) split from [ungulates](https://en.wikipedia.org/wiki/Ungulate) (hooved mammals)
 - 76 mya: [Even-toed ungulates](https://en.wikipedia.org/wiki/Artiodactyl) (e.g. pigs, cows, sheep, goats, camels, llamas, deer, giraffes, hippos, and whales) split from [odd-toed ungulates](https://en.wikipedia.org/wiki/Perissodactyla) (i.e. horses, asses, zebras, rhinos, and tapirs)
 - 74 mya: [Haplorhini](https://en.wikipedia.org/wiki/Haplorhini) ("simple nosed", a.k.a. dry nosed primates) split from [Strepsirrhini](https://en.wikipedia.org/wiki/Strepsirrhini) ("twisted nosed", a.k.a. moist nosed primates)
 - 70.3 mya: An asteroid impacted Earth, creating the [Kara crater](https://en.wikipedia.org/wiki/Kara_crater) which is 65 km in diameter
