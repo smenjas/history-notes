@@ -2319,6 +2319,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2020 CE: [SpaceX](https://en.wikipedia.org/wiki/SpaceX) [launched the first commercial crewed orbital flight, and landed the first stage](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2)
 - 2020 CE: [Apple switched from Intel x86 chips to a custom ARM design](https://en.wikipedia.org/wiki/Apple_M1)
 - 2020 CE: [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) published [Deno](https://en.wikipedia.org/wiki/Deno_%28software%29), a JavaScript runtime, as [open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- 2020 CE: Julian Schrittwieser et al. published *Mastering Atari, Go, chess and shogi by planning with a learned model*, describing [MuZero](https://en.wikipedia.org/wiki/MuZero)
 - 2021 CE: [John M. Jumper](https://en.wikipedia.org/wiki/John_M._Jumper) et al. published *Highly accurate protein structure prediction with [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)*
 - 2022 CE: Monthly average CO₂ exceeded 420 ppm
 - 2022 CE: The [human population of Earth](https://en.wikipedia.org/wiki/World_population) exceeded eight billion people
