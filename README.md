@@ -745,7 +745,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 178 CE: [Galen](https://en.wikipedia.org/wiki/Galen) wrote *Epidemics*, stating that a "seed of the disease" lurked in patients' bodies
 - 180 CE: [Pausanias](https://en.wikipedia.org/wiki/Pausanias_%28geographer%29) wrote his *Hellados Periegesis* (*Description of Greece*), a gift to [modern archaeology](https://en.wikipedia.org/wiki/Modern_archaeology)
 - 230 CE: The [Hatepe eruption](https://en.wikipedia.org/wiki/Hatepe_eruption) occurred in present day New Zealand, with a [volcanic explosivity index (VEI)](https://en.wikipedia.org/wiki/Volcanic_explosivity_index) of 7
-- 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote [*Lives and Opinions of Eminent Philosophers*](https://en.wikipedia.org/wiki/Lives_and_Opinions_of_Eminent_Philosophers)
+- 250 CE: [Diogenes Laërtius](https://en.wikipedia.org/wiki/Diogenes_La%C3%ABrtius) wrote *Lives and Opinions of Eminent Philosophers*
 - 263 CE: [Liu Hui](https://en.wikipedia.org/wiki/Liu_Hui) wrote commentary on [*The Nine Chapters of Mathematical Art*](https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art), demonstrating [negative numbers](https://en.wikipedia.org/wiki/Negative_number)
 - 298 CE: [Diophantus](https://en.wikipedia.org/wiki/Diophantus) published *Arithmetica* by the time he died, introducing [algebraic](https://en.wikipedia.org/wiki/Algebraic_equation) and [Diophantine equations](https://en.wikipedia.org/wiki/Diophantine_equation)
 - 313 CE: The [Sogdian alphabet](https://en.wikipedia.org/wiki/Sogdian_alphabet) descended from the Syriac alphabet
@@ -843,7 +843,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1295 CE: [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull) may have used a [mariner's astrolabe](https://en.wikipedia.org/wiki/Mariner%27s_astrolabe), a [celestial navigation](https://en.wikipedia.org/wiki/Celestial_navigation) device that determines [latitude](https://en.wikipedia.org/wiki/Latitude), i.e. one's north-south position on Earth
 - 1300 CE: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) & [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa) wrote [*Livres des Merveilles du Monde* (*Books of the Wonders of the World*)](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo)
 - 1301 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
-- 1315-1329 CE: [Abu'l-Fida](https://en.wikipedia.org/wiki/Abu%27l-Fida) wrote [*Tarikhu 'al-Mukhtasar fi Akhbar al-Bashar* (*The Concise History of Humanity or Chronicles*)](https://en.wikipedia.org/wiki/Concise_History_of_Humanity), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
+- 1329 CE: [Abulfeda](https://en.wikipedia.org/wiki/Abulfeda) wrote *Tarikh al-Mukhtasar fi Akhbar al-Bashar* (*Concise History of Humanity*), a [universal history](https://en.wikipedia.org/wiki/Universal_history)
 - 1345 CE: [Tommaso del Garbo](https://en.wikipedia.org/wiki/Tommaso_del_Garbo) mentioned Galen's "seeds of plague" in his work *Commentaria non-parum utilia in libros Galeni* (*Helpful commentaries on the books of Galen*)
 - 1354 CE: [Ibn Battuta](https://en.wikipedia.org/wiki/Ibn_Battuta) & [Ibn Juzayy](https://en.wikipedia.org/wiki/Ibn_Juzayy) wrote *الرحلة* (*Rihla* or *The Travels*), describing the [medieval](https://en.wikipedia.org/wiki/Middle_Ages) [Islamic world](https://en.wikipedia.org/wiki/Muslim_world)
 - 1369 CE: Ibn Khatima & [Ibn al-Khatib](https://en.wikipedia.org/wiki/Ibn_al-Khatib) hypothesized that "minute bodies" cause infectious diseases, and described how garments, vessels, and earrings can transmit them
@@ -2617,8 +2617,6 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
   - [Timelines of modern history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)
 
 ### More History
-
-#### [History of the world](https://en.wikipedia.org/wiki/History_of_the_world)
 
 - [History of globalization](https://en.wikipedia.org/wiki/History_of_globalization)
 - [History of human sexuality](https://en.wikipedia.org/wiki/History_of_human_sexuality)
