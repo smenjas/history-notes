@@ -528,6 +528,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 5500 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 6 m below present
 - 5400 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Eridu](https://en.wikipedia.org/wiki/Eridu)
 - 5202 BCE: People made [ceramics](https://en.wikipedia.org/wiki/Ceramic), [flutes](https://en.wikipedia.org/wiki/Flute), and [inscribed markings](https://en.wikipedia.org/wiki/Dispilio_Tablet) near [Dispilio](https://en.wikipedia.org/wiki/Dispilio), Greece
+- 5100 BCE: The [Hekla volcano erupted](https://en.wikipedia.org/wiki/Hekla) in what is now Iceland, with a [volcanic explosivity index (VEI)](https://en.wikipedia.org/wiki/Volcanic_explosivity_index) of 5
 - 5000 BCE: [Lake Megachad](https://en.wikipedia.org/wiki/Lake_Chad#History) reached its greatest extent of over 400,000 square km and 173 m deep sometime before this
 
 ### Copper Tools
@@ -546,6 +547,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 4000 BCE: People in [Africa](https://en.wikipedia.org/wiki/Africa), [Asia](https://en.wikipedia.org/wiki/Asia), & [Europe](https://en.wikipedia.org/wiki/Europe) domesticated the [honey bee](https://en.wikipedia.org/wiki/Honey_bee)
 - 4000 BCE: People in [Arabia](https://en.wikipedia.org/wiki/Arabian_Peninsula) domesticated the [dromedary camel](https://en.wikipedia.org/wiki/Dromedary_camel)
 - 4000-3000 BCE: The [African humid period](https://en.wikipedia.org/wiki/African_humid_period) ended in North Africa, recreating the [Sahara](https://en.wikipedia.org/wiki/Sahara) as it was about 13,000 years ago
+- 3900 BCE: The [Hekla volcano erupted](https://en.wikipedia.org/wiki/Hekla) in what is now Iceland, with a [volcanic explosivity index (VEI)](https://en.wikipedia.org/wiki/Volcanic_explosivity_index) of 5
 - 3900-3500 BCE: Human populations rapidly increased with the spread of agriculture, pottery, the wheel, and animal husbandry, see the [Neolithic decline](https://en.wikipedia.org/wiki/Neolithic_decline)
 - 3800 BCE: [Sumerians](https://en.wikipedia.org/wiki/Sumer) founded the city of [Ur](https://en.wikipedia.org/wiki/Ur)
 - 3500 BCE: People in the [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) and [Indus Valley Civilization](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) used a heavy stone as a [flywheel](https://en.wikipedia.org/wiki/Flywheel) for the fast [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel)
@@ -576,6 +578,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2580-2510 BCE: The [Fourth Dynasty of Egypt](https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt) constructed the [Giza pyramid complex](https://en.wikipedia.org/wiki/Giza_pyramid_complex)
 - 2500 BCE: People in [Egypt](https://en.wikipedia.org/wiki/Egypt) [fried food](https://en.wikipedia.org/wiki/Frying)
 - 2500 BCE: The [*Instructions of Shuruppak*](https://en.wikipedia.org/wiki/Instructions_of_Shuruppak), an example of [Sumerian](https://en.wikipedia.org/wiki/Sumer) [wisdom literature](https://en.wikipedia.org/wiki/Wisdom_literature), existed by this time
+- 2375 BCE: The [Hekla volcano erupted](https://en.wikipedia.org/wiki/Hekla) in what is now Iceland, with a [volcanic explosivity index (VEI)](https://en.wikipedia.org/wiki/Volcanic_explosivity_index) of 5
 - 2300 BCE: [Urukagina](https://en.wikipedia.org/wiki/Urukagina) enacted the first known government reforms, to combat corruption
 - 2200 BCE: A major drought, the [4.2-kiloyear event](https://en.wikipedia.org/wiki/4.2-kiloyear_event), may have contributed to the collapse of civilizations across Asia & Africa
 - 2200 BCE: The [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) founded the city of [Lothal](https://en.wikipedia.org/wiki/Lothal) on an ancient course of the [Sabarmati River](https://en.wikipedia.org/wiki/Sabarmati_River) where it met the [Arabian Sea](https://en.wikipedia.org/wiki/Arabian_Sea)
@@ -604,6 +607,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1300 BCE: [Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) made [concrete](https://en.wikipedia.org/wiki/Concrete) floors in the royal palace of [Tiryns](https://en.wikipedia.org/wiki/Tiryns) on the [Peloponnese peninsula](https://en.wikipedia.org/wiki/Peloponnese)
 - 1200 BCE: People at [Yinxu](https://en.wikipedia.org/wiki/Yinxu) in what is now China carved [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script)
 - 1200-1150 BCE: The [Late Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) occurred, with invading [Sea Peoples](https://en.wikipedia.org/wiki/Sea_Peoples) introducing iron in large quantities to the eastern Mediterranean
+- 1159-1141 BCE: Tree rings show reduced plant growth throughout the Northern Hemisphere, possibly due to the [Hekla 3 eruption (H-3)](https://en.wikipedia.org/wiki/Hekla_3_eruption) in what is now Iceland, with a [volcanic explosivity index (VEI)](https://en.wikipedia.org/wiki/Volcanic_explosivity_index) of 5
 - 1050 BCE: [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) wrote using the [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet), descended from Linear B
 - 1000 BCE: [Sea level](https://en.wikipedia.org/wiki/Past_sea_level) was 1 m below present
 - 1000 BCE: The [human population of Earth](https://en.wikipedia.org/wiki/Estimates_of_historical_world_population) exceeded fifty million people
@@ -819,6 +823,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 ### Compass, Movable Type
 
 - 1088 CE: [Shen Kuo](https://en.wikipedia.org/wiki/Shen_Kuo) wrote the [Dream Pool Essays](https://en.wikipedia.org/wiki/Dream_Pool_Essays), describing the [magnetic compass](https://en.wikipedia.org/wiki/Compass) and its use in navigation, [Bi Sheng](https://en.wikipedia.org/wiki/Bi_Sheng)'s invention of [movable type](https://en.wikipedia.org/wiki/Movable_type), and many other topics in science and technology
+- 1104 CE: The [Hekla volcano erupted](https://en.wikipedia.org/wiki/Hekla) in what is now Iceland, with a [volcanic explosivity index (VEI)](https://en.wikipedia.org/wiki/Volcanic_explosivity_index) of 5
 - 1125 CE: [Theophilus Presbyter](https://en.wikipedia.org/wiki/Theophilus_Presbyter) wrote *De diversis artibus* (*On various arts*), on [illumination](https://en.wikipedia.org/wiki/Illuminated_manuscript) and [oil painting](https://en.wikipedia.org/wiki/Oil_painting), [stained glass](https://en.wikipedia.org/wiki/Stained_glass), [metalworking](https://en.wikipedia.org/wiki/Metalworking), and the use of [flywheels](https://en.wikipedia.org/wiki/Flywheel)
 - 1145 CE: [Halley's Comet](https://en.wikipedia.org/wiki/Halley%27s_Comet) passed near the Earth
 - 1150 CE: [Medieval universities](https://en.wikipedia.org/wiki/Medieval_university) developed [Blackletter, a.k.a. Gothic script](https://en.wikipedia.org/wiki/Blackletter) from [Carolingian minuscule](https://en.wikipedia.org/wiki/Carolingian_minuscule), which was faster for scribes to write and took up less space on the page, though less legible
