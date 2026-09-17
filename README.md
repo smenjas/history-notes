@@ -1191,6 +1191,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1798 CE: [Priscilla Wakefield](https://en.wikipedia.org/wiki/Priscilla_Wakefield) published *Reflection on the Present Condition of the Female Sex; with Suggestions for its Improvement*, promoting [feminist economics](https://en.wikipedia.org/wiki/Feminist_economics)
 - 1798 CE: [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) published [*Experiments to Determine the Density of Earth*](https://royalsocietypublishing.org/doi/10.1098/rstl.1798.0022), describing the [Cavendish experiment](https://en.wikipedia.org/wiki/Cavendish_experiment) to measure the force of gravity, using a [torsion balance](https://en.wikipedia.org/wiki/Torsion_spring#Torsion_balance) invented by [John Michell](https://en.wikipedia.org/wiki/John_Michell), and measuring the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) to within 2% of its modern value
 - 1798 CE: [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) published volumes 1 & 2 of [*Traité de mécanique céleste* (*Treatise of celestial mechanics*)](https://en.wikipedia.org/wiki/Trait%C3%A9_de_m%C3%A9canique_c%C3%A9leste)
+- 1799 CE: [David Bushnell](https://en.wikipedia.org/wiki/David_Bushnell_%28inventor%29) published *General Principles and Construction of a Sub-Marine Vessel*, describing his invention of [the first submarine, propeller, and time bomb](https://en.wikipedia.org/wiki/Turtle_%28submersible%29)
 
 ## 1800s
 
