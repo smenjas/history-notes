@@ -1136,6 +1136,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 1773 CE: [Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) published *Mémoire sur l'utilité de la méthode* (*Dissertation on the usefulness of the method*), exploring [probability density functions](https://en.wikipedia.org/wiki/Probability_density_function)
 - 1773 CE: [Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) published *Sur l'attraction des sphéroïdes elliptiques* (*On the attraction of elliptical spheroids*), describing [Gauss's law of electromagnetism](https://en.wikipedia.org/wiki/Gauss%27s_law)
 - 1774 CE: [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) published *Mémoire sur la probabilité des causes par les événements* (*Memoir on the probability of causes by events*)
+- 1774 CE: [Joseph Priestley](https://en.wikipedia.org/wiki/Joseph_Priestley) published *Experiments and Observations on Different Kinds of Air*, showing that plants produce (what we now know to be) oxygen
 
 ### Flush Toilet
 
