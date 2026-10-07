@@ -2695,6 +2695,8 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - [Geological history of Earth](https://en.wikipedia.org/wiki/Geological_history_of_Earth)
 - [Evolutionary history of life](https://en.wikipedia.org/wiki/Evolutionary_history_of_life)
   - [Evolutionary history of plants](https://en.wikipedia.org/wiki/Evolutionary_history_of_plants)
+  - [Evolution of mammals](https://en.wikipedia.org/wiki/Evolution_of_mammals)
+  - [Evolution of primates](https://en.wikipedia.org/wiki/Evolution_of_primates)
 - [Prehistory](https://en.wikipedia.org/wiki/Prehistory)
   - [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution)
 - [Protohistory](https://en.wikipedia.org/wiki/Protohistory)
