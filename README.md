@@ -2379,6 +2379,7 @@ years](img/All_palaeotemps.svg)](https://commons.wikimedia.org/wiki/File:All_pal
 - 2017 CE: [David Silver](https://en.wikipedia.org/wiki/David_Silver_%28computer_scientist%29) et al. published *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*, describing [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
 - 2018 CE: Monthly average CO₂ exceeded 410 ppm
 - 2019 CE: The [European Space Agency (ESA)](https://en.wikipedia.org/wiki/European_Space_Agency) published [Gaia DR2](https://en.wikipedia.org/wiki/Gaia_%28spacecraft%29#Data_releases), the second data release from the Gaia space observatory, on 1.3 billion space objects
+- 2019 CE: [Alec Radford](https://en.wikipedia.org/wiki/Alec_Radford), Jeffrey Wu, Rewon Child, [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei), and [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever) published *Language Models are Unsupervised Multitask Learners*, describing [Generative Pre-trained Transformer 2 (GPT-2)](https://en.wikipedia.org/wiki/GPT-2)
 
 ### 2020s
 
